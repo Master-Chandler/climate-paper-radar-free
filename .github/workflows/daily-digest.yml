@@ -1,0 +1,35 @@
+name: Daily paper digest
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch and rank papers
+        env:
+          OPENALEX_EMAIL: ${{ secrets.OPENALEX_EMAIL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO_EMAIL: ${{ secrets.DIGEST_TO_EMAIL }}
+        run: node scripts/daily.mjs
+      - name: Publish updated recommendations
+        run: |
+          git config user.name "paper-radar-bot"
+          git config user.email "paper-radar-bot@users.noreply.github.com"
+          git add data/recommendations.json
+          git diff --cached --quiet || git commit -m "chore: update daily recommendations"
+          git push

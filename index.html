@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="为 Yuheng Tang 定制的免费气候科学论文推荐平台">
+  <title>Climate Paper Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>Paper Radar</span>
+      </a>
+      <nav aria-label="主导航">
+        <button class="nav-item active" data-view="all"><span>⌁</span> 今日推荐</button>
+        <button class="nav-item" data-view="saved"><span>♡</span> 我的收藏 <b id="savedCount">0</b></button>
+        <button class="nav-item" data-view="settings"><span>⚙</span> 推送设置</button>
+      </nav>
+      <div class="side-label">研究雷达</div>
+      <div id="sideTopics" class="side-topics"></div>
+      <div class="profile-mini">
+        <div class="avatar">YT</div>
+        <div><strong>Yuheng Tang</strong><small>NUIST · 气候动力学</small></div>
+        <a href="https://scholar.google.com/citations?user=_9QylpgAAAAJ&hl=zh-CN" target="_blank" rel="noreferrer" aria-label="Google Scholar 主页">↗</a>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <button class="mobile-menu" id="menuButton" aria-label="打开菜单">☰</button>
+        <div class="search">
+          <span>⌕</span>
+          <input id="searchInput" type="search" placeholder="搜索标题、作者、期刊或摘要…" autocomplete="off">
+          <kbd>⌘ K</kbd>
+        </div>
+        <div class="date-chip"><i></i><span id="updateTime">更新中</span></div>
+      </header>
+
+      <section class="hero">
+        <div>
+          <p class="eyebrow">PERSONAL RESEARCH INTELLIGENCE</p>
+          <h1>早上好，Yuheng <span>✦</span></h1>
+          <p>为你免费筛选值得读的气候科学新论文，保留作者英文摘要与原文入口。</p>
+        </div>
+        <div class="radar-card" aria-hidden="true">
+          <div class="radar"><i></i><b></b><span></span></div>
+          <div><strong id="heroCount">0</strong><small>篇高相关论文</small></div>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="今日概览">
+        <article><span class="metric-icon coral">↗</span><div><small>今日新增</small><strong id="todayCount">0</strong></div><em>实时检索</em></article>
+        <article><span class="metric-icon blue">◎</span><div><small>平均相关度</small><strong id="averageScore">0%</strong></div><em>个性化排序</em></article>
+        <article><span class="metric-icon violet">EN</span><div><small>英文原摘要</small><strong id="summaryCount">0</strong></div><em>来自 OpenAlex</em></article>
+      </section>
+
+      <section id="feedView">
+        <div class="section-heading">
+          <div><h2>今日论文</h2><p id="resultCaption">按与你研究方向的相关度排序</p></div>
+          <div class="filters" id="filters"></div>
+        </div>
+        <div id="paperGrid" class="paper-grid" aria-live="polite"></div>
+        <div id="emptyState" class="empty-state" hidden>
+          <span>⌕</span><h3>没有找到匹配论文</h3><p>换一个关键词或研究方向试试。</p>
+        </div>
+      </section>
+
+      <section id="settingsView" class="settings-panel" hidden>
+        <p class="eyebrow">DAILY DELIVERY</p>
+        <h2>每天 08:30，把新论文送到邮箱</h2>
+        <p>自动任务会检索最近 10 天的新论文、去重并计算相关度，仅推送评分达到阈值的内容。全流程不调用付费 AI；邮箱授权码只保存在 GitHub Secrets 中。</p>
+        <div class="pipeline">
+          <div><b>01</b><strong>OpenAlex 检索</strong><small>免费 · 无需 API Key</small></div>
+          <span>→</span>
+          <div><b>02</b><strong>相关性排序</strong><small>关键词 × 新近度 × 质量</small></div>
+          <span>→</span>
+          <div><b>03</b><strong>免费邮件推送</strong><small>使用现有邮箱 SMTP</small></div>
+        </div>
+        <div class="setup-note">
+          <strong>启用推送需要 5 个仓库 Secrets</strong>
+          <code>SMTP_HOST</code><code>SMTP_PORT</code><code>SMTP_USER</code><code>SMTP_PASS</code><code>DIGEST_TO_EMAIL</code>
+          <p>QQ、163 或 Gmail 均可免费使用。完整步骤见 README；不配置邮箱时，网站仍会每天自动更新。</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="paperTemplate">
+    <article class="paper-card">
+      <div class="card-top">
+        <span class="topic-pill"></span>
+        <button class="save-button" aria-label="收藏论文">♡</button>
+      </div>
+      <h3 class="paper-title"></h3>
+      <div class="paper-meta"></div>
+      <div class="score-row"><span>与你的研究相关度</span><div><i></i></div><strong></strong></div>
+      <p class="summary"></p>
+      <details>
+        <summary>查看推荐依据 <span>＋</span></summary>
+        <div class="notes">
+          <p><b>命中关键词</b><span class="method"></span></p>
+          <p><b>推荐理由</b><span class="relevance"></span></p>
+          <p><b>摘要说明</b><span class="caveat"></span></p>
+        </div>
+      </details>
+      <div class="card-footer">
+        <span class="authors"></span>
+        <a class="read-link" target="_blank" rel="noreferrer">阅读全文 ↗</a>
+      </div>
+    </article>
+  </template>
+  <script src="./app.js" type="module"></script>
+</body>
+</html>

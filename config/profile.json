@@ -1,0 +1,48 @@
+{
+  "scholarProfile": "https://scholar.google.com/citations?user=_9QylpgAAAAJ&hl=zh-CN",
+  "researcher": {
+    "name": "Yuheng Tang",
+    "affiliation": "Nanjing University of Information Science and Technology"
+  },
+  "lookbackDays": 10,
+  "maxRecommendations": 12,
+  "minimumScore": 48,
+  "topics": [
+    {
+      "id": "ai-climate",
+      "label": "AI × 气候",
+      "query": "machine learning deep learning explainable AI causal discovery atmospheric climate prediction",
+      "weight": 1.25,
+      "keywords": ["machine learning", "deep learning", "explainable", "shap", "causal", "artificial intelligence", "neural network"]
+    },
+    {
+      "id": "east-asia",
+      "label": "东亚气候",
+      "query": "East Asian monsoon precipitation atmospheric river humid heat climate",
+      "weight": 1.15,
+      "requiredKeywords": ["east asia", "eastern china", "china", "yangtze", "korea", "japan", "western north pacific"],
+      "keywords": ["east asia", "eastern china", "monsoon", "yangtze", "precipitation", "atmospheric river", "humid heat"]
+    },
+    {
+      "id": "tibetan-plateau",
+      "label": "青藏高原",
+      "query": "Tibetan Plateau High Mountain Asia climate thermal forcing monsoon",
+      "weight": 1.15,
+      "keywords": ["tibetan plateau", "high mountain asia", "himalaya", "thermal forcing", "plateau"]
+    },
+    {
+      "id": "polar",
+      "label": "极地气候",
+      "query": "Antarctic climate sea ice Southern Annular Mode polar teleconnection",
+      "weight": 1.1,
+      "keywords": ["antarctic", "sea ice", "southern annular mode", "polar", "greenland", "arctic", "southern ocean"]
+    },
+    {
+      "id": "teleconnection",
+      "label": "气候遥相关",
+      "query": "climate teleconnection Pacific decadal oscillation Tibetan Plateau Antarctic",
+      "weight": 1,
+      "keywords": ["teleconnection", "pacific decadal oscillation", "rossby", "hadley circulation", "cross-hemispheric", "tropical pacific"]
+    }
+  ]
+}

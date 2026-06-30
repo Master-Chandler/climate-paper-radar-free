@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T07:58:15.964Z",
+  "generatedAt": "2026-06-30T08:42:20.529Z",
   "source": "OpenAlex（免费，无需 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7165673019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 81,
       "matchedKeywords": [
         "machine learning",
         "explainable",

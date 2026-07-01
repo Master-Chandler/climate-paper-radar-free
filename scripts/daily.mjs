@@ -17,27 +17,48 @@ from.setUTCDate(from.getUTCDate() - profile.lookbackDays);
 const fromDate = from.toISOString().slice(0, 10);
 const toDate = now.toISOString().slice(0, 10);
 
-const results = (await Promise.all(profile.topics.map(fetchTopic))).flat();
-const papers = dedupe(results)
-  .map(scorePaper)
-  .filter(paper => paper.score >= profile.minimumScore && paper.abstractEn)
-  .sort((a, b) => b.score - a.score)
-  .slice(0, profile.maxRecommendations);
+const results = [];
+const failedTopicIds = new Set();
 
-const previousIds = new Set(previous.papers.map(paper => paper.id));
-const output = {
-  generatedAt: now.toISOString(),
-  source: "OpenAlex（免费，无需 API Key）",
-  profile: previous.profile,
-  papers
-};
-await writeFile(dataUrl, `${JSON.stringify(output, null, 2)}\n`);
-
-const newPapers = papers.filter(paper => !previousIds.has(paper.id));
-if (newPapers.length && smtpConfigured()) {
-  await sendDigest(newPapers);
+for (const [index, topic] of profile.topics.entries()) {
+  try {
+    results.push(...await fetchTopic(topic));
+    console.log(`OpenAlex topic complete: ${topic.label}`);
+  } catch (error) {
+    failedTopicIds.add(topic.id);
+    console.warn(`OpenAlex topic skipped after retries: ${topic.label} — ${error.message}`);
+  }
+  if (index < profile.topics.length - 1) await sleep(1200);
 }
-console.log(`Updated ${papers.length} recommendations; ${newPapers.length} new.`);
+
+if (results.length === 0) {
+  console.warn("OpenAlex is temporarily unavailable. Keeping the previous recommendations unchanged.");
+} else {
+  const rankedPapers = dedupe(results)
+    .map(scorePaper)
+    .filter(paper => paper.score >= profile.minimumScore && paper.abstractEn);
+  const retainedPapers = previous.papers.filter(paper => failedTopicIds.has(paper.topic));
+  const papers = dedupePapers([...rankedPapers, ...retainedPapers])
+    .sort((a, b) => b.score - a.score)
+    .slice(0, profile.maxRecommendations);
+
+  const previousIds = new Set(previous.papers.map(paper => paper.id));
+  const output = {
+    generatedAt: now.toISOString(),
+    source: "OpenAlex（免费 API Key）",
+    profile: previous.profile,
+    papers
+  };
+  await writeFile(dataUrl, `${JSON.stringify(output, null, 2)}\n`);
+
+  const newPapers = papers.filter(paper => !previousIds.has(paper.id));
+  if (newPapers.length && smtpConfigured()) {
+    await sendDigest(newPapers);
+  }
+  console.log(
+    `Updated ${papers.length} recommendations; ${newPapers.length} new; ${failedTopicIds.size} topic(s) retained.`
+  );
+}
 
 async function fetchTopic(topic) {
   const params = new URLSearchParams({
@@ -48,12 +69,52 @@ async function fetchTopic(topic) {
     select: "id,doi,title,display_name,publication_date,authorships,primary_location,abstract_inverted_index,cited_by_count,type"
   });
   if (process.env.OPENALEX_EMAIL) params.set("mailto", process.env.OPENALEX_EMAIL);
-  const response = await fetch(`https://api.openalex.org/works?${params}`, {
-    headers: { "user-agent": `ClimatePaperRadar/2.0 (${process.env.OPENALEX_EMAIL || "no-email"})` }
-  });
-  if (!response.ok) throw new Error(`OpenAlex ${response.status}: ${await response.text()}`);
-  const body = await response.json();
+  if (process.env.OPENALEX_API_KEY) params.set("api_key", process.env.OPENALEX_API_KEY);
+  const body = await fetchOpenAlexWithRetry(`https://api.openalex.org/works?${params}`, topic.label);
   return body.results.map(work => ({ work, matchedTopic: topic }));
+}
+
+async function fetchOpenAlexWithRetry(url, topicLabel, maxAttempts = 3) {
+  let lastError;
+  for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        headers: { "user-agent": `ClimatePaperRadar/2.1 (${process.env.OPENALEX_EMAIL || "no-email"})` },
+        signal: AbortSignal.timeout(30_000)
+      });
+      if (response.ok) return await response.json();
+
+      const body = await response.text();
+      const retryable = [403, 408, 425, 429, 500, 502, 503, 504].includes(response.status);
+      lastError = new Error(`OpenAlex ${response.status}: ${body.slice(0, 300)}`);
+      if (!retryable || attempt === maxAttempts - 1) throw lastError;
+
+      const waitMs = retryDelay(response.headers.get("retry-after"), attempt);
+      console.warn(
+        `OpenAlex ${response.status} for ${topicLabel}; retry ${attempt + 2}/${maxAttempts} in ${Math.ceil(waitMs / 1000)}s.`
+      );
+      await sleep(waitMs);
+    } catch (error) {
+      lastError = error;
+      if (attempt === maxAttempts - 1) throw lastError;
+      const waitMs = 3000 * (2 ** attempt);
+      console.warn(
+        `OpenAlex request error for ${topicLabel}; retry ${attempt + 2}/${maxAttempts} in ${Math.ceil(waitMs / 1000)}s.`
+      );
+      await sleep(waitMs);
+    }
+  }
+  throw lastError;
+}
+
+function retryDelay(retryAfter, attempt) {
+  const seconds = Number(retryAfter);
+  if (Number.isFinite(seconds) && seconds > 0) return Math.min(seconds * 1000, 30_000);
+  return Math.min(3000 * (3 ** attempt) + Math.floor(Math.random() * 1000), 30_000);
+}
+
+function sleep(milliseconds) {
+  return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
 
 function dedupe(items) {
@@ -64,6 +125,10 @@ function dedupe(items) {
     if (!current || item.matchedTopic.weight > current.matchedTopic.weight) map.set(id, item);
   }
   return [...map.values()];
+}
+
+function dedupePapers(papers) {
+  return [...new Map(papers.map(paper => [paper.id, paper])).values()];
 }
 
 function scorePaper({ work, matchedTopic }) {

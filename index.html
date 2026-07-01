@@ -76,16 +76,16 @@
         <h2>每天 08:30，把新论文送到邮箱</h2>
         <p>自动任务会检索最近 10 天的新论文、去重并计算相关度，仅推送评分达到阈值的内容。全流程不调用付费 AI；邮箱授权码只保存在 GitHub Secrets 中。</p>
         <div class="pipeline">
-          <div><b>01</b><strong>OpenAlex 检索</strong><small>免费 · 无需 API Key</small></div>
+          <div><b>01</b><strong>OpenAlex 检索</strong><small>使用免费 API Key</small></div>
           <span>→</span>
           <div><b>02</b><strong>相关性排序</strong><small>关键词 × 新近度 × 质量</small></div>
           <span>→</span>
           <div><b>03</b><strong>免费邮件推送</strong><small>使用现有邮箱 SMTP</small></div>
         </div>
         <div class="setup-note">
-          <strong>启用推送需要 5 个仓库 Secrets</strong>
-          <code>SMTP_HOST</code><code>SMTP_PORT</code><code>SMTP_USER</code><code>SMTP_PASS</code><code>DIGEST_TO_EMAIL</code>
-          <p>QQ、163 或 Gmail 均可免费使用。完整步骤见 README；不配置邮箱时，网站仍会每天自动更新。</p>
+          <strong>稳定运行需要 OpenAlex 免费 Key；邮件另需 5 个 Secrets</strong>
+          <code>OPENALEX_API_KEY</code><code>SMTP_HOST</code><code>SMTP_PORT</code><code>SMTP_USER</code><code>SMTP_PASS</code><code>DIGEST_TO_EMAIL</code>
+          <p>OpenAlex Key、QQ、163 或 Gmail SMTP 均可免费使用。完整步骤见 README。</p>
         </div>
       </section>
     </main>

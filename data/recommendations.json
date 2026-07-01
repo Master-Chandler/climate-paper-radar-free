@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30T08:42:20.529Z",
-  "source": "OpenAlex（免费，无需 API Key）",
+  "generatedAt": "2026-07-01T05:23:36.250Z",
+  "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
     "focus": [
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7165673019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7165951821",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -80,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7165554644",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "eastern china",
         "atmospheric river",
@@ -104,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7165540615",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "deep learning",
         "causal"
@@ -113,32 +113,28 @@
       "abstractEn": "Reliable and accurate farm-level forecasting of greenhouse gas concentrations from dairy cattle is important to the formulation of climate change mitigation strategies and policy planning in livestock systems. This study proposed an uncertainty-aware deep learning model that integrated data from multiple sources, including remote sensing and ground-based sensors, to forecast hourly concentrations of nitrous oxide, methane, and carbon dioxide in a controlled zero-grazing dairy system. The forecasting was implemented by formulating a causal multivariate time series using a 24-h lookback window with direct one-step-ahead prediction. A two-stage model evaluation protocol, model hyperparameter tuning via rolling cross-validation, and holdout Test Evaluation were implemented during model development. The model was evaluated using the coefficient of determination, root-mean-square error, and mean squared error. To evaluate model reliability, the study employed a dual-output gated recurrent unit to estimate the conditional mean and heteroscedastic variance, and Monte Carlo dropout and Gaussian Negative Log-Likelihood to quantify epistemic and aleatoric uncertainty. Results indicate stable generalisation across temporal folds and strong probabilistic calibration, with empirical 95% coverage ranging from 93.6 to 94.8% on the holdout test set. Feature selection indicates that rainfall, normalised difference vegetation index, humidity, temperature, trend, and season influence the prediction of concentration. The study shows that incorporating exogenous variables improves model performance. The proposed framework demonstrates proof of concept for controlled zero-grazing systems, with potential for broader application following multi-site validation."
     },
     {
-      "id": "W7165454622",
-      "title": "Emergence of Subsurface Warming in the Southern Ocean Gateway Between New Zealand and Antarctica",
+      "id": "W7166461924",
+      "title": "Spatiotemporal Dynamics and Climatic Attribution of Natural Lake Extremes Across China’s Major Urban Agglomerations (2001–2023)",
       "authors": [
-        "Antonino Ian Ferola",
-        "Yuri Cotroneo",
-        "Pasquale Castagno",
-        "Giannetta Fusco",
-        "P. Falco",
-        "Giorgio Budillon",
-        "Enrico Zambianchi",
-        "Giuseppe Aulicino"
+        "Zhuan Hao",
+        "D Wang",
+        "Fengwei Xu",
+        "Xiaohui Sun",
+        "Li Tang"
       ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-06-20",
-      "doi": "https://doi.org/10.1029/2025gl121465",
-      "openAlexUrl": "https://openalex.org/W7165454622",
-      "topic": "polar",
-      "topicLabel": "极地气候",
+      "journal": "Water",
+      "publicationDate": "2026-06-26",
+      "doi": "https://doi.org/10.3390/w18131569",
+      "openAlexUrl": "https://openalex.org/W7166461924",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
       "score": 64,
       "matchedKeywords": [
-        "antarctic",
-        "polar",
-        "southern ocean"
+        "yangtze",
+        "precipitation"
       ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、polar、southern ocean、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract We analyze temperature variability in the surface and intermediate layers of the Southern Ocean from 1994 to 2025 using a 30‐year summertime record of Expendable Bathythermograph (XBT) measurements collected along the PX36 line across the New Zealand–Antarctica chokepoint of the Antarctic Circumpolar Current (ACC). Significant subsurface warming emerges along the northern flank of the current, while waters south of the Polar Front exhibit no long‐term trend. Within the main water masses of the region, Subantarctic Mode Water and Antarctic Intermediate Water warm by ∼0.22 and ∼0.16°C decade −1 respectively, driven largely by strong temperature increase during the last decade. These results reveal this chokepoint as a hotspot of Antarctic Intermediate Water variability and suggest warming in its upstream source regions, underscoring the need for sustained, high‐resolution monitoring of this key sector of the Southern Ocean."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Natural lakes in urbanizing regions face compounding climatic and anthropogenic pressures. Despite their socio-ecological importance, the dual vulnerability of these urban lakes to both long-term areal shrinkage and the shifting frequencies of extreme water events remains a critical research gap, often overlooked in favor of large, remote lake systems. We investigated surface area dynamics, extreme events, and climatic attribution of 7320 natural lakes across China’s five major urban agglomerations (Jing-Jin-Ji, Yangtze River Delta, Greater Bay Area, Chengdu-Chongqing, and Middle Yangtze) from 2001 to 2023. Using a satellite area product, we assessed long-term trends via Seasonal-Trend decomposition by Loess (STL). Regional climate shifts were detected via multi-scale Standardized Precipitation–Evapotranspiration Index (SPEI) breakpoint analysis, and climate attribution was performed by correlating detrended lake areas with SPEI. Results show 59.4% of lakes exhibit significant trends, with shrinkage (50%) vastly outpacing expansion (9.4%), most severely in Jing-Jin-Ji (−0.28%/year). Despite all agglomerations transitioning toward wetter conditions (2008–2013), extreme event responses diverged markedly regionally. Climate-driven lakes (14.5%) displayed stronger shrinkage and greater sensitivity to extremes than lakes with low climate sensitivity, particularly in Jing-Jin-Ji and Chengdu-Chongqing. These findings reveal pronounced spatial heterogeneity in urban lake vulnerability, providing an evidence base for sensitivity-stratified management strategies."
     }
   ]
 }

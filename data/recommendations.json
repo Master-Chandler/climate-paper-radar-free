@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T04:39:00.763Z",
+  "generatedAt": "2026-07-03T04:25:02.196Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7165673019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7165951821",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -66,51 +66,57 @@
       "abstractEn": "Aquatic ecosystems have changed dramatically, but the relative roles of external forcings and internal atmospheric variability remain unclear. Here, using Tibetan lake ecological reconstructions and Earth system simulations, we reveal how shared external forcings shaped Tibetan Plateau limnoecology over the past millennium through two distinct pathways. In the temperature-centric pathway, cooling episodes driven by volcanic activity and internal variability likely regulated preindustrial lake conditions. This baseline was disrupted as recent forced warming has shortened lake ice-cover and increased meltwater input, altering lake resources and triggering unprecedented diatom shifts. In the freshening-centric pathway, salinity-tolerant diatoms tracked monsoon-driven precipitation changes and lake freshening, both governed by shifts in the intertropical convergence zone. Preindustrial shifts likely reflected hemispherically asymmetric orbital and volcanic forcings, whereas modern changes have been altered remarkably by Northern Hemisphere industrial aerosol fluctuations and warming-induced meltwater. As multifaceted stressors intensify, Tibetan lake ecosystems may continue diverging from their natural variability."
     },
     {
-      "id": "W7165554644",
-      "title": "Humid heat poses a greater threat when concurrent with atmospheric river over Eastern China",
+      "id": "W7166749554",
+      "title": "El Niño meets elevated Tibetan Plateau snow cover: independent and synergistic effects on the winter PM <sub>2.5</sub> dipole pattern in China",
       "authors": [
-        "Wen Huang",
-        "Lun Dai",
-        "Yurong Song",
-        "Mengqian Lu"
+        "Meng Gao",
+        "Yuyang Han",
+        "Siyu Chen",
+        "Xiadong An",
+        "Chen Sheng",
+        "Wansuo Duan",
+        "Xi Chen",
+        "Qinglong You"
       ],
-      "journal": "Environmental Research Letters",
-      "publicationDate": "2026-06-22",
-      "doi": "https://doi.org/10.1088/1748-9326/ae7816",
-      "openAlexUrl": "https://openalex.org/W7165554644",
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-06-30",
+      "doi": "https://doi.org/10.5194/acp-26-9207-2026",
+      "openAlexUrl": "https://openalex.org/W7166749554",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "eastern china",
-        "atmospheric river",
-        "humid heat"
+        "tibetan plateau",
+        "plateau"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、atmospheric river、humid heat、atmospher、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The linkage between atmospheric rivers (ARs) and humid heat (HH) remains a largely unexplored research domain. This study detected 834 humid heat days (HHDs) in eastern China from 1979 to 2018, with above half of the HHDs coinciding with ARs during the boreal summer. Compared to HH not associated with ARs, those related to ARs exhibit a broader impact area and greater severity. The western North Pacific subtropical high (WNPSH)-affected and low pressure system (LPS)-affected HH types are identified to illustrate the mechanisms, and the North rainfall–South HH Dipole exists in both types. The location of WNPSH-affected HH synchronizes with the shift of WNPSH, while the LPS-affected HH is situated near the low-level LPS. Regardless of AR presence, the HH are governed by the 500 hPa geopotential height (Z500) high-pressure system, with solar radiation acting as the dominant driver of amplified surface warming. AR-related HH is further marked by a stronger 500 hPa height anomaly and reduced cloud cover, allowing more solar radiation to reach the surface, while its higher humidity is likely associated with stronger moisture transport and enhanced local evaporation. Recognizing this AR-HH co-occurrence is essential for monitoring, predicting and adapting to the most impactful HH events over eastern China."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、atmospher、circulation、snow，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Snow cover over the Tibetan Plateau (TP) plays a vital role in shaping regional and large-scale atmospheric circulation through snow-albedo feedbacks. However, its influence on fine particulate matter (PM2.5) pollution in China remains unclear. This study reveals that winter PM2.5 variability in China is controlled by both anthropogenic emissions and large-scale atmospheric circulation. Large-scale circulation creates a north-south dipole pattern over eastern China, which is mainly contributed by El Niño and snow cover over the northern TP. Observational data and model simulations confirm that El Niño mainly impacts PM2.5 in southern China by enhancing moisture transport and wet scavenging, while increased snow cover over the northern TP independently promotes accumulation and hygroscopic growth of aerosols in northern China. Moreover, El Niño and TP snow cover interact synergistically, particularly during their positive phases, intensifying circulation anomalies linked to the PM2.5 dipole. These findings emphasize the importance of cryospheric and oceanic variability in influencing winter air quality and offer valuable insights for improving seasonal prediction of air pollution in China."
     },
     {
-      "id": "W7165540615",
-      "title": "Gated recurrent unit model for forecasting greenhouse gas concentrations with uncertainty quantification",
+      "id": "W7166706381",
+      "title": "Dual-Model Assessment of Ecosystem Respiration Using Random Forest and Lloyd–Taylor Models in Two High-Altitude Agricultural River Basins: Spatiotemporal Dynamics",
       "authors": [
-        "Erica Hargety Kimei",
-        "Devotha G. Nyambo",
-        "Neema Mduma",
-        "Shubi Kaijage"
+        "Keding Shen",
+        "Haolin Wang",
+        "Tongde Chen",
+        "Jiarong Hou",
+        "Fengqiuli Zhang",
+        "Xingshuai Mei"
       ],
-      "journal": "Frontiers in Artificial Intelligence",
-      "publicationDate": "2026-06-22",
-      "doi": "https://doi.org/10.3389/frai.2026.1782333",
-      "openAlexUrl": "https://openalex.org/W7165540615",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 66,
+      "journal": "Agriculture",
+      "publicationDate": "2026-06-30",
+      "doi": "https://doi.org/10.3390/agriculture16131429",
+      "openAlexUrl": "https://openalex.org/W7166706381",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 65,
       "matchedKeywords": [
-        "deep learning",
-        "causal"
+        "precipitation",
+        "plateau"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、causal、climate、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Reliable and accurate farm-level forecasting of greenhouse gas concentrations from dairy cattle is important to the formulation of climate change mitigation strategies and policy planning in livestock systems. This study proposed an uncertainty-aware deep learning model that integrated data from multiple sources, including remote sensing and ground-based sensors, to forecast hourly concentrations of nitrous oxide, methane, and carbon dioxide in a controlled zero-grazing dairy system. The forecasting was implemented by formulating a causal multivariate time series using a 24-h lookback window with direct one-step-ahead prediction. A two-stage model evaluation protocol, model hyperparameter tuning via rolling cross-validation, and holdout Test Evaluation were implemented during model development. The model was evaluated using the coefficient of determination, root-mean-square error, and mean squared error. To evaluate model reliability, the study employed a dual-output gated recurrent unit to estimate the conditional mean and heteroscedastic variance, and Monte Carlo dropout and Gaussian Negative Log-Likelihood to quantify epistemic and aleatoric uncertainty. Results indicate stable generalisation across temporal folds and strong probabilistic calibration, with empirical 95% coverage ranging from 93.6 to 94.8% on the holdout test set. Feature selection indicates that rainfall, normalised difference vegetation index, humidity, temperature, trend, and season influence the prediction of concentration. The study shows that incorporating exogenous variables improves model performance. The proposed framework demonstrates proof of concept for controlled zero-grazing systems, with potential for broader application following multi-site validation."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The alpine valley agricultural region is the most intensively human-impacted ecosystem type on the Qinghai–Tibet Plateau, and its ecosystem respiration (RE) plays an important role in regional carbon cycling and climate change responses. However, it remains unclear whether systematic differences exist in the spatiotemporal patterns of RE and its environmental controls across high-altitude agricultural watersheds. Using multi-source remote sensing and reanalysis data from 2000 to 2024, this study focuses on two representative valley agricultural basins on the Qinghai–Tibet Plateau—the Huangshui River Basin (HSH) and the Yijianglianghe River (YJLH). A dual-model framework combining a Random Forest model and a Lloyd–Taylor mechanistic model was developed to examine the spatiotemporal dynamics, driving mechanisms, and temperature sensitivity of RE. The results show that RE increased in both basins over the study period, while their dominant controlling mechanisms differed markedly. Gross primary productivity (GPP) was the most important driver in both basins (23.6% in HSH and 24.5% in YJLH). However, temperature and precipitation contributed more in YJLH (14.5% vs. 9.4%), suggesting that RE in the higher-altitude basin is more strongly constrained by hydrothermal conditions under colder and harsher climates. Spatially, high RE values in the HSH were mainly concentrated in mid- and low-elevation valley farmlands, whereas the YJLH exhibited a clear decrease in RE with increasing elevation, indicating a stronger topographic control. Both basins showed significant spatial clustering of RE (Moran’s I ≈ 0.93), with stronger spatial aggregation in the HSH. Temperature sensitivity (Q10) generally increased with elevation, and the YJLH exhibited markedly higher Q10 values in high-altitude regions, indicating stronger temperature responsiveness under extreme cold conditions. Empirical Q10 values were consistently higher than theoretical estimates, implying that ecosystem respiration is not only directly driven by temperature, but may also be amplified indirectly through enhanced vegetation productivity and increased substrate availability. Overall, this study reveals a clear divergence in RE control mechanisms across valley agricultural systems on the Qinghai–Tibet Plateau: productivity-driven regulation dominates in low-elevation regions, whereas hydrothermal constraints become increasingly important in high-altitude environments, leading to a transition from “productivity control” to “hydrothermal constraint control.” This shift highlights the nonlinear response of alpine agroecosystems to elevation gradients and climate change, providing mechanistic evidence for understanding carbon cycling in high-altitude anthropogenic ecosystems."
     },
     {
       "id": "W7166461924",
@@ -128,7 +134,7 @@
       "openAlexUrl": "https://openalex.org/W7166461924",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "yangtze",
         "precipitation"

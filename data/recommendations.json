@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:38:59.429Z",
+  "generatedAt": "2026-07-06T04:50:32.193Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7166846064",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 81,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -38,35 +38,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、artificial intelligence、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Benzene is a carcinogenic urban volatile organic compound whose variability reflects interactions among emissions, atmospheric chemistry, and meteorology. We quantified relationships between hourly benzene concentrations and O3, CO, SO2, NO2, and more than twenty meteorological predictors using regulatory air-quality observations from the Ksaverska cesta urban background station in Zagreb, Croatia, complemented by NOAA GDAS meteorological data (2017–2023; n = 39,124). Metaheuristically optimized tree-ensemble models were interpreted using iterative Shapley Additive Global Importance (iSAGE), SHapley Additive exPlanations (SHAP), and an environmental settings framework. The novelty of the study lies in integrating global predictor importance, signed local SHAP attributions, and environmental-setting classification to interpret benzene variability within recurring emission–chemistry–meteorology regimes. The best-performing Extra Trees model achieved R2 = 0.87, RMSE = 0.46 µg m−3, and MAE = 0.24 µg m−3. iSAGE identified CO (1.47), O3 (0.55), and near-surface air temperature (0.35) as the leading predictors of modeled benzene concentrations, whereas SO2 (0.18) and NO2 (0.07) had substantially lower global importance. SHAP showed a positive CO-benzene association, with relative contributions shifting from negative to positive at approximately 0.3–0.6 mg m−3; O3 contributions became predominantly negative above 30–40 µg m−3; and temperature contributions shifted from positive below 7 °C to negative across 7–12 °C. Environmental setting analysis associated the strongest benzene accumulation with stable winter conditions and the weakest accumulation with well-ventilated, photochemically active regimes. These site- and model-specific results reveal nonlinear co-pollutant and meteorological influences on urban benzene variability. Theoretically, the study advances the interpretation of urban VOC variability by linking model-based predictor attributions with physically interpretable atmospheric regimes; practically, it supports the identification of conditions favoring benzene accumulation and can inform regime-sensitive air-quality assessment and management."
-    },
-    {
-      "id": "W7165951821",
-      "title": "Forced changes in a Tibetan lake ecosystem over the past millennium",
-      "authors": [
-        "Wengang Kang",
-        "C. Bonfils",
-        "Rui Li",
-        "Patrick Rioual",
-        "Jianbao Liu",
-        "Sten Anslan",
-        "Paula Echeverría‐Galindo",
-        "Anja Schwarz"
-      ],
-      "journal": "Nature Communications",
-      "publicationDate": "2026-06-25",
-      "doi": "https://doi.org/10.1038/s41467-026-74760-z",
-      "openAlexUrl": "https://openalex.org/W7165951821",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 70,
-      "matchedKeywords": [
-        "monsoon",
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Aquatic ecosystems have changed dramatically, but the relative roles of external forcings and internal atmospheric variability remain unclear. Here, using Tibetan lake ecological reconstructions and Earth system simulations, we reveal how shared external forcings shaped Tibetan Plateau limnoecology over the past millennium through two distinct pathways. In the temperature-centric pathway, cooling episodes driven by volcanic activity and internal variability likely regulated preindustrial lake conditions. This baseline was disrupted as recent forced warming has shortened lake ice-cover and increased meltwater input, altering lake resources and triggering unprecedented diatom shifts. In the freshening-centric pathway, salinity-tolerant diatoms tracked monsoon-driven precipitation changes and lake freshening, both governed by shifts in the intertropical convergence zone. Preindustrial shifts likely reflected hemispherically asymmetric orbital and volcanic forcings, whereas modern changes have been altered remarkably by Northern Hemisphere industrial aerosol fluctuations and warming-induced meltwater. As multifaceted stressors intensify, Tibetan lake ecosystems may continue diverging from their natural variability."
     },
     {
       "id": "W7167091287",
@@ -83,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7167091287",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence"
@@ -110,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7166749554",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "eastern china",
         "tibetan plateau",
@@ -136,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7166706381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -160,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7166461924",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "yangtze",
         "precipitation"

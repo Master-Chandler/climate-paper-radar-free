@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:50:32.193Z",
+  "generatedAt": "2026-07-07T04:32:19.937Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7166846064",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7167091287",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence"
@@ -81,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7166749554",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "eastern china",
         "tibetan plateau",
@@ -107,37 +107,13 @@
       "openAlexUrl": "https://openalex.org/W7166706381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "precipitation",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The alpine valley agricultural region is the most intensively human-impacted ecosystem type on the Qinghai–Tibet Plateau, and its ecosystem respiration (RE) plays an important role in regional carbon cycling and climate change responses. However, it remains unclear whether systematic differences exist in the spatiotemporal patterns of RE and its environmental controls across high-altitude agricultural watersheds. Using multi-source remote sensing and reanalysis data from 2000 to 2024, this study focuses on two representative valley agricultural basins on the Qinghai–Tibet Plateau—the Huangshui River Basin (HSH) and the Yijianglianghe River (YJLH). A dual-model framework combining a Random Forest model and a Lloyd–Taylor mechanistic model was developed to examine the spatiotemporal dynamics, driving mechanisms, and temperature sensitivity of RE. The results show that RE increased in both basins over the study period, while their dominant controlling mechanisms differed markedly. Gross primary productivity (GPP) was the most important driver in both basins (23.6% in HSH and 24.5% in YJLH). However, temperature and precipitation contributed more in YJLH (14.5% vs. 9.4%), suggesting that RE in the higher-altitude basin is more strongly constrained by hydrothermal conditions under colder and harsher climates. Spatially, high RE values in the HSH were mainly concentrated in mid- and low-elevation valley farmlands, whereas the YJLH exhibited a clear decrease in RE with increasing elevation, indicating a stronger topographic control. Both basins showed significant spatial clustering of RE (Moran’s I ≈ 0.93), with stronger spatial aggregation in the HSH. Temperature sensitivity (Q10) generally increased with elevation, and the YJLH exhibited markedly higher Q10 values in high-altitude regions, indicating stronger temperature responsiveness under extreme cold conditions. Empirical Q10 values were consistently higher than theoretical estimates, implying that ecosystem respiration is not only directly driven by temperature, but may also be amplified indirectly through enhanced vegetation productivity and increased substrate availability. Overall, this study reveals a clear divergence in RE control mechanisms across valley agricultural systems on the Qinghai–Tibet Plateau: productivity-driven regulation dominates in low-elevation regions, whereas hydrothermal constraints become increasingly important in high-altitude environments, leading to a transition from “productivity control” to “hydrothermal constraint control.” This shift highlights the nonlinear response of alpine agroecosystems to elevation gradients and climate change, providing mechanistic evidence for understanding carbon cycling in high-altitude anthropogenic ecosystems."
-    },
-    {
-      "id": "W7166461924",
-      "title": "Spatiotemporal Dynamics and Climatic Attribution of Natural Lake Extremes Across China’s Major Urban Agglomerations (2001–2023)",
-      "authors": [
-        "Zhuan Hao",
-        "D Wang",
-        "Fengwei Xu",
-        "Xiaohui Sun",
-        "Li Tang"
-      ],
-      "journal": "Water",
-      "publicationDate": "2026-06-26",
-      "doi": "https://doi.org/10.3390/w18131569",
-      "openAlexUrl": "https://openalex.org/W7166461924",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 57,
-      "matchedKeywords": [
-        "yangtze",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Natural lakes in urbanizing regions face compounding climatic and anthropogenic pressures. Despite their socio-ecological importance, the dual vulnerability of these urban lakes to both long-term areal shrinkage and the shifting frequencies of extreme water events remains a critical research gap, often overlooked in favor of large, remote lake systems. We investigated surface area dynamics, extreme events, and climatic attribution of 7320 natural lakes across China’s five major urban agglomerations (Jing-Jin-Ji, Yangtze River Delta, Greater Bay Area, Chengdu-Chongqing, and Middle Yangtze) from 2001 to 2023. Using a satellite area product, we assessed long-term trends via Seasonal-Trend decomposition by Loess (STL). Regional climate shifts were detected via multi-scale Standardized Precipitation–Evapotranspiration Index (SPEI) breakpoint analysis, and climate attribution was performed by correlating detrended lake areas with SPEI. Results show 59.4% of lakes exhibit significant trends, with shrinkage (50%) vastly outpacing expansion (9.4%), most severely in Jing-Jin-Ji (−0.28%/year). Despite all agglomerations transitioning toward wetter conditions (2008–2013), extreme event responses diverged markedly regionally. Climate-driven lakes (14.5%) displayed stronger shrinkage and greater sensitivity to extremes than lakes with low climate sensitivity, particularly in Jing-Jin-Ji and Chengdu-Chongqing. These findings reveal pronounced spatial heterogeneity in urban lake vulnerability, providing an evidence base for sensitivity-stratified management strategies."
     }
   ]
 }

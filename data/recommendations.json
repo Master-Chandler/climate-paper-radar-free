@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:29:31.211Z",
+  "generatedAt": "2026-07-10T04:32:42.508Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7166846064",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7167091287",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence"
@@ -81,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7166749554",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "eastern china",
         "tibetan plateau",
@@ -89,6 +89,27 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、atmospher、circulation、snow，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Snow cover over the Tibetan Plateau (TP) plays a vital role in shaping regional and large-scale atmospheric circulation through snow-albedo feedbacks. However, its influence on fine particulate matter (PM2.5) pollution in China remains unclear. This study reveals that winter PM2.5 variability in China is controlled by both anthropogenic emissions and large-scale atmospheric circulation. Large-scale circulation creates a north-south dipole pattern over eastern China, which is mainly contributed by El Niño and snow cover over the northern TP. Observational data and model simulations confirm that El Niño mainly impacts PM2.5 in southern China by enhancing moisture transport and wet scavenging, while increased snow cover over the northern TP independently promotes accumulation and hygroscopic growth of aerosols in northern China. Moreover, El Niño and TP snow cover interact synergistically, particularly during their positive phases, intensifying circulation anomalies linked to the PM2.5 dipole. These findings emphasize the importance of cryospheric and oceanic variability in influencing winter air quality and offer valuable insights for improving seasonal prediction of air pollution in China."
+    },
+    {
+      "id": "W7167613534",
+      "title": "ECHIDNA: Extreme Climate Historical and Future Indices Data under Numerous Approaches across Major Chinese River Basins Based on CMIP6 Multi-Model Ensemble",
+      "authors": [
+        "Le Xinlong",
+        "Kang Ling",
+        "Chen Hao"
+      ],
+      "journal": "Scientific Data",
+      "publicationDate": "2026-07-07",
+      "doi": "https://doi.org/10.1038/s41597-026-07510-x",
+      "openAlexUrl": "https://openalex.org/W7167613534",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 57,
+      "matchedKeywords": [
+        "yangtze"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate extremes are intensifying under global warming, posing unprecedented challenges to ecosystems, water resources, and human societies. However, high-resolution, basin-specific extreme climate datasets remain scarce, particularly in climatically diverse regions like China. Here, we present ECHIDNA (Extreme Climate Historical and Future Indices Data under Numerous Approaches), a comprehensive database of 33 ETCCDI indices derived from an ensemble of eight CMIP6 Global Climate Models (GCMs), statistically downscaled using seven methods including CDFt, ECDFM, ISIMIP, LS, QDM, QM, and SDM. Covering 1979-2100 under three SSP scenarios (SSP1-2.6, SSP2-4.5, and SSP5-8.5), the dataset focuses on four major river basin regions: the Yangtze River Basin, Yellow River Basin, Hai River Basin, and Southwest River Basins. Evaluation using PCC, NSE, KGE, and RMSE demonstrates significant improvements in capturing temporal variability and extreme event intensity compared to raw model outputs. By incorporating multi-model projections, ECHIDNA enables robust assessments of uncertainty in future climate risks and supports hydrological, agricultural, and infrastructure resilience planning. It is openly available to facilitate climate impact studies, adaptation strategies, and international research collaboration."
     },
     {
       "id": "W7166706381",
@@ -107,7 +128,7 @@
       "openAlexUrl": "https://openalex.org/W7166706381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "precipitation",
         "plateau"

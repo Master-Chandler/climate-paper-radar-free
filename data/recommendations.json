@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:32:42.508Z",
+  "generatedAt": "2026-07-11T03:51:08.278Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7166846064",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7167091287",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence"
@@ -63,32 +63,28 @@
       "abstractEn": "Landslide susceptibility mapping in mountainous transportation corridors requires modelling approaches that capture complex nonlinear relationships and spatial dependencies among geo-environmental factors. This study proposes a hybrid graph-based artificial intelligence framework (GraphSAGE-CatBoost optimized by the Reptile Search Algorithm) for landslide susceptibility assessment along the Karaj-Chalus road, a critical transportation corridor in the central Alborz mountains, northern Iran. The framework explicitly models terrain units as nodes in a spatially structured graph, enabling the capture of topological dependencies that are inherently inaccessible to conventional pixel-based or tabular approaches. A comprehensive database comprising of 409 documented landslides, 409 non-landslide samples, and ten conditioning factors (lithology, distances to faults, roads and rivers, land use/land cover, rainfall, slope, aspect, topographic wetness index, and stream power index) was compiled for model development. To rigorously benchmark the proposed graph-based model against complementary state-of-the-art paradigms, two representative models were selected: (1) a GoogleNet-CNN optimized by Harris Hawks Optimization, representing deep convolutional approaches with multi-scale feature extraction; and (2) an Autoencoder-XGBoost hybrid, representing hybrid deep-ensemble strategies with unsupervised feature compression. Under random split validation (70/30), the GraphSAGE-CatBoost-RSA model achieved superior performance across multiple metrics: AUC-ROC = 0.972 (95% bootstrap CI [0.963-0.981]), AUC-PR = 0.962 ([0.951-0.973]), accuracy = 0.932, precision = 0.915, recall = 0.948, F1 = 0.931, and test error = 0.068, outperforming both benchmarks with non-overlapping confidence intervals. Importantly, spatial cross-validation using three geographically independent sub-regions confirmed that these results are not due to spatial leakage; the model maintained strong generalization (mean AUC-ROC = 0.924, mean accuracy = 0.886, mean F1 = 0.885), with only a 5% reduction from the random-split performance. Geomorphologically, high-susceptibility zones are strongly associated with steep slopes underlain by weak clay-rich lithologies, proximity to road cuts and drainage networks, and north-facing aspects where soil moisture persists. The resulting susceptibility map identifies priority segments for targeted mitigation, including tunnel portals, bridge abutments, and cut-slopes requiring drainage upgrades or stabilization. The proposed framework provides a spatially explicit and rigorously validated modelling approach for landslide susceptibility mapping in mountainous transportation corridors, offering a robust basis for comparing graph-based learning with established deep-learning and hybrid machine-learning alternatives."
     },
     {
-      "id": "W7166749554",
-      "title": "El Niño meets elevated Tibetan Plateau snow cover: independent and synergistic effects on the winter PM <sub>2.5</sub> dipole pattern in China",
+      "id": "W7167738919",
+      "title": "Intensifying Drought Under a Warming–Wetting Climate: Multi-Scale Impacts on Vegetation Phenology and Productivity in Xinjiang, China",
       "authors": [
-        "Meng Gao",
-        "Yuyang Han",
-        "Siyu Chen",
-        "Xiadong An",
-        "Chen Sheng",
-        "Wansuo Duan",
-        "Xi Chen",
-        "Qinglong You"
+        "Tingting Pan",
+        "Yue Wang",
+        "Yaning Chen",
+        "Xueqi Zhang",
+        "Yi-Xiang Wang",
+        "Meiqing Feng"
       ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-06-30",
-      "doi": "https://doi.org/10.5194/acp-26-9207-2026",
-      "openAlexUrl": "https://openalex.org/W7166749554",
+      "journal": "Remote Sensing",
+      "publicationDate": "2026-07-08",
+      "doi": "https://doi.org/10.3390/rs18142285",
+      "openAlexUrl": "https://openalex.org/W7167738919",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
       "score": 60,
       "matchedKeywords": [
-        "eastern china",
-        "tibetan plateau",
-        "plateau"
+        "precipitation"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、atmospher、circulation、snow，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Snow cover over the Tibetan Plateau (TP) plays a vital role in shaping regional and large-scale atmospheric circulation through snow-albedo feedbacks. However, its influence on fine particulate matter (PM2.5) pollution in China remains unclear. This study reveals that winter PM2.5 variability in China is controlled by both anthropogenic emissions and large-scale atmospheric circulation. Large-scale circulation creates a north-south dipole pattern over eastern China, which is mainly contributed by El Niño and snow cover over the northern TP. Observational data and model simulations confirm that El Niño mainly impacts PM2.5 in southern China by enhancing moisture transport and wet scavenging, while increased snow cover over the northern TP independently promotes accumulation and hygroscopic growth of aerosols in northern China. Moreover, El Niño and TP snow cover interact synergistically, particularly during their positive phases, intensifying circulation anomalies linked to the PM2.5 dipole. These findings emphasize the importance of cryospheric and oceanic variability in influencing winter air quality and offer valuable insights for improving seasonal prediction of air pollution in China."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Drought poses a major threat to ecosystem stability in arid regions. In Xinjiang, China, vegetation dynamics are highly sensitive to hydroclimatic variability, yet the evolution of drought and its ecological impacts remain insufficiently quantified. Using meteorological observations from 86 stations (1962–2021), drought dynamics were characterized using the Standardized Precipitation Evapotranspiration Index (SPEI) combined with run theory, while MODIS products (2001–2021) were used to quantify vegetation phenology and productivity. Results indicate that despite a regional warming–wetting trend, more than 97% of Xinjiang exhibits a significant increase in drought frequency and intensity after 1997, with pronounced spatial heterogeneity concentrated in southern Xinjiang. Vegetation phenology shows a significant shift, with spring onset advancing at a rate of −1.9 days decade−1 and growing season length increasing by +3.8 days decade−1. Vegetation productivity derived from MODIS shows strong spatial variability, with GPP and NPP exhibiting consistent increasing trends, particularly in northern Xinjiang. Multi-scale analysis reveals strong scale dependence in drought–vegetation interactions, where short-term drought (SPEI-3 and SPEI-6) exerts the strongest influence on vegetation dynamics, while long-term drought (SPEI-12) primarily controls ecosystem stability and post-drought recovery. Correlation and extreme-event analyses further indicate that seasonal drought and phenological shifts jointly regulate ecosystem productivity by altering water availability and carbon uptake periods. These results highlight a warming–wetting but drought-intensifying regime in Xinjiang and emphasize the dominant role of seasonal drought in regulating vegetation functioning under climate change."
     },
     {
       "id": "W7167613534",
@@ -104,37 +100,12 @@
       "openAlexUrl": "https://openalex.org/W7167613534",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "yangtze"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate extremes are intensifying under global warming, posing unprecedented challenges to ecosystems, water resources, and human societies. However, high-resolution, basin-specific extreme climate datasets remain scarce, particularly in climatically diverse regions like China. Here, we present ECHIDNA (Extreme Climate Historical and Future Indices Data under Numerous Approaches), a comprehensive database of 33 ETCCDI indices derived from an ensemble of eight CMIP6 Global Climate Models (GCMs), statistically downscaled using seven methods including CDFt, ECDFM, ISIMIP, LS, QDM, QM, and SDM. Covering 1979-2100 under three SSP scenarios (SSP1-2.6, SSP2-4.5, and SSP5-8.5), the dataset focuses on four major river basin regions: the Yangtze River Basin, Yellow River Basin, Hai River Basin, and Southwest River Basins. Evaluation using PCC, NSE, KGE, and RMSE demonstrates significant improvements in capturing temporal variability and extreme event intensity compared to raw model outputs. By incorporating multi-model projections, ECHIDNA enables robust assessments of uncertainty in future climate risks and supports hydrological, agricultural, and infrastructure resilience planning. It is openly available to facilitate climate impact studies, adaptation strategies, and international research collaboration."
-    },
-    {
-      "id": "W7166706381",
-      "title": "Dual-Model Assessment of Ecosystem Respiration Using Random Forest and Lloyd–Taylor Models in Two High-Altitude Agricultural River Basins: Spatiotemporal Dynamics",
-      "authors": [
-        "Keding Shen",
-        "Haolin Wang",
-        "Tongde Chen",
-        "Jiarong Hou",
-        "Fengqiuli Zhang",
-        "Xingshuai Mei"
-      ],
-      "journal": "Agriculture",
-      "publicationDate": "2026-06-30",
-      "doi": "https://doi.org/10.3390/agriculture16131429",
-      "openAlexUrl": "https://openalex.org/W7166706381",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 55,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The alpine valley agricultural region is the most intensively human-impacted ecosystem type on the Qinghai–Tibet Plateau, and its ecosystem respiration (RE) plays an important role in regional carbon cycling and climate change responses. However, it remains unclear whether systematic differences exist in the spatiotemporal patterns of RE and its environmental controls across high-altitude agricultural watersheds. Using multi-source remote sensing and reanalysis data from 2000 to 2024, this study focuses on two representative valley agricultural basins on the Qinghai–Tibet Plateau—the Huangshui River Basin (HSH) and the Yijianglianghe River (YJLH). A dual-model framework combining a Random Forest model and a Lloyd–Taylor mechanistic model was developed to examine the spatiotemporal dynamics, driving mechanisms, and temperature sensitivity of RE. The results show that RE increased in both basins over the study period, while their dominant controlling mechanisms differed markedly. Gross primary productivity (GPP) was the most important driver in both basins (23.6% in HSH and 24.5% in YJLH). However, temperature and precipitation contributed more in YJLH (14.5% vs. 9.4%), suggesting that RE in the higher-altitude basin is more strongly constrained by hydrothermal conditions under colder and harsher climates. Spatially, high RE values in the HSH were mainly concentrated in mid- and low-elevation valley farmlands, whereas the YJLH exhibited a clear decrease in RE with increasing elevation, indicating a stronger topographic control. Both basins showed significant spatial clustering of RE (Moran’s I ≈ 0.93), with stronger spatial aggregation in the HSH. Temperature sensitivity (Q10) generally increased with elevation, and the YJLH exhibited markedly higher Q10 values in high-altitude regions, indicating stronger temperature responsiveness under extreme cold conditions. Empirical Q10 values were consistently higher than theoretical estimates, implying that ecosystem respiration is not only directly driven by temperature, but may also be amplified indirectly through enhanced vegetation productivity and increased substrate availability. Overall, this study reveals a clear divergence in RE control mechanisms across valley agricultural systems on the Qinghai–Tibet Plateau: productivity-driven regulation dominates in low-elevation regions, whereas hydrothermal constraints become increasingly important in high-altitude environments, leading to a transition from “productivity control” to “hydrothermal constraint control.” This shift highlights the nonlinear response of alpine agroecosystems to elevation gradients and climate change, providing mechanistic evidence for understanding carbon cycling in high-altitude anthropogenic ecosystems."
     }
   ]
 }

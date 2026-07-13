@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T04:06:09.865Z",
+  "generatedAt": "2026-07-13T04:08:23.909Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -25,7 +25,7 @@
       "openAlexUrl": "https://openalex.org/W7167956707",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 86,
+      "score": 84,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -35,6 +35,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、hydrolog、cryosphere，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Study region The Siling Co Endorheic Basin (SCEB) on the central Tibetan Plateau is a critical terminal closed-flow catchment within the Asian Water Tower. Highly sensitive to hydro-climatic water balances, the basin has undergone rapid, cryosphere-fed lake expansion. This expansion coincides with significant regional warming and wetting. Study focus To clarify alpine lake evolution mechanisms and overcome the black-box limitations and phase lags of traditional models, this study forecasts the monthly total lake area sequence of the SCEB (2000–2021). We developed the CAF(PINN) framework, a physics-informed approach that embeds the water balance principle over a hybrid architecture consisting of a 1D-CNN, an attention mechanism, and a frequency-domain multi-layer perceptron. Additionally, we quantified interrelationships within lacustrine hydrological processes and physical tipping points using PLS-SEM and Transformed Generalized Additive Models (TGAM). New hydrological insights The CAF(PINN) framework achieved a high Nash–Sutcliffe Efficiency of 0.91, outperforming benchmark models while preserving physically consistent behavior. The model identified a distinct hydrological transition in 2013, suggesting a regime shift toward a meltwater-dominated system. Prior to 2013, lake variations were largely associated with precipitation fluctuations while the cryosphere buffered thermal inputs. Post-2013, however, rising temperatures were closely linked to increased glacier melt and permafrost thaw as primary contributors to lake recharge. This transition suggests an intensifying, non-linear coupling between cryospheric change and regional hydrology, highlighting the expanding influence of thermal factors on water cycles within the Asian Water Tower."
+    },
+    {
+      "id": "W7167934619",
+      "title": "Chain Decomposition Reveals Precipitation-Sensitive Patterns of Ecosystem Carbon–Water Coupling in Karst and Non-Karst Landscapes of Southwest China",
+      "authors": [
+        "Yutao He",
+        "Shaodong Qu",
+        "Suihua Liu",
+        "Man Li"
+      ],
+      "journal": "Land",
+      "publicationDate": "2026-07-10",
+      "doi": "https://doi.org/10.3390/land15071243",
+      "openAlexUrl": "https://openalex.org/W7167934619",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 81,
+      "matchedKeywords": [
+        "machine learning",
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、precipitation、hydrolog、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Precipitation use efficiency (PUE) links ecosystem carbon uptake to precipitation input, but endpoint ratios alone cannot show where carbon–water coupling differs along ecohydrological pathways. This limitation is especially relevant in karst landscapes, where thin soils and heterogeneous hydrological pathways can decouple rainfall, soil moisture, evapotranspiration, and plant carbon gain. Here, we developed a PUE chain decomposition framework based on gross primary productivity (GPP), transpiration (T), evapotranspiration (ET), soil moisture (SM), and precipitation (PRE): PUE = GPP/T × T/ET × ET/SM × SM/PRE. In this framework, GPP/T represents carbon fixation per unit transpiration, T/ET the transpiration fraction of evapotranspiration, ET/SM evapotranspiration output relative to soil moisture, and SM/PRE soil moisture status relative to precipitation input. We used multi-source remote-sensing and reanalysis data from 2003 to 2022 to compare karst and non-karst landscapes in Southwest China, applied variance decomposition to quantify the contributions of chain terms and their interactions, and used Stacking ensemble learning with Shapley additive explanations (SHAP) to interpret model-inferred environmental associations. Mean PUE was 1.16 g C m−2 mm−1 in non-karst areas and 1.08 g C m−2 mm−1 in karst areas, and all four chain components differed significantly between landform types. Variance decomposition identified SM/PRE and its interaction terms as the largest contributors to PUE variability, mainly reflecting a precipitation-sensitive diagnostic signal and soil moisture status relative to precipitation input. Machine learning interpretation showed that solar radiation, leaf area index, aridity, and groundwater storage were associated with different chain components; karst areas showed stronger groundwater-storage signals and lower model-inferred response thresholds. These findings indicate that PUE differences in Southwest China arise from multiple linked diagnostic stages rather than from endpoint carbon uptake or precipitation alone. The framework can help locate water-use constraints and support landform-specific ecological restoration and water management."
     },
     {
       "id": "W7167970339",
@@ -51,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7167970339",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -77,35 +101,12 @@
       "openAlexUrl": "https://openalex.org/W7167738919",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Drought poses a major threat to ecosystem stability in arid regions. In Xinjiang, China, vegetation dynamics are highly sensitive to hydroclimatic variability, yet the evolution of drought and its ecological impacts remain insufficiently quantified. Using meteorological observations from 86 stations (1962–2021), drought dynamics were characterized using the Standardized Precipitation Evapotranspiration Index (SPEI) combined with run theory, while MODIS products (2001–2021) were used to quantify vegetation phenology and productivity. Results indicate that despite a regional warming–wetting trend, more than 97% of Xinjiang exhibits a significant increase in drought frequency and intensity after 1997, with pronounced spatial heterogeneity concentrated in southern Xinjiang. Vegetation phenology shows a significant shift, with spring onset advancing at a rate of −1.9 days decade−1 and growing season length increasing by +3.8 days decade−1. Vegetation productivity derived from MODIS shows strong spatial variability, with GPP and NPP exhibiting consistent increasing trends, particularly in northern Xinjiang. Multi-scale analysis reveals strong scale dependence in drought–vegetation interactions, where short-term drought (SPEI-3 and SPEI-6) exerts the strongest influence on vegetation dynamics, while long-term drought (SPEI-12) primarily controls ecosystem stability and post-drought recovery. Correlation and extreme-event analyses further indicate that seasonal drought and phenological shifts jointly regulate ecosystem productivity by altering water availability and carbon uptake periods. These results highlight a warming–wetting but drought-intensifying regime in Xinjiang and emphasize the dominant role of seasonal drought in regulating vegetation functioning under climate change."
-    },
-    {
-      "id": "W7167091287",
-      "title": "Advanced graph-based and deep learning frameworks for landslide susceptibility mapping in mountain transportation corridors",
-      "authors": [
-        "Yousef Bahrami",
-        "Abbas Maghsoudi",
-        "Amin Beiranvand Pour",
-        "Masoud Shirali"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-07-02",
-      "doi": "https://doi.org/10.1038/s41598-026-60285-4",
-      "openAlexUrl": "https://openalex.org/W7167091287",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 58,
-      "matchedKeywords": [
-        "deep learning",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、artificial intelligence、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Landslide susceptibility mapping in mountainous transportation corridors requires modelling approaches that capture complex nonlinear relationships and spatial dependencies among geo-environmental factors. This study proposes a hybrid graph-based artificial intelligence framework (GraphSAGE-CatBoost optimized by the Reptile Search Algorithm) for landslide susceptibility assessment along the Karaj-Chalus road, a critical transportation corridor in the central Alborz mountains, northern Iran. The framework explicitly models terrain units as nodes in a spatially structured graph, enabling the capture of topological dependencies that are inherently inaccessible to conventional pixel-based or tabular approaches. A comprehensive database comprising of 409 documented landslides, 409 non-landslide samples, and ten conditioning factors (lithology, distances to faults, roads and rivers, land use/land cover, rainfall, slope, aspect, topographic wetness index, and stream power index) was compiled for model development. To rigorously benchmark the proposed graph-based model against complementary state-of-the-art paradigms, two representative models were selected: (1) a GoogleNet-CNN optimized by Harris Hawks Optimization, representing deep convolutional approaches with multi-scale feature extraction; and (2) an Autoencoder-XGBoost hybrid, representing hybrid deep-ensemble strategies with unsupervised feature compression. Under random split validation (70/30), the GraphSAGE-CatBoost-RSA model achieved superior performance across multiple metrics: AUC-ROC = 0.972 (95% bootstrap CI [0.963-0.981]), AUC-PR = 0.962 ([0.951-0.973]), accuracy = 0.932, precision = 0.915, recall = 0.948, F1 = 0.931, and test error = 0.068, outperforming both benchmarks with non-overlapping confidence intervals. Importantly, spatial cross-validation using three geographically independent sub-regions confirmed that these results are not due to spatial leakage; the model maintained strong generalization (mean AUC-ROC = 0.924, mean accuracy = 0.886, mean F1 = 0.885), with only a 5% reduction from the random-split performance. Geomorphologically, high-susceptibility zones are strongly associated with steep slopes underlain by weak clay-rich lithologies, proximity to road cuts and drainage networks, and north-facing aspects where soil moisture persists. The resulting susceptibility map identifies priority segments for targeted mitigation, including tunnel portals, bridge abutments, and cut-slopes requiring drainage upgrades or stabilization. The proposed framework provides a spatially explicit and rigorously validated modelling approach for landslide susceptibility mapping in mountainous transportation corridors, offering a robust basis for comparing graph-based learning with established deep-learning and hybrid machine-learning alternatives."
     },
     {
       "id": "W7167613534",
@@ -121,7 +122,7 @@
       "openAlexUrl": "https://openalex.org/W7167613534",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "yangtze"
       ],

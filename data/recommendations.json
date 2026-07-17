@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:46:45.728Z",
+  "generatedAt": "2026-07-17T03:46:06.972Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -25,7 +25,7 @@
       "openAlexUrl": "https://openalex.org/W7167956707",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -51,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7167934619",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7167970339",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -101,33 +101,12 @@
       "openAlexUrl": "https://openalex.org/W7167738919",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Drought poses a major threat to ecosystem stability in arid regions. In Xinjiang, China, vegetation dynamics are highly sensitive to hydroclimatic variability, yet the evolution of drought and its ecological impacts remain insufficiently quantified. Using meteorological observations from 86 stations (1962–2021), drought dynamics were characterized using the Standardized Precipitation Evapotranspiration Index (SPEI) combined with run theory, while MODIS products (2001–2021) were used to quantify vegetation phenology and productivity. Results indicate that despite a regional warming–wetting trend, more than 97% of Xinjiang exhibits a significant increase in drought frequency and intensity after 1997, with pronounced spatial heterogeneity concentrated in southern Xinjiang. Vegetation phenology shows a significant shift, with spring onset advancing at a rate of −1.9 days decade−1 and growing season length increasing by +3.8 days decade−1. Vegetation productivity derived from MODIS shows strong spatial variability, with GPP and NPP exhibiting consistent increasing trends, particularly in northern Xinjiang. Multi-scale analysis reveals strong scale dependence in drought–vegetation interactions, where short-term drought (SPEI-3 and SPEI-6) exerts the strongest influence on vegetation dynamics, while long-term drought (SPEI-12) primarily controls ecosystem stability and post-drought recovery. Correlation and extreme-event analyses further indicate that seasonal drought and phenological shifts jointly regulate ecosystem productivity by altering water availability and carbon uptake periods. These results highlight a warming–wetting but drought-intensifying regime in Xinjiang and emphasize the dominant role of seasonal drought in regulating vegetation functioning under climate change."
-    },
-    {
-      "id": "W7167613534",
-      "title": "ECHIDNA: Extreme Climate Historical and Future Indices Data under Numerous Approaches across Major Chinese River Basins Based on CMIP6 Multi-Model Ensemble",
-      "authors": [
-        "Le Xinlong",
-        "Kang Ling",
-        "Chen Hao"
-      ],
-      "journal": "Scientific Data",
-      "publicationDate": "2026-07-07",
-      "doi": "https://doi.org/10.1038/s41597-026-07510-x",
-      "openAlexUrl": "https://openalex.org/W7167613534",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 48,
-      "matchedKeywords": [
-        "yangtze"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate extremes are intensifying under global warming, posing unprecedented challenges to ecosystems, water resources, and human societies. However, high-resolution, basin-specific extreme climate datasets remain scarce, particularly in climatically diverse regions like China. Here, we present ECHIDNA (Extreme Climate Historical and Future Indices Data under Numerous Approaches), a comprehensive database of 33 ETCCDI indices derived from an ensemble of eight CMIP6 Global Climate Models (GCMs), statistically downscaled using seven methods including CDFt, ECDFM, ISIMIP, LS, QDM, QM, and SDM. Covering 1979-2100 under three SSP scenarios (SSP1-2.6, SSP2-4.5, and SSP5-8.5), the dataset focuses on four major river basin regions: the Yangtze River Basin, Yellow River Basin, Hai River Basin, and Southwest River Basins. Evaluation using PCC, NSE, KGE, and RMSE demonstrates significant improvements in capturing temporal variability and extreme event intensity compared to raw model outputs. By incorporating multi-model projections, ECHIDNA enables robust assessments of uncertainty in future climate risks and supports hydrological, agricultural, and infrastructure resilience planning. It is openly available to facilitate climate impact studies, adaptation strategies, and international research collaboration."
     }
   ]
 }

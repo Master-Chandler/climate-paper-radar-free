@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:03:04.470Z",
+  "generatedAt": "2026-07-20T04:12:23.999Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -25,7 +25,7 @@
       "openAlexUrl": "https://openalex.org/W7167956707",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -51,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7167934619",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7167970339",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -103,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7167971491",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -111,6 +111,27 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau has an important role in controlling the Asian monsoon, river drainage and biodiversity patterns across Asia. The history of plateau development and its mechanistic links to underthrusting of the Indian plate beneath the Asian plate remain controversial. Here, using mid- to low-temperature thermochronological data and exhumation history modelling, we show differences in the exhumation history of Central and Western Tibet during the middle Cenozoic. Central Tibet has experienced slow exhumation from ~45 million years ago (Ma) to the present while Western Tibet underwent moderate-to-rapid exhumation between 45 and 20 Ma at a rate that exceeds the modern value by an order of magnitude. Movement on large strike-slip faults and climatic forcing can be excluded as the primary reason for the regional exhumation difference. Using bedrock cooling ages and the eruption age of (ultra)potassic lavas as proxies for early exhumation and continental underthrusting, respectively, and combining these with geophysical imaging data, we propose that the spatial differences in exhumation rates at 45–20 Ma are largely attributed to the extent of Indian continental underthrusting, with Western Tibet lying within the underthrust domain and Central Tibet lying outside it. These findings highlight continental underthrusting as a first-order control on collisional plateau development. The extent of Indian continental underthrusting beneath Western Tibet influences its moderate-to-rapid exhumation, relative to slow exhumation in Central Tibet, according to thermochronological data and exhumation history modelling."
+    },
+    {
+      "id": "W7169651579",
+      "title": "From ice to atmosphere: reviewing the coupled dynamics of heat fluxes in the cryosphere",
+      "authors": [
+        "Nasir Ilyas",
+        "Iqbal",
+        "Muhammad Faisal Riaz"
+      ],
+      "journal": "Geoscience Letters",
+      "publicationDate": "2026-07-18",
+      "doi": "https://doi.org/10.1186/s40562-026-00484-z",
+      "openAlexUrl": "https://openalex.org/W7169651579",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 61,
+      "matchedKeywords": [
+        "high mountain asia"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、temperature、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The interaction between glaciers and the atmosphere is generally recognized to affect melt rates, surface energy budgets, and even short-lived weather extremes in high mountain ranges. However, the Himalayan system remains hard to observe due to steep terrain and very few long-term data from the glacier surface. In winter, conditions in valleys such as Hunza or in the central Karakoram are not conducive to keeping instruments intact, increasing the uncertainty about how latent and sensible heat fluxes contribute to snow and ice melt, local moisture behavior, and temperature regimes. Recent observations in the field and model results indicate that turbulent heat exchange can drive glacier cooling and sublimation and can generate small-scale feedbacks that may interact with regional flow. At the same time, uncertainties persist linked to sparse measurements, debris-covered glacier surfaces, and a loose connection between atmospheric and cryospheric models in complex terrain. This review synthesizes current knowledge on turbulent heat flux dynamics in the Himalayas, with brief excursions into the Andes, Alps, and other cold mountain systems. The objective is to identify the key processes driving melt and to reveal the gaps that hinder confident projections of meltwater and climate sensitivity in High Mountain Asia."
     }
   ]
 }

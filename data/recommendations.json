@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T03:54:57.717Z",
+  "generatedAt": "2026-07-22T03:56:16.631Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,31 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7169753944",
+      "title": "Evaluation of Five Evapotranspiration Products and Driving Factors over the Plateau and Plains of China",
+      "authors": [
+        "Wei Fu",
+        "Bo‐Hui Tang",
+        "Changjun Deng",
+        "Xinming Zhu",
+        "Zhongxi Ge",
+        "Junyi Chen"
+      ],
+      "journal": "Sensors",
+      "publicationDate": "2026-07-19",
+      "doi": "https://doi.org/10.3390/s26144572",
+      "openAlexUrl": "https://openalex.org/W7169753944",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 67,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Evapotranspiration (ET) plays a pivotal role in the water and energy cycles, yet the accuracy of ET products and their driving mechanisms varies significantly across complex topographies. This study systematically evaluates five ET products and investigates their driving mechanisms across the Tibetan Plateau (TP), the Yunnan–Guizhou Plateau (YGP), and the lowlands of China. The results show that, while ET products generally achieve higher accuracy in lowlands, the PML_V2 and ETMonitor demonstrate superior performance and sensitivity in the challenging plateau environments. Distinct regional heterogeneity was observed: the TP is dominated by thermal radiation factors, the YGP is constrained by both thermal and moisture conditions, and the lowlands are driven by the synergistic interaction of thermal, moisture, and vegetation factors. Unlike previous studies, which often treat these regions homogeneously, this work highlights the critical necessity of region-specific model selection to mitigate uncertainties arising from terrain changes. These findings advance understanding of ET discrepancies, facilitate the selection of appropriate ET products, promote model optimization in ET retrieval research, and enhance water management and hydrological modeling under varying topographical conditions."
+    },
     {
       "id": "W7169651579",
       "title": "From ice to atmosphere: reviewing the coupled dynamics of heat fluxes in the cryosphere",
@@ -25,7 +50,7 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "high mountain asia"
       ],

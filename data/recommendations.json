@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T03:53:10.308Z",
+  "generatedAt": "2026-07-24T03:52:36.218Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -35,6 +35,29 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "This study proposes a data-driven optimization and analytical framework based on artificial-intelligence techniques for a hybrid wind and solar energy system designed specifically for urban street-lighting applications in İzmir, Turkey. The system integrates a vertical axis wind turbine with a helical blade configuration and photovoltaic (PV) panels to exploit complementary renewable resources under urban coastal conditions. Long-term meteorological assessment indicates favorable hybrid potential in the study area, characterized by strong wind availability and sufficient solar irradiance. To support reliable short-term power estimation, ensemble-based machine learning (ML) techniques are employed to forecast short-term power generation, including Extreme Gradient Boosting (XGBoost), Gradient Boosting, and Random Forest algorithms. Model performance is evaluated using standard regression metrics, with XGBoost demonstrating the most consistent generalization performance across both wind- and solar-driven outputs. To enhance interpretability and address the limited transparency often associated with data-driven models, SHapley Additive exPlanations (SHAP) analysis is applied to quantify the relative influence of environmental variables. The results reveal that wind speed, solar irradiance, and ambient temperature are the dominant drivers of hybrid energy production. Beyond predictive accuracy, the analysis incorporates urban operating constraints, demonstrating that hybridization substantially mitigates output variability under realistic urban wind conditions. Statistical and distributional analyses show that the hybrid configuration reduces overall power-output variability by approximately thirty-eight percent compared with standalone photovoltaic operation, thereby improving supply continuity for public lighting services. The novelty of this work lies in combining physics-informed energy modeling with explainable ensemble-based forecasting, explicitly tailored to urban street lighting applications rather than generalized power systems. By emphasizing predictive reliability, interpretability, and urban microclimatic relevance, the proposed framework provides a practically oriented basis for decentralized renewable energy planning in similar urban environments."
+    },
+    {
+      "id": "W7169877496",
+      "title": "Integrated Hydro-Hazard Index (HHI) for Drought-Flood Risk Assessment: A Multi-Temporal Machine Learning Approach",
+      "authors": [
+        "Nutchanat Buasri",
+        "Patiwat Littidej",
+        "Benjamabhorn Pumhirunroj",
+        "Jatuphum Juanchaiyaphum",
+        "D. C. Slack"
+      ],
+      "journal": "Sustainability",
+      "publicationDate": "2026-07-21",
+      "doi": "https://doi.org/10.3390/su18147448",
+      "openAlexUrl": "https://openalex.org/W7169877496",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 65,
+      "matchedKeywords": [
+        "machine learning"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change is intensifying hydrological extremes, yet most frameworks assess drought and flood hazards independently, limiting integrated risk management. This study proposes a two-dimensional analytical framework to characterize the drought-flood continuum, moving beyond single-index approaches. We introduce the Hydro-Hazard Index (HHI) as a directionality metric (HHI = Flood Severity − Drought Severity) to classify the dominant hazard type, and the Total Severity Index (TSI = Flood Severity + Drought Severity) as a complementary metric to quantify overall hazard magnitude. Analyzing multi-temporal data from 115 hexagonal units (2018–2024), we employed dynamic features (trends, changes, volatility) and four machine learning models to classify areas as “flood-prone” based on validated flood records. Our results show HHI values ranging from −2.44 to 8.81, with 20.9% of areas classified as Flood-Dominated (mean HHI = 4.58) and 79.1% as Normal (mean HHI = 0.76). Crucially, the two-dimensional analysis revealed that areas with identical HHI values can have vastly different TSI values, under scoring the importance of our dual-index approach. Random Forest achieved the highest performance in predicting flood-prone status (Accuracy = 0.913, AUC = 0.967, Recall = 1.00), with flood_volatility as the most important predictor (24.2%). Spatial autocorrelation confirmed strong clustering of high-risk areas (Moran’s I = 0.716, p &lt; 0.001). By analyzing flood and drought as distinct but interacting dimensions, this framework provides a more robust and nuanced tool for integrated risk assessment. While acknowledging limitations related to data availability and the need for further independent validation, the proposed framework supports sustainable water resource management and climate adaptation planning under increasing hydrological uncertainty."
     },
     {
       "id": "W7169753944",
@@ -53,7 +76,7 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -75,7 +98,7 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "high mountain asia"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T03:52:36.218Z",
+  "generatedAt": "2026-07-25T03:47:28.495Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -76,7 +76,7 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -98,7 +98,7 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "high mountain asia"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:47:28.495Z",
+  "generatedAt": "2026-07-26T04:05:24.592Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -35,6 +35,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "This study proposes a data-driven optimization and analytical framework based on artificial-intelligence techniques for a hybrid wind and solar energy system designed specifically for urban street-lighting applications in İzmir, Turkey. The system integrates a vertical axis wind turbine with a helical blade configuration and photovoltaic (PV) panels to exploit complementary renewable resources under urban coastal conditions. Long-term meteorological assessment indicates favorable hybrid potential in the study area, characterized by strong wind availability and sufficient solar irradiance. To support reliable short-term power estimation, ensemble-based machine learning (ML) techniques are employed to forecast short-term power generation, including Extreme Gradient Boosting (XGBoost), Gradient Boosting, and Random Forest algorithms. Model performance is evaluated using standard regression metrics, with XGBoost demonstrating the most consistent generalization performance across both wind- and solar-driven outputs. To enhance interpretability and address the limited transparency often associated with data-driven models, SHapley Additive exPlanations (SHAP) analysis is applied to quantify the relative influence of environmental variables. The results reveal that wind speed, solar irradiance, and ambient temperature are the dominant drivers of hybrid energy production. Beyond predictive accuracy, the analysis incorporates urban operating constraints, demonstrating that hybridization substantially mitigates output variability under realistic urban wind conditions. Statistical and distributional analyses show that the hybrid configuration reduces overall power-output variability by approximately thirty-eight percent compared with standalone photovoltaic operation, thereby improving supply continuity for public lighting services. The novelty of this work lies in combining physics-informed energy modeling with explainable ensemble-based forecasting, explicitly tailored to urban street lighting applications rather than generalized power systems. By emphasizing predictive reliability, interpretability, and urban microclimatic relevance, the proposed framework provides a practically oriented basis for decentralized renewable energy planning in similar urban environments."
+    },
+    {
+      "id": "W7170070376",
+      "title": "Hydroclimatic Gradients Shape Differential Responses of Vegetation Photosynthesis in Croplands and Typical Natural Vegetation to Atmospheric Evaporative Demand and Soil Moisture",
+      "authors": [
+        "Zuyu Liu",
+        "Leyi Zhang",
+        "Junhua Xue",
+        "Xia Li",
+        "Guozhuang Zhang",
+        "Han X",
+        "Shuen Liao",
+        "Yunfei Chen"
+      ],
+      "journal": "Agronomy",
+      "publicationDate": "2026-07-22",
+      "doi": "https://doi.org/10.3390/agronomy16141392",
+      "openAlexUrl": "https://openalex.org/W7170070376",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 65,
+      "matchedKeywords": [
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Vegetation photosynthesis is jointly regulated by precipitation supply, atmospheric water demand, and vertically stratified soil moisture, but their relative roles across vegetation types and hydroclimatic backgrounds remain unclear. Using monthly satellite solar-induced chlorophyll fluorescence (SIF), ERA5-Land hydroclimatic variables, and vegetation-type data across China from 2000 to 2024, this study combined monthly anomaly analysis, lagged partial correlation, and XGBoost–SHAP to quantify moisture-response patterns in cropland, forest, grassland, and shrubland along an arid–humid gradient. Vegetation SIF increased overall from 2000 to 2024, with a clear northwest–southeast gradient and higher multiyear mean SIF in forests and shrublands than in croplands and grasslands. XGBoost–SHAP results showed that vapor pressure deficit (VPD) was the largest single contributor to SIF anomalies at the national scale, accounting for 31.8% of total moisture-factor contribution, followed by precipitation, shallow soil moisture, and middle- plus deep-layer soil moisture. The VPD contribution differed among vegetation types, reaching 43.3% in grassland, 32.5% in cropland, 30.4% in shrubland, and 27.5% in forest. Lagged responses also varied with soil depth and hydroclimatic background. Precipitation and shallow soil moisture mainly produced concurrent or 1-month lagged responses, whereas middle- and deep-layer soil moisture generated 2–3-month delayed effects in some arid and semi-arid cropland and woody vegetation. Across the arid–humid gradient, dominant moisture constraints shifted from deeper soil-water regulation in arid regions toward VPD control in transitional zones and precipitation or shallow-soil-moisture control in humid ecosystems. These findings demonstrate that vegetation SIF anomalies are shaped by coupled atmospheric demand, precipitation input, and soil-water storage, with vegetation traits and hydroclimatic background jointly determining the dominant moisture-response pathway."
     },
     {
       "id": "W7169877496",
@@ -52,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -76,13 +103,37 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Evapotranspiration (ET) plays a pivotal role in the water and energy cycles, yet the accuracy of ET products and their driving mechanisms varies significantly across complex topographies. This study systematically evaluates five ET products and investigates their driving mechanisms across the Tibetan Plateau (TP), the Yunnan–Guizhou Plateau (YGP), and the lowlands of China. The results show that, while ET products generally achieve higher accuracy in lowlands, the PML_V2 and ETMonitor demonstrate superior performance and sensitivity in the challenging plateau environments. Distinct regional heterogeneity was observed: the TP is dominated by thermal radiation factors, the YGP is constrained by both thermal and moisture conditions, and the lowlands are driven by the synergistic interaction of thermal, moisture, and vegetation factors. Unlike previous studies, which often treat these regions homogeneously, this work highlights the critical necessity of region-specific model selection to mitigate uncertainties arising from terrain changes. These findings advance understanding of ET discrepancies, facilitate the selection of appropriate ET products, promote model optimization in ET retrieval research, and enhance water management and hydrological modeling under varying topographical conditions."
+    },
+    {
+      "id": "W7170194940",
+      "title": "Mapping distribution and evolution of snow climate in High Mountain Asia during 1980–2018",
+      "authors": [
+        "Guoqing Chen",
+        "Yan Wang",
+        "Jiansheng Hao",
+        "Peng Cui",
+        "He Jx",
+        "Xiaoqian Fu"
+      ],
+      "journal": "npj natural hazards.",
+      "publicationDate": "2026-07-23",
+      "doi": "https://doi.org/10.1038/s44304-026-00198-4",
+      "openAlexUrl": "https://openalex.org/W7170194940",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 60,
+      "matchedKeywords": [
+        "high mountain asia"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、temperature、circulation、snow，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Snow avalanches pose a growing hazard in High Mountain Asia (HMA), yet their regional patterns are strongly governed by snow-climate regimes that are sensitive to both long-term warming and large-scale circulation variability. Using reanalysis-based meteorological and snow datasets (1980–2018), we develop a spatially continuous snow-climate zonation for HMA and classify the region into maritime (11.9%), transitional (4.1%), and continental (73.0%) snow-climate regimes. We detect a systematic shift toward warmer and wetter snow-climate characteristics, with the most pronounced changes along the southeastern HMA, where the transitional regime expands markedly. Variance decomposition further reveals non-stationary controls on zonation variability: temperature dominates temporal variability in the maritime and transitional regimes (explaining ~80% of their variance), whereas the continental regime is jointly regulated by temperature and snowfall, with a substantial contribution from the North Atlantic Oscillation (NAO) through its dynamical modulation of circulation and moisture transport. These findings provide a mechanistic, regime-aware framework for stratified avalanche-susceptibility modeling and for differentiated monitoring and risk management strategies across HMA under continued climate warming."
     },
     {
       "id": "W7169651579",
@@ -98,12 +149,38 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "high mountain asia"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、temperature、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The interaction between glaciers and the atmosphere is generally recognized to affect melt rates, surface energy budgets, and even short-lived weather extremes in high mountain ranges. However, the Himalayan system remains hard to observe due to steep terrain and very few long-term data from the glacier surface. In winter, conditions in valleys such as Hunza or in the central Karakoram are not conducive to keeping instruments intact, increasing the uncertainty about how latent and sensible heat fluxes contribute to snow and ice melt, local moisture behavior, and temperature regimes. Recent observations in the field and model results indicate that turbulent heat exchange can drive glacier cooling and sublimation and can generate small-scale feedbacks that may interact with regional flow. At the same time, uncertainties persist linked to sparse measurements, debris-covered glacier surfaces, and a loose connection between atmospheric and cryospheric models in complex terrain. This review synthesizes current knowledge on turbulent heat flux dynamics in the Himalayas, with brief excursions into the Andes, Alps, and other cold mountain systems. The objective is to identify the key processes driving melt and to reveal the gaps that hinder confident projections of meltwater and climate sensitivity in High Mountain Asia."
+    },
+    {
+      "id": "W7169599416",
+      "title": "Drivers of tree growth across Europe: An explainable AI analysis of tree- and site-level influences",
+      "authors": [
+        "Grégory Mermoud",
+        "Glory Mary Givi",
+        "Raphaël Lüthi",
+        "Volodymyr Trotsiuk",
+        "Nenad Potočić",
+        "Tanja Sanders",
+        "Bruno De Vos",
+        "Arthur Gessler"
+      ],
+      "journal": "Ecological Informatics",
+      "publicationDate": "2026-07-17",
+      "doi": "https://doi.org/10.1016/j.ecoinf.2026.103932",
+      "openAlexUrl": "https://openalex.org/W7169599416",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 52,
+      "matchedKeywords": [
+        "explainable"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change is increasingly impairing forest ecosystems in Europe, reducing tree vitality and increasing mortality. Crown defoliation and stem growth are widely used indicators of early stress responses, yet their drivers remain difficult to disentangle due to complex, non-linear interactions among climatic, edaphic, and biotic factors. Here, we apply explainable AI (XAI) to model annual diameter growth of individual trees from four dominant European tree species ( Norway spruce, Scots pine, Common beech, and Oak ) using long-term data from the ICP Forests Level II network. Gradient-boosted decision trees trained on tree-level attributes (e.g., defoliation, social class) and plot-level variables (e.g., soil solution chemistry, atmospheric deposition, and topography) outperform linear baselines across all ablations and grouping strategies. Ablation experiments show that plot-level features account for most of the predictive power while defoliation contributes only marginally. XAI analyses reveal strong non-linear, species-specific response regimes, including marked growth reductions at high defoliation levels (~35–60%) and optimal regimes of nitrogen and sulphate deposition, illustrating the capacity of XAI to identify candidate growth-relevant regimes and interactions. However, temporally explicit validation using tree-wise cross validation results in a 54% reduction in R 2 score whereas spatially explicit validation based on plot-wise cross-validation leads to a near-complete collapse in predictive performance, indicating strong reliance on both temporal and spatial autocorrelation and context-specific patterns. Moreover, ablating defoliation features causes attribution to shift toward correlated environmental variables, highlighting the role of proxying and statistical confounding. Overall, our results illustrate both the potential and the limitations of XAI for forest ecology: while effective for screening large observational datasets and generating hypotheses, XAI outputs require cautious interpretation, mechanistic understanding and spatially robust validation."
     }
   ]
 }

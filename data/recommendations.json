@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:05:24.592Z",
+  "generatedAt": "2026-07-27T04:12:35.253Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -79,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -103,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -128,7 +128,7 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "high mountain asia"
       ],
@@ -149,7 +149,7 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "high mountain asia"
       ],
@@ -175,7 +175,7 @@
       "openAlexUrl": "https://openalex.org/W7169599416",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 51,
       "matchedKeywords": [
         "explainable"
       ],

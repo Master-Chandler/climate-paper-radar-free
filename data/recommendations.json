@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:12:35.253Z",
+  "generatedAt": "2026-07-28T03:45:22.968Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,32 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7171197953",
+      "title": "High salinity dominates the seasonal thermal stratification and its dynamics in Longmu Co: A hypersaline lake in western Tibetan Plateau",
+      "authors": [
+        "Hua Wang",
+        "Junbo Wang",
+        "Jinlei Kai",
+        "Weiqiang Ma",
+        "Jianting Ju",
+        "Liping Zhu"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-07-25",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.103784",
+      "openAlexUrl": "https://openalex.org/W7171197953",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 81,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "thermal forcing",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、thermal forcing、plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study region Longmu Co, a deep hypersaline lake in the western Tibetan Plateau, located in a cold, arid region dominated by the westerlies. Study focus The annual mixing regime, under-ice thermal evolution, and relative roles of salinity, thermal forcing, and meteorological variability in deep hypersaline Tibetan Plateau lakes remain poorly understood. We investigated the thermodynamic regime of Longmu Co using 451 days of high-frequency water-temperature observations, a vertical salinity profile, concurrent meteorological measurements, bathymetric data, and satellite-derived ice phenology. TEOS-10-based density calculations and decomposition of squared buoyancy frequency showed that salinity provided the dominant background stability, separating a seasonally active mixolimnion from a persistently isolated monimolimnion. The mixolimnion exhibited cold monomictic circulation, mixing once annually from mid-November to early February, whereas the deep water column remained density-stratified. During complete ice cover, upper-water temperatures increased after early February, indicating a distinct under-ice thermal transition before ice breakup. Thermal forcing governed seasonal upper-layer stratification, while wind produced rapid but shallow perturbations. New hydrological insights for the region In deep hypersaline lakes of the high-altitude western Tibetan Plateau, persistent haline stratification can prevent full-depth overturn despite strong westerly winds and severe winter cooling. Meteorological forcing acts mainly within the mixolimnion. This buffering effect explains why such lakes may remain meromictic and should be represented explicitly in regional lake models and assessments of climate-driven hydrological change."
+    },
     {
       "id": "W7169755007",
       "title": "Machine learning–driven forecasting and robustness analysis of hybrid wind–solar energy systems for urban street lighting applications",
@@ -27,7 +53,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -35,6 +61,34 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "This study proposes a data-driven optimization and analytical framework based on artificial-intelligence techniques for a hybrid wind and solar energy system designed specifically for urban street-lighting applications in İzmir, Turkey. The system integrates a vertical axis wind turbine with a helical blade configuration and photovoltaic (PV) panels to exploit complementary renewable resources under urban coastal conditions. Long-term meteorological assessment indicates favorable hybrid potential in the study area, characterized by strong wind availability and sufficient solar irradiance. To support reliable short-term power estimation, ensemble-based machine learning (ML) techniques are employed to forecast short-term power generation, including Extreme Gradient Boosting (XGBoost), Gradient Boosting, and Random Forest algorithms. Model performance is evaluated using standard regression metrics, with XGBoost demonstrating the most consistent generalization performance across both wind- and solar-driven outputs. To enhance interpretability and address the limited transparency often associated with data-driven models, SHapley Additive exPlanations (SHAP) analysis is applied to quantify the relative influence of environmental variables. The results reveal that wind speed, solar irradiance, and ambient temperature are the dominant drivers of hybrid energy production. Beyond predictive accuracy, the analysis incorporates urban operating constraints, demonstrating that hybridization substantially mitigates output variability under realistic urban wind conditions. Statistical and distributional analyses show that the hybrid configuration reduces overall power-output variability by approximately thirty-eight percent compared with standalone photovoltaic operation, thereby improving supply continuity for public lighting services. The novelty of this work lies in combining physics-informed energy modeling with explainable ensemble-based forecasting, explicitly tailored to urban street lighting applications rather than generalized power systems. By emphasizing predictive reliability, interpretability, and urban microclimatic relevance, the proposed framework provides a practically oriented basis for decentralized renewable energy planning in similar urban environments."
+    },
+    {
+      "id": "W7170147820",
+      "title": "Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming",
+      "authors": [
+        "Yi Zhao",
+        "Dongfeng Li",
+        "Jan Nitzbon",
+        "Zhuotong Nan",
+        "Young-Chul Song",
+        "Xie Hu",
+        "Youhua Ran",
+        "尚能 岩田"
+      ],
+      "journal": "Science Advances",
+      "publicationDate": "2026-07-23",
+      "doi": "https://doi.org/10.1126/sciadv.aed1105",
+      "openAlexUrl": "https://openalex.org/W7170147820",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 72,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Near-surface ground ice loss is a key sign of permafrost degradation under global warming, dictating ground destabilization and carbon feedback. However, recent field evidence suggests that ground ice may locally accumulate, while the driving mechanisms remain unclear. Leveraging borehole ground ice observations, a physics-based permafrost model, and satellite-based ground deformation data, we identify an anomalous ice increase at the active layer bottom despite climate warming across the interior Tibetan Plateau, occupying 35% of plateau's permafrost area. Strengthened westerlies have enhanced precipitation, supplying additional soil moisture that refreezes at the active layer bottom and drives this unexpected ice gain. Freeze-thaw process associated with the accumulated ice amplifies ground deformation, destabilizing permafrost landscapes and threatening socioeconomic activities. This anomalous ice gain in permafrost regions, together with the Karakoram anomalous glacier mass increase, represents a divergent cryospheric ice gain against global ice loss under climate warming, highlighting that rapid precipitation increase may locally outweigh temperature in driving cryosphere evolution on the Tibetan Plateau."
     },
     {
       "id": "W7170070376",
@@ -55,7 +109,7 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -79,7 +133,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 59,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -103,7 +157,7 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -128,7 +182,7 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "high mountain asia"
       ],
@@ -149,38 +203,12 @@
       "openAlexUrl": "https://openalex.org/W7169651579",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "high mountain asia"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、temperature、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The interaction between glaciers and the atmosphere is generally recognized to affect melt rates, surface energy budgets, and even short-lived weather extremes in high mountain ranges. However, the Himalayan system remains hard to observe due to steep terrain and very few long-term data from the glacier surface. In winter, conditions in valleys such as Hunza or in the central Karakoram are not conducive to keeping instruments intact, increasing the uncertainty about how latent and sensible heat fluxes contribute to snow and ice melt, local moisture behavior, and temperature regimes. Recent observations in the field and model results indicate that turbulent heat exchange can drive glacier cooling and sublimation and can generate small-scale feedbacks that may interact with regional flow. At the same time, uncertainties persist linked to sparse measurements, debris-covered glacier surfaces, and a loose connection between atmospheric and cryospheric models in complex terrain. This review synthesizes current knowledge on turbulent heat flux dynamics in the Himalayas, with brief excursions into the Andes, Alps, and other cold mountain systems. The objective is to identify the key processes driving melt and to reveal the gaps that hinder confident projections of meltwater and climate sensitivity in High Mountain Asia."
-    },
-    {
-      "id": "W7169599416",
-      "title": "Drivers of tree growth across Europe: An explainable AI analysis of tree- and site-level influences",
-      "authors": [
-        "Grégory Mermoud",
-        "Glory Mary Givi",
-        "Raphaël Lüthi",
-        "Volodymyr Trotsiuk",
-        "Nenad Potočić",
-        "Tanja Sanders",
-        "Bruno De Vos",
-        "Arthur Gessler"
-      ],
-      "journal": "Ecological Informatics",
-      "publicationDate": "2026-07-17",
-      "doi": "https://doi.org/10.1016/j.ecoinf.2026.103932",
-      "openAlexUrl": "https://openalex.org/W7169599416",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 51,
-      "matchedKeywords": [
-        "explainable"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change is increasingly impairing forest ecosystems in Europe, reducing tree vitality and increasing mortality. Crown defoliation and stem growth are widely used indicators of early stress responses, yet their drivers remain difficult to disentangle due to complex, non-linear interactions among climatic, edaphic, and biotic factors. Here, we apply explainable AI (XAI) to model annual diameter growth of individual trees from four dominant European tree species ( Norway spruce, Scots pine, Common beech, and Oak ) using long-term data from the ICP Forests Level II network. Gradient-boosted decision trees trained on tree-level attributes (e.g., defoliation, social class) and plot-level variables (e.g., soil solution chemistry, atmospheric deposition, and topography) outperform linear baselines across all ablations and grouping strategies. Ablation experiments show that plot-level features account for most of the predictive power while defoliation contributes only marginally. XAI analyses reveal strong non-linear, species-specific response regimes, including marked growth reductions at high defoliation levels (~35–60%) and optimal regimes of nitrogen and sulphate deposition, illustrating the capacity of XAI to identify candidate growth-relevant regimes and interactions. However, temporally explicit validation using tree-wise cross validation results in a 54% reduction in R 2 score whereas spatially explicit validation based on plot-wise cross-validation leads to a near-complete collapse in predictive performance, indicating strong reliance on both temporal and spatial autocorrelation and context-specific patterns. Moreover, ablating defoliation features causes attribution to shift toward correlated environmental variables, highlighting the role of proxying and statistical confounding. Overall, our results illustrate both the potential and the limitations of XAI for forest ecology: while effective for screening large observational datasets and generating hypotheses, XAI outputs require cautious interpretation, mechanistic understanding and spatially robust validation."
     }
   ]
 }

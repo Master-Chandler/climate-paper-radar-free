@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T03:45:22.968Z",
+  "generatedAt": "2026-07-29T03:49:02.205Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,32 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7169854119",
+      "title": "Terrain-driven wildfire susceptibility assessment with explainable AI: A case study from Alberta",
+      "authors": [
+        "Alex Rodriguez",
+        "Isa Ebtehaj",
+        "Afshin Amiri",
+        "Silvio José Gumière",
+        "Hossein Bonakdari"
+      ],
+      "journal": "Ecological Informatics",
+      "publicationDate": "2026-07-21",
+      "doi": "https://doi.org/10.1016/j.ecoinf.2026.103948",
+      "openAlexUrl": "https://openalex.org/W7169854119",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 85,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Wildfires are becoming increasingly frequent and severe across boreal landscapes, posing significant threats to environmental stability, public health, and economic security, where climate change has intensified both their frequency and scale. While recent advances in remote sensing and predictive modeling have improved wildfire susceptibility assessment, existing approaches differ in how environmental interactions are represented across spatial scales and modeling frameworks. In this context, the present study applies a scalable and interpretable wildfire susceptibility analysis framework to the boreal forests of Alberta, Canada. The objective of this study is to evaluate predictive performance and model transparency using established ensemble tree-based machine learning algorithms (LightGBM, XGBoost, Random Forest, Gradient Boosting, and AdaBoost), combined with exhaustive feature selection and Bayesian optimization. Using a dataset comprising sixteen environmental, meteorological, topographic, and human-related variables, 65,451 model configurations were evaluated to identify optimal input subsets for predicting wildfire occurrence. Model performance was validated through confusion matrices and various classification-based indices, and feature importance was quantified using SHAP values. Results show that LightGBM achieved the highest predictive performance among the tested models, with overall accuracy exceeding 98% usingonly eight input variables, which include latitude, longitude, plan curvature, profile curvature, temperature, precipitation, wind direction, and distance to roads, with the two curvature metrics jointly accounting for more than 76% of the total normalized mean absolute SHAP attribution. These findings highlight the dominant influence of terrain shape on wildfire susceptibility in Alberta's boreal region and demonstrate that high-resolution susceptibility assessment can be achieved using a reduced targeted set of predictors. The results provide region-specific, interpretable insights that may support wildfire risk assessment and decision-making in applications such as early warning, zoning, and adaptive climate resilience strategies."
+    },
     {
       "id": "W7171197953",
       "title": "High salinity dominates the seasonal thermal stratification and its dynamics in Longmu Co: A hypersaline lake in western Tibetan Plateau",
@@ -28,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7171197953",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "tibetan plateau",
         "thermal forcing",
@@ -53,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -81,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7170147820",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -89,6 +115,33 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Near-surface ground ice loss is a key sign of permafrost degradation under global warming, dictating ground destabilization and carbon feedback. However, recent field evidence suggests that ground ice may locally accumulate, while the driving mechanisms remain unclear. Leveraging borehole ground ice observations, a physics-based permafrost model, and satellite-based ground deformation data, we identify an anomalous ice increase at the active layer bottom despite climate warming across the interior Tibetan Plateau, occupying 35% of plateau's permafrost area. Strengthened westerlies have enhanced precipitation, supplying additional soil moisture that refreezes at the active layer bottom and drives this unexpected ice gain. Freeze-thaw process associated with the accumulated ice amplifies ground deformation, destabilizing permafrost landscapes and threatening socioeconomic activities. This anomalous ice gain in permafrost regions, together with the Karakoram anomalous glacier mass increase, represents a divergent cryospheric ice gain against global ice loss under climate warming, highlighting that rapid precipitation increase may locally outweigh temperature in driving cryosphere evolution on the Tibetan Plateau."
+    },
+    {
+      "id": "W7171327885",
+      "title": "Mid-late Holocene cooling shaped agricultural transformation on the Tibetan Plateau",
+      "authors": [
+        "Xiaohuan Hou",
+        "Roland Zech",
+        "Y Gao",
+        "Zhe Sun",
+        "Qiang Qu",
+        "Xianyong Cao",
+        "Julian P. Sachs",
+        "Juzhi Hou"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publicationDate": "2026-07-27",
+      "doi": "https://doi.org/10.1038/s43247-026-03838-9",
+      "openAlexUrl": "https://openalex.org/W7171327885",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 68,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change threatens global food security, yet the long-term effects of climate variability on agriculture remain poorly understood in high-altitude regions such as the Tibetan Plateau, where millions of people depend on pastoralism and small-scale agriculture. Here we show how mid- to late Holocene temperature variability shaped agricultural transformation across the Tibetan Plateau. By integrating newly generated and published proxy records and employing Monte Carlo simulations to account for uncertainties, we reconstruct regional temperature variability. Our results show that mid- to late Holocene cooling drives a shift from thermophilic millet-based cultivation to a cold-resilient wheat- and barley-dominated system. We further find that the rate of temperature change exerts a primary control on agricultural stability and human responses. Episodes of heightened climate variability correspond with declines in crop productivity, whereas more stable conditions are associated with agricultural expansion and sociopolitical florescence. These findings imply that the rate of environmental change is an important determinant of resilience in highland agroecosystems. Mid–late Holocene cooling on the Tibetan Plateau shifted farming from millet to wheat–barley, and temperature changes affected agricultural productivity and society, according to an analysis that integrates temperature proxies and uses Monte Carlo simulations."
     },
     {
       "id": "W7170070376",
@@ -109,7 +162,7 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -133,7 +186,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -157,7 +210,7 @@
       "openAlexUrl": "https://openalex.org/W7169753944",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -182,33 +235,12 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "high mountain asia"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、temperature、circulation、snow，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Snow avalanches pose a growing hazard in High Mountain Asia (HMA), yet their regional patterns are strongly governed by snow-climate regimes that are sensitive to both long-term warming and large-scale circulation variability. Using reanalysis-based meteorological and snow datasets (1980–2018), we develop a spatially continuous snow-climate zonation for HMA and classify the region into maritime (11.9%), transitional (4.1%), and continental (73.0%) snow-climate regimes. We detect a systematic shift toward warmer and wetter snow-climate characteristics, with the most pronounced changes along the southeastern HMA, where the transitional regime expands markedly. Variance decomposition further reveals non-stationary controls on zonation variability: temperature dominates temporal variability in the maritime and transitional regimes (explaining ~80% of their variance), whereas the continental regime is jointly regulated by temperature and snowfall, with a substantial contribution from the North Atlantic Oscillation (NAO) through its dynamical modulation of circulation and moisture transport. These findings provide a mechanistic, regime-aware framework for stratified avalanche-susceptibility modeling and for differentiated monitoring and risk management strategies across HMA under continued climate warming."
-    },
-    {
-      "id": "W7169651579",
-      "title": "From ice to atmosphere: reviewing the coupled dynamics of heat fluxes in the cryosphere",
-      "authors": [
-        "Nasir Ilyas",
-        "Iqbal",
-        "Muhammad Faisal Riaz"
-      ],
-      "journal": "Geoscience Letters",
-      "publicationDate": "2026-07-18",
-      "doi": "https://doi.org/10.1186/s40562-026-00484-z",
-      "openAlexUrl": "https://openalex.org/W7169651579",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 50,
-      "matchedKeywords": [
-        "high mountain asia"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、temperature、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The interaction between glaciers and the atmosphere is generally recognized to affect melt rates, surface energy budgets, and even short-lived weather extremes in high mountain ranges. However, the Himalayan system remains hard to observe due to steep terrain and very few long-term data from the glacier surface. In winter, conditions in valleys such as Hunza or in the central Karakoram are not conducive to keeping instruments intact, increasing the uncertainty about how latent and sensible heat fluxes contribute to snow and ice melt, local moisture behavior, and temperature regimes. Recent observations in the field and model results indicate that turbulent heat exchange can drive glacier cooling and sublimation and can generate small-scale feedbacks that may interact with regional flow. At the same time, uncertainties persist linked to sparse measurements, debris-covered glacier surfaces, and a loose connection between atmospheric and cryospheric models in complex terrain. This review synthesizes current knowledge on turbulent heat flux dynamics in the Himalayas, with brief excursions into the Andes, Alps, and other cold mountain systems. The objective is to identify the key processes driving melt and to reveal the gaps that hinder confident projections of meltwater and climate sensitivity in High Mountain Asia."
     }
   ]
 }

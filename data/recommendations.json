@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:49:02.205Z",
+  "generatedAt": "2026-07-30T03:40:43.681Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169854119",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 85,
+      "score": 84,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7171197953",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "tibetan plateau",
         "thermal forcing",
@@ -79,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7169755007",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -107,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7170147820",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -135,7 +135,7 @@
       "openAlexUrl": "https://openalex.org/W7171327885",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -162,7 +162,7 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 59,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -186,37 +186,12 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change is intensifying hydrological extremes, yet most frameworks assess drought and flood hazards independently, limiting integrated risk management. This study proposes a two-dimensional analytical framework to characterize the drought-flood continuum, moving beyond single-index approaches. We introduce the Hydro-Hazard Index (HHI) as a directionality metric (HHI = Flood Severity − Drought Severity) to classify the dominant hazard type, and the Total Severity Index (TSI = Flood Severity + Drought Severity) as a complementary metric to quantify overall hazard magnitude. Analyzing multi-temporal data from 115 hexagonal units (2018–2024), we employed dynamic features (trends, changes, volatility) and four machine learning models to classify areas as “flood-prone” based on validated flood records. Our results show HHI values ranging from −2.44 to 8.81, with 20.9% of areas classified as Flood-Dominated (mean HHI = 4.58) and 79.1% as Normal (mean HHI = 0.76). Crucially, the two-dimensional analysis revealed that areas with identical HHI values can have vastly different TSI values, under scoring the importance of our dual-index approach. Random Forest achieved the highest performance in predicting flood-prone status (Accuracy = 0.913, AUC = 0.967, Recall = 1.00), with flood_volatility as the most important predictor (24.2%). Spatial autocorrelation confirmed strong clustering of high-risk areas (Moran’s I = 0.716, p &lt; 0.001). By analyzing flood and drought as distinct but interacting dimensions, this framework provides a more robust and nuanced tool for integrated risk assessment. While acknowledging limitations related to data availability and the need for further independent validation, the proposed framework supports sustainable water resource management and climate adaptation planning under increasing hydrological uncertainty."
-    },
-    {
-      "id": "W7169753944",
-      "title": "Evaluation of Five Evapotranspiration Products and Driving Factors over the Plateau and Plains of China",
-      "authors": [
-        "Wei Fu",
-        "Bo‐Hui Tang",
-        "Changjun Deng",
-        "Xinming Zhu",
-        "Zhongxi Ge",
-        "Junyi Chen"
-      ],
-      "journal": "Sensors",
-      "publicationDate": "2026-07-19",
-      "doi": "https://doi.org/10.3390/s26144572",
-      "openAlexUrl": "https://openalex.org/W7169753944",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Evapotranspiration (ET) plays a pivotal role in the water and energy cycles, yet the accuracy of ET products and their driving mechanisms varies significantly across complex topographies. This study systematically evaluates five ET products and investigates their driving mechanisms across the Tibetan Plateau (TP), the Yunnan–Guizhou Plateau (YGP), and the lowlands of China. The results show that, while ET products generally achieve higher accuracy in lowlands, the PML_V2 and ETMonitor demonstrate superior performance and sensitivity in the challenging plateau environments. Distinct regional heterogeneity was observed: the TP is dominated by thermal radiation factors, the YGP is constrained by both thermal and moisture conditions, and the lowlands are driven by the synergistic interaction of thermal, moisture, and vegetation factors. Unlike previous studies, which often treat these regions homogeneously, this work highlights the critical necessity of region-specific model selection to mitigate uncertainties arising from terrain changes. These findings advance understanding of ET discrepancies, facilitate the selection of appropriate ET products, promote model optimization in ET retrieval research, and enhance water management and hydrological modeling under varying topographical conditions."
     },
     {
       "id": "W7170194940",
@@ -235,7 +210,7 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "high mountain asia"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:40:43.681Z",
+  "generatedAt": "2026-07-31T03:59:26.878Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7169854119",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 84,
+      "score": 82,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7171197953",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "tibetan plateau",
         "thermal forcing",
@@ -62,31 +62,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、thermal forcing、plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Study region Longmu Co, a deep hypersaline lake in the western Tibetan Plateau, located in a cold, arid region dominated by the westerlies. Study focus The annual mixing regime, under-ice thermal evolution, and relative roles of salinity, thermal forcing, and meteorological variability in deep hypersaline Tibetan Plateau lakes remain poorly understood. We investigated the thermodynamic regime of Longmu Co using 451 days of high-frequency water-temperature observations, a vertical salinity profile, concurrent meteorological measurements, bathymetric data, and satellite-derived ice phenology. TEOS-10-based density calculations and decomposition of squared buoyancy frequency showed that salinity provided the dominant background stability, separating a seasonally active mixolimnion from a persistently isolated monimolimnion. The mixolimnion exhibited cold monomictic circulation, mixing once annually from mid-November to early February, whereas the deep water column remained density-stratified. During complete ice cover, upper-water temperatures increased after early February, indicating a distinct under-ice thermal transition before ice breakup. Thermal forcing governed seasonal upper-layer stratification, while wind produced rapid but shallow perturbations. New hydrological insights for the region In deep hypersaline lakes of the high-altitude western Tibetan Plateau, persistent haline stratification can prevent full-depth overturn despite strong westerly winds and severe winter cooling. Meteorological forcing acts mainly within the mixolimnion. This buffering effect explains why such lakes may remain meromictic and should be represented explicitly in regional lake models and assessments of climate-driven hydrological change."
-    },
-    {
-      "id": "W7169755007",
-      "title": "Machine learning–driven forecasting and robustness analysis of hybrid wind–solar energy systems for urban street lighting applications",
-      "authors": [
-        "Gencay Sarıışık",
-        "Ahmet Sabri Öğütlü",
-        "Sercan Demir",
-        "Nagehan İlhan",
-        "Laith Abualigah"
-      ],
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "publicationDate": "2026-07-20",
-      "doi": "https://doi.org/10.1016/j.engappai.2026.115755",
-      "openAlexUrl": "https://openalex.org/W7169755007",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 70,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "This study proposes a data-driven optimization and analytical framework based on artificial-intelligence techniques for a hybrid wind and solar energy system designed specifically for urban street-lighting applications in İzmir, Turkey. The system integrates a vertical axis wind turbine with a helical blade configuration and photovoltaic (PV) panels to exploit complementary renewable resources under urban coastal conditions. Long-term meteorological assessment indicates favorable hybrid potential in the study area, characterized by strong wind availability and sufficient solar irradiance. To support reliable short-term power estimation, ensemble-based machine learning (ML) techniques are employed to forecast short-term power generation, including Extreme Gradient Boosting (XGBoost), Gradient Boosting, and Random Forest algorithms. Model performance is evaluated using standard regression metrics, with XGBoost demonstrating the most consistent generalization performance across both wind- and solar-driven outputs. To enhance interpretability and address the limited transparency often associated with data-driven models, SHapley Additive exPlanations (SHAP) analysis is applied to quantify the relative influence of environmental variables. The results reveal that wind speed, solar irradiance, and ambient temperature are the dominant drivers of hybrid energy production. Beyond predictive accuracy, the analysis incorporates urban operating constraints, demonstrating that hybridization substantially mitigates output variability under realistic urban wind conditions. Statistical and distributional analyses show that the hybrid configuration reduces overall power-output variability by approximately thirty-eight percent compared with standalone photovoltaic operation, thereby improving supply continuity for public lighting services. The novelty of this work lies in combining physics-informed energy modeling with explainable ensemble-based forecasting, explicitly tailored to urban street lighting applications rather than generalized power systems. By emphasizing predictive reliability, interpretability, and urban microclimatic relevance, the proposed framework provides a practically oriented basis for decentralized renewable energy planning in similar urban environments."
     },
     {
       "id": "W7170147820",
@@ -107,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7170147820",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -135,7 +110,7 @@
       "openAlexUrl": "https://openalex.org/W7171327885",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -162,7 +137,7 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -186,7 +161,7 @@
       "openAlexUrl": "https://openalex.org/W7169877496",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -210,7 +185,7 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "high mountain asia"
       ],

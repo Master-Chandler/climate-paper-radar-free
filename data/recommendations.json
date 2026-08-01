@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T03:59:26.878Z",
+  "generatedAt": "2026-08-01T03:59:43.977Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -12,30 +12,33 @@
   },
   "papers": [
     {
-      "id": "W7169854119",
-      "title": "Terrain-driven wildfire susceptibility assessment with explainable AI: A case study from Alberta",
+      "id": "W7171665215",
+      "title": "Interpretable deep-learning assessment of environmental indicators of global marine plastic pollution across ocean basins and climate zones",
       "authors": [
-        "Alex Rodriguez",
-        "Isa Ebtehaj",
-        "Afshin Amiri",
-        "Silvio José Gumière",
-        "Hossein Bonakdari"
+        "Baihui Wu",
+        "Haiyang Yu",
+        "Haiyang Huang",
+        "Jiaxuan He",
+        "Haoran Zou",
+        "Hanbing Wang",
+        "Rongbing Chen",
+        "Qinsi Yang"
       ],
-      "journal": "Ecological Informatics",
-      "publicationDate": "2026-07-21",
-      "doi": "https://doi.org/10.1016/j.ecoinf.2026.103948",
-      "openAlexUrl": "https://openalex.org/W7169854119",
+      "journal": "Ecological Indicators",
+      "publicationDate": "2026-07-29",
+      "doi": "https://doi.org/10.1016/j.ecolind.2026.115284",
+      "openAlexUrl": "https://openalex.org/W7171665215",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 83,
       "matchedKeywords": [
-        "machine learning",
-        "explainable",
+        "deep learning",
         "shap",
-        "precipitation"
+        "polar",
+        "arctic"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Wildfires are becoming increasingly frequent and severe across boreal landscapes, posing significant threats to environmental stability, public health, and economic security, where climate change has intensified both their frequency and scale. While recent advances in remote sensing and predictive modeling have improved wildfire susceptibility assessment, existing approaches differ in how environmental interactions are represented across spatial scales and modeling frameworks. In this context, the present study applies a scalable and interpretable wildfire susceptibility analysis framework to the boreal forests of Alberta, Canada. The objective of this study is to evaluate predictive performance and model transparency using established ensemble tree-based machine learning algorithms (LightGBM, XGBoost, Random Forest, Gradient Boosting, and AdaBoost), combined with exhaustive feature selection and Bayesian optimization. Using a dataset comprising sixteen environmental, meteorological, topographic, and human-related variables, 65,451 model configurations were evaluated to identify optimal input subsets for predicting wildfire occurrence. Model performance was validated through confusion matrices and various classification-based indices, and feature importance was quantified using SHAP values. Results show that LightGBM achieved the highest predictive performance among the tested models, with overall accuracy exceeding 98% usingonly eight input variables, which include latitude, longitude, plan curvature, profile curvature, temperature, precipitation, wind direction, and distance to roads, with the two curvature metrics jointly accounting for more than 76% of the total normalized mean absolute SHAP attribution. These findings highlight the dominant influence of terrain shape on wildfire susceptibility in Alberta's boreal region and demonstrate that high-resolution susceptibility assessment can be achieved using a reduced targeted set of predictors. The results provide region-specific, interpretable insights that may support wildfire risk assessment and decision-making in applications such as early warning, zoning, and adaptive climate resilience strategies."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、shap、climate、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Marine plastic pollution has emerged as a pressing global environmental issue and poses a significant threat to both oceanic ecosystems and human well-being. Nevertheless, the patterns of its dispersion and the environmental associations underlying its distribution remain inadequately characterized on a worldwide scale, primarily due to the limitations of traditional monitoring and modeling techniques. In this study, we introduced an interpretable deep learning (DL) framework to predict the plastic pollution level across global oceans and to elucidate the model-attributed environmental associations. Multiple global datasets of plastic pollution concentrations and relevant environmental variables from 2018 to 2022 were integrated. A total of 1193 surface-ocean records were initially compiled. After harmonization and quality control, 1155 records were retained for model development, including 916 training samples and 239 samples in a held-out internal test set. The predictive performance of the FCNN was benchmarked against several widely used machine-learning models. Although XGBoost achieved the highest predictive accuracy and was identified as the best-performing benchmark model, the FCNN demonstrated competitive predictive performance and was retained as the focal deep-learning architecture for evaluating the proposed interpretable neural-network framework. The FCNN model demonstrated moderate predictive performance under random internal validation based on 13 environmental predictor variables spanning geographic, biological, biogeochemical, physicochemical, physical-dynamic, and transport-related categories, achieving a mean five-fold cross-validation R 2 of 0.608 and a held-out internal test-set R 2 of 0.612. Shapley Additive Explanations (SHAP) analysis identified DTC, dissolved oxygen, net primary productivity, and phytoplankton concentration as the main environmental indicators contributing to model predictions. Stratification analysis further revealed distinct regional differences in model-attribution patterns and predictor importance across the four major ocean basins (Atlantic, Pacific, Indian, and Arctic) and climate zones (tropical, temperate, and polar), thereby emphasizing the necessity for region-specific management strategies. This interpretable DL framework provides a data-driven approach for large-scale marine plastic pollution assessment and regional monitoring support within the range of environmental conditions represented by the available data."
     },
     {
       "id": "W7171197953",
@@ -54,7 +57,7 @@
       "openAlexUrl": "https://openalex.org/W7171197953",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "tibetan plateau",
         "thermal forcing",
@@ -82,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7170147820",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -110,13 +113,33 @@
       "openAlexUrl": "https://openalex.org/W7171327885",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change threatens global food security, yet the long-term effects of climate variability on agriculture remain poorly understood in high-altitude regions such as the Tibetan Plateau, where millions of people depend on pastoralism and small-scale agriculture. Here we show how mid- to late Holocene temperature variability shaped agricultural transformation across the Tibetan Plateau. By integrating newly generated and published proxy records and employing Monte Carlo simulations to account for uncertainties, we reconstruct regional temperature variability. Our results show that mid- to late Holocene cooling drives a shift from thermophilic millet-based cultivation to a cold-resilient wheat- and barley-dominated system. We further find that the rate of temperature change exerts a primary control on agricultural stability and human responses. Episodes of heightened climate variability correspond with declines in crop productivity, whereas more stable conditions are associated with agricultural expansion and sociopolitical florescence. These findings imply that the rate of environmental change is an important determinant of resilience in highland agroecosystems. Mid–late Holocene cooling on the Tibetan Plateau shifted farming from millet to wheat–barley, and temperature changes affected agricultural productivity and society, according to an analysis that integrates temperature proxies and uses Monte Carlo simulations."
+    },
+    {
+      "id": "W7171521013",
+      "title": "From climate data to regulatory decisions: integrating climate AI into marine EIAs",
+      "authors": [
+        "Xuan Gong",
+        "Le Cheng"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "publicationDate": "2026-07-28",
+      "doi": "https://doi.org/10.3389/fmars.2026.1870082",
+      "openAlexUrl": "https://openalex.org/W7171521013",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 60,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change is increasingly reshaping the sustainable development of the ocean through ocean warming, deoxygenation, acidification, and other compounding stressors. Against this backdrop, environmental impact assessment (EIA) has become a pivotal governance instrument for anticipating and reducing the climate-related impacts of human activities at sea. From the United Nations Convention on the Law of the Sea (UNCLOS) to the Agreement on Biodiversity Beyond National Jurisdiction (the BBNJ Agreement), regulatory expectations for marine EIAs are moving toward more structured thresholds, procedural workflows, and reporting obligations. At the same time, rapid advances in climate artificial intelligence (climate AI), such as machine-learning forecasting, deep-learning nowcasting, and agentic AI workflows, are expanding the ability to produce timely, high-resolution, and probabilistic climate information from heterogeneous climate data streams. These capabilities can strengthen climate-related EIAs by combining short-term forecasting and nowcasting for early warning, long-term observation and monitoring for dynamic baselines, and scenario-based climate modelling for impact estimation and decision support. Climate AI can therefore be integrated throughout the EIA workflow rather than appended as an auxiliary layer, translating climate data into regulatory evidence under changing marine-climate conditions. To ensure regulatory robustness and accountability, implementation should be grounded in evidence standards and quality assurance, transparent and auditable documentation, human oversight, responsibility allocation, and formal mechanisms for cross-institutional data sharing. We argue that a standards-driven, AI-enabled EIA framework can improve the relevance, reviewability, and robustness of marine EIA decisions, supporting long-term ocean sustainability under accelerating climate risks."
     },
     {
       "id": "W7170070376",
@@ -137,36 +160,13 @@
       "openAlexUrl": "https://openalex.org/W7170070376",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Vegetation photosynthesis is jointly regulated by precipitation supply, atmospheric water demand, and vertically stratified soil moisture, but their relative roles across vegetation types and hydroclimatic backgrounds remain unclear. Using monthly satellite solar-induced chlorophyll fluorescence (SIF), ERA5-Land hydroclimatic variables, and vegetation-type data across China from 2000 to 2024, this study combined monthly anomaly analysis, lagged partial correlation, and XGBoost–SHAP to quantify moisture-response patterns in cropland, forest, grassland, and shrubland along an arid–humid gradient. Vegetation SIF increased overall from 2000 to 2024, with a clear northwest–southeast gradient and higher multiyear mean SIF in forests and shrublands than in croplands and grasslands. XGBoost–SHAP results showed that vapor pressure deficit (VPD) was the largest single contributor to SIF anomalies at the national scale, accounting for 31.8% of total moisture-factor contribution, followed by precipitation, shallow soil moisture, and middle- plus deep-layer soil moisture. The VPD contribution differed among vegetation types, reaching 43.3% in grassland, 32.5% in cropland, 30.4% in shrubland, and 27.5% in forest. Lagged responses also varied with soil depth and hydroclimatic background. Precipitation and shallow soil moisture mainly produced concurrent or 1-month lagged responses, whereas middle- and deep-layer soil moisture generated 2–3-month delayed effects in some arid and semi-arid cropland and woody vegetation. Across the arid–humid gradient, dominant moisture constraints shifted from deeper soil-water regulation in arid regions toward VPD control in transitional zones and precipitation or shallow-soil-moisture control in humid ecosystems. These findings demonstrate that vegetation SIF anomalies are shaped by coupled atmospheric demand, precipitation input, and soil-water storage, with vegetation traits and hydroclimatic background jointly determining the dominant moisture-response pathway."
-    },
-    {
-      "id": "W7169877496",
-      "title": "Integrated Hydro-Hazard Index (HHI) for Drought-Flood Risk Assessment: A Multi-Temporal Machine Learning Approach",
-      "authors": [
-        "Nutchanat Buasri",
-        "Patiwat Littidej",
-        "Benjamabhorn Pumhirunroj",
-        "Jatuphum Juanchaiyaphum",
-        "D. C. Slack"
-      ],
-      "journal": "Sustainability",
-      "publicationDate": "2026-07-21",
-      "doi": "https://doi.org/10.3390/su18147448",
-      "openAlexUrl": "https://openalex.org/W7169877496",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 55,
-      "matchedKeywords": [
-        "machine learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change is intensifying hydrological extremes, yet most frameworks assess drought and flood hazards independently, limiting integrated risk management. This study proposes a two-dimensional analytical framework to characterize the drought-flood continuum, moving beyond single-index approaches. We introduce the Hydro-Hazard Index (HHI) as a directionality metric (HHI = Flood Severity − Drought Severity) to classify the dominant hazard type, and the Total Severity Index (TSI = Flood Severity + Drought Severity) as a complementary metric to quantify overall hazard magnitude. Analyzing multi-temporal data from 115 hexagonal units (2018–2024), we employed dynamic features (trends, changes, volatility) and four machine learning models to classify areas as “flood-prone” based on validated flood records. Our results show HHI values ranging from −2.44 to 8.81, with 20.9% of areas classified as Flood-Dominated (mean HHI = 4.58) and 79.1% as Normal (mean HHI = 0.76). Crucially, the two-dimensional analysis revealed that areas with identical HHI values can have vastly different TSI values, under scoring the importance of our dual-index approach. Random Forest achieved the highest performance in predicting flood-prone status (Accuracy = 0.913, AUC = 0.967, Recall = 1.00), with flood_volatility as the most important predictor (24.2%). Spatial autocorrelation confirmed strong clustering of high-risk areas (Moran’s I = 0.716, p &lt; 0.001). By analyzing flood and drought as distinct but interacting dimensions, this framework provides a more robust and nuanced tool for integrated risk assessment. While acknowledging limitations related to data availability and the need for further independent validation, the proposed framework supports sustainable water resource management and climate adaptation planning under increasing hydrological uncertainty."
     },
     {
       "id": "W7170194940",
@@ -185,7 +185,7 @@
       "openAlexUrl": "https://openalex.org/W7170194940",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "high mountain asia"
       ],

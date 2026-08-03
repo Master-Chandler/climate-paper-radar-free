@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:03:13.544Z",
+  "generatedAt": "2026-08-03T04:05:17.783Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 97,
+      "score": 95,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7171766117",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 95,
+      "score": 94,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -76,7 +76,7 @@
       "openAlexUrl": "https://openalex.org/W7171665215",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -85,6 +85,32 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、shap、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Marine plastic pollution has emerged as a pressing global environmental issue and poses a significant threat to both oceanic ecosystems and human well-being. Nevertheless, the patterns of its dispersion and the environmental associations underlying its distribution remain inadequately characterized on a worldwide scale, primarily due to the limitations of traditional monitoring and modeling techniques. In this study, we introduced an interpretable deep learning (DL) framework to predict the plastic pollution level across global oceans and to elucidate the model-attributed environmental associations. Multiple global datasets of plastic pollution concentrations and relevant environmental variables from 2018 to 2022 were integrated. A total of 1193 surface-ocean records were initially compiled. After harmonization and quality control, 1155 records were retained for model development, including 916 training samples and 239 samples in a held-out internal test set. The predictive performance of the FCNN was benchmarked against several widely used machine-learning models. Although XGBoost achieved the highest predictive accuracy and was identified as the best-performing benchmark model, the FCNN demonstrated competitive predictive performance and was retained as the focal deep-learning architecture for evaluating the proposed interpretable neural-network framework. The FCNN model demonstrated moderate predictive performance under random internal validation based on 13 environmental predictor variables spanning geographic, biological, biogeochemical, physicochemical, physical-dynamic, and transport-related categories, achieving a mean five-fold cross-validation R 2 of 0.608 and a held-out internal test-set R 2 of 0.612. Shapley Additive Explanations (SHAP) analysis identified DTC, dissolved oxygen, net primary productivity, and phytoplankton concentration as the main environmental indicators contributing to model predictions. Stratification analysis further revealed distinct regional differences in model-attribution patterns and predictor importance across the four major ocean basins (Atlantic, Pacific, Indian, and Arctic) and climate zones (tropical, temperate, and polar), thereby emphasizing the necessity for region-specific management strategies. This interpretable DL framework provides a data-driven approach for large-scale marine plastic pollution assessment and regional monitoring support within the range of environmental conditions represented by the available data."
+    },
+    {
+      "id": "W7171571036",
+      "title": "Diagnosing explainability of machine learning: An example of transformer-based PM2.5 estimation in Seoul, Korea",
+      "authors": [
+        "Ingyu Park",
+        "Chang-Hoi Ho",
+        "Hye-Ryun Oh",
+        "Ka-Young Kim",
+        "Jinwon Kim",
+        "Yong‐Sang Choi"
+      ],
+      "journal": "Atmospheric Environment",
+      "publicationDate": "2026-07-28",
+      "doi": "https://doi.org/10.1016/j.atmosenv.2026.122264",
+      "openAlexUrl": "https://openalex.org/W7171571036",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 76,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、artificial intelligence、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "This study examines the physical consistency of meteorological and air-quality variables in the results from a machine learning model, time-space transformer (TimeSformer), by applying explainable artificial intelligence (XAI) to the wintertime concentration of particulate matters with a diameter of ≤ 2.5 μm (PM 2.5 ) in Seoul, Republic of Korea. Trained on reanalysis data, the model performs well with the categorical accuracy of 76.1% and hit rate of 75.0% for high-PM 2.5 events (≥ 36 μg m -3 ) in the test period, establishing the reliability for XAI-based model interpretations. Quantitative evaluations of XAI methods for faithfulness, randomization, and complexity show that the integrated gradients and the Shapley additive explanations are most robust. The XAI results correctly assign positive attributions to most of the meteorological variables typically related to high-PM 2.5 events; however, negative attributions are assigned to geopotential heights and temperatures, contradicting the well-known environmental constraints that high pressure systems and warmer temperatures are favorable for the occurrence of high-PM 2.5 concentrations. The XAI analysis also shows that the model prioritizes the local features around Seoul, which exhibit high statistical correlation with observed PM 2.5 , over the synoptic weather patterns in the reanalysis. These results indicate that data-driven models are limited in representing correct physical processes in their decision making, and that incorporation of relevant physical constraints into AI architectures is essential to obtain physically consistent and robust results from AI models."
     },
     {
       "id": "W7171517626",
@@ -103,7 +129,7 @@
       "openAlexUrl": "https://openalex.org/W7171517626",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -129,7 +155,7 @@
       "openAlexUrl": "https://openalex.org/W7171197953",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "tibetan plateau",
         "thermal forcing",
@@ -139,32 +165,31 @@
       "abstractEn": "Study region Longmu Co, a deep hypersaline lake in the western Tibetan Plateau, located in a cold, arid region dominated by the westerlies. Study focus The annual mixing regime, under-ice thermal evolution, and relative roles of salinity, thermal forcing, and meteorological variability in deep hypersaline Tibetan Plateau lakes remain poorly understood. We investigated the thermodynamic regime of Longmu Co using 451 days of high-frequency water-temperature observations, a vertical salinity profile, concurrent meteorological measurements, bathymetric data, and satellite-derived ice phenology. TEOS-10-based density calculations and decomposition of squared buoyancy frequency showed that salinity provided the dominant background stability, separating a seasonally active mixolimnion from a persistently isolated monimolimnion. The mixolimnion exhibited cold monomictic circulation, mixing once annually from mid-November to early February, whereas the deep water column remained density-stratified. During complete ice cover, upper-water temperatures increased after early February, indicating a distinct under-ice thermal transition before ice breakup. Thermal forcing governed seasonal upper-layer stratification, while wind produced rapid but shallow perturbations. New hydrological insights for the region In deep hypersaline lakes of the high-altitude western Tibetan Plateau, persistent haline stratification can prevent full-depth overturn despite strong westerly winds and severe winter cooling. Meteorological forcing acts mainly within the mixolimnion. This buffering effect explains why such lakes may remain meromictic and should be represented explicitly in regional lake models and assessments of climate-driven hydrological change."
     },
     {
-      "id": "W7170147820",
-      "title": "Westerly induced precipitation increase drives near-surface ground ice gain on the Tibetan Plateau despite warming",
+      "id": "W7172009837",
+      "title": "Interannual‐Decadal Hydroclimatic Variability in the Southern Himalaya Over the Past 500 Years: Mechanisms From MADA‐PHYDA Integration",
       "authors": [
-        "Yi Zhao",
-        "Dongfeng Li",
-        "Jan Nitzbon",
-        "Zhuotong Nan",
-        "Young-Chul Song",
-        "Xie Hu",
-        "Youhua Ran",
-        "尚能 岩田"
+        "Kexin Wang",
+        "Ashish Sinha",
+        "Hanying Li",
+        "Carlos Pérez‐Mejías",
+        "Jingyao Zhao",
+        "Changfeng Sun",
+        "Hai Cheng"
       ],
-      "journal": "Science Advances",
-      "publicationDate": "2026-07-23",
-      "doi": "https://doi.org/10.1126/sciadv.aed1105",
-      "openAlexUrl": "https://openalex.org/W7170147820",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "publicationDate": "2026-07-31",
+      "doi": "https://doi.org/10.1029/2026jd047598",
+      "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 69,
       "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
+        "monsoon",
+        "himalaya",
+        "teleconnection"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Near-surface ground ice loss is a key sign of permafrost degradation under global warming, dictating ground destabilization and carbon feedback. However, recent field evidence suggests that ground ice may locally accumulate, while the driving mechanisms remain unclear. Leveraging borehole ground ice observations, a physics-based permafrost model, and satellite-based ground deformation data, we identify an anomalous ice increase at the active layer bottom despite climate warming across the interior Tibetan Plateau, occupying 35% of plateau's permafrost area. Strengthened westerlies have enhanced precipitation, supplying additional soil moisture that refreezes at the active layer bottom and drives this unexpected ice gain. Freeze-thaw process associated with the accumulated ice amplifies ground deformation, destabilizing permafrost landscapes and threatening socioeconomic activities. This anomalous ice gain in permafrost regions, together with the Karakoram anomalous glacier mass increase, represents a divergent cryospheric ice gain against global ice loss under climate warming, highlighting that rapid precipitation increase may locally outweigh temperature in driving cryosphere evolution on the Tibetan Plateau."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、ocean、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Understanding the drivers of interannual‐to‐decadal hydroclimatic variability in the southern Himalaya (SH) has been constrained by the scarcity of long‐term, spatially comprehensive proxy records and data assimilation products. Here, we combine the Monsoon Asia Drought Atlas (MADA) and the Paleo Hydrodynamics Data Assimilation (PHYDA) to investigate the SH hydroclimatic variability and its mechanisms over the last 500 years (1500–2000 CE). We find that the SH hydroclimate exhibits robust interannual (2–8 years) and multidecadal (50–60 years) variability. Interannual variability is strongly associated with the coupled negative phase of El Niño‐Southern Oscillation (ENSO) and Indian Ocean Dipole, producing a hydroclimatic dipole with the Indian monsoon region that diverts moisture and induces drying in the SH. Our 500‐year perspective suggests that the hydroclimatic teleconnection is non‐stationary, with external forcing (such as solar minima and clustered volcanic eruptions) potentially modulating teleconnection stability in a complex, context‐dependent manner. The 50–60‐year cycle is linked to a combined Pacific climate pattern combining Pacific Decadal Variability (PDV) and tropical sea surface temperature anomalies, with positive PDV‐La Niña phases favoring reduced regional moisture transport. SH hydroclimate is positively correlated with Yarlung Zangbo‐Brahmaputra River (YZBR) runoff, with correlation coefficients ( r ) of 0.75 (upstream) and 0.53 (downstream) ( p &lt; 0.001). Notably, the early 21st‐century aridification trend remains within the historical range, although its attribution requires consideration of both internal variability and external forcing. These findings enhance our understanding of SH hydroclimatic mechanisms and provide a paleoclimatic framework to support regional climate prediction and water resource management in the region."
     },
     {
       "id": "W7171327885",
@@ -185,7 +210,7 @@
       "openAlexUrl": "https://openalex.org/W7171327885",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -206,36 +231,12 @@
       "openAlexUrl": "https://openalex.org/W7171521013",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change is increasingly reshaping the sustainable development of the ocean through ocean warming, deoxygenation, acidification, and other compounding stressors. Against this backdrop, environmental impact assessment (EIA) has become a pivotal governance instrument for anticipating and reducing the climate-related impacts of human activities at sea. From the United Nations Convention on the Law of the Sea (UNCLOS) to the Agreement on Biodiversity Beyond National Jurisdiction (the BBNJ Agreement), regulatory expectations for marine EIAs are moving toward more structured thresholds, procedural workflows, and reporting obligations. At the same time, rapid advances in climate artificial intelligence (climate AI), such as machine-learning forecasting, deep-learning nowcasting, and agentic AI workflows, are expanding the ability to produce timely, high-resolution, and probabilistic climate information from heterogeneous climate data streams. These capabilities can strengthen climate-related EIAs by combining short-term forecasting and nowcasting for early warning, long-term observation and monitoring for dynamic baselines, and scenario-based climate modelling for impact estimation and decision support. Climate AI can therefore be integrated throughout the EIA workflow rather than appended as an auxiliary layer, translating climate data into regulatory evidence under changing marine-climate conditions. To ensure regulatory robustness and accountability, implementation should be grounded in evidence standards and quality assurance, transparent and auditable documentation, human oversight, responsibility allocation, and formal mechanisms for cross-institutional data sharing. We argue that a standards-driven, AI-enabled EIA framework can improve the relevance, reviewability, and robustness of marine EIA decisions, supporting long-term ocean sustainability under accelerating climate risks."
-    },
-    {
-      "id": "W7170194940",
-      "title": "Mapping distribution and evolution of snow climate in High Mountain Asia during 1980–2018",
-      "authors": [
-        "Guoqing Chen",
-        "Yan Wang",
-        "Jiansheng Hao",
-        "Peng Cui",
-        "He Jx",
-        "Xiaoqian Fu"
-      ],
-      "journal": "npj natural hazards.",
-      "publicationDate": "2026-07-23",
-      "doi": "https://doi.org/10.1038/s44304-026-00198-4",
-      "openAlexUrl": "https://openalex.org/W7170194940",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 50,
-      "matchedKeywords": [
-        "high mountain asia"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、temperature、circulation、snow，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Snow avalanches pose a growing hazard in High Mountain Asia (HMA), yet their regional patterns are strongly governed by snow-climate regimes that are sensitive to both long-term warming and large-scale circulation variability. Using reanalysis-based meteorological and snow datasets (1980–2018), we develop a spatially continuous snow-climate zonation for HMA and classify the region into maritime (11.9%), transitional (4.1%), and continental (73.0%) snow-climate regimes. We detect a systematic shift toward warmer and wetter snow-climate characteristics, with the most pronounced changes along the southeastern HMA, where the transitional regime expands markedly. Variance decomposition further reveals non-stationary controls on zonation variability: temperature dominates temporal variability in the maritime and transitional regimes (explaining ~80% of their variance), whereas the continental regime is jointly regulated by temperature and snowfall, with a substantial contribution from the North Atlantic Oscillation (NAO) through its dynamical modulation of circulation and moisture transport. These findings provide a mechanistic, regime-aware framework for stratified avalanche-susceptibility modeling and for differentiated monitoring and risk management strategies across HMA under continued climate warming."
     }
   ]
 }

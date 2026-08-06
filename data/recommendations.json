@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T03:42:37.555Z",
+  "generatedAt": "2026-08-06T03:48:27.231Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 92,
+      "score": 91,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7171766117",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 89,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -56,6 +56,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Solar photovoltaic (PV) forecasting supports secure grid operation, yet advanced machine learning models are hard to trust when their decisions are opaque. This PRISMA 2020 guided systematic review examines explainable artificial intelligence (XAI) in solar forecasting. Of 951 retrieved records, 173 met strict eligibility, requiring quantitative forecasting evaluation plus an explicit explanation output. A sensitivity analysis of the decisive screening rule, which excluded 299 records using attention only as an architectural component, supported its precision, and dual independent re-screening of 75 excluded records found no false exclusions. Long short-term memory (LSTM) models dominated (48 studies), ahead of transformers (39) and convolutional neural networks (CNN, 32) used mainly for image-based nowcasting. SHAP prevailed among explainers (69 studies), ahead of feature importance and permutation methods (39), attention visualization (31), and LIME (14), and 47 studies combined several methods. Quality-stratified synthesis showed these rankings are robust, with the ordering unchanged among the 114 high-quality studies. Irradiance ranked first across targets, while temporal encodings and ambient temperature were stable secondary contributors. Humidity, wind, and cloud proxies shifted with season and climate zone, making global rankings conditional. Horizon mattered, with longer horizons using tabular weather and post hoc attribution and ultra-short horizons using sky images. Cross-study benchmarking remains fragile, and quantitative evaluation of explanation fidelity, stability, and runtime is rare. A critical appraisal of the dominant explainers documents computational cost, instability, sensitivity to correlated inputs, and unverified faithfulness, alongside a reproducibility gap, with only 1.7% of studies releasing both code and data."
+    },
+    {
+      "id": "W7172257727",
+      "title": "North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon",
+      "authors": [
+        "Ruizao Sun",
+        "Lilan Chen",
+        "Ping Zhang",
+        "Anmin Duan",
+        "Aixue Hu"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-08-03",
+      "doi": "https://doi.org/10.1038/s41612-026-01491-9",
+      "openAlexUrl": "https://openalex.org/W7172257727",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 84,
+      "matchedKeywords": [
+        "monsoon",
+        "yangtze",
+        "tibetan plateau",
+        "plateau",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、ocean、monsoon，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The East Asian summer monsoon (EASM) arises from complex land–air–sea interactions, shaped by influences from the Tibetan Plateau to the west and the Pacific Ocean to the east. Using in situ observations, reanalysis data and simulations from the Community Earth System Model version 2.1.3, here we show that North Pacific sea surface temperature anomalies (SSTAs) act as a seasonal capacitor, mediating the delayed impact of spring (March–May, MAM) Tibetan Plateau surface sensible heating (TPSH) anomalies on EASM. Enhanced MAM TPSH excites Rossby waves that drive an anticyclonic circulation, establishing a persistent “warm-central/cold-flanks” SSTA pattern in the North Pacific. These SSTAs strengthen the summer subtropical front and atmospheric baroclinicity, energizing transient eddies. The resultant cyclonic–anticyclonic circulation anomalies enhance low-level moisture convergence, intensifying rainfall from the Yangtze–Huaihe River basin to southeastern Japan. This capacitor effect facilitates a cross-seasonal linkage by converting spring-initiated TPSH anomalies into basin-scale summer circulation adjustments through oceanic thermal inertia-driven storage."
     },
     {
       "id": "W7171665215",
@@ -76,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7171665215",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -103,7 +130,7 @@
       "openAlexUrl": "https://openalex.org/W7171571036",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -129,7 +156,7 @@
       "openAlexUrl": "https://openalex.org/W7171517626",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -156,7 +183,7 @@
       "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "monsoon",
         "himalaya",
@@ -184,7 +211,7 @@
       "openAlexUrl": "https://openalex.org/W7171327885",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -205,7 +232,7 @@
       "openAlexUrl": "https://openalex.org/W7171521013",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "artificial intelligence"
       ],

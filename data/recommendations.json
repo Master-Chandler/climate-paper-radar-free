@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:48:27.231Z",
+  "generatedAt": "2026-08-07T03:27:03.504Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7172450867",
+      "title": "Assessment of fire susceptibility in Wildland—Urban interfaces according to explainable artificial intelligence: a case study of Antalya province, Mediterranean region, Türkiye",
+      "authors": [
+        "Mücahit Coşkun",
+        "Sohaib K. M. Abujayyab",
+        "Onur Canbulat",
+        "Nigar Canbulat",
+        "Nesrin Sarsıcı Demir",
+        "Selime Tut",
+        "Kamile Zeren"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-08-04",
+      "doi": "https://doi.org/10.1038/s41598-026-63526-8",
+      "openAlexUrl": "https://openalex.org/W7172450867",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 93,
+      "matchedKeywords": [
+        "explainable",
+        "shap",
+        "artificial intelligence",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、artificial intelligence、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Global changes in climatic parameters have significantly altered fire regimes in Mediterranean ecosystems, increasing wildfire risk through higher temperatures and prolonged dry periods. This study assesses forest fire susceptibility in Antalya Province, Türkiye, using an Explainable Artificial Intelligence (XAI) framework based on the XGBoost algorithm integrated with SHapley Additive exPlanations (SHAP) to interpret model predictions. Two models were developed: a province-wide model and a Wildland–Urban Interface (WUI) model to capture differences between natural and human-influenced landscapes. A total of 33 spatial variables representing topography, vegetation, climate, and anthropogenic factors were used. Both models demonstrated strong predictive performance. The provincial model achieved an accuracy of 0.844 and an AUC-ROC of 0.911, while the WUI model reached an accuracy of 0.826 and an AUC-ROC of 0.891. SHAP results indicated that temperature and land surface temperature are the most influential drivers in both models, followed by NDVI, precipitation, atmospheric pressure, and evapotranspiration. However, scale-dependent differences were evident. At the provincial scale, climatic and biophysical variables dominated susceptibility patterns, whereas in WUI zones, anthropogenic factors such as population density and proximity to infrastructure played a greater role alongside environmental drivers. High susceptibility areas are mainly concentrated along coastal districts extending eastward from the city center, including Muratpaşa, Kepez, Aksu, Serik, and Manavgat. Overall, high and very high susceptibility zones account for approximately 14% of the area in both models, with WUI risk more clustered around settlements and transport corridors. The findings highlight that wildfire susceptibility in Antalya is driven by interacting climatic, ecological, and human factors, with climate dominating at broader scales and human influence increasing in WUI areas. These results support integrated fire management strategies that address both environmental change and anthropogenic pressure."
+    },
     {
       "id": "W7171869065",
       "title": "Explainable ensemble machine learning for dissolved oxygen prediction in a reservoir using SHAP and chord diagram analysis",
@@ -24,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 89,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -47,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7171766117",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -73,7 +101,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 84,
+      "score": 83,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -103,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7171665215",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -130,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7171571036",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -156,7 +184,7 @@
       "openAlexUrl": "https://openalex.org/W7171517626",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -183,7 +211,7 @@
       "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "monsoon",
         "himalaya",
@@ -191,33 +219,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、ocean、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Understanding the drivers of interannual‐to‐decadal hydroclimatic variability in the southern Himalaya (SH) has been constrained by the scarcity of long‐term, spatially comprehensive proxy records and data assimilation products. Here, we combine the Monsoon Asia Drought Atlas (MADA) and the Paleo Hydrodynamics Data Assimilation (PHYDA) to investigate the SH hydroclimatic variability and its mechanisms over the last 500 years (1500–2000 CE). We find that the SH hydroclimate exhibits robust interannual (2–8 years) and multidecadal (50–60 years) variability. Interannual variability is strongly associated with the coupled negative phase of El Niño‐Southern Oscillation (ENSO) and Indian Ocean Dipole, producing a hydroclimatic dipole with the Indian monsoon region that diverts moisture and induces drying in the SH. Our 500‐year perspective suggests that the hydroclimatic teleconnection is non‐stationary, with external forcing (such as solar minima and clustered volcanic eruptions) potentially modulating teleconnection stability in a complex, context‐dependent manner. The 50–60‐year cycle is linked to a combined Pacific climate pattern combining Pacific Decadal Variability (PDV) and tropical sea surface temperature anomalies, with positive PDV‐La Niña phases favoring reduced regional moisture transport. SH hydroclimate is positively correlated with Yarlung Zangbo‐Brahmaputra River (YZBR) runoff, with correlation coefficients ( r ) of 0.75 (upstream) and 0.53 (downstream) ( p &lt; 0.001). Notably, the early 21st‐century aridification trend remains within the historical range, although its attribution requires consideration of both internal variability and external forcing. These findings enhance our understanding of SH hydroclimatic mechanisms and provide a paleoclimatic framework to support regional climate prediction and water resource management in the region."
-    },
-    {
-      "id": "W7171327885",
-      "title": "Mid-late Holocene cooling shaped agricultural transformation on the Tibetan Plateau",
-      "authors": [
-        "Xiaohuan Hou",
-        "Roland Zech",
-        "Y Gao",
-        "Zhe Sun",
-        "Qiang Qu",
-        "Xianyong Cao",
-        "Julian P. Sachs",
-        "Juzhi Hou"
-      ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-07-27",
-      "doi": "https://doi.org/10.1038/s43247-026-03838-9",
-      "openAlexUrl": "https://openalex.org/W7171327885",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change threatens global food security, yet the long-term effects of climate variability on agriculture remain poorly understood in high-altitude regions such as the Tibetan Plateau, where millions of people depend on pastoralism and small-scale agriculture. Here we show how mid- to late Holocene temperature variability shaped agricultural transformation across the Tibetan Plateau. By integrating newly generated and published proxy records and employing Monte Carlo simulations to account for uncertainties, we reconstruct regional temperature variability. Our results show that mid- to late Holocene cooling drives a shift from thermophilic millet-based cultivation to a cold-resilient wheat- and barley-dominated system. We further find that the rate of temperature change exerts a primary control on agricultural stability and human responses. Episodes of heightened climate variability correspond with declines in crop productivity, whereas more stable conditions are associated with agricultural expansion and sociopolitical florescence. These findings imply that the rate of environmental change is an important determinant of resilience in highland agroecosystems. Mid–late Holocene cooling on the Tibetan Plateau shifted farming from millet to wheat–barley, and temperature changes affected agricultural productivity and society, according to an analysis that integrates temperature proxies and uses Monte Carlo simulations."
     },
     {
       "id": "W7171521013",
@@ -232,7 +233,7 @@
       "openAlexUrl": "https://openalex.org/W7171521013",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 51,
       "matchedKeywords": [
         "artificial intelligence"
       ],

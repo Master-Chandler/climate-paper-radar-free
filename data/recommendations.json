@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:27:03.504Z",
+  "generatedAt": "2026-08-08T02:27:43.202Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 93,
+      "score": 91,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7171766117",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 86,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -101,7 +101,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 83,
+      "score": 82,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -131,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7171665215",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -140,58 +140,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、shap、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Marine plastic pollution has emerged as a pressing global environmental issue and poses a significant threat to both oceanic ecosystems and human well-being. Nevertheless, the patterns of its dispersion and the environmental associations underlying its distribution remain inadequately characterized on a worldwide scale, primarily due to the limitations of traditional monitoring and modeling techniques. In this study, we introduced an interpretable deep learning (DL) framework to predict the plastic pollution level across global oceans and to elucidate the model-attributed environmental associations. Multiple global datasets of plastic pollution concentrations and relevant environmental variables from 2018 to 2022 were integrated. A total of 1193 surface-ocean records were initially compiled. After harmonization and quality control, 1155 records were retained for model development, including 916 training samples and 239 samples in a held-out internal test set. The predictive performance of the FCNN was benchmarked against several widely used machine-learning models. Although XGBoost achieved the highest predictive accuracy and was identified as the best-performing benchmark model, the FCNN demonstrated competitive predictive performance and was retained as the focal deep-learning architecture for evaluating the proposed interpretable neural-network framework. The FCNN model demonstrated moderate predictive performance under random internal validation based on 13 environmental predictor variables spanning geographic, biological, biogeochemical, physicochemical, physical-dynamic, and transport-related categories, achieving a mean five-fold cross-validation R 2 of 0.608 and a held-out internal test-set R 2 of 0.612. Shapley Additive Explanations (SHAP) analysis identified DTC, dissolved oxygen, net primary productivity, and phytoplankton concentration as the main environmental indicators contributing to model predictions. Stratification analysis further revealed distinct regional differences in model-attribution patterns and predictor importance across the four major ocean basins (Atlantic, Pacific, Indian, and Arctic) and climate zones (tropical, temperate, and polar), thereby emphasizing the necessity for region-specific management strategies. This interpretable DL framework provides a data-driven approach for large-scale marine plastic pollution assessment and regional monitoring support within the range of environmental conditions represented by the available data."
-    },
-    {
-      "id": "W7171571036",
-      "title": "Diagnosing explainability of machine learning: An example of transformer-based PM2.5 estimation in Seoul, Korea",
-      "authors": [
-        "Ingyu Park",
-        "Chang-Hoi Ho",
-        "Hye-Ryun Oh",
-        "Ka-Young Kim",
-        "Jinwon Kim",
-        "Yong‐Sang Choi"
-      ],
-      "journal": "Atmospheric Environment",
-      "publicationDate": "2026-07-28",
-      "doi": "https://doi.org/10.1016/j.atmosenv.2026.122264",
-      "openAlexUrl": "https://openalex.org/W7171571036",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 70,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、artificial intelligence、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "This study examines the physical consistency of meteorological and air-quality variables in the results from a machine learning model, time-space transformer (TimeSformer), by applying explainable artificial intelligence (XAI) to the wintertime concentration of particulate matters with a diameter of ≤ 2.5 μm (PM 2.5 ) in Seoul, Republic of Korea. Trained on reanalysis data, the model performs well with the categorical accuracy of 76.1% and hit rate of 75.0% for high-PM 2.5 events (≥ 36 μg m -3 ) in the test period, establishing the reliability for XAI-based model interpretations. Quantitative evaluations of XAI methods for faithfulness, randomization, and complexity show that the integrated gradients and the Shapley additive explanations are most robust. The XAI results correctly assign positive attributions to most of the meteorological variables typically related to high-PM 2.5 events; however, negative attributions are assigned to geopotential heights and temperatures, contradicting the well-known environmental constraints that high pressure systems and warmer temperatures are favorable for the occurrence of high-PM 2.5 concentrations. The XAI analysis also shows that the model prioritizes the local features around Seoul, which exhibit high statistical correlation with observed PM 2.5 , over the synoptic weather patterns in the reanalysis. These results indicate that data-driven models are limited in representing correct physical processes in their decision making, and that incorporation of relevant physical constraints into AI architectures is essential to obtain physically consistent and robust results from AI models."
-    },
-    {
-      "id": "W7171517626",
-      "title": "Modelling Future Evolution of the Antarctic Ice Sheet With Explainable Machine Learning",
-      "authors": [
-        "Paula Maddigan",
-        "Bach Hoai Nguyen",
-        "Peter Yu Feng Siew",
-        "Bing Xue",
-        "Nicholas R. Golledge",
-        "Mengjie Zhang"
-      ],
-      "journal": "Journal of the Royal Society of New Zealand",
-      "publicationDate": "2026-07-28",
-      "doi": "https://doi.org/10.1002/snz2.70067",
-      "openAlexUrl": "https://openalex.org/W7171517626",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 67,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "antarctic"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、climate、ice sheet，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The accelerating effects of climate change, particularly rising sea levels resulting from melting land ice, require accurate predictions of ice sheet dynamics. Traditional numerical models, such as the Parallel Ice Sheet Model (PISM), are widely used; however, they rely on simplifying assumptions and are computationally intensive, limiting their ability to make long-term predictions. This study addresses these limitations by employing machine learning techniques to emulate ice sheet dynamics, offering a faster, more efficient alternative to traditional numerical models. Using data generated by PISM for the Antarctic ice sheet spanning 2015 to 2100, we develop proof-of-concept machine learning models that predict key ice properties-ice mask, ice thickness, and ice velocity-based on climate inputs. Our models tackle both spatial and temporal challenges by incorporating the ice properties of neighbouring cells and past temporal values, thereby improving predictive accuracy. Additionally, explainable AI (XAI) techniques are applied to enhance trust and explainability. Our best-performing model, a Random Forest with an expanding window, achieves an average RMSE of 3.36 for thickness and 65.6 for velocity and misclassifies on average only 3 grid points per year for the ice mask out of 2257, demonstrating good accuracy comparable to that of the original simulator at a fraction of the computational cost. This approach not only improves the computational efficiency of scenario modelling but also contributes to the broader field of climate science by enabling more frequent and extensive analyses of climate change impacts on Antarctic ice sheets."
     },
     {
       "id": "W7172009837",
@@ -211,7 +159,7 @@
       "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "monsoon",
         "himalaya",
@@ -219,26 +167,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、ocean、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Understanding the drivers of interannual‐to‐decadal hydroclimatic variability in the southern Himalaya (SH) has been constrained by the scarcity of long‐term, spatially comprehensive proxy records and data assimilation products. Here, we combine the Monsoon Asia Drought Atlas (MADA) and the Paleo Hydrodynamics Data Assimilation (PHYDA) to investigate the SH hydroclimatic variability and its mechanisms over the last 500 years (1500–2000 CE). We find that the SH hydroclimate exhibits robust interannual (2–8 years) and multidecadal (50–60 years) variability. Interannual variability is strongly associated with the coupled negative phase of El Niño‐Southern Oscillation (ENSO) and Indian Ocean Dipole, producing a hydroclimatic dipole with the Indian monsoon region that diverts moisture and induces drying in the SH. Our 500‐year perspective suggests that the hydroclimatic teleconnection is non‐stationary, with external forcing (such as solar minima and clustered volcanic eruptions) potentially modulating teleconnection stability in a complex, context‐dependent manner. The 50–60‐year cycle is linked to a combined Pacific climate pattern combining Pacific Decadal Variability (PDV) and tropical sea surface temperature anomalies, with positive PDV‐La Niña phases favoring reduced regional moisture transport. SH hydroclimate is positively correlated with Yarlung Zangbo‐Brahmaputra River (YZBR) runoff, with correlation coefficients ( r ) of 0.75 (upstream) and 0.53 (downstream) ( p &lt; 0.001). Notably, the early 21st‐century aridification trend remains within the historical range, although its attribution requires consideration of both internal variability and external forcing. These findings enhance our understanding of SH hydroclimatic mechanisms and provide a paleoclimatic framework to support regional climate prediction and water resource management in the region."
-    },
-    {
-      "id": "W7171521013",
-      "title": "From climate data to regulatory decisions: integrating climate AI into marine EIAs",
-      "authors": [
-        "Xuan Gong",
-        "Le Cheng"
-      ],
-      "journal": "Frontiers in Marine Science",
-      "publicationDate": "2026-07-28",
-      "doi": "https://doi.org/10.3389/fmars.2026.1870082",
-      "openAlexUrl": "https://openalex.org/W7171521013",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 51,
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change is increasingly reshaping the sustainable development of the ocean through ocean warming, deoxygenation, acidification, and other compounding stressors. Against this backdrop, environmental impact assessment (EIA) has become a pivotal governance instrument for anticipating and reducing the climate-related impacts of human activities at sea. From the United Nations Convention on the Law of the Sea (UNCLOS) to the Agreement on Biodiversity Beyond National Jurisdiction (the BBNJ Agreement), regulatory expectations for marine EIAs are moving toward more structured thresholds, procedural workflows, and reporting obligations. At the same time, rapid advances in climate artificial intelligence (climate AI), such as machine-learning forecasting, deep-learning nowcasting, and agentic AI workflows, are expanding the ability to produce timely, high-resolution, and probabilistic climate information from heterogeneous climate data streams. These capabilities can strengthen climate-related EIAs by combining short-term forecasting and nowcasting for early warning, long-term observation and monitoring for dynamic baselines, and scenario-based climate modelling for impact estimation and decision support. Climate AI can therefore be integrated throughout the EIA workflow rather than appended as an auxiliary layer, translating climate data into regulatory evidence under changing marine-climate conditions. To ensure regulatory robustness and accountability, implementation should be grounded in evidence standards and quality assurance, transparent and auditable documentation, human oversight, responsibility allocation, and formal mechanisms for cross-institutional data sharing. We argue that a standards-driven, AI-enabled EIA framework can improve the relevance, reviewability, and robustness of marine EIA decisions, supporting long-term ocean sustainability under accelerating climate risks."
     }
   ]
 }

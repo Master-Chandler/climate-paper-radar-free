@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:27:43.202Z",
+  "generatedAt": "2026-08-09T02:34:36.580Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 90,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 86,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7171766117",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -101,7 +101,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 82,
+      "score": 80,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -113,33 +113,73 @@
       "abstractEn": "The East Asian summer monsoon (EASM) arises from complex land–air–sea interactions, shaped by influences from the Tibetan Plateau to the west and the Pacific Ocean to the east. Using in situ observations, reanalysis data and simulations from the Community Earth System Model version 2.1.3, here we show that North Pacific sea surface temperature anomalies (SSTAs) act as a seasonal capacitor, mediating the delayed impact of spring (March–May, MAM) Tibetan Plateau surface sensible heating (TPSH) anomalies on EASM. Enhanced MAM TPSH excites Rossby waves that drive an anticyclonic circulation, establishing a persistent “warm-central/cold-flanks” SSTA pattern in the North Pacific. These SSTAs strengthen the summer subtropical front and atmospheric baroclinicity, energizing transient eddies. The resultant cyclonic–anticyclonic circulation anomalies enhance low-level moisture convergence, intensifying rainfall from the Yangtze–Huaihe River basin to southeastern Japan. This capacitor effect facilitates a cross-seasonal linkage by converting spring-initiated TPSH anomalies into basin-scale summer circulation adjustments through oceanic thermal inertia-driven storage."
     },
     {
-      "id": "W7171665215",
-      "title": "Interpretable deep-learning assessment of environmental indicators of global marine plastic pollution across ocean basins and climate zones",
+      "id": "W7196969403",
+      "title": "Remote Sensing-Based Identification of Sensitive Environmental Intervals Controlling Drought Propagation Time Across China",
       "authors": [
-        "Baihui Wu",
-        "Haiyang Yu",
-        "Haiyang Huang",
-        "Jiaxuan He",
-        "Haoran Zou",
-        "Hanbing Wang",
-        "Rongbing Chen",
-        "Qinsi Yang"
+        "Hu Tao",
+        "Yibo Wang",
+        "Zhongyang Zhang",
+        "Zeyong Gao"
       ],
-      "journal": "Ecological Indicators",
-      "publicationDate": "2026-07-29",
-      "doi": "https://doi.org/10.1016/j.ecolind.2026.115284",
-      "openAlexUrl": "https://openalex.org/W7171665215",
+      "journal": "Remote Sensing",
+      "publicationDate": "2026-08-06",
+      "doi": "https://doi.org/10.3390/rs18152615",
+      "openAlexUrl": "https://openalex.org/W7196969403",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
-        "deep learning",
         "shap",
-        "polar",
-        "arctic"
+        "precipitation"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、shap、climate、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Marine plastic pollution has emerged as a pressing global environmental issue and poses a significant threat to both oceanic ecosystems and human well-being. Nevertheless, the patterns of its dispersion and the environmental associations underlying its distribution remain inadequately characterized on a worldwide scale, primarily due to the limitations of traditional monitoring and modeling techniques. In this study, we introduced an interpretable deep learning (DL) framework to predict the plastic pollution level across global oceans and to elucidate the model-attributed environmental associations. Multiple global datasets of plastic pollution concentrations and relevant environmental variables from 2018 to 2022 were integrated. A total of 1193 surface-ocean records were initially compiled. After harmonization and quality control, 1155 records were retained for model development, including 916 training samples and 239 samples in a held-out internal test set. The predictive performance of the FCNN was benchmarked against several widely used machine-learning models. Although XGBoost achieved the highest predictive accuracy and was identified as the best-performing benchmark model, the FCNN demonstrated competitive predictive performance and was retained as the focal deep-learning architecture for evaluating the proposed interpretable neural-network framework. The FCNN model demonstrated moderate predictive performance under random internal validation based on 13 environmental predictor variables spanning geographic, biological, biogeochemical, physicochemical, physical-dynamic, and transport-related categories, achieving a mean five-fold cross-validation R 2 of 0.608 and a held-out internal test-set R 2 of 0.612. Shapley Additive Explanations (SHAP) analysis identified DTC, dissolved oxygen, net primary productivity, and phytoplankton concentration as the main environmental indicators contributing to model predictions. Stratification analysis further revealed distinct regional differences in model-attribution patterns and predictor importance across the four major ocean basins (Atlantic, Pacific, Indian, and Arctic) and climate zones (tropical, temperate, and polar), thereby emphasizing the necessity for region-specific management strategies. This interpretable DL framework provides a data-driven approach for large-scale marine plastic pollution assessment and regional monitoring support within the range of environmental conditions represented by the available data."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Drought early warning is important for reducing agricultural production risks and ensuring regional water security. However, existing warning systems often focus on drought propagation probabilities and average propagation times, with insufficient attention to the identification of changes in propagation time. This study constructs a meteorological drought–soil drought–groundwater drought propagation chain and uses both Granger causality and the maximum positive correlation coefficient method to quantify stage-specific propagation time. Random forest, PDP/LOWESS, and SHAP analyses are then applied to identify important environmental factors and determine their cross-method sensitive intervals. The results show that PET, NDVI, mean annual precipitation, and temperature exhibit high importance across multiple regions and stages. Additionally, sensitive intervals in which important environmental factors significantly affect propagation time were found. In Stage 1 in North China, the effect of the NDVI on propagation time decreases after it exceeds about 0.1. In Stage 2 in Southeast China, temperatures around 17–18 °C are associated with shortened propagation times. The changes are inconsistent across regions and stages. When important factors enter or approach sensitive intervals, propagation time is more likely to change. The propagation time–important factor–sensitive interval analysis framework proposed in this study provides supplementary evidence for determining whether drought propagation time exhibits nonlinear sensitivity to important environmental factors. This framework provides a new perspective for assessing drought early warning needs. The identified sensitive intervals can help recognize environmental conditions associated with rapid changes in drought propagation time, providing additional information for drought risk assessment and region-specific early warning strategies."
+    },
+    {
+      "id": "W7196952040",
+      "title": "Revealing spatial patterns and depth-dependent controls of soil organic carbon density across China using interpretable machine learning",
+      "authors": [
+        "Yuxian Zhang",
+        "Guojie Wang",
+        "Chenxi Zhu",
+        "Pedro Cabral"
+      ],
+      "journal": "Environmental Earth Sciences",
+      "publicationDate": "2026-08-07",
+      "doi": "https://doi.org/10.1007/s12665-026-13093-y",
+      "openAlexUrl": "https://openalex.org/W7196952040",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 64,
+      "matchedKeywords": [
+        "machine learning",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Soil organic carbon density (SOCD) is a key indicator of soil health and a critical component of terrestrial carbon storage, yet its large-scale spatial organization and environmental controls remain insufficiently understood. Here, we assessed national-scale patterns and depth-dependent environmental relationships of SOCD across China from 2000 to 2020. Multi-source soil observations were integrated with climatic, vegetation, topographic, and soil property data to generate annual SOCD estimates for surface (0–20 cm) and profile (0–100 cm) layers using machine-learning models. Predicted SOCD exhibited pronounced spatial heterogeneity, with consistently higher values in the Northeast Plain and the Qinghai–Tibet Plateau and lower values in arid northwestern regions and intensively cultivated areas of the North China Plain. National mean SOCD showed only minor, statistically insignificant changes over the study period, indicating relative temporal stability at the national scale. Model interpretation and spatial heterogeneity analyses indicated that temperature and the Normalized Difference Vegetation Index were the dominant factors associated with surface-layer SOCD, whereas elevation and soil type gained importance with increasing depth. Interactions among climatic, vegetative, and pedogenic variables further structured regional SOCD patterns. These findings indicate that spatial variability in SOCD across China reflects a depth-dependent interplay between vegetation productivity, hydrothermal conditions, and long-term soil formation processes. By providing an interpretable, national-scale assessment of SOCD patterns and their environmental context, this study supports regionally differentiated soil carbon management and monitoring under ongoing climatic change."
+    },
+    {
+      "id": "W7196974162",
+      "title": "Spatial mismatch between heat exposure and cooling accessibility in the Middle Yangtze River Urban Agglomeration",
+      "authors": [
+        "Junfeng Zeng",
+        "Peiyao Yang",
+        "Xinyue Liu",
+        "Zijian Sun"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-08-06",
+      "doi": "https://doi.org/10.1038/s41598-026-65999-z",
+      "openAlexUrl": "https://openalex.org/W7196974162",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 61,
+      "matchedKeywords": [
+        "shap",
+        "yangtze"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Urban heat risk is shaped not only by thermal intensity but also by whether cooling resources are spatially aligned with populations experiencing greater heat exposure. This study developed a spatial diagnostic framework to identify heat exposure–cooling accessibility mismatch across the built-up areas of 30 cities in the Middle Yangtze River Urban Agglomeration, China. Potential heat exposure was characterized using land surface temperature and population density, while potential cooling accessibility was quantified using a two-step floating catchment area method based on urban parks and water bodies. The results revealed pronounced spatial mismatch between heat exposure and cooling accessibility. High-exposure and low-accessibility areas were concentrated mainly in dense urban cores and transitional development zones, whereas higher cooling accessibility occurred more frequently near peripheral or waterfront blue–green resources. Cities with greater mean cooling accessibility did not necessarily exhibit more equitable spatial distributions, demonstrating that spatial configuration and proximity were as important as resource quantity. A leakage-controlled Random Forest (RF) model achieved an AUC of 0.747, while city-group cross-validation yielded a mean AUC of 0.744, indicating moderate and relatively stable cross-city discrimination. SHAP analysis identified impervious surface ratio, building density, and green-space ratio as the principal environmental predictors associated with mismatch probability. Priority screening further identified Level I and II zones covering 19.03% of the built-up analytical area, where high mismatch probability, limited cooling accessibility, and age-related vulnerability jointly occurred. The framework provides a potentially transferable approach for diagnosing exposure–cooling service mismatch and supporting context-specific urban climate adaptation planning."
     },
     {
       "id": "W7172009837",
@@ -159,7 +199,7 @@
       "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "monsoon",
         "himalaya",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T02:34:36.580Z",
+  "generatedAt": "2026-08-10T02:40:23.569Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 90,
+      "score": 88,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7171869065",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -62,28 +62,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Dissolved oxygen (DO) is a key indicator of reservoir water quality and ecosystem integrity. The dynamics of DO are governed by complex physical, chemical, and biological reactions such as thermal stratification, nutrient interactions, photosynthesis, respiration, and microbial decomposition of algae biomass, surface oxygen aeration, and sediment oxygen demand (SOD), making accurate simulation challenging. This study proposes an integrated machine learning framework for DO prediction in the Javeh Reservoir by combining ensemble learning models, explainable Artificial Intelligence, and network-based visualization. Six models (Random Forest, XGBoost, Hist Gradient Boosting, Extra Trees, MLP, and SVR) were optimized using five-day averaged water quality flux, hydrological, hydraulics, and meteorological data. The prediction results were evaluated using statistical measures, MAE, RMSE and Nash–Sutcliffe efficiency (NSE). Among the tested models, ET achieved the best predictive performance (MAE = 0.3465 mg/L, RMSE = 0.5997 mg/L, NSE = 0.9655), indicating excellent agreement between observed and predicted DO values. To enhance interpretability, SHapley Additive exPlanations (SHAP) was applied to the best-performing model. The results highlight air temperature, inflow fluxes of DO, phosphate, ammonium, and outflow discharge as dominant drivers of DO variability, reflecting combined thermal forcing and biogeochemical oxygen-demand processes. In addition, a Chord-diagram connectivity visualization was used to summarize DO linkages with top predictors, providing a complementary network-oriented view of model explanations. Overall, by replacing “black-box” simulation with highly interpretable models, the proposed framework ensures both accuracy and transparency, offering a practical, transferable tool for proactive reservoir water quality management."
-    },
-    {
-      "id": "W7171766117",
-      "title": "Explainable AI in solar PV forecasting: A systematic review of models, explainers, and physical drivers",
-      "authors": [
-        "Shahid Tufail"
-      ],
-      "journal": "Solar Compass",
-      "publicationDate": "2026-07-30",
-      "doi": "https://doi.org/10.1016/j.solcom.2026.100182",
-      "openAlexUrl": "https://openalex.org/W7171766117",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 85,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Solar photovoltaic (PV) forecasting supports secure grid operation, yet advanced machine learning models are hard to trust when their decisions are opaque. This PRISMA 2020 guided systematic review examines explainable artificial intelligence (XAI) in solar forecasting. Of 951 retrieved records, 173 met strict eligibility, requiring quantitative forecasting evaluation plus an explicit explanation output. A sensitivity analysis of the decisive screening rule, which excluded 299 records using attention only as an architectural component, supported its precision, and dual independent re-screening of 75 excluded records found no false exclusions. Long short-term memory (LSTM) models dominated (48 studies), ahead of transformers (39) and convolutional neural networks (CNN, 32) used mainly for image-based nowcasting. SHAP prevailed among explainers (69 studies), ahead of feature importance and permutation methods (39), attention visualization (31), and LIME (14), and 47 studies combined several methods. Quality-stratified synthesis showed these rankings are robust, with the ordering unchanged among the 114 high-quality studies. Irradiance ranked first across targets, while temporal encodings and ambient temperature were stable secondary contributors. Humidity, wind, and cloud proxies shifted with season and climate zone, making global rankings conditional. Horizon mattered, with longer horizons using tabular weather and post hoc attribution and ultra-short horizons using sky images. Cross-study benchmarking remains fragile, and quantitative evaluation of explanation fidelity, stability, and runtime is rare. A critical appraisal of the dominant explainers documents computational cost, instability, sensitivity to correlated inputs, and unverified faithfulness, alongside a reproducibility gap, with only 1.7% of studies releasing both code and data."
     },
     {
       "id": "W7172257727",
@@ -101,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -127,7 +105,7 @@
       "openAlexUrl": "https://openalex.org/W7196969403",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -150,7 +128,7 @@
       "openAlexUrl": "https://openalex.org/W7196952040",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "plateau"
@@ -173,7 +151,7 @@
       "openAlexUrl": "https://openalex.org/W7196974162",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "yangtze"
@@ -199,7 +177,7 @@
       "openAlexUrl": "https://openalex.org/W7172009837",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "monsoon",
         "himalaya",
@@ -207,6 +185,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、ocean、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Understanding the drivers of interannual‐to‐decadal hydroclimatic variability in the southern Himalaya (SH) has been constrained by the scarcity of long‐term, spatially comprehensive proxy records and data assimilation products. Here, we combine the Monsoon Asia Drought Atlas (MADA) and the Paleo Hydrodynamics Data Assimilation (PHYDA) to investigate the SH hydroclimatic variability and its mechanisms over the last 500 years (1500–2000 CE). We find that the SH hydroclimate exhibits robust interannual (2–8 years) and multidecadal (50–60 years) variability. Interannual variability is strongly associated with the coupled negative phase of El Niño‐Southern Oscillation (ENSO) and Indian Ocean Dipole, producing a hydroclimatic dipole with the Indian monsoon region that diverts moisture and induces drying in the SH. Our 500‐year perspective suggests that the hydroclimatic teleconnection is non‐stationary, with external forcing (such as solar minima and clustered volcanic eruptions) potentially modulating teleconnection stability in a complex, context‐dependent manner. The 50–60‐year cycle is linked to a combined Pacific climate pattern combining Pacific Decadal Variability (PDV) and tropical sea surface temperature anomalies, with positive PDV‐La Niña phases favoring reduced regional moisture transport. SH hydroclimate is positively correlated with Yarlung Zangbo‐Brahmaputra River (YZBR) runoff, with correlation coefficients ( r ) of 0.75 (upstream) and 0.53 (downstream) ( p &lt; 0.001). Notably, the early 21st‐century aridification trend remains within the historical range, although its attribution requires consideration of both internal variability and external forcing. These findings enhance our understanding of SH hydroclimatic mechanisms and provide a paleoclimatic framework to support regional climate prediction and water resource management in the region."
+    },
+    {
+      "id": "W7201885074",
+      "title": "Atmospheric dynamics and thermal asymmetry in the Antarctic Peninsula region",
+      "authors": [
+        "Marek Kejna",
+        "Kamil Láska",
+        "Zuzana Neznajová",
+        "Joanna Plenzler",
+        "Jan Řehoř"
+      ],
+      "journal": "Climate Dynamics",
+      "publicationDate": "2026-08-01",
+      "doi": "https://doi.org/10.1007/s00382-026-08302-0",
+      "openAlexUrl": "https://openalex.org/W7201885074",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 59,
+      "matchedKeywords": [
+        "antarctic",
+        "southern annular mode"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、atmospher、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "This paper analyzes the influence that atmospheric circulation in the Antarctic Peninsula region had on thermal conditions on its western (Polish Antarctic Arctowski Station) and eastern (Czech Antarctic Mendel Station) coasts from 2012 to 2024. Based on 850 hPa geopotential height fields from the ERA5 reanalysis, nine anticyclonic and nine cyclonic circulation types were automatically distinguished based on the method proposed by Jenkinson and Collison (1977). The frequency of these types varies from year to year and significantly correlates with the large-scale hemispheric process: the Southern Annular Mode (SAM) described by the Antarctic Oscillation index. In the Antarctic Peninsula region, cyclonic types dominate every month. In winter, the share of anticyclonic types increases. Western circulation dominates. Advection direction was found to significantly affect temperature at both stations. Advection from the west and north causes warming, whereas southerly and easterly advection causes significant temperature drops. Based on analysis of temperature differences between the Arctowski and Mendel stations, the western coast of the Antarctic Peninsula is significantly warmer than the eastern coast. The studied circulation patterns suggested that the differences between Arctowski and Mendel stations are largest with advection from the south and smaller with western zonal advection. Changes in the frequency of atmospheric types in individual years significantly influence air temperature variation. In the warmest years, the frequency of types with advection from the west and north is greater, whereas meridional circulation from the south causes significant cooling."
     }
   ]
 }

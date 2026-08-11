@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:40:23.569Z",
+  "generatedAt": "2026-08-11T02:34:07.197Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 87,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -38,30 +38,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、artificial intelligence、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Global changes in climatic parameters have significantly altered fire regimes in Mediterranean ecosystems, increasing wildfire risk through higher temperatures and prolonged dry periods. This study assesses forest fire susceptibility in Antalya Province, Türkiye, using an Explainable Artificial Intelligence (XAI) framework based on the XGBoost algorithm integrated with SHapley Additive exPlanations (SHAP) to interpret model predictions. Two models were developed: a province-wide model and a Wildland–Urban Interface (WUI) model to capture differences between natural and human-influenced landscapes. A total of 33 spatial variables representing topography, vegetation, climate, and anthropogenic factors were used. Both models demonstrated strong predictive performance. The provincial model achieved an accuracy of 0.844 and an AUC-ROC of 0.911, while the WUI model reached an accuracy of 0.826 and an AUC-ROC of 0.891. SHAP results indicated that temperature and land surface temperature are the most influential drivers in both models, followed by NDVI, precipitation, atmospheric pressure, and evapotranspiration. However, scale-dependent differences were evident. At the provincial scale, climatic and biophysical variables dominated susceptibility patterns, whereas in WUI zones, anthropogenic factors such as population density and proximity to infrastructure played a greater role alongside environmental drivers. High susceptibility areas are mainly concentrated along coastal districts extending eastward from the city center, including Muratpaşa, Kepez, Aksu, Serik, and Manavgat. Overall, high and very high susceptibility zones account for approximately 14% of the area in both models, with WUI risk more clustered around settlements and transport corridors. The findings highlight that wildfire susceptibility in Antalya is driven by interacting climatic, ecological, and human factors, with climate dominating at broader scales and human influence increasing in WUI areas. These results support integrated fire management strategies that address both environmental change and anthropogenic pressure."
-    },
-    {
-      "id": "W7171869065",
-      "title": "Explainable ensemble machine learning for dissolved oxygen prediction in a reservoir using SHAP and chord diagram analysis",
-      "authors": [
-        "Omid Yazdan Panah",
-        "Motahareh Saadatpour"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-07-31",
-      "doi": "https://doi.org/10.1038/s41598-026-64406-x",
-      "openAlexUrl": "https://openalex.org/W7171869065",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 85,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap",
-        "artificial intelligence",
-        "thermal forcing"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Dissolved oxygen (DO) is a key indicator of reservoir water quality and ecosystem integrity. The dynamics of DO are governed by complex physical, chemical, and biological reactions such as thermal stratification, nutrient interactions, photosynthesis, respiration, and microbial decomposition of algae biomass, surface oxygen aeration, and sediment oxygen demand (SOD), making accurate simulation challenging. This study proposes an integrated machine learning framework for DO prediction in the Javeh Reservoir by combining ensemble learning models, explainable Artificial Intelligence, and network-based visualization. Six models (Random Forest, XGBoost, Hist Gradient Boosting, Extra Trees, MLP, and SVR) were optimized using five-day averaged water quality flux, hydrological, hydraulics, and meteorological data. The prediction results were evaluated using statistical measures, MAE, RMSE and Nash–Sutcliffe efficiency (NSE). Among the tested models, ET achieved the best predictive performance (MAE = 0.3465 mg/L, RMSE = 0.5997 mg/L, NSE = 0.9655), indicating excellent agreement between observed and predicted DO values. To enhance interpretability, SHapley Additive exPlanations (SHAP) was applied to the best-performing model. The results highlight air temperature, inflow fluxes of DO, phosphate, ammonium, and outflow discharge as dominant drivers of DO variability, reflecting combined thermal forcing and biogeochemical oxygen-demand processes. In addition, a Chord-diagram connectivity visualization was used to summarize DO linkages with top predictors, providing a complementary network-oriented view of model explanations. Overall, by replacing “black-box” simulation with highly interpretable models, the proposed framework ensures both accuracy and transparency, offering a practical, transferable tool for proactive reservoir water quality management."
     },
     {
       "id": "W7172257727",
@@ -79,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -105,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7196969403",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -128,13 +104,38 @@
       "openAlexUrl": "https://openalex.org/W7196952040",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "plateau"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Soil organic carbon density (SOCD) is a key indicator of soil health and a critical component of terrestrial carbon storage, yet its large-scale spatial organization and environmental controls remain insufficiently understood. Here, we assessed national-scale patterns and depth-dependent environmental relationships of SOCD across China from 2000 to 2020. Multi-source soil observations were integrated with climatic, vegetation, topographic, and soil property data to generate annual SOCD estimates for surface (0–20 cm) and profile (0–100 cm) layers using machine-learning models. Predicted SOCD exhibited pronounced spatial heterogeneity, with consistently higher values in the Northeast Plain and the Qinghai–Tibet Plateau and lower values in arid northwestern regions and intensively cultivated areas of the North China Plain. National mean SOCD showed only minor, statistically insignificant changes over the study period, indicating relative temporal stability at the national scale. Model interpretation and spatial heterogeneity analyses indicated that temperature and the Normalized Difference Vegetation Index were the dominant factors associated with surface-layer SOCD, whereas elevation and soil type gained importance with increasing depth. Interactions among climatic, vegetative, and pedogenic variables further structured regional SOCD patterns. These findings indicate that spatial variability in SOCD across China reflects a depth-dependent interplay between vegetation productivity, hydrothermal conditions, and long-term soil formation processes. By providing an interpretable, national-scale assessment of SOCD patterns and their environmental context, this study supports regionally differentiated soil carbon management and monitoring under ongoing climatic change."
+    },
+    {
+      "id": "W7201953550",
+      "title": "Quantifying the impact of urbanization and climate change on event-based extreme precipitation in Guangdong Province, China",
+      "authors": [
+        "Haoting Xu",
+        "Chao Gao",
+        "Xiongpeng Tang",
+        "Silong Zhang",
+        "Zhanliang Zhu",
+        "Tianyu Wan",
+        "Chenchen Zhao"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-08-08",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.103804",
+      "openAlexUrl": "https://openalex.org/W7201953550",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study region Guangdong is located on the southern coast of mainland China and is the province with the highest level and fastest pace of urbanization in the country. Study focus This study investigates how five characteristics of hourly event-based extreme precipitation (HEEP) vary over space and time in Guangdong Province from 1973 to 2021. These characteristics are frequency, total amount, duration, intensity, and temporal unevenness, which is measured by the Gini coefficient. HEEP events, defined by hourly precipitation exceeding the 95th percentile with inter-event times under 6 h, were analyzed using nonstationary Generalized Additive Models for Location, Scale and Shape (GAMLSS). The approach uses covariates to assess impacts, including urbanization metrics derived from land use data on impervious surfaces (such as percentage of landscape (PLAND), patch density (PD), largest patch index (LPI), and aggregation index (AI)) and climate metrics (such as Niño3.4, PDO, IOD, and EASM). New hydrological insights for the region Results reveal distinct spatial patterns: higher frequency in the north, greater total amounts and intensity in the Pearl River Delta (PRD) and western coast, longer durations in the east, and more temporally concentrated precipitation in the PRD. Nonstationary models significantly outperform stationary ones, confirming temporal changes in HEEP characteristics. Urbanization exerts a stronger overall influence, with mean relative contributions of 47.0% (total amount), 43.7% (duration), and 40.7% (Gini coefficient) across stations, whereas the mean urbanization contributions are lower for frequency (26.8%) and intensity (32.7%), indicating a more balanced influence between urbanization and climate drivers for these two characteristics. Notably, AI and PDO enhance frequency, PLAND suppresses it, LPI and AI amplify total precipitation, and Niño3.4 increases temporal unevenness. These effects vary with local urbanization rates, highlighting the need to integrate nonstationarity and multifactor drivers in assessing extreme precipitation under urban expansion and climate change."
     },
     {
       "id": "W7196974162",
@@ -151,40 +152,13 @@
       "openAlexUrl": "https://openalex.org/W7196974162",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "shap",
         "yangtze"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Urban heat risk is shaped not only by thermal intensity but also by whether cooling resources are spatially aligned with populations experiencing greater heat exposure. This study developed a spatial diagnostic framework to identify heat exposure–cooling accessibility mismatch across the built-up areas of 30 cities in the Middle Yangtze River Urban Agglomeration, China. Potential heat exposure was characterized using land surface temperature and population density, while potential cooling accessibility was quantified using a two-step floating catchment area method based on urban parks and water bodies. The results revealed pronounced spatial mismatch between heat exposure and cooling accessibility. High-exposure and low-accessibility areas were concentrated mainly in dense urban cores and transitional development zones, whereas higher cooling accessibility occurred more frequently near peripheral or waterfront blue–green resources. Cities with greater mean cooling accessibility did not necessarily exhibit more equitable spatial distributions, demonstrating that spatial configuration and proximity were as important as resource quantity. A leakage-controlled Random Forest (RF) model achieved an AUC of 0.747, while city-group cross-validation yielded a mean AUC of 0.744, indicating moderate and relatively stable cross-city discrimination. SHAP analysis identified impervious surface ratio, building density, and green-space ratio as the principal environmental predictors associated with mismatch probability. Priority screening further identified Level I and II zones covering 19.03% of the built-up analytical area, where high mismatch probability, limited cooling accessibility, and age-related vulnerability jointly occurred. The framework provides a potentially transferable approach for diagnosing exposure–cooling service mismatch and supporting context-specific urban climate adaptation planning."
-    },
-    {
-      "id": "W7172009837",
-      "title": "Interannual‐Decadal Hydroclimatic Variability in the Southern Himalaya Over the Past 500 Years: Mechanisms From MADA‐PHYDA Integration",
-      "authors": [
-        "Kexin Wang",
-        "Ashish Sinha",
-        "Hanying Li",
-        "Carlos Pérez‐Mejías",
-        "Jingyao Zhao",
-        "Changfeng Sun",
-        "Hai Cheng"
-      ],
-      "journal": "Journal of Geophysical Research Atmospheres",
-      "publicationDate": "2026-07-31",
-      "doi": "https://doi.org/10.1029/2026jd047598",
-      "openAlexUrl": "https://openalex.org/W7172009837",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 60,
-      "matchedKeywords": [
-        "monsoon",
-        "himalaya",
-        "teleconnection"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、ocean、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Understanding the drivers of interannual‐to‐decadal hydroclimatic variability in the southern Himalaya (SH) has been constrained by the scarcity of long‐term, spatially comprehensive proxy records and data assimilation products. Here, we combine the Monsoon Asia Drought Atlas (MADA) and the Paleo Hydrodynamics Data Assimilation (PHYDA) to investigate the SH hydroclimatic variability and its mechanisms over the last 500 years (1500–2000 CE). We find that the SH hydroclimate exhibits robust interannual (2–8 years) and multidecadal (50–60 years) variability. Interannual variability is strongly associated with the coupled negative phase of El Niño‐Southern Oscillation (ENSO) and Indian Ocean Dipole, producing a hydroclimatic dipole with the Indian monsoon region that diverts moisture and induces drying in the SH. Our 500‐year perspective suggests that the hydroclimatic teleconnection is non‐stationary, with external forcing (such as solar minima and clustered volcanic eruptions) potentially modulating teleconnection stability in a complex, context‐dependent manner. The 50–60‐year cycle is linked to a combined Pacific climate pattern combining Pacific Decadal Variability (PDV) and tropical sea surface temperature anomalies, with positive PDV‐La Niña phases favoring reduced regional moisture transport. SH hydroclimate is positively correlated with Yarlung Zangbo‐Brahmaputra River (YZBR) runoff, with correlation coefficients ( r ) of 0.75 (upstream) and 0.53 (downstream) ( p &lt; 0.001). Notably, the early 21st‐century aridification trend remains within the historical range, although its attribution requires consideration of both internal variability and external forcing. These findings enhance our understanding of SH hydroclimatic mechanisms and provide a paleoclimatic framework to support regional climate prediction and water resource management in the region."
     },
     {
       "id": "W7201885074",
@@ -202,7 +176,7 @@
       "openAlexUrl": "https://openalex.org/W7201885074",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:34:07.197Z",
+  "generatedAt": "2026-08-12T03:03:39.645Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 87,
+      "score": 85,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7172257727",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -81,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7196969403",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -104,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7196952040",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "plateau"
@@ -130,7 +130,7 @@
       "openAlexUrl": "https://openalex.org/W7201953550",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -152,7 +152,7 @@
       "openAlexUrl": "https://openalex.org/W7196974162",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "shap",
         "yangtze"
@@ -161,28 +161,30 @@
       "abstractEn": "Abstract Urban heat risk is shaped not only by thermal intensity but also by whether cooling resources are spatially aligned with populations experiencing greater heat exposure. This study developed a spatial diagnostic framework to identify heat exposure–cooling accessibility mismatch across the built-up areas of 30 cities in the Middle Yangtze River Urban Agglomeration, China. Potential heat exposure was characterized using land surface temperature and population density, while potential cooling accessibility was quantified using a two-step floating catchment area method based on urban parks and water bodies. The results revealed pronounced spatial mismatch between heat exposure and cooling accessibility. High-exposure and low-accessibility areas were concentrated mainly in dense urban cores and transitional development zones, whereas higher cooling accessibility occurred more frequently near peripheral or waterfront blue–green resources. Cities with greater mean cooling accessibility did not necessarily exhibit more equitable spatial distributions, demonstrating that spatial configuration and proximity were as important as resource quantity. A leakage-controlled Random Forest (RF) model achieved an AUC of 0.747, while city-group cross-validation yielded a mean AUC of 0.744, indicating moderate and relatively stable cross-city discrimination. SHAP analysis identified impervious surface ratio, building density, and green-space ratio as the principal environmental predictors associated with mismatch probability. Priority screening further identified Level I and II zones covering 19.03% of the built-up analytical area, where high mismatch probability, limited cooling accessibility, and age-related vulnerability jointly occurred. The framework provides a potentially transferable approach for diagnosing exposure–cooling service mismatch and supporting context-specific urban climate adaptation planning."
     },
     {
-      "id": "W7201885074",
-      "title": "Atmospheric dynamics and thermal asymmetry in the Antarctic Peninsula region",
+      "id": "W7165198932",
+      "title": "The space weather awareness training network",
       "authors": [
-        "Marek Kejna",
-        "Kamil Láska",
-        "Zuzana Neznajová",
-        "Joanna Plenzler",
-        "Jan Řehoř"
+        "Teresa Barata",
+        "D. Del Moro",
+        "R. Erdélyi",
+        "João Fernandes",
+        "Ricardo Gafeira",
+        "M.K. Georgoulis",
+        "K. Murawski",
+        "A. Nindos"
       ],
-      "journal": "Climate Dynamics",
-      "publicationDate": "2026-08-01",
-      "doi": "https://doi.org/10.1007/s00382-026-08302-0",
-      "openAlexUrl": "https://openalex.org/W7201885074",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 58,
+      "journal": "Springer Link (Chiba Institute of Technology)",
+      "publicationDate": "2026-08-06",
+      "doi": "https://doi.org/10.1051/swsc/2026020/pdf",
+      "openAlexUrl": "https://openalex.org/W7165198932",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 53,
       "matchedKeywords": [
-        "antarctic",
-        "southern annular mode"
+        "deep learning"
       ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、atmospher、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "This paper analyzes the influence that atmospheric circulation in the Antarctic Peninsula region had on thermal conditions on its western (Polish Antarctic Arctowski Station) and eastern (Czech Antarctic Mendel Station) coasts from 2012 to 2024. Based on 850 hPa geopotential height fields from the ERA5 reanalysis, nine anticyclonic and nine cyclonic circulation types were automatically distinguished based on the method proposed by Jenkinson and Collison (1977). The frequency of these types varies from year to year and significantly correlates with the large-scale hemispheric process: the Southern Annular Mode (SAM) described by the Antarctic Oscillation index. In the Antarctic Peninsula region, cyclonic types dominate every month. In winter, the share of anticyclonic types increases. Western circulation dominates. Advection direction was found to significantly affect temperature at both stations. Advection from the west and north causes warming, whereas southerly and easterly advection causes significant temperature drops. Based on analysis of temperature differences between the Arctowski and Mendel stations, the western coast of the Antarctic Peninsula is significantly warmer than the eastern coast. The studied circulation patterns suggested that the differences between Arctowski and Mendel stations are largest with advection from the south and smaller with western zonal advection. Changes in the frequency of atmospheric types in individual years significantly influence air temperature variation. In the warmest years, the frequency of types with advection from the west and north is greater, whereas meridional circulation from the south causes significant cooling."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Motivation and Aims: The main objectives of this paper are twofold: (1) to present the Space Weather Awareness Training Network (SWATNet), an innovative Marie Skłodowska-Curie Training Network designed to provide high-quality doctoral training in space weather, and (2) to highlight the scientific advances achieved within the project. Methods: By combining cutting-edge research with structured international and intersectoral training, SWATNet reached fundamental advances in understanding space weather phenomena and trained a new generation of scientists equipped to tackle modern challenges in both research and industry. Results: SWATNet delivered advancements in modelling solar eruptions and the solar corona, and improved studies of the propagation and transport of Solar Energetic Particles, often utilising interdisciplinary methods. These include machine and deep learning, image processing, and various numerical modelling approaches. The research produced 26 peer-reviewed journal articles, along with various presentations at international conferences. In addition, SWATNet successfully completed its ambitious training programme on practical observatory and industry training."
     }
   ]
 }

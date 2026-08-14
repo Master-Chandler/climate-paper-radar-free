@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:06:51.832Z",
+  "generatedAt": "2026-08-14T03:05:33.386Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7172450867",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 84,
+      "score": 82,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -38,33 +38,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、artificial intelligence、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Global changes in climatic parameters have significantly altered fire regimes in Mediterranean ecosystems, increasing wildfire risk through higher temperatures and prolonged dry periods. This study assesses forest fire susceptibility in Antalya Province, Türkiye, using an Explainable Artificial Intelligence (XAI) framework based on the XGBoost algorithm integrated with SHapley Additive exPlanations (SHAP) to interpret model predictions. Two models were developed: a province-wide model and a Wildland–Urban Interface (WUI) model to capture differences between natural and human-influenced landscapes. A total of 33 spatial variables representing topography, vegetation, climate, and anthropogenic factors were used. Both models demonstrated strong predictive performance. The provincial model achieved an accuracy of 0.844 and an AUC-ROC of 0.911, while the WUI model reached an accuracy of 0.826 and an AUC-ROC of 0.891. SHAP results indicated that temperature and land surface temperature are the most influential drivers in both models, followed by NDVI, precipitation, atmospheric pressure, and evapotranspiration. However, scale-dependent differences were evident. At the provincial scale, climatic and biophysical variables dominated susceptibility patterns, whereas in WUI zones, anthropogenic factors such as population density and proximity to infrastructure played a greater role alongside environmental drivers. High susceptibility areas are mainly concentrated along coastal districts extending eastward from the city center, including Muratpaşa, Kepez, Aksu, Serik, and Manavgat. Overall, high and very high susceptibility zones account for approximately 14% of the area in both models, with WUI risk more clustered around settlements and transport corridors. The findings highlight that wildfire susceptibility in Antalya is driven by interacting climatic, ecological, and human factors, with climate dominating at broader scales and human influence increasing in WUI areas. These results support integrated fire management strategies that address both environmental change and anthropogenic pressure."
-    },
-    {
-      "id": "W7172257727",
-      "title": "North Pacific capacitor effect bridges spring Tibetan Plateau heating and the East Asian summer monsoon",
-      "authors": [
-        "Ruizao Sun",
-        "Lilan Chen",
-        "Ping Zhang",
-        "Anmin Duan",
-        "Aixue Hu"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-08-03",
-      "doi": "https://doi.org/10.1038/s41612-026-01491-9",
-      "openAlexUrl": "https://openalex.org/W7172257727",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 75,
-      "matchedKeywords": [
-        "monsoon",
-        "yangtze",
-        "tibetan plateau",
-        "plateau",
-        "rossby"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、ocean、monsoon，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The East Asian summer monsoon (EASM) arises from complex land–air–sea interactions, shaped by influences from the Tibetan Plateau to the west and the Pacific Ocean to the east. Using in situ observations, reanalysis data and simulations from the Community Earth System Model version 2.1.3, here we show that North Pacific sea surface temperature anomalies (SSTAs) act as a seasonal capacitor, mediating the delayed impact of spring (March–May, MAM) Tibetan Plateau surface sensible heating (TPSH) anomalies on EASM. Enhanced MAM TPSH excites Rossby waves that drive an anticyclonic circulation, establishing a persistent “warm-central/cold-flanks” SSTA pattern in the North Pacific. These SSTAs strengthen the summer subtropical front and atmospheric baroclinicity, energizing transient eddies. The resultant cyclonic–anticyclonic circulation anomalies enhance low-level moisture convergence, intensifying rainfall from the Yangtze–Huaihe River basin to southeastern Japan. This capacitor effect facilitates a cross-seasonal linkage by converting spring-initiated TPSH anomalies into basin-scale summer circulation adjustments through oceanic thermal inertia-driven storage."
     },
     {
       "id": "W7202137019",
@@ -79,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7202137019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "shap",
         "causal"
@@ -92,9 +65,9 @@
       "title": "Spatiotemporal trends of cryo-climatic parameters in the Chandra Basin, Himachal Pradesh, India",
       "authors": [
         "Abhinav Rai",
-        "Pankaj Kumar",
         "Shipra Singh",
-        "Anish Kumar Rai"
+        "Pankaj Kumar",
+        "Anish Kumar"
       ],
       "journal": "Discover Geoscience",
       "publicationDate": "2026-08-10",
@@ -102,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7202083578",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -130,13 +103,36 @@
       "openAlexUrl": "https://openalex.org/W7202081810",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "sea ice",
         "arctic"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 sea ice、arctic、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Against the backdrop of a rapid trajectory toward a seasonally ice-free Arctic, late-summer Chukchi Sea ice recovered over 2020–2024, culminating in an abrupt retention that obstructed the Northeast Passage by September 2024 for the first time since 2001. Here we show that this recovery coincides with a persistent poleward-shifted Pacific–Arctic cyclonic anomaly near the Bering Strait. This shifted circulation produces a coupled dynamic–thermodynamic response, with Arctic cold advection, enhanced cloud-induced cooling, reduced oceanic heat, and delayed seasonal thinning acting together to sustain late-summer ice retention. Furthermore, we demonstrate that the Pacific–North American (PNA) mode is linked to summer Chukchi Sea ice variations, with its influence expressed through the regional position of the associated Pacific–Arctic cyclonic anomaly. These findings identify the Chukchi Sea as a sensitive Pacific Arctic sector where natural regional circulation variability generates abrupt, localized reversals in summer sea-ice loss, thereby offering a fresh perspective on the role of summer PNA-related circulation variability in Pacific-sector Arctic sea ice. The recovery of late-summer Chukchi Sea ice over 2020–2024 was driven by a poleward-shifted Pacific–Arctic cyclonic anomaly that enhanced cooling and delayed seasonal thinning, according to a study combining satellite observations, sea-ice thickness estimates and atmospheric-oceanic reanalyses."
+    },
+    {
+      "id": "W7196969403",
+      "title": "Remote Sensing-Based Identification of Sensitive Environmental Intervals Controlling Drought Propagation Time Across China",
+      "authors": [
+        "Hu Tao",
+        "Yibo Wang",
+        "Zhongyang Zhang",
+        "Zeyong Gao"
+      ],
+      "journal": "Remote Sensing",
+      "publicationDate": "2026-08-06",
+      "doi": "https://doi.org/10.3390/rs18152615",
+      "openAlexUrl": "https://openalex.org/W7196969403",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 63,
+      "matchedKeywords": [
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Drought early warning is important for reducing agricultural production risks and ensuring regional water security. However, existing warning systems often focus on drought propagation probabilities and average propagation times, with insufficient attention to the identification of changes in propagation time. This study constructs a meteorological drought–soil drought–groundwater drought propagation chain and uses both Granger causality and the maximum positive correlation coefficient method to quantify stage-specific propagation time. Random forest, PDP/LOWESS, and SHAP analyses are then applied to identify important environmental factors and determine their cross-method sensitive intervals. The results show that PET, NDVI, mean annual precipitation, and temperature exhibit high importance across multiple regions and stages. Additionally, sensitive intervals in which important environmental factors significantly affect propagation time were found. In Stage 1 in North China, the effect of the NDVI on propagation time decreases after it exceeds about 0.1. In Stage 2 in Southeast China, temperatures around 17–18 °C are associated with shortened propagation times. The changes are inconsistent across regions and stages. When important factors enter or approach sensitive intervals, propagation time is more likely to change. The propagation time–important factor–sensitive interval analysis framework proposed in this study provides supplementary evidence for determining whether drought propagation time exhibits nonlinear sensitivity to important environmental factors. This framework provides a new perspective for assessing drought early warning needs. The identified sensitive intervals can help recognize environmental conditions associated with rapid changes in drought propagation time, providing additional information for drought risk assessment and region-specific early warning strategies."
     },
     {
       "id": "W7202137273",
@@ -154,36 +150,13 @@
       "openAlexUrl": "https://openalex.org/W7202137273",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "precipitation",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、precipitation、hydrolog、cryosphere，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Study region Selected permafrost watersheds in the Qinghai-Tibet Plateau (QTP) Study focus With sparse in-situ measurements and discontinuous streamflow records, a full understanding of permafrost-hydrological responses remains limited in the QTP. Land surface models (LSMs) offer a powerful tool for replicating and projecting hydrological changes, yet require multivariable validation prior to practical application. New hydrological insights for the region Through a systematic evaluation of six state-of-the-art LSMs from the Inter-Sectoral Impact Model Intercomparison Project, our results show that most models reasonably capture hydrological responses to permafrost variations across four basins, with the exception of the H08 model, which lacks dynamic permafrost representation. Permafrost coverage shows a spatially negative correlation with cold-season runoff but a positive correlation with warm-season runoff ratio; meanwhile, basins with relatively lower permafrost cover exhibit longer streamflow recession, and delayed peak flow responses to precipitation with large model divergence ranging from −27.9 ± 13.6 to 53.2 ± 6.5 days. Under ongoing future warming, the ensemble mean of three top-performing models projects an increasingly flattened hydrograph, with the strongest permafrost reduction, seasonal runoff attenuation, and recession delays occurring under RCP8.5. However, runoff-precipitation response time exhibits strong spatial variability, likely due to competing influences of topography and other cryosphere components (e.g., ground ice melting). This study highlights the value of multivariate assessment in understanding complex hydrological processes in alpine permafrost regions, facilitating better water resource management."
-    },
-    {
-      "id": "W7196969403",
-      "title": "Remote Sensing-Based Identification of Sensitive Environmental Intervals Controlling Drought Propagation Time Across China",
-      "authors": [
-        "Hu Tao",
-        "Yibo Wang",
-        "Zhongyang Zhang",
-        "Zeyong Gao"
-      ],
-      "journal": "Remote Sensing",
-      "publicationDate": "2026-08-06",
-      "doi": "https://doi.org/10.3390/rs18152615",
-      "openAlexUrl": "https://openalex.org/W7196969403",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 64,
-      "matchedKeywords": [
-        "shap",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Drought early warning is important for reducing agricultural production risks and ensuring regional water security. However, existing warning systems often focus on drought propagation probabilities and average propagation times, with insufficient attention to the identification of changes in propagation time. This study constructs a meteorological drought–soil drought–groundwater drought propagation chain and uses both Granger causality and the maximum positive correlation coefficient method to quantify stage-specific propagation time. Random forest, PDP/LOWESS, and SHAP analyses are then applied to identify important environmental factors and determine their cross-method sensitive intervals. The results show that PET, NDVI, mean annual precipitation, and temperature exhibit high importance across multiple regions and stages. Additionally, sensitive intervals in which important environmental factors significantly affect propagation time were found. In Stage 1 in North China, the effect of the NDVI on propagation time decreases after it exceeds about 0.1. In Stage 2 in Southeast China, temperatures around 17–18 °C are associated with shortened propagation times. The changes are inconsistent across regions and stages. When important factors enter or approach sensitive intervals, propagation time is more likely to change. The propagation time–important factor–sensitive interval analysis framework proposed in this study provides supplementary evidence for determining whether drought propagation time exhibits nonlinear sensitivity to important environmental factors. This framework provides a new perspective for assessing drought early warning needs. The identified sensitive intervals can help recognize environmental conditions associated with rapid changes in drought propagation time, providing additional information for drought risk assessment and region-specific early warning strategies."
     },
     {
       "id": "W7196952040",
@@ -200,7 +173,7 @@
       "openAlexUrl": "https://openalex.org/W7196952040",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "machine learning",
         "plateau"
@@ -226,7 +199,7 @@
       "openAlexUrl": "https://openalex.org/W7201953550",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -248,7 +221,7 @@
       "openAlexUrl": "https://openalex.org/W7196974162",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "shap",
         "yangtze"
@@ -275,7 +248,7 @@
       "openAlexUrl": "https://openalex.org/W7165198932",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "deep learning"
       ],

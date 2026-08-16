@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:55:52.051Z",
+  "generatedAt": "2026-08-16T02:05:13.780Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7202137019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "shap",
         "causal"
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7202083578",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7202081810",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "sea ice",
         "arctic"
@@ -99,7 +99,7 @@
       "openAlexUrl": "https://openalex.org/W7202137273",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -122,7 +122,7 @@
       "openAlexUrl": "https://openalex.org/W7196969403",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -149,7 +149,7 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "sea ice",
         "arctic"
@@ -172,7 +172,7 @@
       "openAlexUrl": "https://openalex.org/W7196952040",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "machine learning",
         "plateau"
@@ -198,7 +198,7 @@
       "openAlexUrl": "https://openalex.org/W7201953550",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -220,39 +220,13 @@
       "openAlexUrl": "https://openalex.org/W7196974162",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "shap",
         "yangtze"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Urban heat risk is shaped not only by thermal intensity but also by whether cooling resources are spatially aligned with populations experiencing greater heat exposure. This study developed a spatial diagnostic framework to identify heat exposure–cooling accessibility mismatch across the built-up areas of 30 cities in the Middle Yangtze River Urban Agglomeration, China. Potential heat exposure was characterized using land surface temperature and population density, while potential cooling accessibility was quantified using a two-step floating catchment area method based on urban parks and water bodies. The results revealed pronounced spatial mismatch between heat exposure and cooling accessibility. High-exposure and low-accessibility areas were concentrated mainly in dense urban cores and transitional development zones, whereas higher cooling accessibility occurred more frequently near peripheral or waterfront blue–green resources. Cities with greater mean cooling accessibility did not necessarily exhibit more equitable spatial distributions, demonstrating that spatial configuration and proximity were as important as resource quantity. A leakage-controlled Random Forest (RF) model achieved an AUC of 0.747, while city-group cross-validation yielded a mean AUC of 0.744, indicating moderate and relatively stable cross-city discrimination. SHAP analysis identified impervious surface ratio, building density, and green-space ratio as the principal environmental predictors associated with mismatch probability. Priority screening further identified Level I and II zones covering 19.03% of the built-up analytical area, where high mismatch probability, limited cooling accessibility, and age-related vulnerability jointly occurred. The framework provides a potentially transferable approach for diagnosing exposure–cooling service mismatch and supporting context-specific urban climate adaptation planning."
-    },
-    {
-      "id": "W7165198932",
-      "title": "The space weather awareness training network",
-      "authors": [
-        "Teresa Barata",
-        "D. Del Moro",
-        "R. Erdélyi",
-        "João Fernandes",
-        "Ricardo Gafeira",
-        "M.K. Georgoulis",
-        "K. Murawski",
-        "A. Nindos"
-      ],
-      "journal": "Springer Link (Chiba Institute of Technology)",
-      "publicationDate": "2026-08-06",
-      "doi": "https://doi.org/10.1051/swsc/2026020/pdf",
-      "openAlexUrl": "https://openalex.org/W7165198932",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 49,
-      "matchedKeywords": [
-        "deep learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Motivation and Aims: The main objectives of this paper are twofold: (1) to present the Space Weather Awareness Training Network (SWATNet), an innovative Marie Skłodowska-Curie Training Network designed to provide high-quality doctoral training in space weather, and (2) to highlight the scientific advances achieved within the project. Methods: By combining cutting-edge research with structured international and intersectoral training, SWATNet reached fundamental advances in understanding space weather phenomena and trained a new generation of scientists equipped to tackle modern challenges in both research and industry. Results: SWATNet delivered advancements in modelling solar eruptions and the solar corona, and improved studies of the propagation and transport of Solar Energetic Particles, often utilising interdisciplinary methods. These include machine and deep learning, image processing, and various numerical modelling approaches. The research produced 26 peer-reviewed journal articles, along with various presentations at international conferences. In addition, SWATNet successfully completed its ambitious training programme on practical observatory and industry training."
     }
   ]
 }

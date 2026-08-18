@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:02:00.531Z",
+  "generatedAt": "2026-08-18T01:56:57.091Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7202137019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "shap",
         "causal"
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7202083578",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7202081810",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "sea ice",
         "arctic"
@@ -99,7 +99,7 @@
       "openAlexUrl": "https://openalex.org/W7202137273",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -126,36 +126,13 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "sea ice",
         "arctic"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 sea ice、arctic，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Europe has experienced extreme floods in recent decades. However, even larger floods are possible and must be considered in flood risk management 1,2 . Their characteristics can be clarified by analysing the largest documented historical floods. In Central Europe, the Magdalena Flood of July 1342 is usually considered the largest of the last millennium; however, knowledge of its characteristics is incomplete 3–7 . Here we show that 16 major flood events occurred across much of Europe between late 1341 and 1343. Four of these events had return periods of 500–1,000 years (the Magdalena, Bartholomew, Candlemas and Jacob Floods). Although Magdalena was thought previously to be the only extreme European flood in 1342 3,7 , our new documentary dataset suggests that it formed part of a broader sequence. The year with the greatest number of extreme floods during the past 700 years was 1342, and 1343 ranks among the top ten. This highly unusual sequence of floods had substantial socio-economic impacts, including a paradigm shift in flood mitigation measures in Europe. A series of volcanic eruptions along with multi-annual Arctic sea ice retreat is a plausible cause of this flood sequence. Clusters of extreme floods occurring within a few months are rarely considered in risk management 8 . Quick and proactive risk strategies are needed that account for this eventuality."
-    },
-    {
-      "id": "W7196952040",
-      "title": "Revealing spatial patterns and depth-dependent controls of soil organic carbon density across China using interpretable machine learning",
-      "authors": [
-        "Yuxian Zhang",
-        "Guojie Wang",
-        "Chenxi Zhu",
-        "Pedro Cabral"
-      ],
-      "journal": "Environmental Earth Sciences",
-      "publicationDate": "2026-08-07",
-      "doi": "https://doi.org/10.1007/s12665-026-13093-y",
-      "openAlexUrl": "https://openalex.org/W7196952040",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 52,
-      "matchedKeywords": [
-        "machine learning",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Soil organic carbon density (SOCD) is a key indicator of soil health and a critical component of terrestrial carbon storage, yet its large-scale spatial organization and environmental controls remain insufficiently understood. Here, we assessed national-scale patterns and depth-dependent environmental relationships of SOCD across China from 2000 to 2020. Multi-source soil observations were integrated with climatic, vegetation, topographic, and soil property data to generate annual SOCD estimates for surface (0–20 cm) and profile (0–100 cm) layers using machine-learning models. Predicted SOCD exhibited pronounced spatial heterogeneity, with consistently higher values in the Northeast Plain and the Qinghai–Tibet Plateau and lower values in arid northwestern regions and intensively cultivated areas of the North China Plain. National mean SOCD showed only minor, statistically insignificant changes over the study period, indicating relative temporal stability at the national scale. Model interpretation and spatial heterogeneity analyses indicated that temperature and the Normalized Difference Vegetation Index were the dominant factors associated with surface-layer SOCD, whereas elevation and soil type gained importance with increasing depth. Interactions among climatic, vegetative, and pedogenic variables further structured regional SOCD patterns. These findings indicate that spatial variability in SOCD across China reflects a depth-dependent interplay between vegetation productivity, hydrothermal conditions, and long-term soil formation processes. By providing an interpretable, national-scale assessment of SOCD patterns and their environmental context, this study supports regionally differentiated soil carbon management and monitoring under ongoing climatic change."
     },
     {
       "id": "W7201953550",
@@ -175,7 +152,7 @@
       "openAlexUrl": "https://openalex.org/W7201953550",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "precipitation"
       ],

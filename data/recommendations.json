@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T01:56:57.091Z",
+  "generatedAt": "2026-08-19T01:59:47.757Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7202137019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "shap",
         "causal"
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7202083578",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7202081810",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "sea ice",
         "arctic"
@@ -99,7 +99,7 @@
       "openAlexUrl": "https://openalex.org/W7202137273",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -126,38 +126,13 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "sea ice",
         "arctic"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 sea ice、arctic，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Europe has experienced extreme floods in recent decades. However, even larger floods are possible and must be considered in flood risk management 1,2 . Their characteristics can be clarified by analysing the largest documented historical floods. In Central Europe, the Magdalena Flood of July 1342 is usually considered the largest of the last millennium; however, knowledge of its characteristics is incomplete 3–7 . Here we show that 16 major flood events occurred across much of Europe between late 1341 and 1343. Four of these events had return periods of 500–1,000 years (the Magdalena, Bartholomew, Candlemas and Jacob Floods). Although Magdalena was thought previously to be the only extreme European flood in 1342 3,7 , our new documentary dataset suggests that it formed part of a broader sequence. The year with the greatest number of extreme floods during the past 700 years was 1342, and 1343 ranks among the top ten. This highly unusual sequence of floods had substantial socio-economic impacts, including a paradigm shift in flood mitigation measures in Europe. A series of volcanic eruptions along with multi-annual Arctic sea ice retreat is a plausible cause of this flood sequence. Clusters of extreme floods occurring within a few months are rarely considered in risk management 8 . Quick and proactive risk strategies are needed that account for this eventuality."
-    },
-    {
-      "id": "W7201953550",
-      "title": "Quantifying the impact of urbanization and climate change on event-based extreme precipitation in Guangdong Province, China",
-      "authors": [
-        "Haoting Xu",
-        "Chao Gao",
-        "Xiongpeng Tang",
-        "Silong Zhang",
-        "Zhanliang Zhu",
-        "Tianyu Wan",
-        "Chenchen Zhao"
-      ],
-      "journal": "Journal of Hydrology Regional Studies",
-      "publicationDate": "2026-08-08",
-      "doi": "https://doi.org/10.1016/j.ejrh.2026.103804",
-      "openAlexUrl": "https://openalex.org/W7201953550",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 50,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Study region Guangdong is located on the southern coast of mainland China and is the province with the highest level and fastest pace of urbanization in the country. Study focus This study investigates how five characteristics of hourly event-based extreme precipitation (HEEP) vary over space and time in Guangdong Province from 1973 to 2021. These characteristics are frequency, total amount, duration, intensity, and temporal unevenness, which is measured by the Gini coefficient. HEEP events, defined by hourly precipitation exceeding the 95th percentile with inter-event times under 6 h, were analyzed using nonstationary Generalized Additive Models for Location, Scale and Shape (GAMLSS). The approach uses covariates to assess impacts, including urbanization metrics derived from land use data on impervious surfaces (such as percentage of landscape (PLAND), patch density (PD), largest patch index (LPI), and aggregation index (AI)) and climate metrics (such as Niño3.4, PDO, IOD, and EASM). New hydrological insights for the region Results reveal distinct spatial patterns: higher frequency in the north, greater total amounts and intensity in the Pearl River Delta (PRD) and western coast, longer durations in the east, and more temporally concentrated precipitation in the PRD. Nonstationary models significantly outperform stationary ones, confirming temporal changes in HEEP characteristics. Urbanization exerts a stronger overall influence, with mean relative contributions of 47.0% (total amount), 43.7% (duration), and 40.7% (Gini coefficient) across stations, whereas the mean urbanization contributions are lower for frequency (26.8%) and intensity (32.7%), indicating a more balanced influence between urbanization and climate drivers for these two characteristics. Notably, AI and PDO enhance frequency, PLAND suppresses it, LPI and AI amplify total precipitation, and Niño3.4 increases temporal unevenness. These effects vary with local urbanization rates, highlighting the need to integrate nonstationarity and multifactor drivers in assessing extreme precipitation under urban expansion and climate change."
     }
   ]
 }

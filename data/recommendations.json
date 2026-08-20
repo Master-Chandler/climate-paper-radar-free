@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T01:59:47.757Z",
+  "generatedAt": "2026-08-20T01:58:04.620Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7202137019",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "shap",
         "causal"
@@ -47,7 +47,7 @@
       "openAlexUrl": "https://openalex.org/W7202083578",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7202081810",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "sea ice",
         "arctic"
@@ -99,7 +99,7 @@
       "openAlexUrl": "https://openalex.org/W7202137273",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -126,7 +126,7 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "sea ice",
         "arctic"

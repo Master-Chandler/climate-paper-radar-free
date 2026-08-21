@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:58:04.620Z",
+  "generatedAt": "2026-08-21T02:07:05.654Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,102 +11,6 @@
     ]
   },
   "papers": [
-    {
-      "id": "W7202137019",
-      "title": "Beyond the 1.5°C planetary boundary: AI-forecast of Global Disease Burden and Health inequities",
-      "authors": [
-        "Hanif Abdul Rahman",
-        "Hein Minn Tun"
-      ],
-      "journal": "PLoS ONE",
-      "publicationDate": "2026-08-10",
-      "doi": "https://doi.org/10.1371/journal.pone.0354159",
-      "openAlexUrl": "https://openalex.org/W7202137019",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 62,
-      "matchedKeywords": [
-        "shap",
-        "causal"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、causal、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "BACKGROUND: The planetary boundary for climate change-initially set at global mean temperature increase of 1.5°C above pre-industrial levels-has been significantly transgressed. Understanding the mechanistic pathways through which climate warming impacts disease burden is critical for evidence-based policy interventions. OBJECTIVE: This study aims to quantify and explain the global burden of disease when planetary climate boundaries are crossed at 1.5°C, 2.0°C, and 2.5°C warming thresholds. METHODS: We applied a dual-phase framework: (1) Exploratory AI using Random Forest and XGBoost algorithms to identify non-linear relationships and threshold effects between temperature increase and disease burden; (2) Explanatory AI employing SHAP (SHapley Additive exPlanations) values and causal inference models to mechanistically explain pathways linking climate change to health outcomes. RESULTS: At 1.5°C warming, global heat-related deaths increase from baseline (2019) of 0.21 million to 0.35 million (+66.7%), with corresponding heat-related disability-adjusted life-years (DALYs) rising from 4.77 million to 8.20 million (+71.9%). Cardiovascular disease burden escalates from 24.18 million DALYs to 29.50 million (+22.0%). At 2.0°C warming, these impacts intensify dramatically: heat-related deaths reach 0.52 million (+147.6%) and DALYs 12.50 million (+162.1%), while CVD DALYs increase to 35.80 million (+48.1%). At 2.5°C warming, heat-related deaths surge to 0.78 million (+271.4%) with DALYs of 18.90 million (+296.4%), and CVD DALYs reach 44.20 million (+82.8%). CONCLUSIONS: Crossing planetary climate boundaries triggers exponential escalation of global disease burden through multiple, synergistic pathways disproportionately affecting vulnerable populations in low-resource settings. Urgent climate mitigation to limit warming below 2.0°C could prevent millions of premature deaths and substantial DALY losses globally. Health system adaptation strategies must prioritize vulnerable populations and integrate climate resilience into health policy frameworks."
-    },
-    {
-      "id": "W7202083578",
-      "title": "Spatiotemporal trends of cryo-climatic parameters in the Chandra Basin, Himachal Pradesh, India",
-      "authors": [
-        "Abhinav Rai",
-        "Shipra Singh",
-        "Pankaj Kumar",
-        "Anish Kumar"
-      ],
-      "journal": "Discover Geoscience",
-      "publicationDate": "2026-08-10",
-      "doi": "https://doi.org/10.1007/s44288-026-00681-5",
-      "openAlexUrl": "https://openalex.org/W7202083578",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 60,
-      "matchedKeywords": [
-        "monsoon",
-        "precipitation",
-        "himalaya"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、monsoon、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Globally, the cryosphere is highly sensitive to Earth’s changing climate. The Himalayan cryosphere serves as the critical water source for millions of people downstream. The present study conducts a comprehensive long-term (1950–2024) spatiotemporal trend analysis of cryo-climatic parameters in the high-altitude Chandra Basin in the Himachal Himalaya. The study utilized the ERA5-Land reanalysis high-resolution (0.1° x 0.1°) dataset to analyze five key cryo-climatic parameters: temperature, total precipitation, rainfall, snowfall, and snow depth across monthly, seasonal, and annual timescales at both basin-wide and grid-wise scales. This study has used a multi-method statistical framework, including the Mann-Kendall & Sen’s Slope, Innovative Trend Analysis (ITA), and the Sequential Mann-Kendall (SQMK) test, to detect monotonic and sub-trends and to identify change points. Results reveal a significant warming trend (+ 0.15 °C/decade), with the strongest seasonal increases during the monsoon (+ 0.2 °C/year), winter, and pre-monsoon. SQMK analysis indicates that an accelerated upward trend started around 1990. Annual total precipitation is declining in the pre- and post-monsoon seasons. Annual rainfall shows a significant upward trend (+ 1.15 mm/year), whereas snowfall declined substantially (-3.0 mm/year), indicating a precipitation phase shift from snow to rain. The snow fraction is declining at -0.12%/year, and the mean snow depth is decreasing (-4.2 mm/year) during the critical pre-monsoon (MAM) season. Spatial analysis reveals that the eastern, higher-elevation glacierized areas are experiencing drying trends, while monsoon rainfall has increased in the western, lower-elevation areas. These warming temperatures are driving precipitation phase shifts and subsequent cryospheric degradation, posing significant risks to the regional cryosphere health, water security, and downstream agriculture and ecosystem sustainability."
-    },
-    {
-      "id": "W7202081810",
-      "title": "Unexpected return of late-summer sea ice in the Pacific Arctic under persistent poleward-shifted cyclonic anomaly",
-      "authors": [
-        "Jiaxing Gong",
-        "Xi Zhao",
-        "Zhongfang Liu",
-        "Annette Rinke",
-        "Xichen Li",
-        "Jiping Liu",
-        "Yifan Wu",
-        "Lijuan Song"
-      ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-08-10",
-      "doi": "https://doi.org/10.1038/s43247-026-03914-0",
-      "openAlexUrl": "https://openalex.org/W7202081810",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 58,
-      "matchedKeywords": [
-        "sea ice",
-        "arctic"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 sea ice、arctic、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Against the backdrop of a rapid trajectory toward a seasonally ice-free Arctic, late-summer Chukchi Sea ice recovered over 2020–2024, culminating in an abrupt retention that obstructed the Northeast Passage by September 2024 for the first time since 2001. Here we show that this recovery coincides with a persistent poleward-shifted Pacific–Arctic cyclonic anomaly near the Bering Strait. This shifted circulation produces a coupled dynamic–thermodynamic response, with Arctic cold advection, enhanced cloud-induced cooling, reduced oceanic heat, and delayed seasonal thinning acting together to sustain late-summer ice retention. Furthermore, we demonstrate that the Pacific–North American (PNA) mode is linked to summer Chukchi Sea ice variations, with its influence expressed through the regional position of the associated Pacific–Arctic cyclonic anomaly. These findings identify the Chukchi Sea as a sensitive Pacific Arctic sector where natural regional circulation variability generates abrupt, localized reversals in summer sea-ice loss, thereby offering a fresh perspective on the role of summer PNA-related circulation variability in Pacific-sector Arctic sea ice. The recovery of late-summer Chukchi Sea ice over 2020–2024 was driven by a poleward-shifted Pacific–Arctic cyclonic anomaly that enhanced cooling and delayed seasonal thinning, according to a study combining satellite observations, sea-ice thickness estimates and atmospheric-oceanic reanalyses."
-    },
-    {
-      "id": "W7202137273",
-      "title": "Permafrost thaw flattens hydrographs in alpine watersheds of the Qinghai-Tibet Plateau",
-      "authors": [
-        "Li Liu",
-        "Yonghong Yi",
-        "H. Jiang",
-        "Taihua Wang",
-        "Fan Lü"
-      ],
-      "journal": "Journal of Hydrology Regional Studies",
-      "publicationDate": "2026-08-10",
-      "doi": "https://doi.org/10.1016/j.ejrh.2026.103813",
-      "openAlexUrl": "https://openalex.org/W7202137273",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 55,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、precipitation、hydrolog、cryosphere，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Study region Selected permafrost watersheds in the Qinghai-Tibet Plateau (QTP) Study focus With sparse in-situ measurements and discontinuous streamflow records, a full understanding of permafrost-hydrological responses remains limited in the QTP. Land surface models (LSMs) offer a powerful tool for replicating and projecting hydrological changes, yet require multivariable validation prior to practical application. New hydrological insights for the region Through a systematic evaluation of six state-of-the-art LSMs from the Inter-Sectoral Impact Model Intercomparison Project, our results show that most models reasonably capture hydrological responses to permafrost variations across four basins, with the exception of the H08 model, which lacks dynamic permafrost representation. Permafrost coverage shows a spatially negative correlation with cold-season runoff but a positive correlation with warm-season runoff ratio; meanwhile, basins with relatively lower permafrost cover exhibit longer streamflow recession, and delayed peak flow responses to precipitation with large model divergence ranging from −27.9 ± 13.6 to 53.2 ± 6.5 days. Under ongoing future warming, the ensemble mean of three top-performing models projects an increasingly flattened hydrograph, with the strongest permafrost reduction, seasonal runoff attenuation, and recession delays occurring under RCP8.5. However, runoff-precipitation response time exhibits strong spatial variability, likely due to competing influences of topography and other cryosphere components (e.g., ground ice melting). This study highlights the value of multivariate assessment in understanding complex hydrological processes in alpine permafrost regions, facilitating better water resource management."
-    },
     {
       "id": "W7202274482",
       "title": "Cascading continental-scale floods across Europe in 1342–1343",
@@ -126,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "sea ice",
         "arctic"

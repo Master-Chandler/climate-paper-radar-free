@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:07:05.654Z",
+  "generatedAt": "2026-08-22T01:56:59.037Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,59 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7203741604",
+      "title": "Intensifying extreme precipitation amplifies socioeconomic exposure in the Yangtze River Basin",
+      "authors": [
+        "Yinan Guo",
+        "Yujia Bai",
+        "Zhifu Zhang",
+        "Yongli Dou",
+        "Juliao Qiu",
+        "Xi Gong",
+        "Lingling Wu",
+        "Li Zhou"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-08-19",
+      "doi": "https://doi.org/10.1038/s41598-026-64257-6",
+      "openAlexUrl": "https://openalex.org/W7203741604",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 67,
+      "matchedKeywords": [
+        "yangtze",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Using CN05.1 observations and high-resolution NEX-GDDP-CMIP6 simulations, we evaluate the performance of climate models in reproducing extreme precipitation over the Yangtze River Basin based on Taylor diagrams, Taylor Skill Score, and Interannual Variability Score. Extreme Value Theory (EVT), through the Generalized Extreme Value (GEV) distribution, is further applied to estimate the 10-year and 20-year return levels of RX1day and RX5day. On this basis, we analyse the future evolution of extreme precipitation under different scenarios and quantify changes in population and GDP exposure. The results show that NEX-GDDP-CMIP6 and its multi-model ensemble mean reproduce the observed spatial and temporal patterns of extreme precipitation reasonably well, with the ensemble generally outperforming individual models. Across future scenarios, basin-mean values of the eight extreme precipitation indices exhibit significant upward trends, indicating a robust increase in the frequency and intensity of extreme events. By combining GEV-based return levels with population and GDP projections, we find that socioeconomic exposure to extreme precipitation increases substantially throughout the twenty-first century. Contribution analysis reveals that changes in population exposure are dominated by climate effects, whereas changes in GDP exposure arise from the combined influence of climate change and economic growth."
+    },
+    {
+      "id": "W7203717668",
+      "title": "Bridging the weather and climate divide with artificial intelligence",
+      "authors": [
+        "Gustau Camps‐Valls",
+        "Alberto Carrassi",
+        "Francisco de Melo Viríssimo",
+        "Kevin Debeire",
+        "Miguel‐Ángel Fernández‐Torres",
+        "Philipp Hess",
+        "H Heuer",
+        "Nathan Mankovich"
+      ],
+      "journal": "Nature Communications",
+      "publicationDate": "2026-08-18",
+      "doi": "https://doi.org/10.1038/s41467-026-75787-y",
+      "openAlexUrl": "https://openalex.org/W7203717668",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 60,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Weather and climate shape every aspect of our lives, yet for decades they have been studied as separate worlds—one concerned with what happens tomorrow, the other with what awaits us over the coming decades. This long-standing divide has slowed progress in both fields. Here, we argue that artificial intelligence (AI) is helping to dissolve the boundary between them. By learning directly from vast streams of Earth observations, AI is starting to predict both tomorrow’s storm and next century’s climate within a single, unified framework. We show how this convergence is already underway, why weather and climate science have much to gain from each other, and what still stands in the way—from trust, transparency, and fairness to the energy cost of computation and the risk of widening global inequalities. Realizing this vision will demand not only better algorithms but a new culture of collaboration across scientific communities, operational centers, fields and disciplines. Done well, a unified, AI-driven Earth science could deliver faster, more reliable, and more actionable predictions—helping societies anticipate and adapt to a rapidly warming planet. Weather forecasting and climate prediction have long developed in isolation. This Perspective argues that artificial intelligence is dissolving that divide, enabling unified Earth-system models that span from tomorrow’s storms to the climate of coming decades."
+    },
     {
       "id": "W7202274482",
       "title": "Cascading continental-scale floods across Europe in 1342–1343",
@@ -30,7 +83,7 @@
       "openAlexUrl": "https://openalex.org/W7202274482",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "sea ice",
         "arctic"

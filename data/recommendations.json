@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T01:56:59.037Z",
+  "generatedAt": "2026-08-23T02:08:29.492Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7203750087",
+      "title": "Improvement of riming process parameterization in the WRF model and its advantages in simulating precipitation over the Tibetan Plateau",
+      "authors": [
+        "Kunjing Yang",
+        "Xiaoqi Xu",
+        "Chunsong Lu",
+        "Jinghua Chen",
+        "Jing Yang",
+        "Junjun Li",
+        "Kai Yang",
+        "Naifu Shao"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-08-20",
+      "doi": "https://doi.org/10.1038/s41612-026-01510-9",
+      "openAlexUrl": "https://openalex.org/W7203750087",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 75,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
+    },
     {
       "id": "W7203741604",
       "title": "Intensifying extreme precipitation amplifies socioeconomic exposure in the Yangtze River Basin",
@@ -30,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7203741604",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
@@ -57,39 +85,12 @@
       "openAlexUrl": "https://openalex.org/W7203717668",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Weather and climate shape every aspect of our lives, yet for decades they have been studied as separate worlds—one concerned with what happens tomorrow, the other with what awaits us over the coming decades. This long-standing divide has slowed progress in both fields. Here, we argue that artificial intelligence (AI) is helping to dissolve the boundary between them. By learning directly from vast streams of Earth observations, AI is starting to predict both tomorrow’s storm and next century’s climate within a single, unified framework. We show how this convergence is already underway, why weather and climate science have much to gain from each other, and what still stands in the way—from trust, transparency, and fairness to the energy cost of computation and the risk of widening global inequalities. Realizing this vision will demand not only better algorithms but a new culture of collaboration across scientific communities, operational centers, fields and disciplines. Done well, a unified, AI-driven Earth science could deliver faster, more reliable, and more actionable predictions—helping societies anticipate and adapt to a rapidly warming planet. Weather forecasting and climate prediction have long developed in isolation. This Perspective argues that artificial intelligence is dissolving that divide, enabling unified Earth-system models that span from tomorrow’s storms to the climate of coming decades."
-    },
-    {
-      "id": "W7202274482",
-      "title": "Cascading continental-scale floods across Europe in 1342–1343",
-      "authors": [
-        "Andrea Kiss",
-        "Alberto Viglione",
-        "Mariano Barriendos",
-        "Silvia Enzi",
-        "Martin Bauch",
-        "Kris Decker",
-        "Nicolas Maughan",
-        "Dag Retsö"
-      ],
-      "journal": "Nature",
-      "publicationDate": "2026-08-12",
-      "doi": "https://doi.org/10.1038/s41586-026-10888-8",
-      "openAlexUrl": "https://openalex.org/W7202274482",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 52,
-      "matchedKeywords": [
-        "sea ice",
-        "arctic"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 sea ice、arctic，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Europe has experienced extreme floods in recent decades. However, even larger floods are possible and must be considered in flood risk management 1,2 . Their characteristics can be clarified by analysing the largest documented historical floods. In Central Europe, the Magdalena Flood of July 1342 is usually considered the largest of the last millennium; however, knowledge of its characteristics is incomplete 3–7 . Here we show that 16 major flood events occurred across much of Europe between late 1341 and 1343. Four of these events had return periods of 500–1,000 years (the Magdalena, Bartholomew, Candlemas and Jacob Floods). Although Magdalena was thought previously to be the only extreme European flood in 1342 3,7 , our new documentary dataset suggests that it formed part of a broader sequence. The year with the greatest number of extreme floods during the past 700 years was 1342, and 1343 ranks among the top ten. This highly unusual sequence of floods had substantial socio-economic impacts, including a paradigm shift in flood mitigation measures in Europe. A series of volcanic eruptions along with multi-annual Arctic sea ice retreat is a plausible cause of this flood sequence. Clusters of extreme floods occurring within a few months are rarely considered in risk management 8 . Quick and proactive risk strategies are needed that account for this eventuality."
     }
   ]
 }

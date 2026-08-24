@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:08:29.492Z",
+  "generatedAt": "2026-08-24T02:06:21.098Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,63 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7203558214",
+      "title": "Geospatial deep learning and SHAP-based explainable AI for wildfire susceptibility and exposure mapping in Western Canada",
+      "authors": [
+        "Muhammad S. Khan",
+        "Aitazaz A. Farooque",
+        "Tatiana Al-Mughrabi",
+        "Raheleh Malekian",
+        "Xander Wang",
+        "Travis J. Esau",
+        "Qamar Uz Zaman"
+      ],
+      "journal": "Ecological Informatics",
+      "publicationDate": "2026-08-15",
+      "doi": "https://doi.org/10.1016/j.ecoinf.2026.103996",
+      "openAlexUrl": "https://openalex.org/W7203558214",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 84,
+      "matchedKeywords": [
+        "deep learning",
+        "explainable",
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、shap、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Wildfire activity in British Columbia, Canada, has intensified in recent years, yet spatially explicit, explainable methods for assessing susceptibility and prioritizing exposure remain limited. This study presents an integrated framework that combines Earth observation, geospatial indicators, and geospatial deep learning with SHAP-based explainable AI for climate-informed wildfire susceptibility and exposure assessment. Wildfire records from 2000 to 2024 were combined with eighteen climatic, vegetation, topographic, and anthropogenic indicators from SRTM, TerraClimate, ERA5-Land, Sentinel-2, and national datasets. Long short-term memory (LSTM) and bidirectional LSTM (BiLSTM) models, including particle swarm optimization (PSO)-enhanced variants, mapped susceptibility, while SHapley Additive exPlanations identified the dominant controls. Potential exposure within the very high class was evaluated for households, roads, and vegetation and rangeland across ten fire-prone districts. Results indicate an increasingly climate-sensitive fire regime that intensified after 2019, with an extreme 2023 season under warmer, drier conditions. The BiLSTM-PSO model achieved the best performance (test AUC = 0.92, accuracy = 82.5%, F1-score = 82.6%), remained stable across seeds and large-fire thresholds, and assigned 24.7% of the province to the very high class. The drought index (DSI) and forested (tree-cover) land use, road and household proximity, temperature, and wind speed emerged as the most influential predictors, whereas humidity, precipitation, and soil moisture reduced susceptibility. High and very high susceptibility concentrated in the south-central and southeastern interior, with Central Kootenay, Okanagan-Similkameen, East Kootenay, and Thompson-Nicola as the most prominent exposure hotspots. ENSO and PDO teleconnections influenced fire only indirectly, while susceptibility agreed with an independent cross-border model (Spearman ρ = +0.42). Overall, the framework provides an explainable basis for susceptibility modelling, exposure prioritization, and adaptation planning."
+    },
+    {
+      "id": "W7203939266",
+      "title": "Revealing Dust Source Changes in East Asia From Past to Future: An Interpretable Deep Learning Approach",
+      "authors": [
+        "Yanyu Li",
+        "Qizhong Wu",
+        "Xueshun Chen",
+        "Yue Jiang",
+        "Jieying He",
+        "Huaqiong Cheng"
+      ],
+      "journal": "Land Degradation and Development",
+      "publicationDate": "2026-08-21",
+      "doi": "https://doi.org/10.1002/ldr.70885",
+      "openAlexUrl": "https://openalex.org/W7203939266",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 81,
+      "matchedKeywords": [
+        "deep learning",
+        "shap",
+        "east asia",
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "ABSTRACT Aeolian dust source areas are controlled by climate and human activities and are closely associated with land degradation, yet their long‐term evolution under global warming remains insufficiently quantified. An integrated framework that couples a U‐Net segmentation model with Shapley Additive Explanations (SHAP) was built to map and attribute dust source areas across arid and semi‐arid East Asia. Using the framework, spring dust source area changes are quantified annually for 2000–2024 and projected for 2100 under the three IPCC Shared Socioeconomic Pathways (SSP) scenarios. The relative influence of key meteorological controls is also quantified. From 2000 to 2024, the spring dust source area shrinks from 3.7 × 10 6 to 2.8 × 10 6 km 2 , representing a net reduction of 25.5%, primarily due to rapid contraction along ecological margins and persistence within hyper‐arid cores. The conversion from dust source to grassland is up to 1.3 × 10 6 km 2 , benefiting greatly from ecological restoration and regional hydroclimatic amelioration. SHAP analysis shows a shift in the dominant climatic constraint from precipitation to evaporation. By the year 2100, dust source areas will expand in area relative to the historical period. The greatest expansion occurs in central eastern Mongolia and northern Xinjiang, whereas the Tibetan Plateau shows a marked reduction. The total dust source area in 2100 declines with warming intensification and decreases by 9.1% from SSP1‐2.6 to SSP5‐8.5 future climate scenarios. Under future global warming, precipitation supply emerges as the principal control on moisture availability in arid and semi‐arid regions and therefore constrains dust source expansion."
+    },
     {
       "id": "W7203750087",
       "title": "Improvement of riming process parameterization in the WRF model and its advantages in simulating precipitation over the Tibetan Plateau",
@@ -30,7 +87,7 @@
       "openAlexUrl": "https://openalex.org/W7203750087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -58,7 +115,7 @@
       "openAlexUrl": "https://openalex.org/W7203741604",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
@@ -85,7 +142,7 @@
       "openAlexUrl": "https://openalex.org/W7203717668",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "artificial intelligence"
       ],

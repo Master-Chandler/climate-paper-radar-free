@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:07:58.579Z",
+  "generatedAt": "2026-08-27T10:06:21.065Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -28,7 +28,7 @@
       "openAlexUrl": "https://openalex.org/W7203939266",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -39,6 +39,37 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "ABSTRACT Aeolian dust source areas are controlled by climate and human activities and are closely associated with land degradation, yet their long‐term evolution under global warming remains insufficiently quantified. An integrated framework that couples a U‐Net segmentation model with Shapley Additive Explanations (SHAP) was built to map and attribute dust source areas across arid and semi‐arid East Asia. Using the framework, spring dust source area changes are quantified annually for 2000–2024 and projected for 2100 under the three IPCC Shared Socioeconomic Pathways (SSP) scenarios. The relative influence of key meteorological controls is also quantified. From 2000 to 2024, the spring dust source area shrinks from 3.7 × 10 6 to 2.8 × 10 6 km 2 , representing a net reduction of 25.5%, primarily due to rapid contraction along ecological margins and persistence within hyper‐arid cores. The conversion from dust source to grassland is up to 1.3 × 10 6 km 2 , benefiting greatly from ecological restoration and regional hydroclimatic amelioration. SHAP analysis shows a shift in the dominant climatic constraint from precipitation to evaporation. By the year 2100, dust source areas will expand in area relative to the historical period. The greatest expansion occurs in central eastern Mongolia and northern Xinjiang, whereas the Tibetan Plateau shows a marked reduction. The total dust source area in 2100 declines with warming intensification and decreases by 9.1% from SSP1‐2.6 to SSP5‐8.5 future climate scenarios. Under future global warming, precipitation supply emerges as the principal control on moisture availability in arid and semi‐arid regions and therefore constrains dust source expansion."
+    },
+    {
+      "id": "W7204095911",
+      "title": "Influence of spring Bering-Okhotsk sea ice on boreal summer intraseasonal oscillation over equatorial central Pacific",
+      "authors": [
+        "Puyu Liu",
+        "Yao Ha",
+        "Yimin Zhu",
+        "Sen Gu",
+        "Tianju Wang",
+        "Haixia Dai",
+        "Yijia Hu",
+        "Zhong Zhong"
+      ],
+      "journal": "Climate Dynamics",
+      "publicationDate": "2026-08-24",
+      "doi": "https://doi.org/10.1007/s00382-026-08354-2",
+      "openAlexUrl": "https://openalex.org/W7204095911",
+      "topic": "teleconnection",
+      "topicLabel": "气候遥相关",
+      "score": 73,
+      "matchedKeywords": [
+        "thermal forcing",
+        "sea ice",
+        "polar",
+        "arctic",
+        "teleconnection",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“气候遥相关”：标题或摘要命中 teleconnection、rossby、climate、ocean、sea ice，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "This study investigates the influence of spring sea ice concentration (SIC) variability in the Bering-Okhotsk Seas (BOS) on the intensity of the Boreal Summer Intraseasonal Oscillation (BSISO) over the equatorial central Pacific (ECP) in June. Observational analyses reveal that a reduction in spring BOS SIC is significantly associated with enhanced BSISO activity. Sea ice retreat amplifies upward heat fluxes through positive air-ocean-ice feedback, which intensifies local warming and further accelerates ice melt. These thermal anomalies reduce lower-tropospheric geopotential height, inducing cyclonic circulation that enhances mid-tropospheric ascent. The upward motion transport compresses air in the upper troposphere, generating divergence and a Rossby wave source via vortex stretching. The resulting Rossby wave train propagates southward, facilitated by a weakened Pacific subtropical westerly jet that promotes latitudinal wave energy dispersion. Anomalous westerlies associated with the southern part of this pattern weaken the climatological easterly trades, thereby suppressing surface evaporation and elevating local sea surface temperatures (SSTs) through the wind-evaporation-SST (WES) feedback. This warming enhances ascending motion, convective available potential energy (CAPE), and low-level moisture convergence over the ECP, establishing a favorable thermodynamic and dynamic environment for BSISO intensification. Linear baroclinic model (LBM) experiments corroborate that thermal forcing over the BOS modulates ECP BSISO activity via this cross-latitudinal teleconnection. As a fundamental component of the high-latitude cryosphere, sea ice modulates global climate and serves as a key indicator of planetary warming. Recent decades have witnessed pronounced Arctic warming and sea ice loss, with repercussions extending from the polar to the tropical regions. In the tropics, the intraseasonal oscillation acts as a critical bridge between weather and climate systems. However, both how Arctic sea ice influences the BSISO and the underlying mechanisms connecting these systems remain unclear. This study aims to address these knowledge gaps, thereby advancing our mechanistic understanding of cross-spatiotemporal interactions between the Arctic and lower-latitude climate."
     },
     {
       "id": "W7203750087",
@@ -59,7 +90,7 @@
       "openAlexUrl": "https://openalex.org/W7203750087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -67,6 +98,52 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
+    },
+    {
+      "id": "W7204156832",
+      "title": "Upslope expansion of active fire detections weakened following intensified fire-prevention policies in the southeastern margin of the Tibetan Plateau",
+      "authors": [
+        "Jinping Chen",
+        "Zheneng Hu",
+        "Wanxiong Zhang",
+        "Zhongshi Zhang",
+        "Zhongshi Zhang",
+        "Keyan Fang",
+        "Jingjing Wang (140791)",
+        "Jie Zhou"
+      ],
+      "journal": "Geomatics Natural Hazards and Risk",
+      "publicationDate": "2026-08-24",
+      "doi": "https://doi.org/10.1080/19475705.2026.2721808",
+      "openAlexUrl": "https://openalex.org/W7204156832",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 67,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The southeastern margin of the Tibetan Plateau, including the Hengduan Mountains (HDM), is a hotspot of subtropical active fire occurrence. We analyzed MODIS active fire detections from 2001 to 2024 together with elevation, meteorological, population, policy, and Oceanic Niño Index (ONI) data using kernel density estimation, ordinary least squares regression, a 5-year moving-window Welch t-test, interrupted time-series (ITS) regression, random forest, and Spearman correlation. During 2001–2014, annual active fire counts increased markedly, particularly at 2000–3500 m, while mean fire elevation shifted upslope at 38.34 m yr−1 (p = 0.032). After 2015, both the overall increase and upslope shift weakened. After adjustment for ENSO variability, ITS showed a significant immediate reduction in annual active fire count associated with the 2014–2015 policy-intensification period (β = −342.30, p = 0.028), whereas the post-intervention slope change and ONI association were not significant. Drivers varied with elevation: human activity and atmospheric dryness were important at low elevations, humidity and drought stress at mid elevations, and wind-related variability at high elevations. These results support an association between intensified fire prevention and reduced active fire occurrence."
+    },
+    {
+      "id": "W7204099003",
+      "title": "Advances and challenges in sorghum breeding [ Sorghum bicolor (L.) Moench]: genomic tools, climate resilience and future directions",
+      "authors": [
+        "Werkissa Yali"
+      ],
+      "journal": "Cogent Food & Agriculture",
+      "publicationDate": "2026-08-24",
+      "doi": "https://doi.org/10.1080/23311932.2026.2719981",
+      "openAlexUrl": "https://openalex.org/W7204099003",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 61,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Sorghum (Sorghum bicolor (L.) Moench) is a major cereal crop cultivated in arid and semi-arid regions, where it plays a vital role in food security, livestock feed and industrial applications. Its inherent drought and heat tolerance, supported by its C4 photosynthetic pathway, efficient water use and extensive genetic diversity, make it one of the most climate-resilient cereal crops. However, climate change has intensified drought, heat, salinity and emerging pest and disease pressures, threatening sorghum productivity and yield stability worldwide. Conventional phenotypic breeding has contributed to sorghum improvement but remains constrained by the polygenic nature of adaptive traits, genotype × environment interactions and long breeding cycles. Recent advances in genomics, including whole-genome sequencing, pan-genomics, genome-wide association studies, marker-assisted selection, genomic selection, CRISPR/Cas genome editing, high-throughput phenotyping, speed breeding, artificial intelligence and multi-omics approaches, have revolutionized sorghum breeding by enabling more accurate and efficient selection for complex traits. This review synthesizes current genetic resources, genomic tools and climate-resilient breeding strategies while critically evaluating the strengths, limitations, practical applications and implementation challenges of major genomics-assisted breeding approaches, particularly in resource-limited breeding programs. It further highlights the integration of genomics, high-throughput phenotyping, artificial intelligence, environmental data, predictive breeding and participatory breeding to accelerate the development and adoption of climate-resilient sorghum cultivars. Future progress will depend on integrating multi-omics platforms, exploiting diverse germplasm, strengthening phenotyping and bioinformatics capacity, improving seed systems and translating genomic discoveries into practical breeding pipelines that benefit smallholder farmers."
     },
     {
       "id": "W7203741604",
@@ -87,7 +164,7 @@
       "openAlexUrl": "https://openalex.org/W7203741604",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
@@ -114,7 +191,7 @@
       "openAlexUrl": "https://openalex.org/W7203717668",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "artificial intelligence"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T11:37:20.018Z",
+  "generatedAt": "2026-08-29T07:15:13.051Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -28,7 +28,7 @@
       "openAlexUrl": "https://openalex.org/W7203939266",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -59,7 +59,7 @@
       "openAlexUrl": "https://openalex.org/W7204095911",
       "topic": "teleconnection",
       "topicLabel": "气候遥相关",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "thermal forcing",
         "sea ice",
@@ -90,7 +90,7 @@
       "openAlexUrl": "https://openalex.org/W7203750087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -98,6 +98,33 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
+    },
+    {
+      "id": "W7204220977",
+      "title": "Nonlinear Granger causality and LSTM-Transformer hybrid forecasting reveal meteorological drivers of influenza incidence in Gansu Province",
+      "authors": [
+        "Yalin Jiao",
+        "Jingyi Xin",
+        "Chengqiao Song",
+        "Bangze Fu",
+        "Qiaoling Tang",
+        "Ranran Wang",
+        "Shuwen Zhang",
+        "Yunfeng Jiang"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-08-26",
+      "doi": "https://doi.org/10.1038/s41598-026-62458-7",
+      "openAlexUrl": "https://openalex.org/W7204220977",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 66,
+      "matchedKeywords": [
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Influenza poses a significant public health burden with distinct seasonality. In regions with pronounced climatic features like Gansu Province, China, traditional statistical models often fail to capture the nonlinear and lagged effects of meteorological drivers on influenza transmission. A deeper understanding of these complex relationships is essential for improving predictive accuracy. A Random Forest-based nonlinear Granger causality test was employed to systematically identify significant lagged predictive relationships between eight meteorological variables and monthly influenza incidence in Gansu Province (2004–2020). This approach accommodates complex, nonlinear dependencies that linear Granger causality cannot capture. Meteorological features exhibiting significant predictive improvement were selected via Random Forest and combined with influenza autocorrelation features as inputs to an LSTM-Transformer hybrid model. The model was trained using a rigorous time-series split (60%-20%-20%) and evaluated primarily using the Weighted Mean Absolute Percentage Error (WMAPE). Model explainability was assessed using SHapley Additive exPlanations (SHAP). The nonlinear Granger causality test identified significant statistical predictive relationships for all eight meteorological factors. Temperature-related variables exhibited a 6-month lag (improvement rates: 22.56%-23.99%). Precipitation showed a 1-month lag (improvement rate: 19.37%). Sunshine duration displayed a persistent predictive pattern across lags of 1 to 6 months (improvement rates: 15.8%-22.85%). The hybrid model achieved an R² of 0.786 and a WMAPE of 30.19% on the independent test set. SHAP-based explainability analysis ranked sunshine duration lagged by 2 months as the most influential predictor (mean absolute SHAP value = 0.0609), followed by the 6-month rolling mean of minimum temperature (0.0322). Meteorological factors offered important statistical predictive information for influenza incidence in Gansu Province, with sunshine duration exhibiting a persistent predictive pattern across multiple lags. The hybrid model demonstrated robust predictive performance on the independent test set."
     },
     {
       "id": "W7204156832",
@@ -118,7 +145,7 @@
       "openAlexUrl": "https://openalex.org/W7204156832",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -138,7 +165,7 @@
       "openAlexUrl": "https://openalex.org/W7204099003",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "artificial intelligence"
       ],
@@ -164,39 +191,13 @@
       "openAlexUrl": "https://openalex.org/W7203741604",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Using CN05.1 observations and high-resolution NEX-GDDP-CMIP6 simulations, we evaluate the performance of climate models in reproducing extreme precipitation over the Yangtze River Basin based on Taylor diagrams, Taylor Skill Score, and Interannual Variability Score. Extreme Value Theory (EVT), through the Generalized Extreme Value (GEV) distribution, is further applied to estimate the 10-year and 20-year return levels of RX1day and RX5day. On this basis, we analyse the future evolution of extreme precipitation under different scenarios and quantify changes in population and GDP exposure. The results show that NEX-GDDP-CMIP6 and its multi-model ensemble mean reproduce the observed spatial and temporal patterns of extreme precipitation reasonably well, with the ensemble generally outperforming individual models. Across future scenarios, basin-mean values of the eight extreme precipitation indices exhibit significant upward trends, indicating a robust increase in the frequency and intensity of extreme events. By combining GEV-based return levels with population and GDP projections, we find that socioeconomic exposure to extreme precipitation increases substantially throughout the twenty-first century. Contribution analysis reveals that changes in population exposure are dominated by climate effects, whereas changes in GDP exposure arise from the combined influence of climate change and economic growth."
-    },
-    {
-      "id": "W7203717668",
-      "title": "Bridging the weather and climate divide with artificial intelligence",
-      "authors": [
-        "Gustau Camps‐Valls",
-        "Alberto Carrassi",
-        "Francisco de Melo Viríssimo",
-        "Kevin Debeire",
-        "Miguel‐Ángel Fernández‐Torres",
-        "Philipp Hess",
-        "H Heuer",
-        "Nathan Mankovich"
-      ],
-      "journal": "Nature Communications",
-      "publicationDate": "2026-08-18",
-      "doi": "https://doi.org/10.1038/s41467-026-75787-y",
-      "openAlexUrl": "https://openalex.org/W7203717668",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 51,
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Weather and climate shape every aspect of our lives, yet for decades they have been studied as separate worlds—one concerned with what happens tomorrow, the other with what awaits us over the coming decades. This long-standing divide has slowed progress in both fields. Here, we argue that artificial intelligence (AI) is helping to dissolve the boundary between them. By learning directly from vast streams of Earth observations, AI is starting to predict both tomorrow’s storm and next century’s climate within a single, unified framework. We show how this convergence is already underway, why weather and climate science have much to gain from each other, and what still stands in the way—from trust, transparency, and fairness to the energy cost of computation and the risk of widening global inequalities. Realizing this vision will demand not only better algorithms but a new culture of collaboration across scientific communities, operational centers, fields and disciplines. Done well, a unified, AI-driven Earth science could deliver faster, more reliable, and more actionable predictions—helping societies anticipate and adapt to a rapidly warming planet. Weather forecasting and climate prediction have long developed in isolation. This Perspective argues that artificial intelligence is dissolving that divide, enabling unified Earth-system models that span from tomorrow’s storms to the climate of coming decades."
     }
   ]
 }

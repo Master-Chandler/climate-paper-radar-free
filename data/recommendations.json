@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:15:13.051Z",
+  "generatedAt": "2026-08-30T05:38:58.805Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,33 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7204493428",
+      "title": "ENSO-driven multi-decadal climate variability in Auckland: a Southern Hemisphere coastal city perspective",
+      "authors": [
+        "Sihui Dong",
+        "Asaad Y. Shamseldin",
+        "Kilisimasi Latu",
+        "Conrad Zorn",
+        "Minghao Chen",
+        "Aung Naing Soe"
+      ],
+      "journal": "Journal of Southern Hemisphere Earth System Science",
+      "publicationDate": "2026-08-28",
+      "doi": "https://doi.org/10.1071/es25022",
+      "openAlexUrl": "https://openalex.org/W7204493428",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 77,
+      "matchedKeywords": [
+        "precipitation",
+        "southern annular mode",
+        "polar",
+        "pacific decadal oscillation"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、polar、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Coastal cities in Southern Hemisphere mid-latitudes face climate risks from interacting tropical and polar atmospheric systems. This study examines multi-decadal climate variability in Auckland (37°S), New Zealand’s largest city, using 1963–2022 records. Morlet wavelet analysis and robust trend tests identified significant warming in maximum temperature (+0.307°C per decade). After detrending, winter rainfall showed El Niño–Southern Oscillation (ENSO)-related interannual variability, with wet and dry anomalies across phases. Wavelet spectra revealed 28–30-year oscillations consistent with Pacific Decadal Oscillation cycles and emerging 4–6-year ENSO-scale precipitation variability after 2000. Major anomalies coincided with positive Southern Annular Mode phases in 1994–95, when drought occurred, and with the extreme 1982–83 and 1997–98 El Niño events, when local temperature anomalies were 0.23°C greater than during ENSO-neutral and transition years. By contrast, 2010–11 was unusually wet, consistent with enhanced north-easterly flow. Rising humidity (+0.107 hPa per decade) and sunshine duration (+39.32 h per decade) may intensify urban heat stress. These findings demonstrate combined effects of large-scale ocean–atmosphere variability and long-term warming, supporting climate-resilient infrastructure, early-warning systems and urban planning in Southern Hemisphere coastal cities."
+    },
     {
       "id": "W7203939266",
       "title": "Revealing Dust Source Changes in East Asia From Past to Future: An Interpretable Deep Learning Approach",
@@ -28,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7203939266",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -39,6 +66,33 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "ABSTRACT Aeolian dust source areas are controlled by climate and human activities and are closely associated with land degradation, yet their long‐term evolution under global warming remains insufficiently quantified. An integrated framework that couples a U‐Net segmentation model with Shapley Additive Explanations (SHAP) was built to map and attribute dust source areas across arid and semi‐arid East Asia. Using the framework, spring dust source area changes are quantified annually for 2000–2024 and projected for 2100 under the three IPCC Shared Socioeconomic Pathways (SSP) scenarios. The relative influence of key meteorological controls is also quantified. From 2000 to 2024, the spring dust source area shrinks from 3.7 × 10 6 to 2.8 × 10 6 km 2 , representing a net reduction of 25.5%, primarily due to rapid contraction along ecological margins and persistence within hyper‐arid cores. The conversion from dust source to grassland is up to 1.3 × 10 6 km 2 , benefiting greatly from ecological restoration and regional hydroclimatic amelioration. SHAP analysis shows a shift in the dominant climatic constraint from precipitation to evaporation. By the year 2100, dust source areas will expand in area relative to the historical period. The greatest expansion occurs in central eastern Mongolia and northern Xinjiang, whereas the Tibetan Plateau shows a marked reduction. The total dust source area in 2100 declines with warming intensification and decreases by 9.1% from SSP1‐2.6 to SSP5‐8.5 future climate scenarios. Under future global warming, precipitation supply emerges as the principal control on moisture availability in arid and semi‐arid regions and therefore constrains dust source expansion."
+    },
+    {
+      "id": "W7204444098",
+      "title": "Climate-adjusted sequence learning reveals atmospheric-demand transitions in agricultural water–heat buffering",
+      "authors": [
+        "Qifeng Gui",
+        "Pan Li",
+        "Jingui Wei",
+        "Hailong Qiu",
+        "Lianhao Zhao",
+        "Pingxing Wan",
+        "Haoran Sun",
+        "Wen Yin"
+      ],
+      "journal": "Agricultural Water Management",
+      "publicationDate": "2026-08-27",
+      "doi": "https://doi.org/10.1016/j.agwat.2026.110739",
+      "openAlexUrl": "https://openalex.org/W7204444098",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 70,
+      "matchedKeywords": [
+        "causal",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Agricultural systems are increasingly exposed to hotter and drier conditions, but it remains difficult to determine why some croplands stay greener, wetter, and cooler than others. Favourable crop conditions may simply reflect a favourable climate background, or they may indicate that an agricultural system performs better than expected under similar climatic stress. Here, we developed a climate-adjusted sequence-learning framework to separate these two situations across three major agricultural regions in the western United States. The framework first estimated the seasonal crop response expected under the observed climate conditions and then compared the observed vegetation, moisture, and surface-temperature trajectories with this expectation. The resulting residual trajectories were used to identify climate-adjusted water–heat response signatures, rather than being interpreted as direct causal evidence of intrinsic buffering capacity. We identified two dominant response signatures. Strong-response systems were generally greener, wetter, and cooler than expected under comparable climate conditions, whereas weak-response systems showed the opposite pattern. The difference between the two signatures was most evident during the middle to late growing season, when atmospheric water demand was high. As atmospheric demand increased, the mean buffer-advantage score declined from 0.204 to −0.456, the fraction of priority-vulnerable samples increased from 16.5% to 41.4%, and mean surface temperature increased from 19.4 °C to 47.0 °C. Higher precipitation did not fully offset this decline, suggesting that agricultural vulnerability depends on the balance between water supply and atmospheric demand rather than precipitation alone. Independent validation using OpenET evapotranspiration and Cropland Data Layer crop-type information further showed that the identified response signatures were consistent with agricultural water-use functioning. These findings show that the proposed framework can move beyond mapping where croplands look favourable to identifying where they perform better or worse than expected under comparable climate pressure. This provides a practical basis for prioritizing agricultural water-management interventions under rising atmospheric demand."
     },
     {
       "id": "W7204095911",
@@ -59,7 +113,7 @@
       "openAlexUrl": "https://openalex.org/W7204095911",
       "topic": "teleconnection",
       "topicLabel": "气候遥相关",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "thermal forcing",
         "sea ice",
@@ -70,34 +124,6 @@
       ],
       "whyRelevantZh": "归入“气候遥相关”：标题或摘要命中 teleconnection、rossby、climate、ocean、sea ice，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "This study investigates the influence of spring sea ice concentration (SIC) variability in the Bering-Okhotsk Seas (BOS) on the intensity of the Boreal Summer Intraseasonal Oscillation (BSISO) over the equatorial central Pacific (ECP) in June. Observational analyses reveal that a reduction in spring BOS SIC is significantly associated with enhanced BSISO activity. Sea ice retreat amplifies upward heat fluxes through positive air-ocean-ice feedback, which intensifies local warming and further accelerates ice melt. These thermal anomalies reduce lower-tropospheric geopotential height, inducing cyclonic circulation that enhances mid-tropospheric ascent. The upward motion transport compresses air in the upper troposphere, generating divergence and a Rossby wave source via vortex stretching. The resulting Rossby wave train propagates southward, facilitated by a weakened Pacific subtropical westerly jet that promotes latitudinal wave energy dispersion. Anomalous westerlies associated with the southern part of this pattern weaken the climatological easterly trades, thereby suppressing surface evaporation and elevating local sea surface temperatures (SSTs) through the wind-evaporation-SST (WES) feedback. This warming enhances ascending motion, convective available potential energy (CAPE), and low-level moisture convergence over the ECP, establishing a favorable thermodynamic and dynamic environment for BSISO intensification. Linear baroclinic model (LBM) experiments corroborate that thermal forcing over the BOS modulates ECP BSISO activity via this cross-latitudinal teleconnection. As a fundamental component of the high-latitude cryosphere, sea ice modulates global climate and serves as a key indicator of planetary warming. Recent decades have witnessed pronounced Arctic warming and sea ice loss, with repercussions extending from the polar to the tropical regions. In the tropics, the intraseasonal oscillation acts as a critical bridge between weather and climate systems. However, both how Arctic sea ice influences the BSISO and the underlying mechanisms connecting these systems remain unclear. This study aims to address these knowledge gaps, thereby advancing our mechanistic understanding of cross-spatiotemporal interactions between the Arctic and lower-latitude climate."
-    },
-    {
-      "id": "W7203750087",
-      "title": "Improvement of riming process parameterization in the WRF model and its advantages in simulating precipitation over the Tibetan Plateau",
-      "authors": [
-        "Kunjing Yang",
-        "Xiaoqi Xu",
-        "Chunsong Lu",
-        "Jinghua Chen",
-        "Jing Yang",
-        "Junjun Li",
-        "Kai Yang",
-        "Naifu Shao"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-08-20",
-      "doi": "https://doi.org/10.1038/s41612-026-01510-9",
-      "openAlexUrl": "https://openalex.org/W7203750087",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 67,
-      "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
     },
     {
       "id": "W7204220977",
@@ -118,13 +144,41 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Influenza poses a significant public health burden with distinct seasonality. In regions with pronounced climatic features like Gansu Province, China, traditional statistical models often fail to capture the nonlinear and lagged effects of meteorological drivers on influenza transmission. A deeper understanding of these complex relationships is essential for improving predictive accuracy. A Random Forest-based nonlinear Granger causality test was employed to systematically identify significant lagged predictive relationships between eight meteorological variables and monthly influenza incidence in Gansu Province (2004–2020). This approach accommodates complex, nonlinear dependencies that linear Granger causality cannot capture. Meteorological features exhibiting significant predictive improvement were selected via Random Forest and combined with influenza autocorrelation features as inputs to an LSTM-Transformer hybrid model. The model was trained using a rigorous time-series split (60%-20%-20%) and evaluated primarily using the Weighted Mean Absolute Percentage Error (WMAPE). Model explainability was assessed using SHapley Additive exPlanations (SHAP). The nonlinear Granger causality test identified significant statistical predictive relationships for all eight meteorological factors. Temperature-related variables exhibited a 6-month lag (improvement rates: 22.56%-23.99%). Precipitation showed a 1-month lag (improvement rate: 19.37%). Sunshine duration displayed a persistent predictive pattern across lags of 1 to 6 months (improvement rates: 15.8%-22.85%). The hybrid model achieved an R² of 0.786 and a WMAPE of 30.19% on the independent test set. SHAP-based explainability analysis ranked sunshine duration lagged by 2 months as the most influential predictor (mean absolute SHAP value = 0.0609), followed by the 6-month rolling mean of minimum temperature (0.0322). Meteorological factors offered important statistical predictive information for influenza incidence in Gansu Province, with sunshine duration exhibiting a persistent predictive pattern across multiple lags. The hybrid model demonstrated robust predictive performance on the independent test set."
+    },
+    {
+      "id": "W7203750087",
+      "title": "Improvement of riming process parameterization in the WRF model and its advantages in simulating precipitation over the Tibetan Plateau",
+      "authors": [
+        "Kunjing Yang",
+        "Xiaoqi Xu",
+        "Chunsong Lu",
+        "Jinghua Chen",
+        "Jing Yang",
+        "Junjun Li",
+        "Kai Yang",
+        "Naifu Shao"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-08-20",
+      "doi": "https://doi.org/10.1038/s41612-026-01510-9",
+      "openAlexUrl": "https://openalex.org/W7203750087",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 65,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
     },
     {
       "id": "W7204156832",
@@ -145,7 +199,7 @@
       "openAlexUrl": "https://openalex.org/W7204156832",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -165,39 +219,12 @@
       "openAlexUrl": "https://openalex.org/W7204099003",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Sorghum (Sorghum bicolor (L.) Moench) is a major cereal crop cultivated in arid and semi-arid regions, where it plays a vital role in food security, livestock feed and industrial applications. Its inherent drought and heat tolerance, supported by its C4 photosynthetic pathway, efficient water use and extensive genetic diversity, make it one of the most climate-resilient cereal crops. However, climate change has intensified drought, heat, salinity and emerging pest and disease pressures, threatening sorghum productivity and yield stability worldwide. Conventional phenotypic breeding has contributed to sorghum improvement but remains constrained by the polygenic nature of adaptive traits, genotype × environment interactions and long breeding cycles. Recent advances in genomics, including whole-genome sequencing, pan-genomics, genome-wide association studies, marker-assisted selection, genomic selection, CRISPR/Cas genome editing, high-throughput phenotyping, speed breeding, artificial intelligence and multi-omics approaches, have revolutionized sorghum breeding by enabling more accurate and efficient selection for complex traits. This review synthesizes current genetic resources, genomic tools and climate-resilient breeding strategies while critically evaluating the strengths, limitations, practical applications and implementation challenges of major genomics-assisted breeding approaches, particularly in resource-limited breeding programs. It further highlights the integration of genomics, high-throughput phenotyping, artificial intelligence, environmental data, predictive breeding and participatory breeding to accelerate the development and adoption of climate-resilient sorghum cultivars. Future progress will depend on integrating multi-omics platforms, exploiting diverse germplasm, strengthening phenotyping and bioinformatics capacity, improving seed systems and translating genomic discoveries into practical breeding pipelines that benefit smallholder farmers."
-    },
-    {
-      "id": "W7203741604",
-      "title": "Intensifying extreme precipitation amplifies socioeconomic exposure in the Yangtze River Basin",
-      "authors": [
-        "Yinan Guo",
-        "Yujia Bai",
-        "Zhifu Zhang",
-        "Yongli Dou",
-        "Juliao Qiu",
-        "Xi Gong",
-        "Lingling Wu",
-        "Li Zhou"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-08-19",
-      "doi": "https://doi.org/10.1038/s41598-026-64257-6",
-      "openAlexUrl": "https://openalex.org/W7203741604",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 57,
-      "matchedKeywords": [
-        "yangtze",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Using CN05.1 observations and high-resolution NEX-GDDP-CMIP6 simulations, we evaluate the performance of climate models in reproducing extreme precipitation over the Yangtze River Basin based on Taylor diagrams, Taylor Skill Score, and Interannual Variability Score. Extreme Value Theory (EVT), through the Generalized Extreme Value (GEV) distribution, is further applied to estimate the 10-year and 20-year return levels of RX1day and RX5day. On this basis, we analyse the future evolution of extreme precipitation under different scenarios and quantify changes in population and GDP exposure. The results show that NEX-GDDP-CMIP6 and its multi-model ensemble mean reproduce the observed spatial and temporal patterns of extreme precipitation reasonably well, with the ensemble generally outperforming individual models. Across future scenarios, basin-mean values of the eight extreme precipitation indices exhibit significant upward trends, indicating a robust increase in the frequency and intensity of extreme events. By combining GEV-based return levels with population and GDP projections, we find that socioeconomic exposure to extreme precipitation increases substantially throughout the twenty-first century. Contribution analysis reveals that changes in population exposure are dominated by climate effects, whereas changes in GDP exposure arise from the combined influence of climate change and economic growth."
     }
   ]
 }

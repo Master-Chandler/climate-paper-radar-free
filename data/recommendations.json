@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:38:58.805Z",
+  "generatedAt": "2026-08-31T05:53:27.629Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7204437280",
+      "title": "Deep learning techniques for extreme rainfall prediction: a review of state-of-the-art",
+      "authors": [
+        "Braiton Mukhalela",
+        "Serestina Viriri",
+        "David Ndzi",
+        "Michael Gebreslasie",
+        "Muhammad Zeeshan Shakir",
+        "Naeem Ramzan",
+        "Fahad Ayaz",
+        "Mary Lynch"
+      ],
+      "journal": "Frontiers in Artificial Intelligence",
+      "publicationDate": "2026-08-27",
+      "doi": "https://doi.org/10.3389/frai.2026.1908848",
+      "openAlexUrl": "https://openalex.org/W7204437280",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 80,
+      "matchedKeywords": [
+        "deep learning",
+        "artificial intelligence",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、artificial intelligence、climate、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Extreme rainfall events (ERES) are among the most challenging hydro-meteorological phenomena to forecast because the complex, nonlinear atmospheric processes involved span multiple spatial and temporal scales and are further intensified by rising climate variability. While Numerical Weather Prediction (NWP) models offer physically consistent representations of atmospheric dynamics, they still struggle to resolve localized convection, rapidly evolving storm systems, and rare, high-intensity precipitation events. This study systematically reviews recent advances in Artificial Intelligence (AI) for extreme rainfall prediction published between 2020 and 2026, using a transparent literature search strategy, predefined screening criteria, quality assessment, and a structured literature review matrix. The review synthesizes evidence from a final evidence base of 139 studies across several dimensions, including deep learning (DL) methodologies, multimodal data fusion, forecasting horizons, operational deployment, uncertainty quantification, and emerging intelligent forecasting paradigms. The analysis reveals a transition from deterministic DI models to hybrid, physics-informed, uncertainty-aware, and operational forecasting systems that increasingly integrate AI with physical knowledge and heterogeneous environmental observations. Despite notable progress, persistent challenges remain, including data scarcity, class imbalance, model generalization, physical consistency, uncertainty estimation, transferability, and the lack of standardized evaluation frameworks. This review provides a unified synthesis of current methodologies. It identifies key research gaps, highlighting the need for evaluation frameworks that address physical plausibility, uncertainty quantification, reliability, transferability, and operational relevance. The findings indicate that future extreme rainfall prediction systems should advance beyond accuracy-focused evaluation toward integrated, trustworthy, uncertainty-aware, and physically consistent forecasting approaches."
+    },
     {
       "id": "W7204493428",
       "title": "ENSO-driven multi-decadal climate variability in Auckland: a Southern Hemisphere coastal city perspective",
@@ -28,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -55,7 +83,7 @@
       "openAlexUrl": "https://openalex.org/W7203939266",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "deep learning",
         "shap",
@@ -86,7 +114,7 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "causal",
         "precipitation"
@@ -113,7 +141,7 @@
       "openAlexUrl": "https://openalex.org/W7204095911",
       "topic": "teleconnection",
       "topicLabel": "气候遥相关",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "thermal forcing",
         "sea ice",
@@ -144,41 +172,13 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Influenza poses a significant public health burden with distinct seasonality. In regions with pronounced climatic features like Gansu Province, China, traditional statistical models often fail to capture the nonlinear and lagged effects of meteorological drivers on influenza transmission. A deeper understanding of these complex relationships is essential for improving predictive accuracy. A Random Forest-based nonlinear Granger causality test was employed to systematically identify significant lagged predictive relationships between eight meteorological variables and monthly influenza incidence in Gansu Province (2004–2020). This approach accommodates complex, nonlinear dependencies that linear Granger causality cannot capture. Meteorological features exhibiting significant predictive improvement were selected via Random Forest and combined with influenza autocorrelation features as inputs to an LSTM-Transformer hybrid model. The model was trained using a rigorous time-series split (60%-20%-20%) and evaluated primarily using the Weighted Mean Absolute Percentage Error (WMAPE). Model explainability was assessed using SHapley Additive exPlanations (SHAP). The nonlinear Granger causality test identified significant statistical predictive relationships for all eight meteorological factors. Temperature-related variables exhibited a 6-month lag (improvement rates: 22.56%-23.99%). Precipitation showed a 1-month lag (improvement rate: 19.37%). Sunshine duration displayed a persistent predictive pattern across lags of 1 to 6 months (improvement rates: 15.8%-22.85%). The hybrid model achieved an R² of 0.786 and a WMAPE of 30.19% on the independent test set. SHAP-based explainability analysis ranked sunshine duration lagged by 2 months as the most influential predictor (mean absolute SHAP value = 0.0609), followed by the 6-month rolling mean of minimum temperature (0.0322). Meteorological factors offered important statistical predictive information for influenza incidence in Gansu Province, with sunshine duration exhibiting a persistent predictive pattern across multiple lags. The hybrid model demonstrated robust predictive performance on the independent test set."
-    },
-    {
-      "id": "W7203750087",
-      "title": "Improvement of riming process parameterization in the WRF model and its advantages in simulating precipitation over the Tibetan Plateau",
-      "authors": [
-        "Kunjing Yang",
-        "Xiaoqi Xu",
-        "Chunsong Lu",
-        "Jinghua Chen",
-        "Jing Yang",
-        "Junjun Li",
-        "Kai Yang",
-        "Naifu Shao"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-08-20",
-      "doi": "https://doi.org/10.1038/s41612-026-01510-9",
-      "openAlexUrl": "https://openalex.org/W7203750087",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 65,
-      "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、precipitation、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Tibetan Plateau (TP) is characterized by frequent mixed-phase clouds, in which riming exerts a crucial control on precipitation formation. However, conventional bulk microphysics schemes generally ignore the regulatory impact of sub-grid liquid-ice mixing state on riming processes. This study improves the riming parameterization within the WRF Morrison scheme by adopting constant reduction coefficients and introducing a diagnostic mixing homogeneity parameter χ for snow and graupel, which varies with condensed water content and temperature. Reduced riming coefficients correct simulated precipitation distribution and spatial deviation, while χ -based dynamic regulation further optimizes temporal variation of regional precipitation, reducing RMSE by 23.8%. The modified scheme shows superior performance across all rainfall grades, particularly for heavy and torrential rain. Physically, χ inhibits excessive riming, maintains supercooled liquid droplets, and effectively alleviates the overestimation of surface precipitation. One-month simulations validate that considering liquid-ice mixing homogeneity markedly improves WRF precipitation simulation capability over the TP."
     },
     {
       "id": "W7204156832",
@@ -199,7 +199,7 @@
       "openAlexUrl": "https://openalex.org/W7204156832",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -219,7 +219,7 @@
       "openAlexUrl": "https://openalex.org/W7204099003",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "artificial intelligence"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T05:53:27.629Z",
+  "generatedAt": "2026-09-01T05:27:10.448Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204437280",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 80,
+      "score": 78,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -65,35 +65,6 @@
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、polar、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Coastal cities in Southern Hemisphere mid-latitudes face climate risks from interacting tropical and polar atmospheric systems. This study examines multi-decadal climate variability in Auckland (37°S), New Zealand’s largest city, using 1963–2022 records. Morlet wavelet analysis and robust trend tests identified significant warming in maximum temperature (+0.307°C per decade). After detrending, winter rainfall showed El Niño–Southern Oscillation (ENSO)-related interannual variability, with wet and dry anomalies across phases. Wavelet spectra revealed 28–30-year oscillations consistent with Pacific Decadal Oscillation cycles and emerging 4–6-year ENSO-scale precipitation variability after 2000. Major anomalies coincided with positive Southern Annular Mode phases in 1994–95, when drought occurred, and with the extreme 1982–83 and 1997–98 El Niño events, when local temperature anomalies were 0.23°C greater than during ENSO-neutral and transition years. By contrast, 2010–11 was unusually wet, consistent with enhanced north-easterly flow. Rising humidity (+0.107 hPa per decade) and sunshine duration (+39.32 h per decade) may intensify urban heat stress. These findings demonstrate combined effects of large-scale ocean–atmosphere variability and long-term warming, supporting climate-resilient infrastructure, early-warning systems and urban planning in Southern Hemisphere coastal cities."
-    },
-    {
-      "id": "W7203939266",
-      "title": "Revealing Dust Source Changes in East Asia From Past to Future: An Interpretable Deep Learning Approach",
-      "authors": [
-        "Yanyu Li",
-        "Qizhong Wu",
-        "Xueshun Chen",
-        "Yue Jiang",
-        "Jieying He",
-        "Huaqiong Cheng"
-      ],
-      "journal": "Land Degradation and Development",
-      "publicationDate": "2026-08-21",
-      "doi": "https://doi.org/10.1002/ldr.70885",
-      "openAlexUrl": "https://openalex.org/W7203939266",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 71,
-      "matchedKeywords": [
-        "deep learning",
-        "shap",
-        "east asia",
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "ABSTRACT Aeolian dust source areas are controlled by climate and human activities and are closely associated with land degradation, yet their long‐term evolution under global warming remains insufficiently quantified. An integrated framework that couples a U‐Net segmentation model with Shapley Additive Explanations (SHAP) was built to map and attribute dust source areas across arid and semi‐arid East Asia. Using the framework, spring dust source area changes are quantified annually for 2000–2024 and projected for 2100 under the three IPCC Shared Socioeconomic Pathways (SSP) scenarios. The relative influence of key meteorological controls is also quantified. From 2000 to 2024, the spring dust source area shrinks from 3.7 × 10 6 to 2.8 × 10 6 km 2 , representing a net reduction of 25.5%, primarily due to rapid contraction along ecological margins and persistence within hyper‐arid cores. The conversion from dust source to grassland is up to 1.3 × 10 6 km 2 , benefiting greatly from ecological restoration and regional hydroclimatic amelioration. SHAP analysis shows a shift in the dominant climatic constraint from precipitation to evaporation. By the year 2100, dust source areas will expand in area relative to the historical period. The greatest expansion occurs in central eastern Mongolia and northern Xinjiang, whereas the Tibetan Plateau shows a marked reduction. The total dust source area in 2100 declines with warming intensification and decreases by 9.1% from SSP1‐2.6 to SSP5‐8.5 future climate scenarios. Under future global warming, precipitation supply emerges as the principal control on moisture availability in arid and semi‐arid regions and therefore constrains dust source expansion."
     },
     {
       "id": "W7204444098",
@@ -114,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "causal",
         "precipitation"
@@ -141,7 +112,7 @@
       "openAlexUrl": "https://openalex.org/W7204095911",
       "topic": "teleconnection",
       "topicLabel": "气候遥相关",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "thermal forcing",
         "sea ice",
@@ -172,7 +143,7 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -199,7 +170,7 @@
       "openAlexUrl": "https://openalex.org/W7204156832",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -219,7 +190,7 @@
       "openAlexUrl": "https://openalex.org/W7204099003",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "artificial intelligence"
       ],

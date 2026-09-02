@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:27:10.448Z",
+  "generatedAt": "2026-09-02T04:53:04.526Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204437280",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "causal",
         "precipitation"
@@ -112,7 +112,7 @@
       "openAlexUrl": "https://openalex.org/W7204095911",
       "topic": "teleconnection",
       "topicLabel": "气候遥相关",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "thermal forcing",
         "sea ice",
@@ -143,7 +143,7 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -170,7 +170,7 @@
       "openAlexUrl": "https://openalex.org/W7204156832",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -190,7 +190,7 @@
       "openAlexUrl": "https://openalex.org/W7204099003",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "artificial intelligence"
       ],

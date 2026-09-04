@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:51:09.446Z",
+  "generatedAt": "2026-09-04T04:53:52.828Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 80,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -86,7 +86,7 @@
       "openAlexUrl": "https://openalex.org/W7204437280",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence",
@@ -112,7 +112,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -139,44 +139,13 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Atmospheric CO 2 concentrations now exceeding 420 ppm are accelerating global warming, prompting urgent interest in solar-driven CO 2 conversion as a carbon–neutral fuel production strategy. Among emerging photocatalyst platforms, Metal-Organic Frameworks (MOFs) offer exceptional tunability through their designable organic linkers, metal ions and porous structure. Yet the complex, nonlinear relationships between their structural properties and catalytic performance remain poorly understood. Herein, we present a machine learning framework trained on 417 experimental data points compiled from the MOF-based photocatalytic CO 2 reduction literature. The dataset was randomly split into training (80%) and testing (20%) to predict and interpret the formation yields of four target products: CH 3 OH, HCOOH, CO, and CH 4 . Six tree-based ensemble models namely CatBoost, XGBoost, LightGBM, GBDT, Random Forest, and AdaBoost, were systematically compared across six performance metrics. SMOGN Augmentation was applied only to the training set. CatBoost model achieved a training R 2 of 0.988 with an RMSE of 50.21, while maintaining strong generalization on the independent test set with a test R 2 of 0.966 and an RMSE of 83.59. Furthermore, validation using an independent dataset also confirmed the excellent performance of the CatBoost model, yielding an R 2 of 0.996 with an RMSE of 30.15 for the training set and an R 2 of 0.976 with an RMSE of 70.07 for the test set. CatBoost was selected for downstream interpretation using SHAP (SHapley Additive exPlanations) analysis. SHAP enabled the quantitative identification of the catalyst properties and reaction conditions that are strongly associated with product formation. These findings establish an interpretable, data-driven roadmap for the rational design of MOF photocatalysts, enabling targeted optimization of both activity and product selectivity for sustainable solar fuel production."
-    },
-    {
-      "id": "W7204095911",
-      "title": "Influence of spring Bering-Okhotsk sea ice on boreal summer intraseasonal oscillation over equatorial central Pacific",
-      "authors": [
-        "Puyu Liu",
-        "Yao Ha",
-        "Yimin Zhu",
-        "Sen Gu",
-        "Tianju Wang",
-        "Haixia Dai",
-        "Yijia Hu",
-        "Zhong Zhong"
-      ],
-      "journal": "Climate Dynamics",
-      "publicationDate": "2026-08-24",
-      "doi": "https://doi.org/10.1007/s00382-026-08354-2",
-      "openAlexUrl": "https://openalex.org/W7204095911",
-      "topic": "teleconnection",
-      "topicLabel": "气候遥相关",
-      "score": 65,
-      "matchedKeywords": [
-        "thermal forcing",
-        "sea ice",
-        "polar",
-        "arctic",
-        "teleconnection",
-        "rossby"
-      ],
-      "whyRelevantZh": "归入“气候遥相关”：标题或摘要命中 teleconnection、rossby、climate、ocean、sea ice，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "This study investigates the influence of spring sea ice concentration (SIC) variability in the Bering-Okhotsk Seas (BOS) on the intensity of the Boreal Summer Intraseasonal Oscillation (BSISO) over the equatorial central Pacific (ECP) in June. Observational analyses reveal that a reduction in spring BOS SIC is significantly associated with enhanced BSISO activity. Sea ice retreat amplifies upward heat fluxes through positive air-ocean-ice feedback, which intensifies local warming and further accelerates ice melt. These thermal anomalies reduce lower-tropospheric geopotential height, inducing cyclonic circulation that enhances mid-tropospheric ascent. The upward motion transport compresses air in the upper troposphere, generating divergence and a Rossby wave source via vortex stretching. The resulting Rossby wave train propagates southward, facilitated by a weakened Pacific subtropical westerly jet that promotes latitudinal wave energy dispersion. Anomalous westerlies associated with the southern part of this pattern weaken the climatological easterly trades, thereby suppressing surface evaporation and elevating local sea surface temperatures (SSTs) through the wind-evaporation-SST (WES) feedback. This warming enhances ascending motion, convective available potential energy (CAPE), and low-level moisture convergence over the ECP, establishing a favorable thermodynamic and dynamic environment for BSISO intensification. Linear baroclinic model (LBM) experiments corroborate that thermal forcing over the BOS modulates ECP BSISO activity via this cross-latitudinal teleconnection. As a fundamental component of the high-latitude cryosphere, sea ice modulates global climate and serves as a key indicator of planetary warming. Recent decades have witnessed pronounced Arctic warming and sea ice loss, with repercussions extending from the polar to the tropical regions. In the tropics, the intraseasonal oscillation acts as a critical bridge between weather and climate systems. However, both how Arctic sea ice influences the BSISO and the underlying mechanisms connecting these systems remain unclear. This study aims to address these knowledge gaps, thereby advancing our mechanistic understanding of cross-spatiotemporal interactions between the Arctic and lower-latitude climate."
     },
     {
       "id": "W7204444098",
@@ -197,7 +166,7 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "causal",
         "precipitation"
@@ -221,7 +190,7 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -247,59 +216,13 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Influenza poses a significant public health burden with distinct seasonality. In regions with pronounced climatic features like Gansu Province, China, traditional statistical models often fail to capture the nonlinear and lagged effects of meteorological drivers on influenza transmission. A deeper understanding of these complex relationships is essential for improving predictive accuracy. A Random Forest-based nonlinear Granger causality test was employed to systematically identify significant lagged predictive relationships between eight meteorological variables and monthly influenza incidence in Gansu Province (2004–2020). This approach accommodates complex, nonlinear dependencies that linear Granger causality cannot capture. Meteorological features exhibiting significant predictive improvement were selected via Random Forest and combined with influenza autocorrelation features as inputs to an LSTM-Transformer hybrid model. The model was trained using a rigorous time-series split (60%-20%-20%) and evaluated primarily using the Weighted Mean Absolute Percentage Error (WMAPE). Model explainability was assessed using SHapley Additive exPlanations (SHAP). The nonlinear Granger causality test identified significant statistical predictive relationships for all eight meteorological factors. Temperature-related variables exhibited a 6-month lag (improvement rates: 22.56%-23.99%). Precipitation showed a 1-month lag (improvement rate: 19.37%). Sunshine duration displayed a persistent predictive pattern across lags of 1 to 6 months (improvement rates: 15.8%-22.85%). The hybrid model achieved an R² of 0.786 and a WMAPE of 30.19% on the independent test set. SHAP-based explainability analysis ranked sunshine duration lagged by 2 months as the most influential predictor (mean absolute SHAP value = 0.0609), followed by the 6-month rolling mean of minimum temperature (0.0322). Meteorological factors offered important statistical predictive information for influenza incidence in Gansu Province, with sunshine duration exhibiting a persistent predictive pattern across multiple lags. The hybrid model demonstrated robust predictive performance on the independent test set."
-    },
-    {
-      "id": "W7204156832",
-      "title": "Upslope expansion of active fire detections weakened following intensified fire-prevention policies in the southeastern margin of the Tibetan Plateau",
-      "authors": [
-        "Jinping Chen",
-        "Zheneng Hu",
-        "Wanxiong Zhang",
-        "Zhongshi Zhang",
-        "Zhongshi Zhang",
-        "Keyan Fang",
-        "Jingjing Wang (140791)",
-        "Jie Zhou"
-      ],
-      "journal": "Geomatics Natural Hazards and Risk",
-      "publicationDate": "2026-08-24",
-      "doi": "https://doi.org/10.1080/19475705.2026.2721808",
-      "openAlexUrl": "https://openalex.org/W7204156832",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The southeastern margin of the Tibetan Plateau, including the Hengduan Mountains (HDM), is a hotspot of subtropical active fire occurrence. We analyzed MODIS active fire detections from 2001 to 2024 together with elevation, meteorological, population, policy, and Oceanic Niño Index (ONI) data using kernel density estimation, ordinary least squares regression, a 5-year moving-window Welch t-test, interrupted time-series (ITS) regression, random forest, and Spearman correlation. During 2001–2014, annual active fire counts increased markedly, particularly at 2000–3500 m, while mean fire elevation shifted upslope at 38.34 m yr−1 (p = 0.032). After 2015, both the overall increase and upslope shift weakened. After adjustment for ENSO variability, ITS showed a significant immediate reduction in annual active fire count associated with the 2014–2015 policy-intensification period (β = −342.30, p = 0.028), whereas the post-intervention slope change and ONI association were not significant. Drivers varied with elevation: human activity and atmospheric dryness were important at low elevations, humidity and drought stress at mid elevations, and wind-related variability at high elevations. These results support an association between intensified fire prevention and reduced active fire occurrence."
-    },
-    {
-      "id": "W7204099003",
-      "title": "Advances and challenges in sorghum breeding [ Sorghum bicolor (L.) Moench]: genomic tools, climate resilience and future directions",
-      "authors": [
-        "Werkissa Yali"
-      ],
-      "journal": "Cogent Food & Agriculture",
-      "publicationDate": "2026-08-24",
-      "doi": "https://doi.org/10.1080/23311932.2026.2719981",
-      "openAlexUrl": "https://openalex.org/W7204099003",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 51,
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Sorghum (Sorghum bicolor (L.) Moench) is a major cereal crop cultivated in arid and semi-arid regions, where it plays a vital role in food security, livestock feed and industrial applications. Its inherent drought and heat tolerance, supported by its C4 photosynthetic pathway, efficient water use and extensive genetic diversity, make it one of the most climate-resilient cereal crops. However, climate change has intensified drought, heat, salinity and emerging pest and disease pressures, threatening sorghum productivity and yield stability worldwide. Conventional phenotypic breeding has contributed to sorghum improvement but remains constrained by the polygenic nature of adaptive traits, genotype × environment interactions and long breeding cycles. Recent advances in genomics, including whole-genome sequencing, pan-genomics, genome-wide association studies, marker-assisted selection, genomic selection, CRISPR/Cas genome editing, high-throughput phenotyping, speed breeding, artificial intelligence and multi-omics approaches, have revolutionized sorghum breeding by enabling more accurate and efficient selection for complex traits. This review synthesizes current genetic resources, genomic tools and climate-resilient breeding strategies while critically evaluating the strengths, limitations, practical applications and implementation challenges of major genomics-assisted breeding approaches, particularly in resource-limited breeding programs. It further highlights the integration of genomics, high-throughput phenotyping, artificial intelligence, environmental data, predictive breeding and participatory breeding to accelerate the development and adoption of climate-resilient sorghum cultivars. Future progress will depend on integrating multi-omics platforms, exploiting diverse germplasm, strengthening phenotyping and bioinformatics capacity, improving seed systems and translating genomic discoveries into practical breeding pipelines that benefit smallholder farmers."
     }
   ]
 }

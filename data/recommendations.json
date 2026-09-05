@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:53:52.828Z",
+  "generatedAt": "2026-09-05T04:47:38.674Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -86,7 +86,7 @@
       "openAlexUrl": "https://openalex.org/W7204437280",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence",
@@ -94,6 +94,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、artificial intelligence、climate、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme rainfall events (ERES) are among the most challenging hydro-meteorological phenomena to forecast because the complex, nonlinear atmospheric processes involved span multiple spatial and temporal scales and are further intensified by rising climate variability. While Numerical Weather Prediction (NWP) models offer physically consistent representations of atmospheric dynamics, they still struggle to resolve localized convection, rapidly evolving storm systems, and rare, high-intensity precipitation events. This study systematically reviews recent advances in Artificial Intelligence (AI) for extreme rainfall prediction published between 2020 and 2026, using a transparent literature search strategy, predefined screening criteria, quality assessment, and a structured literature review matrix. The review synthesizes evidence from a final evidence base of 139 studies across several dimensions, including deep learning (DL) methodologies, multimodal data fusion, forecasting horizons, operational deployment, uncertainty quantification, and emerging intelligent forecasting paradigms. The analysis reveals a transition from deterministic DI models to hybrid, physics-informed, uncertainty-aware, and operational forecasting systems that increasingly integrate AI with physical knowledge and heterogeneous environmental observations. Despite notable progress, persistent challenges remain, including data scarcity, class imbalance, model generalization, physical consistency, uncertainty estimation, transferability, and the lack of standardized evaluation frameworks. This review provides a unified synthesis of current methodologies. It identifies key research gaps, highlighting the need for evaluation frameworks that address physical plausibility, uncertainty quantification, reliability, transferability, and operational relevance. The findings indicate that future extreme rainfall prediction systems should advance beyond accuracy-focused evaluation toward integrated, trustworthy, uncertainty-aware, and physically consistent forecasting approaches."
+    },
+    {
+      "id": "W7128721586",
+      "title": "Revisiting the critical role of stabilized Criegee intermediates (sCIs) in sulfuric acid formation: coupling mechanistic updates with interpretable machine learning",
+      "authors": [
+        "Yuhuan Zhu",
+        "Q. Chen",
+        "Luyan He",
+        "Chunlin Shang",
+        "Li Jiang",
+        "Donghong Guan",
+        "Guirong Yao",
+        "Wenkai Guo"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-09-02",
+      "doi": "https://doi.org/10.5194/acp-26-12479-2026",
+      "openAlexUrl": "https://openalex.org/W7128721586",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 69,
+      "matchedKeywords": [
+        "machine learning",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
     },
     {
       "id": "W7204493428",
@@ -112,7 +139,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -139,13 +166,39 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Atmospheric CO 2 concentrations now exceeding 420 ppm are accelerating global warming, prompting urgent interest in solar-driven CO 2 conversion as a carbon–neutral fuel production strategy. Among emerging photocatalyst platforms, Metal-Organic Frameworks (MOFs) offer exceptional tunability through their designable organic linkers, metal ions and porous structure. Yet the complex, nonlinear relationships between their structural properties and catalytic performance remain poorly understood. Herein, we present a machine learning framework trained on 417 experimental data points compiled from the MOF-based photocatalytic CO 2 reduction literature. The dataset was randomly split into training (80%) and testing (20%) to predict and interpret the formation yields of four target products: CH 3 OH, HCOOH, CO, and CH 4 . Six tree-based ensemble models namely CatBoost, XGBoost, LightGBM, GBDT, Random Forest, and AdaBoost, were systematically compared across six performance metrics. SMOGN Augmentation was applied only to the training set. CatBoost model achieved a training R 2 of 0.988 with an RMSE of 50.21, while maintaining strong generalization on the independent test set with a test R 2 of 0.966 and an RMSE of 83.59. Furthermore, validation using an independent dataset also confirmed the excellent performance of the CatBoost model, yielding an R 2 of 0.996 with an RMSE of 30.15 for the training set and an R 2 of 0.976 with an RMSE of 70.07 for the test set. CatBoost was selected for downstream interpretation using SHAP (SHapley Additive exPlanations) analysis. SHAP enabled the quantitative identification of the catalyst properties and reaction conditions that are strongly associated with product formation. These findings establish an interpretable, data-driven roadmap for the rational design of MOF photocatalysts, enabling targeted optimization of both activity and product selectivity for sustainable solar fuel production."
+    },
+    {
+      "id": "W7205003164",
+      "title": "Spatiotemporal vegetation trends and climate attribution across Pakistan’s agro-ecological zones",
+      "authors": [
+        "Umar Farooq",
+        "Maaz Ullah",
+        "Ghani Rahman",
+        "Yazeed Alsubhi",
+        "Minkyu Jung",
+        "Tae‐Woong Kim",
+        "Hyun‐Han Kwon"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-09-02",
+      "doi": "https://doi.org/10.1038/s41598-026-69099-w",
+      "openAlexUrl": "https://openalex.org/W7205003164",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 65,
+      "matchedKeywords": [
+        "precipitation",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Pakistan encompasses the world’s most climatically and topographically diverse landscapes, spanning hyper-arid deserts, glaciated high-mountain ranges, and irrigated plains. Vegetation dynamics in such heterogeneous regions reflect complex interactions among water availability, thermal conditions, and land management. This study characterized spatiotemporal vegetation dynamics and their lag‑resolved climatic drivers across Pakistan’s Agro‑Ecological Zones (AEZs) during 2001–2024, using the MODIS Enhanced Vegetation Index (EVI) MOD13Q1 product alongside nine ERA5‑Land climate variables. Long‑term vegetation trends were assessed using the Modified Mann–Kendall (MMK) test with autocorrelation correction and False Discovery Rate (FDR) control. Positive vegetation trends (greening) were recorded across all AEZs, with 24% of pixels reaching statistical significance and only 0.8% showing significant browning (declining greenness). Soil moisture was found to be the dominant driver in just over 37% of pixels, confirming that root‑zone water availability governs vegetation variability across most of Pakistan. In the irrigated plains, vegetation trends were strongly correlated with canal irrigation rather than precipitation, consistent with the operation of the Indus irrigation network. The Rainfed Plateau showed the strongest vegetation recovery despite declining rainfall, suggesting improved land management as a contributing factor. In the mountain zones, asymmetric temperature warming was associated with extended growing seasons, while deserts exhibited instantaneous soil‑moisture coupling. Additional drivers included sensible heat flux and dewpoint temperature in the Northern Irrigated Plain, consistent with irrigation‑induced atmospheric humidity feedbacks. The Coastal Zone delta fringe was the only spatially coherent area of browning, associated with freshwater deficits below the Kotri Barrage. These results demonstrate that Pakistan’s vegetation reflects diverse, mechanistically distinct processes across AEZs, and highlight the importance of lag‑resolved, multi‑variable attribution for accurate vegetation–climate diagnosis in climatically heterogeneous irrigated landscapes."
     },
     {
       "id": "W7204444098",
@@ -166,7 +219,7 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "causal",
         "precipitation"
@@ -190,7 +243,7 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -216,7 +269,7 @@
       "openAlexUrl": "https://openalex.org/W7204220977",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "shap",
         "precipitation"

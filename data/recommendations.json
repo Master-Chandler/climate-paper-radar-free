@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:47:38.674Z",
+  "generatedAt": "2026-09-06T04:56:16.395Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -38,6 +38,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、artificial intelligence、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Study region 531 ungauged basins in the contiguous United States (CONUS). Study focus: We propose XNLSTM, an interpretive framework combining regionalized Long Short-Term Memory (LSTM) modeling, 10-fold basin cross-validation, and explainable artificial intelligence (XAI) methods, including Shapley Additive Explanations (SHAP), the Morris method, and permutation feature importance (PFI), to examine how catchment attributes affect runoff prediction in ungauged basins. The framework jointly uses multiple XAI methods to reveal interpretational variability and identify catchment attributes with relatively stable importance across methods. It then trains models under different catchment attribute configurations derived from the XAI-based interpretation results and interprets fold-specific models to assess the stability of catchment attribute importance across basin splits and configurations. New hydrological insights for the region: SHAP, Morris, and PFI produce different rankings for the same LSTM model, but p_mean, aridity, and other catchment attributes remain consistently important. Across the three XAI rankings, climatic and topographic attributes are consistently more important than soil, geological, and vegetation attributes for overall runoff prediction. Using more catchment attributes, and using attributes with higher XAI-derived importance, improves cross-basin generalization. However, lower ranked attribute combinations show slight tendencies to reproduce low-flow and high-flow metrics closer to observations. Importance rankings are relatively stable for all-attribute models but change more clearly when models use attribute subsets. Attributes such as elev_mean, pet_mean, and soil_conductivity remain important across basin splits and configurations."
+    },
+    {
+      "id": "W7207722139",
+      "title": "Mechanistic drivers and spatiotemporal thresholds of socioeconomic drought in the East River Basin, China: A causal-informed explainable AI approach",
+      "authors": [
+        "Fangxiu Meng",
+        "Huazhou Chen",
+        "Yao Wang",
+        "Rong Wu",
+        "Lin Liu",
+        "Tao Tang",
+        "Shengzhi Huang",
+        "Jianfeng Li"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-09-03",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.103933",
+      "openAlexUrl": "https://openalex.org/W7207722139",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 76,
+      "matchedKeywords": [
+        "explainable",
+        "causal"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、causal、climate、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study region The East River Basin (ERB), a critical water source for South China’s mega-cities. Study focus To address data scarcity and the predictive collapse of traditional models during extreme deficits, this study develops an integrated diagnostic-predictive framework for the Distributed Standardized Socioeconomic Drought Index (DSSEDI). High-fidelity DSSEDI forecasting (maintaining a Nash-Sutcliffe efficiency of 0.774 during extreme deficits) is achieved by leveraging accessible multi-source data, overcoming sector-specific monitoring constraints. By coupling a Causal Convolutional Transformer with Shapley Additive Explanations, the framework ensures physical consistency through dual-causal constraints. Crucially, incorporating a quantile regression loss function ( 𝑞 = 0 . 5 ) significantly outperforms Mean Squared Error-based models in capturing non-Gaussian extreme drought peaks. New hydrological insights This analysis reveals the underlying socioeconomic drought mechanisms in the ERB, which exhibits a persistent climate memory characterized by 10- to 11-month hydrometeorological lags. A critical finding is the identification of a soil moisture paradox, where high antecedent moisture paradoxically accelerates drought development via enhanced evapotranspiration under urban heat island stress. Furthermore, the modeling framework implicitly diagnoses Xinfengjiang Reservoir regulation and exposes a pronounced socioeconomic antagonism, demonstrating that rigid industrial demand acts as a persistent drought amplifier. Distinct soil moisture inflection points (750 mm for urban and 600 mm for agricultural zones) are identified as scientific triggers for adaptive management. These findings establish a threshold-driven governance paradigm for enhancing drought resilience in urbanizing regional basins."
     },
     {
       "id": "W7204825172",
@@ -58,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -86,7 +113,7 @@
       "openAlexUrl": "https://openalex.org/W7204437280",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "deep learning",
         "artificial intelligence",
@@ -94,6 +121,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、artificial intelligence、climate、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme rainfall events (ERES) are among the most challenging hydro-meteorological phenomena to forecast because the complex, nonlinear atmospheric processes involved span multiple spatial and temporal scales and are further intensified by rising climate variability. While Numerical Weather Prediction (NWP) models offer physically consistent representations of atmospheric dynamics, they still struggle to resolve localized convection, rapidly evolving storm systems, and rare, high-intensity precipitation events. This study systematically reviews recent advances in Artificial Intelligence (AI) for extreme rainfall prediction published between 2020 and 2026, using a transparent literature search strategy, predefined screening criteria, quality assessment, and a structured literature review matrix. The review synthesizes evidence from a final evidence base of 139 studies across several dimensions, including deep learning (DL) methodologies, multimodal data fusion, forecasting horizons, operational deployment, uncertainty quantification, and emerging intelligent forecasting paradigms. The analysis reveals a transition from deterministic DI models to hybrid, physics-informed, uncertainty-aware, and operational forecasting systems that increasingly integrate AI with physical knowledge and heterogeneous environmental observations. Despite notable progress, persistent challenges remain, including data scarcity, class imbalance, model generalization, physical consistency, uncertainty estimation, transferability, and the lack of standardized evaluation frameworks. This review provides a unified synthesis of current methodologies. It identifies key research gaps, highlighting the need for evaluation frameworks that address physical plausibility, uncertainty quantification, reliability, transferability, and operational relevance. The findings indicate that future extreme rainfall prediction systems should advance beyond accuracy-focused evaluation toward integrated, trustworthy, uncertainty-aware, and physically consistent forecasting approaches."
+    },
+    {
+      "id": "W7204493428",
+      "title": "ENSO-driven multi-decadal climate variability in Auckland: a Southern Hemisphere coastal city perspective",
+      "authors": [
+        "Sihui Dong",
+        "Asaad Y. Shamseldin",
+        "Kilisimasi Latu",
+        "Conrad Zorn",
+        "Minghao Chen",
+        "Aung Naing Soe"
+      ],
+      "journal": "Journal of Southern Hemisphere Earth System Science",
+      "publicationDate": "2026-08-28",
+      "doi": "https://doi.org/10.1071/es25022",
+      "openAlexUrl": "https://openalex.org/W7204493428",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 68,
+      "matchedKeywords": [
+        "precipitation",
+        "southern annular mode",
+        "polar",
+        "pacific decadal oscillation"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、polar、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Coastal cities in Southern Hemisphere mid-latitudes face climate risks from interacting tropical and polar atmospheric systems. This study examines multi-decadal climate variability in Auckland (37°S), New Zealand’s largest city, using 1963–2022 records. Morlet wavelet analysis and robust trend tests identified significant warming in maximum temperature (+0.307°C per decade). After detrending, winter rainfall showed El Niño–Southern Oscillation (ENSO)-related interannual variability, with wet and dry anomalies across phases. Wavelet spectra revealed 28–30-year oscillations consistent with Pacific Decadal Oscillation cycles and emerging 4–6-year ENSO-scale precipitation variability after 2000. Major anomalies coincided with positive Southern Annular Mode phases in 1994–95, when drought occurred, and with the extreme 1982–83 and 1997–98 El Niño events, when local temperature anomalies were 0.23°C greater than during ENSO-neutral and transition years. By contrast, 2010–11 was unusually wet, consistent with enhanced north-easterly flow. Rising humidity (+0.107 hPa per decade) and sunshine duration (+39.32 h per decade) may intensify urban heat stress. These findings demonstrate combined effects of large-scale ocean–atmosphere variability and long-term warming, supporting climate-resilient infrastructure, early-warning systems and urban planning in Southern Hemisphere coastal cities."
     },
     {
       "id": "W7128721586",
@@ -114,40 +168,13 @@
       "openAlexUrl": "https://openalex.org/W7128721586",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
-    },
-    {
-      "id": "W7204493428",
-      "title": "ENSO-driven multi-decadal climate variability in Auckland: a Southern Hemisphere coastal city perspective",
-      "authors": [
-        "Sihui Dong",
-        "Asaad Y. Shamseldin",
-        "Kilisimasi Latu",
-        "Conrad Zorn",
-        "Minghao Chen",
-        "Aung Naing Soe"
-      ],
-      "journal": "Journal of Southern Hemisphere Earth System Science",
-      "publicationDate": "2026-08-28",
-      "doi": "https://doi.org/10.1071/es25022",
-      "openAlexUrl": "https://openalex.org/W7204493428",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 69,
-      "matchedKeywords": [
-        "precipitation",
-        "southern annular mode",
-        "polar",
-        "pacific decadal oscillation"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、polar、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Coastal cities in Southern Hemisphere mid-latitudes face climate risks from interacting tropical and polar atmospheric systems. This study examines multi-decadal climate variability in Auckland (37°S), New Zealand’s largest city, using 1963–2022 records. Morlet wavelet analysis and robust trend tests identified significant warming in maximum temperature (+0.307°C per decade). After detrending, winter rainfall showed El Niño–Southern Oscillation (ENSO)-related interannual variability, with wet and dry anomalies across phases. Wavelet spectra revealed 28–30-year oscillations consistent with Pacific Decadal Oscillation cycles and emerging 4–6-year ENSO-scale precipitation variability after 2000. Major anomalies coincided with positive Southern Annular Mode phases in 1994–95, when drought occurred, and with the extreme 1982–83 and 1997–98 El Niño events, when local temperature anomalies were 0.23°C greater than during ENSO-neutral and transition years. By contrast, 2010–11 was unusually wet, consistent with enhanced north-easterly flow. Rising humidity (+0.107 hPa per decade) and sunshine duration (+39.32 h per decade) may intensify urban heat stress. These findings demonstrate combined effects of large-scale ocean–atmosphere variability and long-term warming, supporting climate-resilient infrastructure, early-warning systems and urban planning in Southern Hemisphere coastal cities."
     },
     {
       "id": "W7204970232",
@@ -166,7 +193,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -192,7 +219,7 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -219,13 +246,36 @@
       "openAlexUrl": "https://openalex.org/W7204444098",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "causal",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Agricultural systems are increasingly exposed to hotter and drier conditions, but it remains difficult to determine why some croplands stay greener, wetter, and cooler than others. Favourable crop conditions may simply reflect a favourable climate background, or they may indicate that an agricultural system performs better than expected under similar climatic stress. Here, we developed a climate-adjusted sequence-learning framework to separate these two situations across three major agricultural regions in the western United States. The framework first estimated the seasonal crop response expected under the observed climate conditions and then compared the observed vegetation, moisture, and surface-temperature trajectories with this expectation. The resulting residual trajectories were used to identify climate-adjusted water–heat response signatures, rather than being interpreted as direct causal evidence of intrinsic buffering capacity. We identified two dominant response signatures. Strong-response systems were generally greener, wetter, and cooler than expected under comparable climate conditions, whereas weak-response systems showed the opposite pattern. The difference between the two signatures was most evident during the middle to late growing season, when atmospheric water demand was high. As atmospheric demand increased, the mean buffer-advantage score declined from 0.204 to −0.456, the fraction of priority-vulnerable samples increased from 16.5% to 41.4%, and mean surface temperature increased from 19.4 °C to 47.0 °C. Higher precipitation did not fully offset this decline, suggesting that agricultural vulnerability depends on the balance between water supply and atmospheric demand rather than precipitation alone. Independent validation using OpenET evapotranspiration and Cropland Data Layer crop-type information further showed that the identified response signatures were consistent with agricultural water-use functioning. These findings show that the proposed framework can move beyond mapping where croplands look favourable to identifying where they perform better or worse than expected under comparable climate pressure. This provides a practical basis for prioritizing agricultural water-management interventions under rising atmospheric demand."
+    },
+    {
+      "id": "W7207544900",
+      "title": "Recent intensification of extreme precipitation over East Antarctica driven by increases in greenhouse gases and stratospheric ozone",
+      "authors": [
+        "Sai Prabala Swetha Chittella",
+        "Andrew Orr",
+        "Pranab Deb",
+        "Quentin Dalaiden"
+      ],
+      "journal": "The cryosphere",
+      "publicationDate": "2026-09-03",
+      "doi": "https://doi.org/10.5194/tc-20-5005-2026",
+      "openAlexUrl": "https://openalex.org/W7207544900",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 58,
+      "matchedKeywords": [
+        "precipitation",
+        "antarctic"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Extreme precipitation is a major contributor to the total precipitation over Antarctica and its variability. However, it remains poorly understood whether Antarctic extreme precipitation has undergone recent changes and, if so, whether these changes are anthropogenically driven. Using ERA5 reanalysis for 1979–2023, we identify significant regional trends in total and extreme precipitation across Antarctic drainage basins, including significant increases over the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land in East Antarctica. We then perform a regression-based detection and attribution analysis of these trends using precipitation outputs from CESM1 global climate model large ensembles based on “all-forcing” experiments and “single-forcing” experiments that isolate the effects of greenhouse gases, anthropogenic aerosols, and stratospheric ozone. For five of the six basins exhibiting positive trends in total precipitation (within the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land) and three of the four basins exhibiting positive trends in extreme precipitation (within Dronning Maud Land and Enderby Land), the ERA5 signal was formally detected in the CESM1 all-forcing simulations, indicating that these trends are driven by a combination of anthropogenic and natural forcings. Our analysis further show that for one basin (within Enderby Land) the increases in total and extreme precipitation are robustly attributed to greenhouse gases and stratospheric ozone, while for another basin (within Dronning Maud Land) the increases in total precipitation are attributed to stratospheric ozone only. In contrast, none of the precipitation trends could be attributed to anthropogenic aerosols despite all-forcing and single-forcing simulations of anthropogenic aerosols exhibiting similar trend patterns. Applying the same analysis to CESM2 large ensembles confirmed that the ERA5 precipitation signal was detected in the all-forcing simulations but unlike CESM1 did not provide robust attribution of total or extreme precipitation to any individual forcing. These findings provide evidence that external drivers have already impacted East Antarctic total and extreme precipitation, while demonstrating that uncertainties in attributing individual forcings remain a key limitation in understanding future changes to the Antarctic surface mass balance."
     },
     {
       "id": "W7204915473",
@@ -243,39 +293,12 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Accurate prediction of dam spillage is essential for mitigating flood risks to downstream communities and for the optimal management of water resources. Existing machine learning models often struggle to capture the delayed hydrological responses that influence reservoir spillage. This limits their operational usefulness for early warning and reservoir management. This study proposes a lag-enhanced Random Forest forecasting framework, termed Lagged-Feedback Random Forest (LFRF), that systematically incorporates temporal feedback from historical data points to improve dam spillage prediction. The framework was benchmarked against three alternative approaches, Long Short-Term Memory (LSTM) networks, standard Random Forest (RF), and Artificial Neural Networks (ANN), as well as four additional contemporary architectures, XGBoost, LightGBM, CatBoost, and a Temporal Convolutional Network (TCN), using the Weija Dam's 15-year daily historical record and a 40-day lag structure. Models were evaluated using RMSE, MAE, and R² (in m³/s, consistent with the observed spillage discharge), alongside the dimensionless Correlation and T-test statistics. LFRF outperformed all other models with an R² of 0.94 and a Correlation of 0.97, with a T-test statistic of 0.078 indicating minimal systematic deviation from observed values; LFRF and LSTM achieved comparable, markedly lower prediction errors than RF and ANN. Standard RF, XGBoost, LightGBM, CatBoost, and ANN were evaluated as naive baselines using only current-day readings, without either the lagged features given to LFRF or the sequence-native architecture used by LSTM and a Temporal Convolutional Network; all five naive models performed similarly poorly regardless of algorithm sophistication. For the Weija Dam dataset and the configurations evaluated, access to lagged temporal information appeared to contribute more strongly to predictive performance than model architecture alone. These findings highlight the value of lagged features in Random Forest ensembles for dam spillage prediction and identify several lag “sweet spots” — 7-8 days, 15-17 days, 25-26 days, and approximately 30-40 days — at which LFRF provided consistently strong predictive performance that could support real-time operational decisions and risk mitigation at the dam."
-    },
-    {
-      "id": "W7204220977",
-      "title": "Nonlinear Granger causality and LSTM-Transformer hybrid forecasting reveal meteorological drivers of influenza incidence in Gansu Province",
-      "authors": [
-        "Yalin Jiao",
-        "Jingyi Xin",
-        "Chengqiao Song",
-        "Bangze Fu",
-        "Qiaoling Tang",
-        "Ranran Wang",
-        "Shuwen Zhang",
-        "Yunfeng Jiang"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-08-26",
-      "doi": "https://doi.org/10.1038/s41598-026-62458-7",
-      "openAlexUrl": "https://openalex.org/W7204220977",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 56,
-      "matchedKeywords": [
-        "shap",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Influenza poses a significant public health burden with distinct seasonality. In regions with pronounced climatic features like Gansu Province, China, traditional statistical models often fail to capture the nonlinear and lagged effects of meteorological drivers on influenza transmission. A deeper understanding of these complex relationships is essential for improving predictive accuracy. A Random Forest-based nonlinear Granger causality test was employed to systematically identify significant lagged predictive relationships between eight meteorological variables and monthly influenza incidence in Gansu Province (2004–2020). This approach accommodates complex, nonlinear dependencies that linear Granger causality cannot capture. Meteorological features exhibiting significant predictive improvement were selected via Random Forest and combined with influenza autocorrelation features as inputs to an LSTM-Transformer hybrid model. The model was trained using a rigorous time-series split (60%-20%-20%) and evaluated primarily using the Weighted Mean Absolute Percentage Error (WMAPE). Model explainability was assessed using SHapley Additive exPlanations (SHAP). The nonlinear Granger causality test identified significant statistical predictive relationships for all eight meteorological factors. Temperature-related variables exhibited a 6-month lag (improvement rates: 22.56%-23.99%). Precipitation showed a 1-month lag (improvement rate: 19.37%). Sunshine duration displayed a persistent predictive pattern across lags of 1 to 6 months (improvement rates: 15.8%-22.85%). The hybrid model achieved an R² of 0.786 and a WMAPE of 30.19% on the independent test set. SHAP-based explainability analysis ranked sunshine duration lagged by 2 months as the most influential predictor (mean absolute SHAP value = 0.0609), followed by the 6-month rolling mean of minimum temperature (0.0322). Meteorological factors offered important statistical predictive information for influenza incidence in Gansu Province, with sunshine duration exhibiting a persistent predictive pattern across multiple lags. The hybrid model demonstrated robust predictive performance on the independent test set."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:56:16.395Z",
+  "generatedAt": "2026-09-07T05:01:38.352Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -95,32 +95,27 @@
       "abstractEn": "Abstract Global cooling beginning ∼50 million years ago is commonly attributed to atmospheric CO2 drawdown driven by silicate weathering during uplift of the Tibetan Plateau and Himalaya. Yet direct, well-dated evidence connecting surface rise to cooling remains scarce. New paleoelevation and paleoenvironment data from the Mangkang Basin, Eastern Tibet, constrained by radiometrically anchored magnetostratigraphy and cyclostratigraphy, show rapid uplift from 3.3 ± 0.9 km to 4.3 ± 0.9 km with ∼5°C regional cooling between 35.7 and 35.2 Ma. Thus, Eastern Tibet attained near-modern elevations prior to the Eocene–Oligocene transition (EOT, 33.9 Ma), and long before major Himalayan uplift. This uplift is temporally correlated with increased orographic rainfall, initiation of Asia’s major rivers, enhanced sediment flux to marginal seas, and rising oceanic 87Sr/86Sr ratios. We suggest that late Eocene uplift and erosion of Eastern Tibet—not the later Miocene Himalaya uplift or plateau-wide rise—may have played an important role in driving the long-term CO2 decline and global cooling that ultimately culminated in the EOT."
     },
     {
-      "id": "W7204437280",
-      "title": "Deep learning techniques for extreme rainfall prediction: a review of state-of-the-art",
+      "id": "W7208712775",
+      "title": "Understanding projected uncertainty of Southern Ocean sea salt aerosol in CESM1-LE: role of internal variability",
       "authors": [
-        "Braiton Mukhalela",
-        "Serestina Viriri",
-        "David Ndzi",
-        "Michael Gebreslasie",
-        "Muhammad Zeeshan Shakir",
-        "Naeem Ramzan",
-        "Fahad Ayaz",
-        "Mary Lynch"
+        "Jie Gao",
+        "Tao Geng",
+        "Wenju Cai"
       ],
-      "journal": "Frontiers in Artificial Intelligence",
-      "publicationDate": "2026-08-27",
-      "doi": "https://doi.org/10.3389/frai.2026.1908848",
-      "openAlexUrl": "https://openalex.org/W7204437280",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 71,
+      "journal": "Geoscience Letters",
+      "publicationDate": "2026-09-05",
+      "doi": "https://doi.org/10.1186/s40562-026-00505-x",
+      "openAlexUrl": "https://openalex.org/W7208712775",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 70,
       "matchedKeywords": [
-        "deep learning",
-        "artificial intelligence",
-        "precipitation"
+        "southern annular mode",
+        "southern ocean",
+        "tropical pacific"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、artificial intelligence、climate、atmospher、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Extreme rainfall events (ERES) are among the most challenging hydro-meteorological phenomena to forecast because the complex, nonlinear atmospheric processes involved span multiple spatial and temporal scales and are further intensified by rising climate variability. While Numerical Weather Prediction (NWP) models offer physically consistent representations of atmospheric dynamics, they still struggle to resolve localized convection, rapidly evolving storm systems, and rare, high-intensity precipitation events. This study systematically reviews recent advances in Artificial Intelligence (AI) for extreme rainfall prediction published between 2020 and 2026, using a transparent literature search strategy, predefined screening criteria, quality assessment, and a structured literature review matrix. The review synthesizes evidence from a final evidence base of 139 studies across several dimensions, including deep learning (DL) methodologies, multimodal data fusion, forecasting horizons, operational deployment, uncertainty quantification, and emerging intelligent forecasting paradigms. The analysis reveals a transition from deterministic DI models to hybrid, physics-informed, uncertainty-aware, and operational forecasting systems that increasingly integrate AI with physical knowledge and heterogeneous environmental observations. Despite notable progress, persistent challenges remain, including data scarcity, class imbalance, model generalization, physical consistency, uncertainty estimation, transferability, and the lack of standardized evaluation frameworks. This review provides a unified synthesis of current methodologies. It identifies key research gaps, highlighting the need for evaluation frameworks that address physical plausibility, uncertainty quantification, reliability, transferability, and operational relevance. The findings indicate that future extreme rainfall prediction systems should advance beyond accuracy-focused evaluation toward integrated, trustworthy, uncertainty-aware, and physically consistent forecasting approaches."
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Southern Ocean (SO) sea salt aerosol is key to Earth’s energy budget, but its future changes are highly uncertain. Here using a 40-member ensemble from the Community Earth System Model Large Ensemble (CESM1-LE) project, we find that projected SO sea salt is modulated by internal climate variability both locally in the SO and remotely from the tropical Pacific. The leading mode of inter-member diversity displays a zonally homogenous pattern associated with the Southern Annular Mode due to its impact on future westerly poleward intensification. The second largest source of inter-member uncertainty relates to El Niño-Southern Oscillation (ENSO). In particular, as El Niño and La Niña are not symmetric, the cumulative ENSO impact on SO winds exhibits a meridional dipole in the south Pacific, such that a stronger future ENSO with more extreme El Niño events will induce a larger zonally heterogenous distribution of SO sea salt. Our results uncover an important role of ENSO nonlinearity in projected SO sea salt aerosol distribution."
     },
     {
       "id": "W7204493428",
@@ -139,7 +134,7 @@
       "openAlexUrl": "https://openalex.org/W7204493428",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "southern annular mode",
@@ -168,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7128721586",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -193,7 +188,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -219,40 +214,13 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "precipitation",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Pakistan encompasses the world’s most climatically and topographically diverse landscapes, spanning hyper-arid deserts, glaciated high-mountain ranges, and irrigated plains. Vegetation dynamics in such heterogeneous regions reflect complex interactions among water availability, thermal conditions, and land management. This study characterized spatiotemporal vegetation dynamics and their lag‑resolved climatic drivers across Pakistan’s Agro‑Ecological Zones (AEZs) during 2001–2024, using the MODIS Enhanced Vegetation Index (EVI) MOD13Q1 product alongside nine ERA5‑Land climate variables. Long‑term vegetation trends were assessed using the Modified Mann–Kendall (MMK) test with autocorrelation correction and False Discovery Rate (FDR) control. Positive vegetation trends (greening) were recorded across all AEZs, with 24% of pixels reaching statistical significance and only 0.8% showing significant browning (declining greenness). Soil moisture was found to be the dominant driver in just over 37% of pixels, confirming that root‑zone water availability governs vegetation variability across most of Pakistan. In the irrigated plains, vegetation trends were strongly correlated with canal irrigation rather than precipitation, consistent with the operation of the Indus irrigation network. The Rainfed Plateau showed the strongest vegetation recovery despite declining rainfall, suggesting improved land management as a contributing factor. In the mountain zones, asymmetric temperature warming was associated with extended growing seasons, while deserts exhibited instantaneous soil‑moisture coupling. Additional drivers included sensible heat flux and dewpoint temperature in the Northern Irrigated Plain, consistent with irrigation‑induced atmospheric humidity feedbacks. The Coastal Zone delta fringe was the only spatially coherent area of browning, associated with freshwater deficits below the Kotri Barrage. These results demonstrate that Pakistan’s vegetation reflects diverse, mechanistically distinct processes across AEZs, and highlight the importance of lag‑resolved, multi‑variable attribution for accurate vegetation–climate diagnosis in climatically heterogeneous irrigated landscapes."
-    },
-    {
-      "id": "W7204444098",
-      "title": "Climate-adjusted sequence learning reveals atmospheric-demand transitions in agricultural water–heat buffering",
-      "authors": [
-        "Qifeng Gui",
-        "Pan Li",
-        "Jingui Wei",
-        "Hailong Qiu",
-        "Lianhao Zhao",
-        "Pingxing Wan",
-        "Haoran Sun",
-        "Wen Yin"
-      ],
-      "journal": "Agricultural Water Management",
-      "publicationDate": "2026-08-27",
-      "doi": "https://doi.org/10.1016/j.agwat.2026.110739",
-      "openAlexUrl": "https://openalex.org/W7204444098",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 60,
-      "matchedKeywords": [
-        "causal",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Agricultural systems are increasingly exposed to hotter and drier conditions, but it remains difficult to determine why some croplands stay greener, wetter, and cooler than others. Favourable crop conditions may simply reflect a favourable climate background, or they may indicate that an agricultural system performs better than expected under similar climatic stress. Here, we developed a climate-adjusted sequence-learning framework to separate these two situations across three major agricultural regions in the western United States. The framework first estimated the seasonal crop response expected under the observed climate conditions and then compared the observed vegetation, moisture, and surface-temperature trajectories with this expectation. The resulting residual trajectories were used to identify climate-adjusted water–heat response signatures, rather than being interpreted as direct causal evidence of intrinsic buffering capacity. We identified two dominant response signatures. Strong-response systems were generally greener, wetter, and cooler than expected under comparable climate conditions, whereas weak-response systems showed the opposite pattern. The difference between the two signatures was most evident during the middle to late growing season, when atmospheric water demand was high. As atmospheric demand increased, the mean buffer-advantage score declined from 0.204 to −0.456, the fraction of priority-vulnerable samples increased from 16.5% to 41.4%, and mean surface temperature increased from 19.4 °C to 47.0 °C. Higher precipitation did not fully offset this decline, suggesting that agricultural vulnerability depends on the balance between water supply and atmospheric demand rather than precipitation alone. Independent validation using OpenET evapotranspiration and Cropland Data Layer crop-type information further showed that the identified response signatures were consistent with agricultural water-use functioning. These findings show that the proposed framework can move beyond mapping where croplands look favourable to identifying where they perform better or worse than expected under comparable climate pressure. This provides a practical basis for prioritizing agricultural water-management interventions under rising atmospheric demand."
     },
     {
       "id": "W7207544900",
@@ -269,7 +237,7 @@
       "openAlexUrl": "https://openalex.org/W7207544900",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "precipitation",
         "antarctic"
@@ -279,7 +247,7 @@
     },
     {
       "id": "W7204915473",
-      "title": "Enhanced Dam Spillage Prediction Using Lagged Feedback Random Forests at Weija Dam, Ghana",
+      "title": "Enhanced dam spillage prediction using lagged feedback random forests at Weija Dam, Ghana",
       "authors": [
         "Michael Nyoagbe",
         "Jonathan Arthur Quaye‐Ballard",
@@ -293,7 +261,7 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "machine learning"
       ],

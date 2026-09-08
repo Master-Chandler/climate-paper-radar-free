@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:01:38.352Z",
+  "generatedAt": "2026-09-08T04:59:04.686Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -108,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -118,31 +118,31 @@
       "abstractEn": "Abstract Southern Ocean (SO) sea salt aerosol is key to Earth’s energy budget, but its future changes are highly uncertain. Here using a 40-member ensemble from the Community Earth System Model Large Ensemble (CESM1-LE) project, we find that projected SO sea salt is modulated by internal climate variability both locally in the SO and remotely from the tropical Pacific. The leading mode of inter-member diversity displays a zonally homogenous pattern associated with the Southern Annular Mode due to its impact on future westerly poleward intensification. The second largest source of inter-member uncertainty relates to El Niño-Southern Oscillation (ENSO). In particular, as El Niño and La Niña are not symmetric, the cumulative ENSO impact on SO winds exhibits a meridional dipole in the south Pacific, such that a stronger future ENSO with more extreme El Niño events will induce a larger zonally heterogenous distribution of SO sea salt. Our results uncover an important role of ENSO nonlinearity in projected SO sea salt aerosol distribution."
     },
     {
-      "id": "W7204493428",
-      "title": "ENSO-driven multi-decadal climate variability in Auckland: a Southern Hemisphere coastal city perspective",
+      "id": "W7208808564",
+      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
       "authors": [
-        "Sihui Dong",
-        "Asaad Y. Shamseldin",
-        "Kilisimasi Latu",
-        "Conrad Zorn",
-        "Minghao Chen",
-        "Aung Naing Soe"
+        "Tiexi Chen",
+        "Zhe Gu",
+        "Shengjie Zhou",
+        "Xin Chen",
+        "Bin He",
+        "Jian Peng",
+        "Hongying Li",
+        "Wenhui Li"
       ],
-      "journal": "Journal of Southern Hemisphere Earth System Science",
-      "publicationDate": "2026-08-28",
-      "doi": "https://doi.org/10.1071/es25022",
-      "openAlexUrl": "https://openalex.org/W7204493428",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 67,
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-09-05",
+      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
+      "openAlexUrl": "https://openalex.org/W7208808564",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 65,
       "matchedKeywords": [
         "precipitation",
-        "southern annular mode",
-        "polar",
-        "pacific decadal oscillation"
+        "plateau"
       ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、polar、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Coastal cities in Southern Hemisphere mid-latitudes face climate risks from interacting tropical and polar atmospheric systems. This study examines multi-decadal climate variability in Auckland (37°S), New Zealand’s largest city, using 1963–2022 records. Morlet wavelet analysis and robust trend tests identified significant warming in maximum temperature (+0.307°C per decade). After detrending, winter rainfall showed El Niño–Southern Oscillation (ENSO)-related interannual variability, with wet and dry anomalies across phases. Wavelet spectra revealed 28–30-year oscillations consistent with Pacific Decadal Oscillation cycles and emerging 4–6-year ENSO-scale precipitation variability after 2000. Major anomalies coincided with positive Southern Annular Mode phases in 1994–95, when drought occurred, and with the extreme 1982–83 and 1997–98 El Niño events, when local temperature anomalies were 0.23°C greater than during ENSO-neutral and transition years. By contrast, 2010–11 was unusually wet, consistent with enhanced north-easterly flow. Rising humidity (+0.107 hPa per decade) and sunshine duration (+39.32 h per decade) may intensify urban heat stress. These findings demonstrate combined effects of large-scale ocean–atmosphere variability and long-term warming, supporting climate-resilient infrastructure, early-warning systems and urban planning in Southern Hemisphere coastal cities."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7128721586",
@@ -163,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7128721586",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -188,7 +188,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -214,13 +214,38 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "precipitation",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Pakistan encompasses the world’s most climatically and topographically diverse landscapes, spanning hyper-arid deserts, glaciated high-mountain ranges, and irrigated plains. Vegetation dynamics in such heterogeneous regions reflect complex interactions among water availability, thermal conditions, and land management. This study characterized spatiotemporal vegetation dynamics and their lag‑resolved climatic drivers across Pakistan’s Agro‑Ecological Zones (AEZs) during 2001–2024, using the MODIS Enhanced Vegetation Index (EVI) MOD13Q1 product alongside nine ERA5‑Land climate variables. Long‑term vegetation trends were assessed using the Modified Mann–Kendall (MMK) test with autocorrelation correction and False Discovery Rate (FDR) control. Positive vegetation trends (greening) were recorded across all AEZs, with 24% of pixels reaching statistical significance and only 0.8% showing significant browning (declining greenness). Soil moisture was found to be the dominant driver in just over 37% of pixels, confirming that root‑zone water availability governs vegetation variability across most of Pakistan. In the irrigated plains, vegetation trends were strongly correlated with canal irrigation rather than precipitation, consistent with the operation of the Indus irrigation network. The Rainfed Plateau showed the strongest vegetation recovery despite declining rainfall, suggesting improved land management as a contributing factor. In the mountain zones, asymmetric temperature warming was associated with extended growing seasons, while deserts exhibited instantaneous soil‑moisture coupling. Additional drivers included sensible heat flux and dewpoint temperature in the Northern Irrigated Plain, consistent with irrigation‑induced atmospheric humidity feedbacks. The Coastal Zone delta fringe was the only spatially coherent area of browning, associated with freshwater deficits below the Kotri Barrage. These results demonstrate that Pakistan’s vegetation reflects diverse, mechanistically distinct processes across AEZs, and highlight the importance of lag‑resolved, multi‑variable attribution for accurate vegetation–climate diagnosis in climatically heterogeneous irrigated landscapes."
+    },
+    {
+      "id": "W7208816477",
+      "title": "Modified daily standardized precipitation evapotranspiration index based on influence attenuation of water surplus and deficit",
+      "authors": [
+        "Wei Pei",
+        "Tonglin Fang",
+        "Shaoting Liu",
+        "Lei Hao",
+        "Hui Liu",
+        "Tianxiao Li",
+        "Qiang Fu"
+      ],
+      "journal": "Agricultural Water Management",
+      "publicationDate": "2026-09-05",
+      "doi": "https://doi.org/10.1016/j.agwat.2026.110746",
+      "openAlexUrl": "https://openalex.org/W7208816477",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 57,
+      "matchedKeywords": [
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The daily standardized precipitation evapotranspiration index (DSPEI) aggregates water surplus and deficit series with equal-weight accumulation, which is inconsistent with the physical principle that recent impacts are prominent and distant impacts attenuate during drought accumulation process. In this study, nonlinear attenuation coefficients are constructed using an exponential function. The attenuation intensity is modulated by an attenuation parameter to quantify temporal attenuation of water surplus and deficit; therefore, a modified DSPEI (MDSPEI) incorporating such attenuation characteristics is proposed. China serves as the study area. The correlation coefficients between the water surplus-deficit series and soil moisture series are sequentially calculated under varying attenuation parameters, and the parameter corresponding to the maximum correlation coefficient is defined as the optimal value. The dataset is split into training and test sets for parameter calibration and applicability validation, respectively. Three approaches, namely, comparison with historical drought events, correlation analysis with the standardized soil moisture index (SSMI), and correlation analysis against drought disaster areas, are adopted to systematically verify the advantages of the MDSPEI. The results demonstrate that the MDSPEI presents higher sensitivity and earlier drought identification and can effectively capture intense drought evolution. The MDSPEI outperforms the DSPEI in correlation with the SSMI, suggesting better consistency with the physical nature of drought. Stronger negative correlations between the MDSPEI and drought-affected areas are observed at annual and annually averaged scales, indicating that the MDSPEI identifies and characterizes agricultural drought more realistically. This study contributes to theories of daily SPEI and offers new ideas for drought monitoring."
     },
     {
       "id": "W7207544900",
@@ -237,7 +262,7 @@
       "openAlexUrl": "https://openalex.org/W7207544900",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "precipitation",
         "antarctic"
@@ -261,7 +286,7 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "machine learning"
       ],

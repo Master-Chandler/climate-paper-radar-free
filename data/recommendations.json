@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:59:04.686Z",
+  "generatedAt": "2026-09-09T04:58:28.043Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -108,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -116,33 +116,6 @@
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Southern Ocean (SO) sea salt aerosol is key to Earth’s energy budget, but its future changes are highly uncertain. Here using a 40-member ensemble from the Community Earth System Model Large Ensemble (CESM1-LE) project, we find that projected SO sea salt is modulated by internal climate variability both locally in the SO and remotely from the tropical Pacific. The leading mode of inter-member diversity displays a zonally homogenous pattern associated with the Southern Annular Mode due to its impact on future westerly poleward intensification. The second largest source of inter-member uncertainty relates to El Niño-Southern Oscillation (ENSO). In particular, as El Niño and La Niña are not symmetric, the cumulative ENSO impact on SO winds exhibits a meridional dipole in the south Pacific, such that a stronger future ENSO with more extreme El Niño events will induce a larger zonally heterogenous distribution of SO sea salt. Our results uncover an important role of ENSO nonlinearity in projected SO sea salt aerosol distribution."
-    },
-    {
-      "id": "W7208808564",
-      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
-      "authors": [
-        "Tiexi Chen",
-        "Zhe Gu",
-        "Shengjie Zhou",
-        "Xin Chen",
-        "Bin He",
-        "Jian Peng",
-        "Hongying Li",
-        "Wenhui Li"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-09-05",
-      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
-      "openAlexUrl": "https://openalex.org/W7208808564",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 65,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7128721586",
@@ -163,13 +136,40 @@
       "openAlexUrl": "https://openalex.org/W7128721586",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
+    },
+    {
+      "id": "W7208808564",
+      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
+      "authors": [
+        "Tiexi Chen",
+        "Zhe Gu",
+        "Shengjie Zhou",
+        "Xin Chen",
+        "Bin He",
+        "Jian Peng",
+        "Hongying Li",
+        "Wenhui Li"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-09-05",
+      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
+      "openAlexUrl": "https://openalex.org/W7208808564",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 63,
+      "matchedKeywords": [
+        "precipitation",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7204970232",
@@ -188,7 +188,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -214,7 +214,7 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -240,7 +240,7 @@
       "openAlexUrl": "https://openalex.org/W7208816477",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -262,7 +262,7 @@
       "openAlexUrl": "https://openalex.org/W7207544900",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "precipitation",
         "antarctic"
@@ -286,7 +286,7 @@
       "openAlexUrl": "https://openalex.org/W7204915473",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "machine learning"
       ],

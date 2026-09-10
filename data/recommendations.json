@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:58:28.043Z",
+  "generatedAt": "2026-09-10T05:01:57.553Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7204825172",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "tibetan plateau",
         "himalaya",
@@ -93,6 +93,32 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、himalaya、plateau、atmospher、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Global cooling beginning ∼50 million years ago is commonly attributed to atmospheric CO2 drawdown driven by silicate weathering during uplift of the Tibetan Plateau and Himalaya. Yet direct, well-dated evidence connecting surface rise to cooling remains scarce. New paleoelevation and paleoenvironment data from the Mangkang Basin, Eastern Tibet, constrained by radiometrically anchored magnetostratigraphy and cyclostratigraphy, show rapid uplift from 3.3 ± 0.9 km to 4.3 ± 0.9 km with ∼5°C regional cooling between 35.7 and 35.2 Ma. Thus, Eastern Tibet attained near-modern elevations prior to the Eocene–Oligocene transition (EOT, 33.9 Ma), and long before major Himalayan uplift. This uplift is temporally correlated with increased orographic rainfall, initiation of Asia’s major rivers, enhanced sediment flux to marginal seas, and rising oceanic 87Sr/86Sr ratios. We suggest that late Eocene uplift and erosion of Eastern Tibet—not the later Miocene Himalaya uplift or plateau-wide rise—may have played an important role in driving the long-term CO2 decline and global cooling that ultimately culminated in the EOT."
+    },
+    {
+      "id": "W7211867023",
+      "title": "Subduction-driven erosion enhances carbon sequestration and climate cooling during ocean-to-continent transformation",
+      "authors": [
+        "Yanan Shi",
+        "Liang Zhao",
+        "Qingyun Di",
+        "Zengqian Hou",
+        "Huajian Wang",
+        "Jason Phipps Morgan",
+        "Taras Gerya"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publicationDate": "2026-09-07",
+      "doi": "https://doi.org/10.1038/s43247-026-04030-9",
+      "openAlexUrl": "https://openalex.org/W7211867023",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 67,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract How submerged oceanic domains trapped within growing continents become stable, subaerial continental interiors and what that conversion means for the long-term carbon cycle remain poorly understood. Traditional models of such ocean-to-continent conversion emphasize significant horizontal shortening or plume activity. Here we identify an alternative, surface-process-mediated pathway recorded in Central Asia, where formerly submerged cratonic blocks became intracontinental domains in the late Paleozoic. Geodynamic simulations of subduction, whose predicted uplift is used to drive landscape-evolution simulations of erosion and deposition, show that uplift of the surrounding orogenic belts can generate strong topographic gradients that drive intense erosion, sediment transport, and basin stabilization. This tectonic configuration leads to enclosed intracontinental basins with high-sedimentation rates, promoting efficient organic carbon burial and long-term sequestration. Although oxidative weathering of rock organic carbon and metamorphic degassing partly offset burial, thick Devonian–Carboniferous carbonate sequences indicate substantial net carbon sequestration. This coupling between deep Earth dynamics, surface erosion, and carbon burial amplified the late Paleozoic CO 2 decline and global cooling during Pangaea’s assembly. A similar process may have operated during the Cenozoic, when Tethys closure and Tibetan Plateau uplift enhanced erosion and carbon storage in the Mediterranean, Black, and Caspian basins, contributing to long-term cooling."
     },
     {
       "id": "W7208712775",
@@ -108,7 +134,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -118,31 +144,30 @@
       "abstractEn": "Abstract Southern Ocean (SO) sea salt aerosol is key to Earth’s energy budget, but its future changes are highly uncertain. Here using a 40-member ensemble from the Community Earth System Model Large Ensemble (CESM1-LE) project, we find that projected SO sea salt is modulated by internal climate variability both locally in the SO and remotely from the tropical Pacific. The leading mode of inter-member diversity displays a zonally homogenous pattern associated with the Southern Annular Mode due to its impact on future westerly poleward intensification. The second largest source of inter-member uncertainty relates to El Niño-Southern Oscillation (ENSO). In particular, as El Niño and La Niña are not symmetric, the cumulative ENSO impact on SO winds exhibits a meridional dipole in the south Pacific, such that a stronger future ENSO with more extreme El Niño events will induce a larger zonally heterogenous distribution of SO sea salt. Our results uncover an important role of ENSO nonlinearity in projected SO sea salt aerosol distribution."
     },
     {
-      "id": "W7128721586",
-      "title": "Revisiting the critical role of stabilized Criegee intermediates (sCIs) in sulfuric acid formation: coupling mechanistic updates with interpretable machine learning",
+      "id": "W7211882479",
+      "title": "Outburst floods records in the Yigong River since holocene, southeastern Tibet",
       "authors": [
-        "Yuhuan Zhu",
-        "Q. Chen",
-        "Luyan He",
-        "Chunlin Shang",
-        "Li Jiang",
-        "Donghong Guan",
-        "Guirong Yao",
-        "Wenkai Guo"
+        "Chaohua Wu",
+        "Xuemei Li",
+        "Kaiheng Hu",
+        "Weiming Liu",
+        "Qiyuan Zhang",
+        "Anna Yang",
+        "Hao Li"
       ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-09-02",
-      "doi": "https://doi.org/10.5194/acp-26-12479-2026",
-      "openAlexUrl": "https://openalex.org/W7128721586",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
+      "journal": "Geoenvironmental Disasters",
+      "publicationDate": "2026-09-07",
+      "doi": "https://doi.org/10.1186/s40677-026-00415-2",
+      "openAlexUrl": "https://openalex.org/W7211882479",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
       "score": 63,
       "matchedKeywords": [
-        "machine learning",
-        "shap"
+        "tibetan plateau",
+        "plateau"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
     },
     {
       "id": "W7208808564",
@@ -163,13 +188,40 @@
       "openAlexUrl": "https://openalex.org/W7208808564",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "precipitation",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
+    },
+    {
+      "id": "W7128721586",
+      "title": "Revisiting the critical role of stabilized Criegee intermediates (sCIs) in sulfuric acid formation: coupling mechanistic updates with interpretable machine learning",
+      "authors": [
+        "Yuhuan Zhu",
+        "Q. Chen",
+        "Luyan He",
+        "Chunlin Shang",
+        "Li Jiang",
+        "Donghong Guan",
+        "Guirong Yao",
+        "Wenkai Guo"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-09-02",
+      "doi": "https://doi.org/10.5194/acp-26-12479-2026",
+      "openAlexUrl": "https://openalex.org/W7128721586",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 61,
+      "matchedKeywords": [
+        "machine learning",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
     },
     {
       "id": "W7204970232",
@@ -188,7 +240,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -214,7 +266,7 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -240,7 +292,7 @@
       "openAlexUrl": "https://openalex.org/W7208816477",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -262,36 +314,13 @@
       "openAlexUrl": "https://openalex.org/W7207544900",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "precipitation",
         "antarctic"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Extreme precipitation is a major contributor to the total precipitation over Antarctica and its variability. However, it remains poorly understood whether Antarctic extreme precipitation has undergone recent changes and, if so, whether these changes are anthropogenically driven. Using ERA5 reanalysis for 1979–2023, we identify significant regional trends in total and extreme precipitation across Antarctic drainage basins, including significant increases over the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land in East Antarctica. We then perform a regression-based detection and attribution analysis of these trends using precipitation outputs from CESM1 global climate model large ensembles based on “all-forcing” experiments and “single-forcing” experiments that isolate the effects of greenhouse gases, anthropogenic aerosols, and stratospheric ozone. For five of the six basins exhibiting positive trends in total precipitation (within the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land) and three of the four basins exhibiting positive trends in extreme precipitation (within Dronning Maud Land and Enderby Land), the ERA5 signal was formally detected in the CESM1 all-forcing simulations, indicating that these trends are driven by a combination of anthropogenic and natural forcings. Our analysis further show that for one basin (within Enderby Land) the increases in total and extreme precipitation are robustly attributed to greenhouse gases and stratospheric ozone, while for another basin (within Dronning Maud Land) the increases in total precipitation are attributed to stratospheric ozone only. In contrast, none of the precipitation trends could be attributed to anthropogenic aerosols despite all-forcing and single-forcing simulations of anthropogenic aerosols exhibiting similar trend patterns. Applying the same analysis to CESM2 large ensembles confirmed that the ERA5 precipitation signal was detected in the all-forcing simulations but unlike CESM1 did not provide robust attribution of total or extreme precipitation to any individual forcing. These findings provide evidence that external drivers have already impacted East Antarctic total and extreme precipitation, while demonstrating that uncertainties in attributing individual forcings remain a key limitation in understanding future changes to the Antarctic surface mass balance."
-    },
-    {
-      "id": "W7204915473",
-      "title": "Enhanced dam spillage prediction using lagged feedback random forests at Weija Dam, Ghana",
-      "authors": [
-        "Michael Nyoagbe",
-        "Jonathan Arthur Quaye‐Ballard",
-        "John Divine Wise Ayer",
-        "Yaw Mensah Asare",
-        "Tina Dzigbordi Wemegah"
-      ],
-      "journal": "Scientific African",
-      "publicationDate": "2026-09-01",
-      "doi": "https://doi.org/10.1016/j.sciaf.2026.e03611",
-      "openAlexUrl": "https://openalex.org/W7204915473",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 50,
-      "matchedKeywords": [
-        "machine learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Accurate prediction of dam spillage is essential for mitigating flood risks to downstream communities and for the optimal management of water resources. Existing machine learning models often struggle to capture the delayed hydrological responses that influence reservoir spillage. This limits their operational usefulness for early warning and reservoir management. This study proposes a lag-enhanced Random Forest forecasting framework, termed Lagged-Feedback Random Forest (LFRF), that systematically incorporates temporal feedback from historical data points to improve dam spillage prediction. The framework was benchmarked against three alternative approaches, Long Short-Term Memory (LSTM) networks, standard Random Forest (RF), and Artificial Neural Networks (ANN), as well as four additional contemporary architectures, XGBoost, LightGBM, CatBoost, and a Temporal Convolutional Network (TCN), using the Weija Dam's 15-year daily historical record and a 40-day lag structure. Models were evaluated using RMSE, MAE, and R² (in m³/s, consistent with the observed spillage discharge), alongside the dimensionless Correlation and T-test statistics. LFRF outperformed all other models with an R² of 0.94 and a Correlation of 0.97, with a T-test statistic of 0.078 indicating minimal systematic deviation from observed values; LFRF and LSTM achieved comparable, markedly lower prediction errors than RF and ANN. Standard RF, XGBoost, LightGBM, CatBoost, and ANN were evaluated as naive baselines using only current-day readings, without either the lagged features given to LFRF or the sequence-native architecture used by LSTM and a Temporal Convolutional Network; all five naive models performed similarly poorly regardless of algorithm sophistication. For the Weija Dam dataset and the configurations evaluated, access to lagged temporal information appeared to contribute more strongly to predictive performance than model architecture alone. These findings highlight the value of lagged features in Random Forest ensembles for dam spillage prediction and identify several lag “sweet spots” — 7-8 days, 15-17 days, 25-26 days, and approximately 30-40 days — at which LFRF provided consistently strong predictive performance that could support real-time operational decisions and risk mitigation at the dam."
     }
   ]
 }

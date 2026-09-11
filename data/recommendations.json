@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:01:57.553Z",
+  "generatedAt": "2026-09-11T04:58:20.125Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7204760146",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "explainable",
         "shap",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -67,32 +67,27 @@
       "abstractEn": "Study region The East River Basin (ERB), a critical water source for South China’s mega-cities. Study focus To address data scarcity and the predictive collapse of traditional models during extreme deficits, this study develops an integrated diagnostic-predictive framework for the Distributed Standardized Socioeconomic Drought Index (DSSEDI). High-fidelity DSSEDI forecasting (maintaining a Nash-Sutcliffe efficiency of 0.774 during extreme deficits) is achieved by leveraging accessible multi-source data, overcoming sector-specific monitoring constraints. By coupling a Causal Convolutional Transformer with Shapley Additive Explanations, the framework ensures physical consistency through dual-causal constraints. Crucially, incorporating a quantile regression loss function ( 𝑞 = 0 . 5 ) significantly outperforms Mean Squared Error-based models in capturing non-Gaussian extreme drought peaks. New hydrological insights This analysis reveals the underlying socioeconomic drought mechanisms in the ERB, which exhibits a persistent climate memory characterized by 10- to 11-month hydrometeorological lags. A critical finding is the identification of a soil moisture paradox, where high antecedent moisture paradoxically accelerates drought development via enhanced evapotranspiration under urban heat island stress. Furthermore, the modeling framework implicitly diagnoses Xinfengjiang Reservoir regulation and exposes a pronounced socioeconomic antagonism, demonstrating that rigid industrial demand acts as a persistent drought amplifier. Distinct soil moisture inflection points (750 mm for urban and 600 mm for agricultural zones) are identified as scientific triggers for adaptive management. These findings establish a threshold-driven governance paradigm for enhancing drought resilience in urbanizing regional basins."
     },
     {
-      "id": "W7204825172",
-      "title": "Late eocene uplift and erosion of eastern tibet initiated long-term cenozoic global cooling",
+      "id": "W7212065260",
+      "title": "The Application of Artificial Intelligence in Streamflow Forecasting: A Review",
       "authors": [
-        "Zhongshan Shen",
-        "Shihu Li",
-        "Jia Liu",
-        "Tao Su",
-        "Robert A. Spicer",
-        "Zhiqiang Yu",
-        "Weiyudong Deng",
-        "Liang Dong"
+        "Sandhya Eswara",
+        "Andrew Barton",
+        "Tanveer Choudhury",
+        "Thomas Chubb"
       ],
-      "journal": "National Science Review",
-      "publicationDate": "2026-08-31",
-      "doi": "https://doi.org/10.1093/nsr/nwag563",
-      "openAlexUrl": "https://openalex.org/W7204825172",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 68,
+      "journal": "Water Resources Management",
+      "publicationDate": "2026-09-01",
+      "doi": "https://doi.org/10.1007/s11269-026-04883-x",
+      "openAlexUrl": "https://openalex.org/W7212065260",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 66,
       "matchedKeywords": [
-        "tibetan plateau",
-        "himalaya",
-        "plateau"
+        "artificial intelligence",
+        "neural network"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、himalaya、plateau、atmospher、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Global cooling beginning ∼50 million years ago is commonly attributed to atmospheric CO2 drawdown driven by silicate weathering during uplift of the Tibetan Plateau and Himalaya. Yet direct, well-dated evidence connecting surface rise to cooling remains scarce. New paleoelevation and paleoenvironment data from the Mangkang Basin, Eastern Tibet, constrained by radiometrically anchored magnetostratigraphy and cyclostratigraphy, show rapid uplift from 3.3 ± 0.9 km to 4.3 ± 0.9 km with ∼5°C regional cooling between 35.7 and 35.2 Ma. Thus, Eastern Tibet attained near-modern elevations prior to the Eocene–Oligocene transition (EOT, 33.9 Ma), and long before major Himalayan uplift. This uplift is temporally correlated with increased orographic rainfall, initiation of Asia’s major rivers, enhanced sediment flux to marginal seas, and rising oceanic 87Sr/86Sr ratios. We suggest that late Eocene uplift and erosion of Eastern Tibet—not the later Miocene Himalaya uplift or plateau-wide rise—may have played an important role in driving the long-term CO2 decline and global cooling that ultimately culminated in the EOT."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、temperature、hydrolog、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Accurate streamflow modelling and forecasting are crucial for proper water resources planning, engineering, and management. Since the last two decades, Artificial Intelligence (AI) methods have been increasingly developed and used in streamflow forecasting due to their robustness in dealing with non-linear, uncertain, and complex hydrological datasets. The current paper is a retrospective study on the different AI methods used in streamflow forecasting. Based on the review of research papers published in different journals from 1999 to 2023, this paper presents an analysis of the various AI techniques and algorithms in use. It identified feed-forward neural network (FFNN) as one of the most prominently used AI methods in streamflow forecasting. Also, the review examined papers from the perspective of forecast window time frame used, only to find that majority of the research considered a short forecast window of 1-7 day(s) lead time as compared to longer time frames. Additionally, the paper also provides information on the different input parameters used by researchers over time in defining their AI models. The analysis shows that primarily used parameters include streamflow, rainfall, and temperature data, and negligible use of snow or other cyclic factors as inputs. Based on all these statistical information, this review paper contributes to the possibility of exploring other inputs parameters and extending the existing forecasting window time frame for better forecasting of streamflow, and hence, efficient management of water resources. It has also forwarded directions for future research in streamflow modelling, including the exploration of time series neural network models for forecasting streamflow over larger windows. This review thus, identifies the challenges associated with streamflow prediction and the possible ways to overcome them."
     },
     {
       "id": "W7211867023",
@@ -112,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7211867023",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -134,7 +129,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -161,40 +156,13 @@
       "openAlexUrl": "https://openalex.org/W7211882479",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
-    },
-    {
-      "id": "W7208808564",
-      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
-      "authors": [
-        "Tiexi Chen",
-        "Zhe Gu",
-        "Shengjie Zhou",
-        "Xin Chen",
-        "Bin He",
-        "Jian Peng",
-        "Hongying Li",
-        "Wenhui Li"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-09-05",
-      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
-      "openAlexUrl": "https://openalex.org/W7208808564",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 62,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7128721586",
@@ -215,13 +183,60 @@
       "openAlexUrl": "https://openalex.org/W7128721586",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
+    },
+    {
+      "id": "W7211939844",
+      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
+      "authors": [
+        "Eitarou Oka",
+        "Masami Nonaka"
+      ],
+      "journal": "Journal of Oceanography",
+      "publicationDate": "2026-09-08",
+      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
+      "openAlexUrl": "https://openalex.org/W7211939844",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "east asia"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
+    },
+    {
+      "id": "W7208808564",
+      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
+      "authors": [
+        "Tiexi Chen",
+        "Zhe Gu",
+        "Shengjie Zhou",
+        "Xin Chen",
+        "Bin He",
+        "Jian Peng",
+        "Hongying Li",
+        "Wenhui Li"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-09-05",
+      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
+      "openAlexUrl": "https://openalex.org/W7208808564",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 60,
+      "matchedKeywords": [
+        "precipitation",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7204970232",
@@ -240,7 +255,7 @@
       "openAlexUrl": "https://openalex.org/W7204970232",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -266,7 +281,7 @@
       "openAlexUrl": "https://openalex.org/W7205003164",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -292,35 +307,12 @@
       "openAlexUrl": "https://openalex.org/W7208816477",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The daily standardized precipitation evapotranspiration index (DSPEI) aggregates water surplus and deficit series with equal-weight accumulation, which is inconsistent with the physical principle that recent impacts are prominent and distant impacts attenuate during drought accumulation process. In this study, nonlinear attenuation coefficients are constructed using an exponential function. The attenuation intensity is modulated by an attenuation parameter to quantify temporal attenuation of water surplus and deficit; therefore, a modified DSPEI (MDSPEI) incorporating such attenuation characteristics is proposed. China serves as the study area. The correlation coefficients between the water surplus-deficit series and soil moisture series are sequentially calculated under varying attenuation parameters, and the parameter corresponding to the maximum correlation coefficient is defined as the optimal value. The dataset is split into training and test sets for parameter calibration and applicability validation, respectively. Three approaches, namely, comparison with historical drought events, correlation analysis with the standardized soil moisture index (SSMI), and correlation analysis against drought disaster areas, are adopted to systematically verify the advantages of the MDSPEI. The results demonstrate that the MDSPEI presents higher sensitivity and earlier drought identification and can effectively capture intense drought evolution. The MDSPEI outperforms the DSPEI in correlation with the SSMI, suggesting better consistency with the physical nature of drought. Stronger negative correlations between the MDSPEI and drought-affected areas are observed at annual and annually averaged scales, indicating that the MDSPEI identifies and characterizes agricultural drought more realistically. This study contributes to theories of daily SPEI and offers new ideas for drought monitoring."
-    },
-    {
-      "id": "W7207544900",
-      "title": "Recent intensification of extreme precipitation over East Antarctica driven by increases in greenhouse gases and stratospheric ozone",
-      "authors": [
-        "Sai Prabala Swetha Chittella",
-        "Andrew Orr",
-        "Pranab Deb",
-        "Quentin Dalaiden"
-      ],
-      "journal": "The cryosphere",
-      "publicationDate": "2026-09-03",
-      "doi": "https://doi.org/10.5194/tc-20-5005-2026",
-      "openAlexUrl": "https://openalex.org/W7207544900",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 53,
-      "matchedKeywords": [
-        "precipitation",
-        "antarctic"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Extreme precipitation is a major contributor to the total precipitation over Antarctica and its variability. However, it remains poorly understood whether Antarctic extreme precipitation has undergone recent changes and, if so, whether these changes are anthropogenically driven. Using ERA5 reanalysis for 1979–2023, we identify significant regional trends in total and extreme precipitation across Antarctic drainage basins, including significant increases over the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land in East Antarctica. We then perform a regression-based detection and attribution analysis of these trends using precipitation outputs from CESM1 global climate model large ensembles based on “all-forcing” experiments and “single-forcing” experiments that isolate the effects of greenhouse gases, anthropogenic aerosols, and stratospheric ozone. For five of the six basins exhibiting positive trends in total precipitation (within the Filchner-Ronne sector, Dronning Maud Land, and Enderby Land) and three of the four basins exhibiting positive trends in extreme precipitation (within Dronning Maud Land and Enderby Land), the ERA5 signal was formally detected in the CESM1 all-forcing simulations, indicating that these trends are driven by a combination of anthropogenic and natural forcings. Our analysis further show that for one basin (within Enderby Land) the increases in total and extreme precipitation are robustly attributed to greenhouse gases and stratospheric ozone, while for another basin (within Dronning Maud Land) the increases in total precipitation are attributed to stratospheric ozone only. In contrast, none of the precipitation trends could be attributed to anthropogenic aerosols despite all-forcing and single-forcing simulations of anthropogenic aerosols exhibiting similar trend patterns. Applying the same analysis to CESM2 large ensembles confirmed that the ERA5 precipitation signal was detected in the all-forcing simulations but unlike CESM1 did not provide robust attribution of total or extreme precipitation to any individual forcing. These findings provide evidence that external drivers have already impacted East Antarctic total and extreme precipitation, while demonstrating that uncertainties in attributing individual forcings remain a key limitation in understanding future changes to the Antarctic surface mass balance."
     }
   ]
 }

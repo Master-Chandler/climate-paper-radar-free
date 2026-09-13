@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T04:51:14.116Z",
+  "generatedAt": "2026-09-13T05:09:36.640Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7207722139",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7211867023",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -78,7 +78,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -105,33 +105,13 @@
       "openAlexUrl": "https://openalex.org/W7211882479",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 59,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
-    },
-    {
-      "id": "W7211939844",
-      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
-      "authors": [
-        "Eitarou Oka",
-        "Masami Nonaka"
-      ],
-      "journal": "Journal of Oceanography",
-      "publicationDate": "2026-09-08",
-      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
-      "openAlexUrl": "https://openalex.org/W7211939844",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 59,
-      "matchedKeywords": [
-        "east asia"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
     },
     {
       "id": "W7208808564",
@@ -152,7 +132,7 @@
       "openAlexUrl": "https://openalex.org/W7208808564",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -161,57 +141,24 @@
       "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
-      "id": "W7128721586",
-      "title": "Revisiting the critical role of stabilized Criegee intermediates (sCIs) in sulfuric acid formation: coupling mechanistic updates with interpretable machine learning",
+      "id": "W7211939844",
+      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
       "authors": [
-        "Yuhuan Zhu",
-        "Q. Chen",
-        "Luyan He",
-        "Chunlin Shang",
-        "Li Jiang",
-        "Donghong Guan",
-        "Guirong Yao",
-        "Wenkai Guo"
+        "Eitarou Oka",
+        "Masami Nonaka"
       ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-09-02",
-      "doi": "https://doi.org/10.5194/acp-26-12479-2026",
-      "openAlexUrl": "https://openalex.org/W7128721586",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 58,
+      "journal": "Journal of Oceanography",
+      "publicationDate": "2026-09-08",
+      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
+      "openAlexUrl": "https://openalex.org/W7211939844",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 57,
       "matchedKeywords": [
-        "machine learning",
-        "shap"
+        "east asia"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Sulfuric acid (H2SO4) is a key driver of atmospheric new particle formation and subsequent growth, playing a critical role in the formation of sulfate aerosols. While stabilized Criegee intermediates (sCIs) are recognized to be one of the free radicals oxidated sulfur dioxide (SO2), alongside the dominant hydroxyl radical (OH), their role in the formation of H2SO4 remains poorly understood due to uncertainties in current chemical mechanisms. Here, we quantify the impact of updated sCIs chemistry within the MCM v3.3.1 mechanism using an XGBoost-SHAP model, revealing that the updated mechanism significantly amplifies the contribution of precursor species to the sCIs oxidation rate by a factor of 1.97–10.75. To identify scenarios where sCIs effectively compete with OH, sensitivity analysis highlights ozone (O3) and alkenes as the primary synergistic drivers promoting the fractional contribution of sCIs to H2SO4 (μsCIs%). Furthermore, nitrogen oxides (NOx) exert a distinct diurnal regulatory effect: lower NOx levels enhance μsCIs% during the day by limiting OH propagation, whereas high NOx promotes μsCIs% at night by accelerating OH termination. To assess ambient atmosphere implications, we used a Random Forest model to identify a period where gas-phase pathways dominated sulfate formation. Constrained AtChem simulations demonstrate the updated mechanism elevates sCIs contributions to H2SO4 from 1.11 % to 7.13 % by day and 2.95 % to 15.72 % by night. These findings underscore the significance of sCIs for H2SO4 production, especially in urban environments with high O3 from imbalanced VOC/NOx reductions, and under nighttime conditions with low photolysis-dependent OH."
-    },
-    {
-      "id": "W7205003164",
-      "title": "Spatiotemporal vegetation trends and climate attribution across Pakistan’s agro-ecological zones",
-      "authors": [
-        "Umar Farooq",
-        "Maaz Ullah",
-        "Ghani Rahman",
-        "Yazeed Alsubhi",
-        "Minkyu Jung",
-        "Tae‐Woong Kim",
-        "Hyun‐Han Kwon"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-09-02",
-      "doi": "https://doi.org/10.1038/s41598-026-69099-w",
-      "openAlexUrl": "https://openalex.org/W7205003164",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 55,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Pakistan encompasses the world’s most climatically and topographically diverse landscapes, spanning hyper-arid deserts, glaciated high-mountain ranges, and irrigated plains. Vegetation dynamics in such heterogeneous regions reflect complex interactions among water availability, thermal conditions, and land management. This study characterized spatiotemporal vegetation dynamics and their lag‑resolved climatic drivers across Pakistan’s Agro‑Ecological Zones (AEZs) during 2001–2024, using the MODIS Enhanced Vegetation Index (EVI) MOD13Q1 product alongside nine ERA5‑Land climate variables. Long‑term vegetation trends were assessed using the Modified Mann–Kendall (MMK) test with autocorrelation correction and False Discovery Rate (FDR) control. Positive vegetation trends (greening) were recorded across all AEZs, with 24% of pixels reaching statistical significance and only 0.8% showing significant browning (declining greenness). Soil moisture was found to be the dominant driver in just over 37% of pixels, confirming that root‑zone water availability governs vegetation variability across most of Pakistan. In the irrigated plains, vegetation trends were strongly correlated with canal irrigation rather than precipitation, consistent with the operation of the Indus irrigation network. The Rainfed Plateau showed the strongest vegetation recovery despite declining rainfall, suggesting improved land management as a contributing factor. In the mountain zones, asymmetric temperature warming was associated with extended growing seasons, while deserts exhibited instantaneous soil‑moisture coupling. Additional drivers included sensible heat flux and dewpoint temperature in the Northern Irrigated Plain, consistent with irrigation‑induced atmospheric humidity feedbacks. The Coastal Zone delta fringe was the only spatially coherent area of browning, associated with freshwater deficits below the Kotri Barrage. These results demonstrate that Pakistan’s vegetation reflects diverse, mechanistically distinct processes across AEZs, and highlight the importance of lag‑resolved, multi‑variable attribution for accurate vegetation–climate diagnosis in climatically heterogeneous irrigated landscapes."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
     },
     {
       "id": "W7208816477",
@@ -231,7 +178,7 @@
       "openAlexUrl": "https://openalex.org/W7208816477",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 51,
+      "score": 50,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -253,7 +200,7 @@
       "openAlexUrl": "https://openalex.org/W7207544900",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 51,
+      "score": 49,
       "matchedKeywords": [
         "precipitation",
         "antarctic"

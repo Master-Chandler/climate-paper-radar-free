@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:16:05.981Z",
+  "generatedAt": "2026-09-15T05:08:01.848Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,28 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7212221163",
+      "title": "Climate-stratified assessment of PM2.5 using machine learning: Geographic controls dominate meteorological factors",
+      "authors": [
+        "Someyo kamal Utsho",
+        "Md Rawjatul Fahim",
+        "Ruhaidah Samsudin"
+      ],
+      "journal": "PLoS ONE",
+      "publicationDate": "2026-09-11",
+      "doi": "https://doi.org/10.1371/journal.pone.0347591",
+      "openAlexUrl": "https://openalex.org/W7212221163",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 71,
+      "matchedKeywords": [
+        "machine learning",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、climate、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Fine particulate matter (PM2.5) is a major environmental concern, yet pollution assessment models are rarely tested across fundamentally different climate regimes. We develop a climate-stratified machine-learning framework using 49,997 monthly MERRA-2 satellite-assimilated samples (2019-2023) across five latitude-band climate zones, evaluated through Leave-One-Climate-Out (LOCO) cross-validation with nested hyperparameter tuning to prevent data leakage. Tuned LightGBM achieves a global LOCO R2 = 0.367 (MAE =6.43 μg m-3), but predictability varies substantially by zone: subtropical regions reach R2 = 0.604, while tropical regions achieve only R2 = 0.142, reflecting fundamental climate-dependent limits on meteorology-only models. SHAP analysis shows geographic coordinates-acting as proxies for emission patterns and climatological transport pathways-account for 64% of predictive importance on average across zones, compared to 23% for meteorological variables, indicating that PM2.5 spatial structure is driven more by where emissions occur than by month-to-month weather variability. To verify that coordinates add genuine predictive value beyond spatial autocorrelation, a retrain ablation confirms that removing latitude and longitude collapses model performance across all zones (mean R2 drops from 0.367 to -0.099), while an IDW spatial baseline confirms that the ML model captures meteorological signal beyond simple proximity interpolation (+98% R2 improvement over IDW). Temporal validation (2019-2021 training, 2022-2023 testing) yields R2 = 0.544, confirming LOCO is the more demanding test. Ensemble stacking degrades performance relative to the zone-tuned model, providing evidence of feature-set saturation rather than model weakness. This reproducible, open-source framework offers a useful benchmark for reanalysis-based PM2.5 assessment, particularly in data-sparse regions where ground monitoring is limited."
+    },
     {
       "id": "W7212148939",
       "title": "Historical climate stability and anthropogenic refugia jointly shape the biogeography of old trees in the central part of the Yellow River Basin of China",
@@ -27,7 +49,7 @@
       "openAlexUrl": "https://openalex.org/W7212148939",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -53,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7211867023",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -75,7 +97,7 @@
       "openAlexUrl": "https://openalex.org/W7208712775",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "southern annular mode",
         "southern ocean",
@@ -102,33 +124,13 @@
       "openAlexUrl": "https://openalex.org/W7211882479",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
-    },
-    {
-      "id": "W7211939844",
-      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
-      "authors": [
-        "Eitarou Oka",
-        "Masami Nonaka"
-      ],
-      "journal": "Journal of Oceanography",
-      "publicationDate": "2026-09-08",
-      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
-      "openAlexUrl": "https://openalex.org/W7211939844",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 56,
-      "matchedKeywords": [
-        "east asia"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
     },
     {
       "id": "W7208808564",
@@ -149,7 +151,7 @@
       "openAlexUrl": "https://openalex.org/W7208808564",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "precipitation",
         "plateau"
@@ -158,29 +160,47 @@
       "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
-      "id": "W7208816477",
-      "title": "Modified daily standardized precipitation evapotranspiration index based on influence attenuation of water surplus and deficit",
+      "id": "W7211939844",
+      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
       "authors": [
-        "Wei Pei",
-        "Tonglin Fang",
-        "Shaoting Liu",
-        "Lei Hao",
-        "Hui Liu",
-        "Tianxiao Li",
-        "Qiang Fu"
+        "Eitarou Oka",
+        "Masami Nonaka"
       ],
-      "journal": "Agricultural Water Management",
-      "publicationDate": "2026-09-05",
-      "doi": "https://doi.org/10.1016/j.agwat.2026.110746",
-      "openAlexUrl": "https://openalex.org/W7208816477",
+      "journal": "Journal of Oceanography",
+      "publicationDate": "2026-09-08",
+      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
+      "openAlexUrl": "https://openalex.org/W7211939844",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 48,
+      "score": 54,
       "matchedKeywords": [
-        "precipitation"
+        "east asia"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The daily standardized precipitation evapotranspiration index (DSPEI) aggregates water surplus and deficit series with equal-weight accumulation, which is inconsistent with the physical principle that recent impacts are prominent and distant impacts attenuate during drought accumulation process. In this study, nonlinear attenuation coefficients are constructed using an exponential function. The attenuation intensity is modulated by an attenuation parameter to quantify temporal attenuation of water surplus and deficit; therefore, a modified DSPEI (MDSPEI) incorporating such attenuation characteristics is proposed. China serves as the study area. The correlation coefficients between the water surplus-deficit series and soil moisture series are sequentially calculated under varying attenuation parameters, and the parameter corresponding to the maximum correlation coefficient is defined as the optimal value. The dataset is split into training and test sets for parameter calibration and applicability validation, respectively. Three approaches, namely, comparison with historical drought events, correlation analysis with the standardized soil moisture index (SSMI), and correlation analysis against drought disaster areas, are adopted to systematically verify the advantages of the MDSPEI. The results demonstrate that the MDSPEI presents higher sensitivity and earlier drought identification and can effectively capture intense drought evolution. The MDSPEI outperforms the DSPEI in correlation with the SSMI, suggesting better consistency with the physical nature of drought. Stronger negative correlations between the MDSPEI and drought-affected areas are observed at annual and annually averaged scales, indicating that the MDSPEI identifies and characterizes agricultural drought more realistically. This study contributes to theories of daily SPEI and offers new ideas for drought monitoring."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
+    },
+    {
+      "id": "W7212353482",
+      "title": "Persistent silicate weathering and carbon dioxide uptake in eolian drylands since the late Pliocene",
+      "authors": [
+        "Chunxia Zhang",
+        "Haibin Wu",
+        "Bin Hu",
+        "Yansong Qiao",
+        "Zhengtang Guo"
+      ],
+      "journal": "Communications Earth & Environment",
+      "publicationDate": "2026-09-12",
+      "doi": "https://doi.org/10.1038/s43247-026-04058-x",
+      "openAlexUrl": "https://openalex.org/W7212353482",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 53,
+      "matchedKeywords": [
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Semi-arid and arid regions are largely omitted from long-term geological-scale carbon budgets due to the assumed weakness of silicate weathering. Here we reconstruct annual carbon dioxide (CO₂) consumption by silicate weathering (CO₂(SIW)) using red clay and loess–paleosol sequences from the Chinese Loess Plateau (CLP). We show that variability in eolian mass accumulation rate, rather than intrinsic silicate weathering intensity, primarily controls CO₂(SIW), consistent with persistently low-to-moderate chemical weathering across the CLP. Scaling these results to global eolian-deposited regions reveals that CO₂(SIW) increased from ~3.7 to ~18.8 Tg C yr⁻¹ between 4.0 and 1.0 Ma, followed by a decline to ~13.0 Tg C yr⁻¹ thereafter. This long-term trend broadly coincides with the late Pliocene decrease in atmospheric CO₂. Our findings provide a quantitative, million-year-scale budget of dryland CO₂ drawdown by silicate weathering and highlight eolian-dominated drylands systems as a previously underrecognized component of positive feedbacks in the global carbon cycle. “Red clay and loess-paleosol records from the Chinese Loess Plateau reveal that mass accumulation rate variability drives silicate-weathering CO₂ consumption in arid and semi-arid regions, closely tracking the late Pliocene atmospheric CO₂ decline.”"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:08:01.848Z",
+  "generatedAt": "2026-09-16T05:03:17.957Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,63 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7212051437",
+      "title": "Extraordinary Tibetan Plateau early-winter heating drove record-breaking winter precipitation in California and adjacent regions",
+      "authors": [
+        "Yongkang Xue",
+        "Qian Li",
+        "William K. M. Lau",
+        "J. David Neelin",
+        "Xubin Zeng",
+        "Yang Zhang",
+        "Shuting Li",
+        "Xianghui Kong"
+      ],
+      "journal": "Science Advances",
+      "publicationDate": "2026-09-09",
+      "doi": "https://doi.org/10.1126/sciadv.aeg3577",
+      "openAlexUrl": "https://openalex.org/W7212051437",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 77,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "California and adjacent regions received record-breaking precipitation in the winters of 2016-2017 and 2022-2023, causing extraordinary damage and severe societal impacts. However, subseasonal to seasonal predictive skill for Californian winter precipitation has remained persistently low. Furthermore, these extreme hydroclimate events occurred during La Niña conditions, which are traditionally associated with dry conditions in California. A fundamental lack of predictability has been suggested. This study shows that anomalous early-winter heating over the Tibetan Plateau (TP) played a key role in driving the extreme precipitation based on observational analyses and Earth system model experiments. In the control simulation, the model failed to reproduce the observed very warm 2-m air temperature anomaly over the TP and the extreme precipitation over California. After improving the temperature initialization with a mask over the TP, the model reproduced most of the observed TP 2-m temperature anomaly and successfully generated about 56% (January 2017) and 38% (March 2023) of the observed extreme precipitation anomalies over California and adjacent regions. The TP heating modulated a Tibetan Plateau-Rocky Mountain wave train, which in turn affected atmospheric rivers and triggered Rossby wave breaking over the northeastern Pacific and the western coast of North America. Both processes are well known as major contributors to extreme precipitation in the western United States. These results suggest that the two catastrophic winter precipitation events were predictable from remote land-surface thermal conditions and identify high-elevation terrestrial temperature anomalies as a previously unidentified source of subseasonal to seasonal predictability for winter extreme hydroclimate events."
+    },
+    {
+      "id": "W7212471835",
+      "title": "TPHH: a long-term (1901–2023) high-resolution (1∕30°) near-surface humidity dataset for the Tibetan Plateau generated via spatial downscaling based on hybrid-structure deep learning",
+      "authors": [
+        "Zheng Jin",
+        "Zezhou Chen",
+        "Qinglong You",
+        "Z. G. Liu",
+        "Jintao Zhang",
+        "Huan Hu",
+        "Ping Chen",
+        "Xiang Liu"
+      ],
+      "journal": "Earth system science data",
+      "publicationDate": "2026-09-14",
+      "doi": "https://doi.org/10.5194/essd-18-6763-2026",
+      "openAlexUrl": "https://openalex.org/W7212471835",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 76,
+      "matchedKeywords": [
+        "deep learning",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
+    },
     {
       "id": "W7212221163",
       "title": "Climate-stratified assessment of PM2.5 using machine learning: Geographic controls dominate meteorological factors",
@@ -25,13 +82,37 @@
       "openAlexUrl": "https://openalex.org/W7212221163",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、climate、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Fine particulate matter (PM2.5) is a major environmental concern, yet pollution assessment models are rarely tested across fundamentally different climate regimes. We develop a climate-stratified machine-learning framework using 49,997 monthly MERRA-2 satellite-assimilated samples (2019-2023) across five latitude-band climate zones, evaluated through Leave-One-Climate-Out (LOCO) cross-validation with nested hyperparameter tuning to prevent data leakage. Tuned LightGBM achieves a global LOCO R2 = 0.367 (MAE =6.43 μg m-3), but predictability varies substantially by zone: subtropical regions reach R2 = 0.604, while tropical regions achieve only R2 = 0.142, reflecting fundamental climate-dependent limits on meteorology-only models. SHAP analysis shows geographic coordinates-acting as proxies for emission patterns and climatological transport pathways-account for 64% of predictive importance on average across zones, compared to 23% for meteorological variables, indicating that PM2.5 spatial structure is driven more by where emissions occur than by month-to-month weather variability. To verify that coordinates add genuine predictive value beyond spatial autocorrelation, a retrain ablation confirms that removing latitude and longitude collapses model performance across all zones (mean R2 drops from 0.367 to -0.099), while an IDW spatial baseline confirms that the ML model captures meteorological signal beyond simple proximity interpolation (+98% R2 improvement over IDW). Temporal validation (2019-2021 training, 2022-2023 testing) yields R2 = 0.544, confirming LOCO is the more demanding test. Ensemble stacking degrades performance relative to the zone-tuned model, providing evidence of feature-set saturation rather than model weakness. This reproducible, open-source framework offers a useful benchmark for reanalysis-based PM2.5 assessment, particularly in data-sparse regions where ground monitoring is limited."
+    },
+    {
+      "id": "W7212361146",
+      "title": "Attribution and projection of runoff variability in a subtropical monsoon basin under changing environments",
+      "authors": [
+        "Zhouxin Wang",
+        "Chuanfu Zang",
+        "Dongming Huang",
+        "Tianqi Zuo",
+        "Ting Chen"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-09-12",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.103971",
+      "openAlexUrl": "https://openalex.org/W7212361146",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 69,
+      "matchedKeywords": [
+        "monsoon",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study region The Pearl River Basin is a humid subtropical monsoon basin in southern China and an important water source for South China, including the Pearl River Delta and Hong Kong. Its abundant precipitation, high vegetation coverage, and strong seasonal variability make it a representative basin for examining runoff responses to climate and land-surface changes in humid monsoon regions. Study focus This study applies the Budyko–Porporato–Guswa coupling framework to investigate historical runoff variability during 1990–2020 and to project future runoff responses during 2021–2060. Scenario-based attribution, runoff elasticity analysis, and correlation analysis were used to quantify the effects of precipitation, potential evapotranspiration, and LAI-based vegetation change on runoff variability. Bias-corrected GFDL-ESM4 outputs under SSP2–4.5 and SSP5–8.5 were further used to drive future runoff projections. New hydrological insights for the region Historical runoff showed strong interannual variability and spatial heterogeneity, with higher runoff in the Pearl River Delta, Dongjiang Basin, and western Beijiang Basin, and lower runoff in the Nanpanjiang and Beipanjiang basins. Scenario-based attribution indicated that climatic forcing, especially precipitation change, dominated basin-scale runoff variability, whereas LAI-based vegetation effects remained limited under generally humid conditions. However, the dry-hot valley sub-basin suggested that vegetation and land-surface factors may become more important in relatively water-limited areas. Based on the bias-corrected GFDL-ESM4 forcing used in this study, runoff was projected to decline by approximately 8% under SSP2–4.5 and 18.4% under SSP5–8.5 by 2060, with increasing spatial disparities. These findings highlight the need to consider both basin-wide climatic controls and sub-basin heterogeneity in future water-resource management."
     },
     {
       "id": "W7212148939",
@@ -49,7 +130,7 @@
       "openAlexUrl": "https://openalex.org/W7212148939",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -75,36 +156,13 @@
       "openAlexUrl": "https://openalex.org/W7211867023",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract How submerged oceanic domains trapped within growing continents become stable, subaerial continental interiors and what that conversion means for the long-term carbon cycle remain poorly understood. Traditional models of such ocean-to-continent conversion emphasize significant horizontal shortening or plume activity. Here we identify an alternative, surface-process-mediated pathway recorded in Central Asia, where formerly submerged cratonic blocks became intracontinental domains in the late Paleozoic. Geodynamic simulations of subduction, whose predicted uplift is used to drive landscape-evolution simulations of erosion and deposition, show that uplift of the surrounding orogenic belts can generate strong topographic gradients that drive intense erosion, sediment transport, and basin stabilization. This tectonic configuration leads to enclosed intracontinental basins with high-sedimentation rates, promoting efficient organic carbon burial and long-term sequestration. Although oxidative weathering of rock organic carbon and metamorphic degassing partly offset burial, thick Devonian–Carboniferous carbonate sequences indicate substantial net carbon sequestration. This coupling between deep Earth dynamics, surface erosion, and carbon burial amplified the late Paleozoic CO 2 decline and global cooling during Pangaea’s assembly. A similar process may have operated during the Cenozoic, when Tethys closure and Tibetan Plateau uplift enhanced erosion and carbon storage in the Mediterranean, Black, and Caspian basins, contributing to long-term cooling."
-    },
-    {
-      "id": "W7208712775",
-      "title": "Understanding projected uncertainty of Southern Ocean sea salt aerosol in CESM1-LE: role of internal variability",
-      "authors": [
-        "Jie Gao",
-        "Tao Geng",
-        "Wenju Cai"
-      ],
-      "journal": "Geoscience Letters",
-      "publicationDate": "2026-09-05",
-      "doi": "https://doi.org/10.1186/s40562-026-00505-x",
-      "openAlexUrl": "https://openalex.org/W7208712775",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 59,
-      "matchedKeywords": [
-        "southern annular mode",
-        "southern ocean",
-        "tropical pacific"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Southern Ocean (SO) sea salt aerosol is key to Earth’s energy budget, but its future changes are highly uncertain. Here using a 40-member ensemble from the Community Earth System Model Large Ensemble (CESM1-LE) project, we find that projected SO sea salt is modulated by internal climate variability both locally in the SO and remotely from the tropical Pacific. The leading mode of inter-member diversity displays a zonally homogenous pattern associated with the Southern Annular Mode due to its impact on future westerly poleward intensification. The second largest source of inter-member uncertainty relates to El Niño-Southern Oscillation (ENSO). In particular, as El Niño and La Niña are not symmetric, the cumulative ENSO impact on SO winds exhibits a meridional dipole in the south Pacific, such that a stronger future ENSO with more extreme El Niño events will induce a larger zonally heterogenous distribution of SO sea salt. Our results uncover an important role of ENSO nonlinearity in projected SO sea salt aerosol distribution."
     },
     {
       "id": "W7211882479",
@@ -124,40 +182,13 @@
       "openAlexUrl": "https://openalex.org/W7211882479",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
-    },
-    {
-      "id": "W7208808564",
-      "title": "A revised Köppen climate classification reveals hydrothermal controls on eco-climate over the Qinghai–Tibet Plateau",
-      "authors": [
-        "Tiexi Chen",
-        "Zhe Gu",
-        "Shengjie Zhou",
-        "Xin Chen",
-        "Bin He",
-        "Jian Peng",
-        "Hongying Li",
-        "Wenhui Li"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-09-05",
-      "doi": "https://doi.org/10.1038/s41612-026-01539-w",
-      "openAlexUrl": "https://openalex.org/W7208808564",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 55,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Köppen–Geiger climate classification is widely used to represent global eco-climatic patterns, yet its application to high-altitude regions such as the Qinghai–Tibet Plateau (QTP) remains limited because tundra climates (ET) are defined primarily by temperature, overlooking moisture constraints on vegetation. Here we present a revised Köppen–Geiger framework that incorporates the aridity index (AI) as an intermediary to represent coupled hydrothermal conditions while preserving the original temperature–precipitation structure. This refinement subdivides the ET climate into three sub-classes: arid (ETw), semi-arid (ETm), and semi-humid (ETf) tundra. Validation against satellite-derived NDVI shows improved correspondence with vegetation patterns. The revised classification reveals systematic reorganization of climate zones across the QTP, highlighting the role of coupled thermal and moisture constraints in shaping eco-climatic gradients under recent climate change. More broadly, this approach provides a transferable pathway to refine climate classifications in high-altitude and cold–dry regions where temperature-based schemes alone are insufficient."
     },
     {
       "id": "W7211939844",
@@ -172,7 +203,7 @@
       "openAlexUrl": "https://openalex.org/W7211939844",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "east asia"
       ],
@@ -195,7 +226,7 @@
       "openAlexUrl": "https://openalex.org/W7212353482",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "plateau"
       ],

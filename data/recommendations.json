@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T05:03:17.957Z",
+  "generatedAt": "2026-09-17T05:06:22.998Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,35 +11,6 @@
     ]
   },
   "papers": [
-    {
-      "id": "W7212051437",
-      "title": "Extraordinary Tibetan Plateau early-winter heating drove record-breaking winter precipitation in California and adjacent regions",
-      "authors": [
-        "Yongkang Xue",
-        "Qian Li",
-        "William K. M. Lau",
-        "J. David Neelin",
-        "Xubin Zeng",
-        "Yang Zhang",
-        "Shuting Li",
-        "Xianghui Kong"
-      ],
-      "journal": "Science Advances",
-      "publicationDate": "2026-09-09",
-      "doi": "https://doi.org/10.1126/sciadv.aeg3577",
-      "openAlexUrl": "https://openalex.org/W7212051437",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 77,
-      "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau",
-        "rossby"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "California and adjacent regions received record-breaking precipitation in the winters of 2016-2017 and 2022-2023, causing extraordinary damage and severe societal impacts. However, subseasonal to seasonal predictive skill for Californian winter precipitation has remained persistently low. Furthermore, these extreme hydroclimate events occurred during La Niña conditions, which are traditionally associated with dry conditions in California. A fundamental lack of predictability has been suggested. This study shows that anomalous early-winter heating over the Tibetan Plateau (TP) played a key role in driving the extreme precipitation based on observational analyses and Earth system model experiments. In the control simulation, the model failed to reproduce the observed very warm 2-m air temperature anomaly over the TP and the extreme precipitation over California. After improving the temperature initialization with a mask over the TP, the model reproduced most of the observed TP 2-m temperature anomaly and successfully generated about 56% (January 2017) and 38% (March 2023) of the observed extreme precipitation anomalies over California and adjacent regions. The TP heating modulated a Tibetan Plateau-Rocky Mountain wave train, which in turn affected atmospheric rivers and triggered Rossby wave breaking over the northeastern Pacific and the western coast of North America. Both processes are well known as major contributors to extreme precipitation in the western United States. These results suggest that the two catastrophic winter precipitation events were predictable from remote land-surface thermal conditions and identify high-elevation terrestrial temperature anomalies as a previously unidentified source of subseasonal to seasonal predictability for winter extreme hydroclimate events."
-    },
     {
       "id": "W7212471835",
       "title": "TPHH: a long-term (1901–2023) high-resolution (1∕30°) near-surface humidity dataset for the Tibetan Plateau generated via spatial downscaling based on hybrid-structure deep learning",
@@ -59,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7212471835",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "deep learning",
         "tibetan plateau",
@@ -67,6 +38,35 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
+    },
+    {
+      "id": "W7212051437",
+      "title": "Extraordinary Tibetan Plateau early-winter heating drove record-breaking winter precipitation in California and adjacent regions",
+      "authors": [
+        "Yongkang Xue",
+        "Qian Li",
+        "William K. M. Lau",
+        "J. David Neelin",
+        "Xubin Zeng",
+        "Yang Zhang",
+        "Shuting Li",
+        "Xianghui Kong"
+      ],
+      "journal": "Science Advances",
+      "publicationDate": "2026-09-09",
+      "doi": "https://doi.org/10.1126/sciadv.aeg3577",
+      "openAlexUrl": "https://openalex.org/W7212051437",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 75,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "California and adjacent regions received record-breaking precipitation in the winters of 2016-2017 and 2022-2023, causing extraordinary damage and severe societal impacts. However, subseasonal to seasonal predictive skill for Californian winter precipitation has remained persistently low. Furthermore, these extreme hydroclimate events occurred during La Niña conditions, which are traditionally associated with dry conditions in California. A fundamental lack of predictability has been suggested. This study shows that anomalous early-winter heating over the Tibetan Plateau (TP) played a key role in driving the extreme precipitation based on observational analyses and Earth system model experiments. In the control simulation, the model failed to reproduce the observed very warm 2-m air temperature anomaly over the TP and the extreme precipitation over California. After improving the temperature initialization with a mask over the TP, the model reproduced most of the observed TP 2-m temperature anomaly and successfully generated about 56% (January 2017) and 38% (March 2023) of the observed extreme precipitation anomalies over California and adjacent regions. The TP heating modulated a Tibetan Plateau-Rocky Mountain wave train, which in turn affected atmospheric rivers and triggered Rossby wave breaking over the northeastern Pacific and the western coast of North America. Both processes are well known as major contributors to extreme precipitation in the western United States. These results suggest that the two catastrophic winter precipitation events were predictable from remote land-surface thermal conditions and identify high-elevation terrestrial temperature anomalies as a previously unidentified source of subseasonal to seasonal predictability for winter extreme hydroclimate events."
     },
     {
       "id": "W7212221163",
@@ -82,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7212221163",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -106,7 +106,7 @@
       "openAlexUrl": "https://openalex.org/W7212361146",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -130,13 +130,63 @@
       "openAlexUrl": "https://openalex.org/W7212148939",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Old trees are affected by natural drivers (climate, topography, and soil) and protected by cultural factors (temples, ancestral halls, and legends). However, our knowledge of how the presence and growth status of old trees might be maintained by intertwined climatic, soil, and cultural forces is remains limited. To decouple their relative significance on the spatial presence and maximal growth (diameter at breast height) of the top ten old tree species, we utilized a novel historical baseline (1989 pre-urbanization census) in the central Yellow River Basin, China to eliminating the confounding effects of recent rapid urbanization. We combined four cultural drivers (human footprint, and distances to temples, ancestral halls, and legends) and seven natural drivers (elevation, temperature seasonality, precipitation stability, aridity index, soil pH, soil bulk density, and soil fertility Principal Component Analysis), independently evaluating their effects using Ensemble Species Distribution Models (SDMs) and XGBoost- SHapley additive explanation machine learning. We found that distances to temples and ancestral halls are the important decisive factors for the spatial presence of old trees, exhibiting strict distance-decay thresholds. Specifically, religious sites favored evergreen conifers, with 84.34% of Platycladus orientalis and 62.92% of Pinus tabuliformis populations concentrated within a < 3 km core radius. The presence probability dropped sharply beyond specific cultural boundaries: 0.6 km for P. orientalis , 0.7 km for both Sabina chinensis and Sophora japonica , and 1.2 km for P. tabuliformis and Ulmus pumila . In contrast, the maximal growth of old trees is driven by a dual-refuge mechanism relying heavily on historical climate stability (precipitation stability) and soil micro-environments. Our findings have significant ramifications for conservation: (1) preserving historic structures and old trees in tandem to establish holistic biocultural units; (2) leveraging traditional clan networks as essential community-based conservation sanctuaries; and (3) implementing targeted management strategies that optimize soil physical properties while buffering against climate aridity to ensure precise conservation."
+    },
+    {
+      "id": "W7213335297",
+      "title": "Meteorology shapes urban particle nucleation, while pollution-related factors modulate growth",
+      "authors": [
+        "Shi Yin",
+        "Shiyu Zhan",
+        "Yadong Wang",
+        "Mingrui Jiang",
+        "Yunxi Lu",
+        "Yongjun Hu",
+        "Christian George",
+        "Hartmut Herrmann"
+      ],
+      "journal": "npj Clean Air",
+      "publicationDate": "2026-09-15",
+      "doi": "https://doi.org/10.1038/s44407-026-00100-6",
+      "openAlexUrl": "https://openalex.org/W7213335297",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 59,
+      "matchedKeywords": [
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Urban new particle formation (NPF) is shaped by meteorology and pollution, yet their stage-specific roles across particle sizes remain difficult to quantify. Here we combine size-resolved particle number size distributions from polluted Beijing and cleaner coastal Qingdao with XGBoost modeling and SHAP attribution to resolve environmental contributions across 10–500 nm particles and three modes. The models reproduced observed particle number concentrations with high skill (mean test R ² = 0.95 in Beijing and 0.88 in Qingdao), enabling size- and mode-specific attribution of model predictions. Meteorological variables, especially relative humidity and solar radiation, accounted for the largest share of nucleation-mode variability (~56–58%), and their contributions intensified during NPF events, reaching ~70% in Qingdao. By contrast, pollution-related variables gained importance in growth-related size modes, with city-specific differences. These results show that meteorological conditions were most strongly associated with observable nucleation-mode bursts, whereas pollution-related conditions gained importance during subsequent growth, providing observational benchmarks for urban aerosol formation and size-resolved aerosol-model sensitivities."
+    },
+    {
+      "id": "W7212289258",
+      "title": "Drivers of topography in fold-thrust belts: a perspective from central Nepal",
+      "authors": [
+        "Paul R. Eizenhöfer",
+        "Nadine McQuarrie",
+        "S. Ghoshal",
+        "Sebastian G. Mutz",
+        "Todd A. Ehlers"
+      ],
+      "journal": "Earth and Planetary Science Letters",
+      "publicationDate": "2026-09-11",
+      "doi": "https://doi.org/10.1016/j.epsl.2026.120312",
+      "openAlexUrl": "https://openalex.org/W7212289258",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 57,
+      "matchedKeywords": [
+        "precipitation",
+        "himalaya"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The roles of climate and tectonics in the evolution of mountainous landscapes over geological time are often assessed via continuum models that balance the forces in mechanical wedges with the assumption of pervasive small-scale faulting accommodating deformation. In contrast, observations from mountain ranges indicate an evolution of large-offset faults and paleoclimate. Here we ask the question, can observed faulting and paleoclimate histories replicate the characteristics of Himalayan topography? We evaluate this question for the Nepal Himalaya through linked models of fault activity, precipitation, and surface processes over geological time. Our experiments confirm that motion along a few faults control topographic evolution in the Himalaya. Importantly, we identify two topography-generating mechanisms in the evolution of fast converging mountain ranges: one where uplifted topography is laterally translated when faults are active in the foreland, and one where hinterland fault activity coeval with temporary inactivity of faults in the foreland is required to facilitate river incision into the hinterland. Alternating between these two modes defines the physiography of present-day Himalayan-type mountain ranges and is consistent with the first-order regional catchment geometries."
     },
     {
       "id": "W7211867023",
@@ -156,7 +206,7 @@
       "openAlexUrl": "https://openalex.org/W7211867023",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -182,7 +232,7 @@
       "openAlexUrl": "https://openalex.org/W7211882479",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -203,12 +253,33 @@
       "openAlexUrl": "https://openalex.org/W7211939844",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "east asia"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
+    },
+    {
+      "id": "W7212170852",
+      "title": "Zonal Asymmetry of the Belt-like Dynamic Sea Level Change in the Southern Ocean",
+      "authors": [
+        "Zhen Liu",
+        "Changlin Chen",
+        "William Llovel"
+      ],
+      "journal": "Journal of Climate",
+      "publicationDate": "2026-09-10",
+      "doi": "https://doi.org/10.1175/jcli-d-26-0076.1",
+      "openAlexUrl": "https://openalex.org/W7212170852",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 52,
+      "matchedKeywords": [
+        "southern ocean"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、climate、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Satellite altimetry (1993–2024) reveals that the Southern Ocean dynamic sea level (DSL) exhibits a distinct belt-like pattern, with smaller rises south of 50°S and larger rises to the north. This zonal belt is not uniform but strongly asymmetric, with the largest DSL increase in the Pacific sector and weaker changes in the Atlantic and Indian sectors. These pronounced Pacific anomalies are primarily driven by internal climate variability, particularly the phase transition of the Interdecadal Pacific Oscillation (IPO). The IPO during 1993–2024 induces a zonal wind stress curl dipole in the Pacific sector, forcing a distinct belt-like sea level pattern that dominates the observed zonal asymmetry. However, this observed pattern starkly diverges from the Coupled Model Intercomparison Project Phase 6 (CMIP6) multi-model mean. By filtering out internal climate variability, the models project a diametrically opposite zonal asymmetry, with the most robust DSL changes in the Indian and Atlantic sectors, while the Pacific response remains comparatively weak. Single forcing experiments from CMIP6-FAFMIP and an ocean general circulation model indicate that surface heat flux leads this forced zonal asymmetry, while wind stress forcing mainly contributes to zonally symmetric changes. Furthermore, freshwater hosing experiments suggest that buoyancy-forced weakening of the Atlantic Meridional Overturning Circulation (AMOC) enhances the belt-like DSL signal predominantly in the Indian and Atlantic sectors, thereby reinforcing the zonal asymmetry in the forced response."
     },
     {
       "id": "W7212353482",
@@ -226,7 +297,7 @@
       "openAlexUrl": "https://openalex.org/W7212353482",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "plateau"
       ],

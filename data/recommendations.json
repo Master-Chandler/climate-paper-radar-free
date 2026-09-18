@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:06:22.998Z",
+  "generatedAt": "2026-09-18T04:59:06.628Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7212471835",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "deep learning",
         "tibetan plateau",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7212051437",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -82,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7212221163",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -106,7 +106,7 @@
       "openAlexUrl": "https://openalex.org/W7212361146",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 68,
+      "score": 66,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -130,7 +130,7 @@
       "openAlexUrl": "https://openalex.org/W7212148939",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -157,7 +157,7 @@
       "openAlexUrl": "https://openalex.org/W7213335297",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "shap"
       ],
@@ -180,85 +180,13 @@
       "openAlexUrl": "https://openalex.org/W7212289258",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "precipitation",
         "himalaya"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The roles of climate and tectonics in the evolution of mountainous landscapes over geological time are often assessed via continuum models that balance the forces in mechanical wedges with the assumption of pervasive small-scale faulting accommodating deformation. In contrast, observations from mountain ranges indicate an evolution of large-offset faults and paleoclimate. Here we ask the question, can observed faulting and paleoclimate histories replicate the characteristics of Himalayan topography? We evaluate this question for the Nepal Himalaya through linked models of fault activity, precipitation, and surface processes over geological time. Our experiments confirm that motion along a few faults control topographic evolution in the Himalaya. Importantly, we identify two topography-generating mechanisms in the evolution of fast converging mountain ranges: one where uplifted topography is laterally translated when faults are active in the foreland, and one where hinterland fault activity coeval with temporary inactivity of faults in the foreland is required to facilitate river incision into the hinterland. Alternating between these two modes defines the physiography of present-day Himalayan-type mountain ranges and is consistent with the first-order regional catchment geometries."
-    },
-    {
-      "id": "W7211867023",
-      "title": "Subduction-driven erosion enhances carbon sequestration and climate cooling during ocean-to-continent transformation",
-      "authors": [
-        "Yanan Shi",
-        "Liang Zhao",
-        "Qingyun Di",
-        "Zengqian Hou",
-        "Huajian Wang",
-        "Jason Phipps Morgan",
-        "Taras Gerya"
-      ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-09-07",
-      "doi": "https://doi.org/10.1038/s43247-026-04030-9",
-      "openAlexUrl": "https://openalex.org/W7211867023",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract How submerged oceanic domains trapped within growing continents become stable, subaerial continental interiors and what that conversion means for the long-term carbon cycle remain poorly understood. Traditional models of such ocean-to-continent conversion emphasize significant horizontal shortening or plume activity. Here we identify an alternative, surface-process-mediated pathway recorded in Central Asia, where formerly submerged cratonic blocks became intracontinental domains in the late Paleozoic. Geodynamic simulations of subduction, whose predicted uplift is used to drive landscape-evolution simulations of erosion and deposition, show that uplift of the surrounding orogenic belts can generate strong topographic gradients that drive intense erosion, sediment transport, and basin stabilization. This tectonic configuration leads to enclosed intracontinental basins with high-sedimentation rates, promoting efficient organic carbon burial and long-term sequestration. Although oxidative weathering of rock organic carbon and metamorphic degassing partly offset burial, thick Devonian–Carboniferous carbonate sequences indicate substantial net carbon sequestration. This coupling between deep Earth dynamics, surface erosion, and carbon burial amplified the late Paleozoic CO 2 decline and global cooling during Pangaea’s assembly. A similar process may have operated during the Cenozoic, when Tethys closure and Tibetan Plateau uplift enhanced erosion and carbon storage in the Mediterranean, Black, and Caspian basins, contributing to long-term cooling."
-    },
-    {
-      "id": "W7211882479",
-      "title": "Outburst floods records in the Yigong River since holocene, southeastern Tibet",
-      "authors": [
-        "Chaohua Wu",
-        "Xuemei Li",
-        "Kaiheng Hu",
-        "Weiming Liu",
-        "Qiyuan Zhang",
-        "Anna Yang",
-        "Hao Li"
-      ],
-      "journal": "Geoenvironmental Disasters",
-      "publicationDate": "2026-09-07",
-      "doi": "https://doi.org/10.1186/s40677-026-00415-2",
-      "openAlexUrl": "https://openalex.org/W7211882479",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 54,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Background Paleofloods are critical geomorphic driving forces shaping the landform evolution of the Tibetan Plateau margin. Although paleoflood investigations have been conducted in the Yarlung Tsangpo River, including documented sedimentary records in the gorge and upstream reaches, studies on its secondary tributary, the Yigong River, remain insufficient. In particular, quantitative hydraulic simulations of prehistoric outburst floods in this basin are lacking, as existing research mainly focuses on the modern extreme flood events of 1902 and 2000, leaving Holocene paleoflood evolution poorly constrained. Methods Based on systematic field geological surveys, sedimentary records of paleofloods were identified, including valley fill deposits at the main channel edge, flood-induced giant bar deposits at the river confluence, and slack water deposits (SWDs) in the downstream main channel. Sedimentological and chronological analyses were conducted, and hydrological reconstruction was performed for different peak discharge scenarios. Results The giant bar deposits consist of massive coarse sand and gravel with scattered oversized boulders, while downstream sediments near Tongmai Bridge show an abrupt facies transition from coarse gravels to well-sorted sandy gravels. The SWDs are dominated by silty couplets and massive sand beds, representing distal flood sedimentary signatures. Integrated analyses constrain three Holocene outburst flood events at 14.8 ka BP, 8.8 ka BP, and 6.7 ka BP. Hydrological reconstruction yields a maximum peak discharge of 4.4 × 105 m³/s with an ancient dammed lake reservoir capacity of 3.5 × 1010 m³, and a minimum peak discharge of 2.3 × 105 m³/s with a reservoir capacity of 1.22 × 1010 m³. Conclusions This study confirms that the Yigong River is a high-frequency zone of Holocene outburst floods. The newly discovered paleoflood records fill a research gap on prehistoric extreme flood events in this sub-basin and provide crucial supplementary data for understanding catastrophic flood processes and geomorphic responses in the steep, tectonically active Yarlung Tsangpo River, offering valuable insights into regional paleohydrological evolution and extreme flood risk assessment."
-    },
-    {
-      "id": "W7211939844",
-      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
-      "authors": [
-        "Eitarou Oka",
-        "Masami Nonaka"
-      ],
-      "journal": "Journal of Oceanography",
-      "publicationDate": "2026-09-08",
-      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
-      "openAlexUrl": "https://openalex.org/W7211939844",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 52,
-      "matchedKeywords": [
-        "east asia"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
     },
     {
       "id": "W7212170852",
@@ -274,12 +202,32 @@
       "openAlexUrl": "https://openalex.org/W7212170852",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 52,
+      "score": 51,
       "matchedKeywords": [
         "southern ocean"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、climate、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Satellite altimetry (1993–2024) reveals that the Southern Ocean dynamic sea level (DSL) exhibits a distinct belt-like pattern, with smaller rises south of 50°S and larger rises to the north. This zonal belt is not uniform but strongly asymmetric, with the largest DSL increase in the Pacific sector and weaker changes in the Atlantic and Indian sectors. These pronounced Pacific anomalies are primarily driven by internal climate variability, particularly the phase transition of the Interdecadal Pacific Oscillation (IPO). The IPO during 1993–2024 induces a zonal wind stress curl dipole in the Pacific sector, forcing a distinct belt-like sea level pattern that dominates the observed zonal asymmetry. However, this observed pattern starkly diverges from the Coupled Model Intercomparison Project Phase 6 (CMIP6) multi-model mean. By filtering out internal climate variability, the models project a diametrically opposite zonal asymmetry, with the most robust DSL changes in the Indian and Atlantic sectors, while the Pacific response remains comparatively weak. Single forcing experiments from CMIP6-FAFMIP and an ocean general circulation model indicate that surface heat flux leads this forced zonal asymmetry, while wind stress forcing mainly contributes to zonally symmetric changes. Furthermore, freshwater hosing experiments suggest that buoyancy-forced weakening of the Atlantic Meridional Overturning Circulation (AMOC) enhances the belt-like DSL signal predominantly in the Indian and Atlantic sectors, thereby reinforcing the zonal asymmetry in the forced response."
+    },
+    {
+      "id": "W7211939844",
+      "title": "Recent advances in mid-latitude atmosphere-ocean-marine ecosystem interactions in a changing climate: From Climatic Hotspot2 to Habitable Japan",
+      "authors": [
+        "Eitarou Oka",
+        "Masami Nonaka"
+      ],
+      "journal": "Journal of Oceanography",
+      "publicationDate": "2026-09-08",
+      "doi": "https://doi.org/10.1007/s10872-026-00806-x",
+      "openAlexUrl": "https://openalex.org/W7211939844",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 50,
+      "matchedKeywords": [
+        "east asia"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、ocean、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract This article reviews recent achievements in the study of mid-latitude atmosphere-ocean-marine ecosystem interactions from two Japanese research programs: the Climatic Hotspot2 project (FY2019–2023) and the first two years of the Habitable Japan project (FY2024–2028). Understanding of the mid-latitude ocean-atmosphere interactions, particularly the ocean’s influence on the atmosphere established in the Climatic Hotspot1 project (FY2010–2014), has advanced through the two projects addressing changing climate and oceanic/atmospheric extreme events, such as the longest observed Kuroshio large meander from 2017 to 2025, northward meandering of the upstream Kuroshio Extension in 2023–2024, marine/atmospheric heatwaves, heavy rainfall and snowfall, and tropical cyclones. Relations between weather and its extremes over East Asia and global climate variations have also been clarified. Both projects have conducted and are conducting in-situ observation campaigns to clarify various processes in the ocean, atmosphere, and their interactions and improve numerical models. By incorporating atmospheric/marine chemistry, marine ecosystems, and fisheries as new research domains and putting more emphasis on prediction, the Habitable Japan project aims to answer the main question: Will mild climate and abundant water/fisheries resources persist as a basis of survival for those of us living in Japan in the future?"
     },
     {
       "id": "W7212353482",
@@ -297,7 +245,7 @@
       "openAlexUrl": "https://openalex.org/W7212353482",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "plateau"
       ],

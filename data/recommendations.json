@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:51:45.976Z",
+  "generatedAt": "2026-09-20T05:10:32.371Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,59 +11,6 @@
     ]
   },
   "papers": [
-    {
-      "id": "W7212051437",
-      "title": "Extraordinary Tibetan Plateau early-winter heating drove record-breaking winter precipitation in California and adjacent regions",
-      "authors": [
-        "Yongkang Xue",
-        "Qian Li",
-        "William K. M. Lau",
-        "J. David Neelin",
-        "Xubin Zeng",
-        "Yang Zhang",
-        "Shuting Li",
-        "Xianghui Kong"
-      ],
-      "journal": "Science Advances",
-      "publicationDate": "2026-09-09",
-      "doi": "https://doi.org/10.1126/sciadv.aeg3577",
-      "openAlexUrl": "https://openalex.org/W7212051437",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 73,
-      "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau",
-        "rossby"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "California and adjacent regions received record-breaking precipitation in the winters of 2016-2017 and 2022-2023, causing extraordinary damage and severe societal impacts. However, subseasonal to seasonal predictive skill for Californian winter precipitation has remained persistently low. Furthermore, these extreme hydroclimate events occurred during La Niña conditions, which are traditionally associated with dry conditions in California. A fundamental lack of predictability has been suggested. This study shows that anomalous early-winter heating over the Tibetan Plateau (TP) played a key role in driving the extreme precipitation based on observational analyses and Earth system model experiments. In the control simulation, the model failed to reproduce the observed very warm 2-m air temperature anomaly over the TP and the extreme precipitation over California. After improving the temperature initialization with a mask over the TP, the model reproduced most of the observed TP 2-m temperature anomaly and successfully generated about 56% (January 2017) and 38% (March 2023) of the observed extreme precipitation anomalies over California and adjacent regions. The TP heating modulated a Tibetan Plateau-Rocky Mountain wave train, which in turn affected atmospheric rivers and triggered Rossby wave breaking over the northeastern Pacific and the western coast of North America. Both processes are well known as major contributors to extreme precipitation in the western United States. These results suggest that the two catastrophic winter precipitation events were predictable from remote land-surface thermal conditions and identify high-elevation terrestrial temperature anomalies as a previously unidentified source of subseasonal to seasonal predictability for winter extreme hydroclimate events."
-    },
-    {
-      "id": "W7213454619",
-      "title": "A physics-informed spatiotemporal downscaling model for kilometer-scale hourly humid heat stress indices",
-      "authors": [
-        "Xilin Wu",
-        "Yong Ge",
-        "Jun Wang",
-        "Mengxiao Liu",
-        "Bo Li"
-      ],
-      "journal": "International Journal of Digital Earth",
-      "publicationDate": "2026-09-17",
-      "doi": "https://doi.org/10.1080/17538947.2026.2731676",
-      "openAlexUrl": "https://openalex.org/W7213454619",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 72,
-      "matchedKeywords": [
-        "yangtze",
-        "humid heat"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
-    },
     {
       "id": "W7212471835",
       "title": "TPHH: a long-term (1901–2023) high-resolution (1∕30°) near-surface humidity dataset for the Tibetan Plateau generated via spatial downscaling based on hybrid-structure deep learning",
@@ -83,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7212471835",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "deep learning",
         "tibetan plateau",
@@ -91,6 +38,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
+    },
+    {
+      "id": "W7213454619",
+      "title": "A physics-informed spatiotemporal downscaling model for kilometer-scale hourly humid heat stress indices",
+      "authors": [
+        "Xilin Wu",
+        "Yong Ge",
+        "Jun Wang",
+        "Mengxiao Liu",
+        "Bo Li"
+      ],
+      "journal": "International Journal of Digital Earth",
+      "publicationDate": "2026-09-17",
+      "doi": "https://doi.org/10.1080/17538947.2026.2731676",
+      "openAlexUrl": "https://openalex.org/W7213454619",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 70,
+      "matchedKeywords": [
+        "yangtze",
+        "humid heat"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
     },
     {
       "id": "W7212221163",
@@ -106,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7212221163",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -130,7 +101,7 @@
       "openAlexUrl": "https://openalex.org/W7212361146",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -154,7 +125,7 @@
       "openAlexUrl": "https://openalex.org/W7212148939",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -181,7 +152,7 @@
       "openAlexUrl": "https://openalex.org/W7213335297",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "shap"
       ],
@@ -204,7 +175,7 @@
       "openAlexUrl": "https://openalex.org/W7212289258",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "precipitation",
         "himalaya"
@@ -226,35 +197,12 @@
       "openAlexUrl": "https://openalex.org/W7212170852",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 49,
+      "score": 48,
       "matchedKeywords": [
         "southern ocean"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、climate、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Satellite altimetry (1993–2024) reveals that the Southern Ocean dynamic sea level (DSL) exhibits a distinct belt-like pattern, with smaller rises south of 50°S and larger rises to the north. This zonal belt is not uniform but strongly asymmetric, with the largest DSL increase in the Pacific sector and weaker changes in the Atlantic and Indian sectors. These pronounced Pacific anomalies are primarily driven by internal climate variability, particularly the phase transition of the Interdecadal Pacific Oscillation (IPO). The IPO during 1993–2024 induces a zonal wind stress curl dipole in the Pacific sector, forcing a distinct belt-like sea level pattern that dominates the observed zonal asymmetry. However, this observed pattern starkly diverges from the Coupled Model Intercomparison Project Phase 6 (CMIP6) multi-model mean. By filtering out internal climate variability, the models project a diametrically opposite zonal asymmetry, with the most robust DSL changes in the Indian and Atlantic sectors, while the Pacific response remains comparatively weak. Single forcing experiments from CMIP6-FAFMIP and an ocean general circulation model indicate that surface heat flux leads this forced zonal asymmetry, while wind stress forcing mainly contributes to zonally symmetric changes. Furthermore, freshwater hosing experiments suggest that buoyancy-forced weakening of the Atlantic Meridional Overturning Circulation (AMOC) enhances the belt-like DSL signal predominantly in the Indian and Atlantic sectors, thereby reinforcing the zonal asymmetry in the forced response."
-    },
-    {
-      "id": "W7212353482",
-      "title": "Persistent silicate weathering and carbon dioxide uptake in eolian drylands since the late Pliocene",
-      "authors": [
-        "Chunxia Zhang",
-        "Haibin Wu",
-        "Bin Hu",
-        "Yansong Qiao",
-        "Zhengtang Guo"
-      ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-09-12",
-      "doi": "https://doi.org/10.1038/s43247-026-04058-x",
-      "openAlexUrl": "https://openalex.org/W7212353482",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 48,
-      "matchedKeywords": [
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Semi-arid and arid regions are largely omitted from long-term geological-scale carbon budgets due to the assumed weakness of silicate weathering. Here we reconstruct annual carbon dioxide (CO₂) consumption by silicate weathering (CO₂(SIW)) using red clay and loess–paleosol sequences from the Chinese Loess Plateau (CLP). We show that variability in eolian mass accumulation rate, rather than intrinsic silicate weathering intensity, primarily controls CO₂(SIW), consistent with persistently low-to-moderate chemical weathering across the CLP. Scaling these results to global eolian-deposited regions reveals that CO₂(SIW) increased from ~3.7 to ~18.8 Tg C yr⁻¹ between 4.0 and 1.0 Ma, followed by a decline to ~13.0 Tg C yr⁻¹ thereafter. This long-term trend broadly coincides with the late Pliocene decrease in atmospheric CO₂. Our findings provide a quantitative, million-year-scale budget of dryland CO₂ drawdown by silicate weathering and highlight eolian-dominated drylands systems as a previously underrecognized component of positive feedbacks in the global carbon cycle. “Red clay and loess-paleosol records from the Chinese Loess Plateau reveal that mass accumulation rate variability drives silicate-weathering CO₂ consumption in arid and semi-arid regions, closely tracking the late Pliocene atmospheric CO₂ decline.”"
     }
   ]
 }

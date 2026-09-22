@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:15:43.891Z",
+  "generatedAt": "2026-09-22T05:14:18.195Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,60 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7211979851",
+      "title": "Multi-Model Forecasting of Shoreline Air Temperature using Machine Learning and Deep Learning: The CidAlmeida Station, Portugal",
+      "authors": [
+        "Tahir Mahmood",
+        "Ashish Khatri",
+        "Adeel Rafiq",
+        "Umar Manzoor",
+        "Zeeshan Pervez"
+      ],
+      "journal": "Applied Artificial Intelligence",
+      "publicationDate": "2026-09-18",
+      "doi": "https://doi.org/10.1080/08839514.2026.2729374",
+      "openAlexUrl": "https://openalex.org/W7211979851",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 94,
+      "matchedKeywords": [
+        "machine learning",
+        "deep learning",
+        "explainable",
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、shap、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Accurate short-term meteorological forecasting at reservoir shorelines is essential for reservoir management and adaptation planning in Mediterranean climates. This study proposes a multi-stage data-driven framework for time-series prediction and explainable modeling using hourly meteorological data (2018–2023) from the CidAlmeida station of the Alqueva reservoir. Several imputation techniques were used to fill missing data, where Stineman interpolation achieved the lowest errors, while linear interpolation performed best for maximum wind speed, wind direction, and precipitation. A range of statistical, machine learning, deep learning, and hybrid models were evaluated using MAE, RMSE, MAPE, R2, and NSE. XGBoost achieved the best overall performance (RMSE = 0.45°C, MAE = 0.34°C, R2 = 0.9962), followed by Random Forest (RMSE = 0.63°C). Deep-learning models, including LSTM, LSTM-KANs, GRU, and Transformer variants, also demonstrated strong predictive performance with RMSE values below 1°C. In contrast, the statistical models (ARIMA, SARIMA, VAR, and Holt-Winters) produced substantially larger errors, highlighting the superiority of machine learning and deep learning approaches. Seasonal analysis further confirmed the robustness of XGBoost, maintaining RMSE between 0.38–0.42°C across all seasons. SHAP analysis revealed that lagged air temperature is the dominant predictor. Overall, the framework provides an accurate, efficient, and interpretable solution for short-term microclimate prediction."
+    },
+    {
+      "id": "W7213645331",
+      "title": "AI-driven prediction of marine microplastics from space: a case study of the Indian Ocean",
+      "authors": [
+        "Nafisa Ali",
+        "Sohail Ahmed",
+        "Mst. Humaira Afia",
+        "A. K. Mohibul Islam",
+        "Saif Izlal",
+        "Shahidur Rahman",
+        "MD Asrafuzzaman Arif",
+        "Md Hafizur Rahman"
+      ],
+      "journal": "Discover Oceans",
+      "publicationDate": "2026-09-19",
+      "doi": "https://doi.org/10.1007/s44289-026-00160-2",
+      "openAlexUrl": "https://openalex.org/W7213645331",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 73,
+      "matchedKeywords": [
+        "machine learning",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Microplastics (MPs) are considered enormous threats to the environment on a global scale, yet their monitoring in oceanic regions remains challenging due to limited sampling and complex circulation patterns. This study leverages 12 remotely sensed oceanographic variables to predict microplastic abundance (MPA) in the Indian Ocean by developing machine learning (ML) models. Random forest, gradient boosting regression (GBR), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), support vector regression (SVR), k-nearest neighbors (KNN), and multiple linear regression (MLR) were the ML models used to train by utilizing 346 georeferenced data. Among the evaluated models, the GBR model demonstrated superior performance during cross-validation, achieving the highest predictive accuracy and model stability (CV R2 = 0.8434, CV RMSE = 0.2424). SHAP analysis revealed that sea surface salinity, surface roughness, dissolved oxygen, distance from the nearest coast, nitrate concentration, and zonal wind stress were among the most influential predictors associated with microplastic distribution, highlighting the importance of hydrodynamic transport, coastal influence, and biogeochemical processes in regulating marine microplastic accumulation. The findings demonstrate that remotely sensed and reanalysis-derived oceanographic variables can provide environmentally informed estimates of MPA across data-limited marine environments. Therefore, this integrated ML-remote sensing approach provides a scalable, cost-effective pollution monitoring system, supporting focused management and policy changes in areas with limited data. Graphical abstract"
+    },
     {
       "id": "W7213469060",
       "title": "Spatial and Temporal characteristics and driving force analysis of vegetation cover change in Shanxi Province, China based on kNDVI and XGBoost-SHAP model",
@@ -28,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7213469060",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -54,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7213454619",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "yangtze",
         "humid heat"
@@ -81,7 +135,7 @@
       "openAlexUrl": "https://openalex.org/W7212471835",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "deep learning",
         "tibetan plateau",
@@ -89,28 +143,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
-    },
-    {
-      "id": "W7212221163",
-      "title": "Climate-stratified assessment of PM2.5 using machine learning: Geographic controls dominate meteorological factors",
-      "authors": [
-        "Someyo kamal Utsho",
-        "Md Rawjatul Fahim",
-        "Ruhaidah Samsudin"
-      ],
-      "journal": "PLoS ONE",
-      "publicationDate": "2026-09-11",
-      "doi": "https://doi.org/10.1371/journal.pone.0347591",
-      "openAlexUrl": "https://openalex.org/W7212221163",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 62,
-      "matchedKeywords": [
-        "machine learning",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、climate、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Fine particulate matter (PM2.5) is a major environmental concern, yet pollution assessment models are rarely tested across fundamentally different climate regimes. We develop a climate-stratified machine-learning framework using 49,997 monthly MERRA-2 satellite-assimilated samples (2019-2023) across five latitude-band climate zones, evaluated through Leave-One-Climate-Out (LOCO) cross-validation with nested hyperparameter tuning to prevent data leakage. Tuned LightGBM achieves a global LOCO R2 = 0.367 (MAE =6.43 μg m-3), but predictability varies substantially by zone: subtropical regions reach R2 = 0.604, while tropical regions achieve only R2 = 0.142, reflecting fundamental climate-dependent limits on meteorology-only models. SHAP analysis shows geographic coordinates-acting as proxies for emission patterns and climatological transport pathways-account for 64% of predictive importance on average across zones, compared to 23% for meteorological variables, indicating that PM2.5 spatial structure is driven more by where emissions occur than by month-to-month weather variability. To verify that coordinates add genuine predictive value beyond spatial autocorrelation, a retrain ablation confirms that removing latitude and longitude collapses model performance across all zones (mean R2 drops from 0.367 to -0.099), while an IDW spatial baseline confirms that the ML model captures meteorological signal beyond simple proximity interpolation (+98% R2 improvement over IDW). Temporal validation (2019-2021 training, 2022-2023 testing) yields R2 = 0.544, confirming LOCO is the more demanding test. Ensemble stacking degrades performance relative to the zone-tuned model, providing evidence of feature-set saturation rather than model weakness. This reproducible, open-source framework offers a useful benchmark for reanalysis-based PM2.5 assessment, particularly in data-sparse regions where ground monitoring is limited."
     },
     {
       "id": "W7212361146",
@@ -128,7 +160,7 @@
       "openAlexUrl": "https://openalex.org/W7212361146",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -155,13 +187,34 @@
       "openAlexUrl": "https://openalex.org/W7213443731",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change. By integrating multi-scale observations and global datasets, this study applied extreme gradient boosting (XGBoost) and used SHapley Additive exPlanations (SHAP) to quantify variable importance and partial dependence across environmental gradients, revealing how climatic, edaphic, and biological factors synergistically regulate large-scale grassland biomass allocation, and produced a global dataset at 0.05° spatial resolution. The XGBoost model estimated mean values of 282.05 ± 98.57 g m−2 for aboveground biomass (AGB), 999.71 ± 264.17 g m−2 for belowground biomass (BGB), and 6.41 ± 2.25 for root-to-shoot ratio (RS) at global-scale, all of which exhibited distinct spatial distribution patterns. Under water-limited conditions, plants adopted a root plasticity prioritized strategy; rising temperatures promote AGB but suppress BGB, while increased precipitation mainly promoted AGB. Species with high specific leaf area (SLA) did not substantially enhance AGB, whereas those with low SLA invested more in root development to cope with environmental stress. In near-neutral soils, BGB increased with rising pH, and moderate levels of exchangeable magnesium were beneficial to AGB. Our findings demonstrate that grassland biomass allocation represents an adaptive outcome of resource trade-offs and physiological plasticity under multifactorial stress. These insights provide an important theoretical foundation for optimizing carbon sequestration functions and guiding sustainable management of grasslands in the context of global change."
+    },
+    {
+      "id": "W7213531782",
+      "title": "A source–medium–receiver framework for modeling wind-driven vegetation cooling in urban landscapes",
+      "authors": [
+        "Hassan Qasim",
+        "Xiaoli Ding",
+        "Sawaid Abbas"
+      ],
+      "journal": "GIScience & Remote Sensing",
+      "publicationDate": "2026-09-18",
+      "doi": "https://doi.org/10.1080/15481603.2026.2733792",
+      "openAlexUrl": "https://openalex.org/W7213531782",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 59,
+      "matchedKeywords": [
+        "monsoon"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Vegetation cooling in cities is often represented as a local, isotropic effect, although atmospheric processes can redistribute cooling beyond individual vegetation patches. This simplification may overlook the nonlocal and directionally structured nature of cooling propagation. We developed a physics-guided source–medium–receiver (SMR) framework for the Greater Bay Area of China to compare multi-source isotropic connectivity with prevailing-wind-conditioned connectivity. Vegetation-source strength was represented by the VCSI, and parameters estimated from 2021 to 2023 were frozen for an independent 2024 holdout and contrasting monsoon assessments. Cooling connectivity was modeled using a spatially varying distance-decay function, controlled by the wind speed, moisture content, surface albedo, terrain, and directional constraints from prevailing winds. In 2024, isotropic connectivity showed a stronger relationship with LST (r = −0.8069) than wind-conditioned connectivity (r = −0.7780) and local VCSI (r = −0.7757), with the same general ordering across monsoon and built-up receiver assessments. The source-level decay lengths ranged from 0.504 to 0.518 km, whereas the wind-conditioned emergent multi-source persistence increased from 4.13 to 4.88 km, reflecting cumulative field behaviors. Wind-relative decomposition further showed that annual connectivity was distributed across downwind, crosswind, and upwind pathways. These findings indicate that regional vegetation cooling is primarily characterized by distance-mediated, multi-source connectivity, while prevailing-wind direction acts as a scale- and condition-dependent modifier. This shift in perspective provides a physically grounded framework for effective urban climate analysis and precision greening strategies."
     },
     {
       "id": "W7213335297",
@@ -182,36 +235,12 @@
       "openAlexUrl": "https://openalex.org/W7213335297",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Urban new particle formation (NPF) is shaped by meteorology and pollution, yet their stage-specific roles across particle sizes remain difficult to quantify. Here we combine size-resolved particle number size distributions from polluted Beijing and cleaner coastal Qingdao with XGBoost modeling and SHAP attribution to resolve environmental contributions across 10–500 nm particles and three modes. The models reproduced observed particle number concentrations with high skill (mean test R ² = 0.95 in Beijing and 0.88 in Qingdao), enabling size- and mode-specific attribution of model predictions. Meteorological variables, especially relative humidity and solar radiation, accounted for the largest share of nucleation-mode variability (~56–58%), and their contributions intensified during NPF events, reaching ~70% in Qingdao. By contrast, pollution-related variables gained importance in growth-related size modes, with city-specific differences. These results show that meteorological conditions were most strongly associated with observable nucleation-mode bursts, whereas pollution-related conditions gained importance during subsequent growth, providing observational benchmarks for urban aerosol formation and size-resolved aerosol-model sensitivities."
-    },
-    {
-      "id": "W7212289258",
-      "title": "Drivers of topography in fold-thrust belts: a perspective from central Nepal",
-      "authors": [
-        "Paul R. Eizenhöfer",
-        "Nadine McQuarrie",
-        "S. Ghoshal",
-        "Sebastian G. Mutz",
-        "Todd A. Ehlers"
-      ],
-      "journal": "Earth and Planetary Science Letters",
-      "publicationDate": "2026-09-11",
-      "doi": "https://doi.org/10.1016/j.epsl.2026.120312",
-      "openAlexUrl": "https://openalex.org/W7212289258",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 51,
-      "matchedKeywords": [
-        "precipitation",
-        "himalaya"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The roles of climate and tectonics in the evolution of mountainous landscapes over geological time are often assessed via continuum models that balance the forces in mechanical wedges with the assumption of pervasive small-scale faulting accommodating deformation. In contrast, observations from mountain ranges indicate an evolution of large-offset faults and paleoclimate. Here we ask the question, can observed faulting and paleoclimate histories replicate the characteristics of Himalayan topography? We evaluate this question for the Nepal Himalaya through linked models of fault activity, precipitation, and surface processes over geological time. Our experiments confirm that motion along a few faults control topographic evolution in the Himalaya. Importantly, we identify two topography-generating mechanisms in the evolution of fast converging mountain ranges: one where uplifted topography is laterally translated when faults are active in the foreland, and one where hinterland fault activity coeval with temporary inactivity of faults in the foreland is required to facilitate river incision into the hinterland. Alternating between these two modes defines the physiography of present-day Himalayan-type mountain ranges and is consistent with the first-order regional catchment geometries."
     }
   ]
 }

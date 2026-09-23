@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:14:18.195Z",
+  "generatedAt": "2026-09-23T04:58:49.170Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7211979851",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 94,
+      "score": 92,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -57,7 +57,7 @@
       "openAlexUrl": "https://openalex.org/W7213645331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -82,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7213469060",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -91,30 +91,6 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Introduction Systematically clarifying the spatiotemporal evolution of vegetation coverage and elucidating its response mechanisms to climatic fluctuations and human activities carries substantial practical implications for advancing the Dual Carbon Strategy and optimizing the pattern of territorial spatial development and conservation across Shanxi Province, China. Methods Based on kernel Normalized Difference Vegetation Index (kNDVI) datasets, multi-source meteorological, topographic and socioeconomic datasets, this study integrated Theil-Sen slope estimation, Mann-Kendall significance test, Hurst exponent, standard deviational ellipse and gravity center migration model to systematically characterize the spatiotemporal patterns of vegetation coverage for the period 2000 to 2024 and predict the potential persistence of its future evolution. Meanwhile, an interpretable XGBoost-SHAP machine learning framework was constructed to quantify the independent contributions, nonlinear marginal responses, and temporal evolutionary characteristics of seven driving factors: elevation, slope, aspect, annual mean temperature, annual mean precipitation, population density and nighttime light intensity. Results (1) Temporally, the multi-year average kNDVI of the whole province reached approximately 0.1699, presenting an extremely significant fluctuating upward trend with an annual growth rate of 0.0041. Annual kNDVI ranges from 0.1132 recorded in 2001 to a peak value of 0.2227 in 2024. (2) Spatially, vegetation coverage exhibited a remarkable differentiation pattern of “low values in the north and high values in the south”. Higher kNDVI values were predominantly distributed within the forest-covered mountainous regions of the Taihang, Lüliang, Zhongtiao, and Taiyue Mountains, whereas relatively low values were distributed across the sandy-hilly regions of northern Shanxi and urban agglomerations along the Fen River Valley. Vegetation restoration was observed across 98.02% of the study area, among which roughly 92.18% exhibited an extremely significant improvement. (3) Over 2000–2024, the major axis of vegetation spatial distribution maintained a stable northeast-southwest orientation, accompanied by moderate outward expansion of the standard deviational ellipse, and a general northwestward shift of the vegetation gravity centre. (4) The Hurst exponent indicated that the vegetation improvement trend in 98.03% of the region would persist, while scattered patches of industrial, mining and urban land (accounting for 1.97%) faced the potential vegetation degradation risk. (5) The regional vegetation driving system experienced three evolutionary stages: a single precipitation-dominated natural driving stage (2000–2005), a climate-human coupled transitional stage (2005–2010), and a multi-factor synergistic balanced stage (2010–2020). Precipitation and temperature acted as core climatic drivers, and elevation largely determined the vertical differentiation baseline of vegetation distribution. Population density and nighttime light intensity exerted persistent suppressive effects on vegetation growth. Empirically derived tentative thresholds are identified for major predictors: elevation ∼1,200 m, slope ∼8°, annual mean temperature ∼7.5 °C, annual mean precipitation ∼500 mm, population density 500 persons/km 2 , and nighttime light intensity ∼5. These values can serve as reference boundaries for differentiating ecological conservation zones from human-disturbed zones. Conclusion This research identified the intertemporal differentiation and nonlinear coupling laws governing vegetation dynamics in Shanxi Province, a temperate transition zone on the Loess Plateau. Differentiated ecological governance strategies targeting climate adaptation, topographic zoning, and anthropogenic-pressure regulation are proposed, which provide observational scientific support for the construction of ecological security barriers on China’s Loess Plateau."
-    },
-    {
-      "id": "W7213454619",
-      "title": "A physics-informed spatiotemporal downscaling model for kilometer-scale hourly humid heat stress indices",
-      "authors": [
-        "Xilin Wu",
-        "Yong Ge",
-        "Jun Wang",
-        "Mengxiao Liu",
-        "Bo Li"
-      ],
-      "journal": "International Journal of Digital Earth",
-      "publicationDate": "2026-09-17",
-      "doi": "https://doi.org/10.1080/17538947.2026.2731676",
-      "openAlexUrl": "https://openalex.org/W7213454619",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 68,
-      "matchedKeywords": [
-        "yangtze",
-        "humid heat"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
     },
     {
       "id": "W7212471835",
@@ -135,7 +111,7 @@
       "openAlexUrl": "https://openalex.org/W7212471835",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "deep learning",
         "tibetan plateau",
@@ -145,28 +121,28 @@
       "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
     },
     {
-      "id": "W7212361146",
-      "title": "Attribution and projection of runoff variability in a subtropical monsoon basin under changing environments",
+      "id": "W7213454619",
+      "title": "A physics-informed spatiotemporal downscaling model for kilometer-scale hourly humid heat stress indices",
       "authors": [
-        "Zhouxin Wang",
-        "Chuanfu Zang",
-        "Dongming Huang",
-        "Tianqi Zuo",
-        "Ting Chen"
+        "Xilin Wu",
+        "Yong Ge",
+        "Jun Wang",
+        "Mengxiao Liu",
+        "Bo Li"
       ],
-      "journal": "Journal of Hydrology Regional Studies",
-      "publicationDate": "2026-09-12",
-      "doi": "https://doi.org/10.1016/j.ejrh.2026.103971",
-      "openAlexUrl": "https://openalex.org/W7212361146",
+      "journal": "International Journal of Digital Earth",
+      "publicationDate": "2026-09-17",
+      "doi": "https://doi.org/10.1080/17538947.2026.2731676",
+      "openAlexUrl": "https://openalex.org/W7213454619",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 61,
+      "score": 66,
       "matchedKeywords": [
-        "monsoon",
-        "precipitation"
+        "yangtze",
+        "humid heat"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Study region The Pearl River Basin is a humid subtropical monsoon basin in southern China and an important water source for South China, including the Pearl River Delta and Hong Kong. Its abundant precipitation, high vegetation coverage, and strong seasonal variability make it a representative basin for examining runoff responses to climate and land-surface changes in humid monsoon regions. Study focus This study applies the Budyko–Porporato–Guswa coupling framework to investigate historical runoff variability during 1990–2020 and to project future runoff responses during 2021–2060. Scenario-based attribution, runoff elasticity analysis, and correlation analysis were used to quantify the effects of precipitation, potential evapotranspiration, and LAI-based vegetation change on runoff variability. Bias-corrected GFDL-ESM4 outputs under SSP2–4.5 and SSP5–8.5 were further used to drive future runoff projections. New hydrological insights for the region Historical runoff showed strong interannual variability and spatial heterogeneity, with higher runoff in the Pearl River Delta, Dongjiang Basin, and western Beijiang Basin, and lower runoff in the Nanpanjiang and Beipanjiang basins. Scenario-based attribution indicated that climatic forcing, especially precipitation change, dominated basin-scale runoff variability, whereas LAI-based vegetation effects remained limited under generally humid conditions. However, the dry-hot valley sub-basin suggested that vegetation and land-surface factors may become more important in relatively water-limited areas. Based on the bias-corrected GFDL-ESM4 forcing used in this study, runoff was projected to decline by approximately 8% under SSP2–4.5 and 18.4% under SSP5–8.5 by 2060, with increasing spatial disparities. These findings highlight the need to consider both basin-wide climatic controls and sub-basin heterogeneity in future water-resource management."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
     },
     {
       "id": "W7213443731",
@@ -187,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7213443731",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -209,7 +185,7 @@
       "openAlexUrl": "https://openalex.org/W7213531782",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "monsoon"
       ],
@@ -235,7 +211,7 @@
       "openAlexUrl": "https://openalex.org/W7213335297",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "shap"
       ],

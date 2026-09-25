@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:09:42.599Z",
+  "generatedAt": "2026-09-25T05:11:57.989Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7211979851",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 89,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7213547783",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -84,7 +84,7 @@
       "openAlexUrl": "https://openalex.org/W7213645331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -109,7 +109,7 @@
       "openAlexUrl": "https://openalex.org/W7213469060",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -135,41 +135,13 @@
       "openAlexUrl": "https://openalex.org/W7213454619",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "yangtze",
         "humid heat"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
-    },
-    {
-      "id": "W7212471835",
-      "title": "TPHH: a long-term (1901–2023) high-resolution (1∕30°) near-surface humidity dataset for the Tibetan Plateau generated via spatial downscaling based on hybrid-structure deep learning",
-      "authors": [
-        "Zheng Jin",
-        "Zezhou Chen",
-        "Qinglong You",
-        "Z. G. Liu",
-        "Jintao Zhang",
-        "Huan Hu",
-        "Ping Chen",
-        "Xiang Liu"
-      ],
-      "journal": "Earth system science data",
-      "publicationDate": "2026-09-14",
-      "doi": "https://doi.org/10.5194/essd-18-6763-2026",
-      "openAlexUrl": "https://openalex.org/W7212471835",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 65,
-      "matchedKeywords": [
-        "deep learning",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Tibetan Plateau acts as the “Asian Water Tower” and faces regional amplified warming compared to the global climate change baseline. Given the Tibetan Plateau's pronounced alpine terrain, i.e., significant elevation gradients within short horizontal distances, studies on climate changes/dynamics over this mountainous region fundamentally depend on spatially high-resolution datasets. However, most currently available high-resolution datasets only extend back to the 1980s, while records extending into the pre-satellite era remain scarce, especially for near-surface atmospheric humidity. Thus, our study implements a hybrid-structure-based deep learning framework to generate monthly 2 m specific humidity, 2 m temperature and surface pressure at 1/30° × 1/30° horizontal resolution during 1901–2023. Briefly, employing a hybrid-structure model (FourCastNet by NVIDIA ® ), historical high-resolution fields (1/30° × 1/30° covering 1901–2023) are generated based on long-range low-resolution (0.5° × 0.5° covering 1901–2023 from Climatic Research Unit Time-Series, CRU_TS) and short-range high-resolution fields (1/30° × 1/30° covering 1979–2023 from the Tibetan Plateau Multi-source Meteorological Forcing Dataset; TPMFD) via spatial downscaling. The reconstructed fields were evaluated using target-referenced performance metrics, inter-product comparisons, and station-based consistency assessments. FourCastNet provides a data-driven statistical mapping from coarse CRU_TS predictors to high-resolution TPMFD target fields and reproduces learned terrain-related spatial gradients without explicitly enforcing physical equations or terrain constraints. The pre-1950 reconstruction remains less observationally constrained, and fine-scale early-century variability should be interpreted cautiously. Open access to this dataset is at https://doi.org/10.57760/sciencedb.36169 (Chen, 2026)."
     },
     {
       "id": "W7213443731",
@@ -190,7 +162,7 @@
       "openAlexUrl": "https://openalex.org/W7213443731",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -212,38 +184,12 @@
       "openAlexUrl": "https://openalex.org/W7213531782",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "monsoon"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Vegetation cooling in cities is often represented as a local, isotropic effect, although atmospheric processes can redistribute cooling beyond individual vegetation patches. This simplification may overlook the nonlocal and directionally structured nature of cooling propagation. We developed a physics-guided source–medium–receiver (SMR) framework for the Greater Bay Area of China to compare multi-source isotropic connectivity with prevailing-wind-conditioned connectivity. Vegetation-source strength was represented by the VCSI, and parameters estimated from 2021 to 2023 were frozen for an independent 2024 holdout and contrasting monsoon assessments. Cooling connectivity was modeled using a spatially varying distance-decay function, controlled by the wind speed, moisture content, surface albedo, terrain, and directional constraints from prevailing winds. In 2024, isotropic connectivity showed a stronger relationship with LST (r = −0.8069) than wind-conditioned connectivity (r = −0.7780) and local VCSI (r = −0.7757), with the same general ordering across monsoon and built-up receiver assessments. The source-level decay lengths ranged from 0.504 to 0.518 km, whereas the wind-conditioned emergent multi-source persistence increased from 4.13 to 4.88 km, reflecting cumulative field behaviors. Wind-relative decomposition further showed that annual connectivity was distributed across downwind, crosswind, and upwind pathways. These findings indicate that regional vegetation cooling is primarily characterized by distance-mediated, multi-source connectivity, while prevailing-wind direction acts as a scale- and condition-dependent modifier. This shift in perspective provides a physically grounded framework for effective urban climate analysis and precision greening strategies."
-    },
-    {
-      "id": "W7213335297",
-      "title": "Meteorology shapes urban particle nucleation, while pollution-related factors modulate growth",
-      "authors": [
-        "Shi Yin",
-        "Shiyu Zhan",
-        "Yadong Wang",
-        "Mingrui Jiang",
-        "Yunxi Lu",
-        "Yongjun Hu",
-        "Christian George",
-        "Hartmut Herrmann"
-      ],
-      "journal": "npj Clean Air",
-      "publicationDate": "2026-09-15",
-      "doi": "https://doi.org/10.1038/s44407-026-00100-6",
-      "openAlexUrl": "https://openalex.org/W7213335297",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 49,
-      "matchedKeywords": [
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Urban new particle formation (NPF) is shaped by meteorology and pollution, yet their stage-specific roles across particle sizes remain difficult to quantify. Here we combine size-resolved particle number size distributions from polluted Beijing and cleaner coastal Qingdao with XGBoost modeling and SHAP attribution to resolve environmental contributions across 10–500 nm particles and three modes. The models reproduced observed particle number concentrations with high skill (mean test R ² = 0.95 in Beijing and 0.88 in Qingdao), enabling size- and mode-specific attribution of model predictions. Meteorological variables, especially relative humidity and solar radiation, accounted for the largest share of nucleation-mode variability (~56–58%), and their contributions intensified during NPF events, reaching ~70% in Qingdao. By contrast, pollution-related variables gained importance in growth-related size modes, with city-specific differences. These results show that meteorological conditions were most strongly associated with observable nucleation-mode bursts, whereas pollution-related conditions gained importance during subsequent growth, providing observational benchmarks for urban aerosol formation and size-resolved aerosol-model sensitivities."
     }
   ]
 }

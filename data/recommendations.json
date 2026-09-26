@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:11:57.989Z",
+  "generatedAt": "2026-09-26T05:17:00.441Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7211979851",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7213547783",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -84,7 +84,7 @@
       "openAlexUrl": "https://openalex.org/W7213645331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -109,7 +109,7 @@
       "openAlexUrl": "https://openalex.org/W7213469060",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -135,13 +135,39 @@
       "openAlexUrl": "https://openalex.org/W7213454619",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "yangtze",
         "humid heat"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
+    },
+    {
+      "id": "W7213536677",
+      "title": "Ensemble fire probability prediction by integrating meteorological AI models with lightweight prediction networks",
+      "authors": [
+        "Hao Wu",
+        "Jie Luo",
+        "Xingdong Yan",
+        "Congcong Li",
+        "Jianwu Xing",
+        "Hengze Zhao",
+        "Dongmei Huang",
+        "Wei Huang"
+      ],
+      "journal": "Ecological Indicators",
+      "publicationDate": "2026-09-18",
+      "doi": "https://doi.org/10.1016/j.ecolind.2026.115478",
+      "openAlexUrl": "https://openalex.org/W7213536677",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 54,
+      "matchedKeywords": [
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Wildfires pose persistent threats to ecosystems and human safety, making timely fire-risk assessment essential for disaster prevention and resource management. However, conventional wildfire early-warning approaches are often constrained by static fire-weather indices or machine-learning models driven by reanalysis data, which cannot exploit future atmospheric fields. We therefore propose and evaluate a decoupled cascade framework that decomposes the problem into (i) an upstream AI weather model (Pangu-Weather) to generate future atmospheric states and (ii) downstream probabilistic fire classifiers. To the best of our knowledge, this is the first study to systematically compare the performance of three operational forecasting strategies (reanalysis, one-step forecast, and rolling forecast) for fire probability estimation. Using Africa as the study area, with multi-source data from 2014 to 2025, we find that one-step AI forecasts preserve the spatial fire-risk structure nearly as well as reanalysis data. Based on this dataset, we evaluated 11 downstream classifiers within a two-stage fire-occurrence and fire-intensity prediction design, while rolling forecasts suffer from degraded detection due to accumulated meteorological errors, with persistent reliability failure occurring after approximately six weeks. Cross-model consensus based on SHapley Additive exPlanations (SHAP) identifies vegetation, land-surface conditions, and meteorological variables as robust contributors. Our results demonstrate that meteorological foundation models can serve as modular and interchangeable upstream modules for operational wildfire hazard estimation, offering a scalable alternative to end-to-end black-box fire foundation models."
     },
     {
       "id": "W7213443731",
@@ -162,7 +188,7 @@
       "openAlexUrl": "https://openalex.org/W7213443731",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -184,7 +210,7 @@
       "openAlexUrl": "https://openalex.org/W7213531782",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "monsoon"
       ],

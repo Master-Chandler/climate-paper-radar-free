@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:32:59.476Z",
+  "generatedAt": "2026-09-28T05:41:41.415Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7211979851",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7213547783",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -80,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -107,64 +107,13 @@
       "openAlexUrl": "https://openalex.org/W7213645331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Microplastics (MPs) are considered enormous threats to the environment on a global scale, yet their monitoring in oceanic regions remains challenging due to limited sampling and complex circulation patterns. This study leverages 12 remotely sensed oceanographic variables to predict microplastic abundance (MPA) in the Indian Ocean by developing machine learning (ML) models. Random forest, gradient boosting regression (GBR), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), support vector regression (SVR), k-nearest neighbors (KNN), and multiple linear regression (MLR) were the ML models used to train by utilizing 346 georeferenced data. Among the evaluated models, the GBR model demonstrated superior performance during cross-validation, achieving the highest predictive accuracy and model stability (CV R2 = 0.8434, CV RMSE = 0.2424). SHAP analysis revealed that sea surface salinity, surface roughness, dissolved oxygen, distance from the nearest coast, nitrate concentration, and zonal wind stress were among the most influential predictors associated with microplastic distribution, highlighting the importance of hydrodynamic transport, coastal influence, and biogeochemical processes in regulating marine microplastic accumulation. The findings demonstrate that remotely sensed and reanalysis-derived oceanographic variables can provide environmentally informed estimates of MPA across data-limited marine environments. Therefore, this integrated ML-remote sensing approach provides a scalable, cost-effective pollution monitoring system, supporting focused management and policy changes in areas with limited data. Graphical abstract"
-    },
-    {
-      "id": "W7213469060",
-      "title": "Spatial and Temporal characteristics and driving force analysis of vegetation cover change in Shanxi Province, China based on kNDVI and XGBoost-SHAP model",
-      "authors": [
-        "Jie Chen",
-        "Yi Hou",
-        "Jianhua Xue",
-        "Jianhua Ni",
-        "Hao Liu",
-        "Pengxiang Gao"
-      ],
-      "journal": "Frontiers in Environmental Science",
-      "publicationDate": "2026-09-17",
-      "doi": "https://doi.org/10.3389/fenvs.2026.1948848",
-      "openAlexUrl": "https://openalex.org/W7213469060",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 64,
-      "matchedKeywords": [
-        "machine learning",
-        "shap",
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Introduction Systematically clarifying the spatiotemporal evolution of vegetation coverage and elucidating its response mechanisms to climatic fluctuations and human activities carries substantial practical implications for advancing the Dual Carbon Strategy and optimizing the pattern of territorial spatial development and conservation across Shanxi Province, China. Methods Based on kernel Normalized Difference Vegetation Index (kNDVI) datasets, multi-source meteorological, topographic and socioeconomic datasets, this study integrated Theil-Sen slope estimation, Mann-Kendall significance test, Hurst exponent, standard deviational ellipse and gravity center migration model to systematically characterize the spatiotemporal patterns of vegetation coverage for the period 2000 to 2024 and predict the potential persistence of its future evolution. Meanwhile, an interpretable XGBoost-SHAP machine learning framework was constructed to quantify the independent contributions, nonlinear marginal responses, and temporal evolutionary characteristics of seven driving factors: elevation, slope, aspect, annual mean temperature, annual mean precipitation, population density and nighttime light intensity. Results (1) Temporally, the multi-year average kNDVI of the whole province reached approximately 0.1699, presenting an extremely significant fluctuating upward trend with an annual growth rate of 0.0041. Annual kNDVI ranges from 0.1132 recorded in 2001 to a peak value of 0.2227 in 2024. (2) Spatially, vegetation coverage exhibited a remarkable differentiation pattern of “low values in the north and high values in the south”. Higher kNDVI values were predominantly distributed within the forest-covered mountainous regions of the Taihang, Lüliang, Zhongtiao, and Taiyue Mountains, whereas relatively low values were distributed across the sandy-hilly regions of northern Shanxi and urban agglomerations along the Fen River Valley. Vegetation restoration was observed across 98.02% of the study area, among which roughly 92.18% exhibited an extremely significant improvement. (3) Over 2000–2024, the major axis of vegetation spatial distribution maintained a stable northeast-southwest orientation, accompanied by moderate outward expansion of the standard deviational ellipse, and a general northwestward shift of the vegetation gravity centre. (4) The Hurst exponent indicated that the vegetation improvement trend in 98.03% of the region would persist, while scattered patches of industrial, mining and urban land (accounting for 1.97%) faced the potential vegetation degradation risk. (5) The regional vegetation driving system experienced three evolutionary stages: a single precipitation-dominated natural driving stage (2000–2005), a climate-human coupled transitional stage (2005–2010), and a multi-factor synergistic balanced stage (2010–2020). Precipitation and temperature acted as core climatic drivers, and elevation largely determined the vertical differentiation baseline of vegetation distribution. Population density and nighttime light intensity exerted persistent suppressive effects on vegetation growth. Empirically derived tentative thresholds are identified for major predictors: elevation ∼1,200 m, slope ∼8°, annual mean temperature ∼7.5 °C, annual mean precipitation ∼500 mm, population density 500 persons/km 2 , and nighttime light intensity ∼5. These values can serve as reference boundaries for differentiating ecological conservation zones from human-disturbed zones. Conclusion This research identified the intertemporal differentiation and nonlinear coupling laws governing vegetation dynamics in Shanxi Province, a temperate transition zone on the Loess Plateau. Differentiated ecological governance strategies targeting climate adaptation, topographic zoning, and anthropogenic-pressure regulation are proposed, which provide observational scientific support for the construction of ecological security barriers on China’s Loess Plateau."
-    },
-    {
-      "id": "W7213454619",
-      "title": "A physics-informed spatiotemporal downscaling model for kilometer-scale hourly humid heat stress indices",
-      "authors": [
-        "Xilin Wu",
-        "Yong Ge",
-        "Jun Wang",
-        "Mengxiao Liu",
-        "Bo Li"
-      ],
-      "journal": "International Journal of Digital Earth",
-      "publicationDate": "2026-09-17",
-      "doi": "https://doi.org/10.1080/17538947.2026.2731676",
-      "openAlexUrl": "https://openalex.org/W7213454619",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 61,
-      "matchedKeywords": [
-        "yangtze",
-        "humid heat"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、humid heat、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "High-resolution humid heat stress indices, characterizing the interactive physiological effects of temperature and humidity, are vital for precision heat-health assessment and climate adaptation. However, existing coarse-resolution datasets smooth fine-scale spatial heterogeneity and may therefore underestimated localized heat extremes. Statistical downscaling can enhance spatial resolution, but its reliance on empirical relationships provides limited constraints on nonlinear land-atmosphere interactions, potentially introducing physically inconsistent biases. Here, we develop a physics-informed spatiotemporal (PIST) downscaling model that integrate surface energy balance and horizontal advection into a statistical framework. By fusing multisource data, our model reconstructs for humid heat stress indices at hourly and 1-km resolution. Applied to the Yangtze River Delta during the warm season (May–October) of 2020, the model performs consistently well across the four indices, with root mean square errors (RMSEs) ranging from 2.24 to 3.98 °C and R2 values exceeding 0.88. Compared with conventional statistical downscaling, PIST reduces RMSE by 53–62%. The incorporation of physical constraints also improves the representation of extreme heat, increasing upper-tail dependence from 0.4 to above 0.8 and reducing systematic biases over urban areas. Overall, PIST exemplifies Digital Earth methodology by transforming geospatial observations into high-resolution, decision-relevant climate information, supporting heat health assessment and urban climate adaptation."
     },
     {
       "id": "W7213536677",
@@ -185,39 +134,12 @@
       "openAlexUrl": "https://openalex.org/W7213536677",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 51,
       "matchedKeywords": [
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Wildfires pose persistent threats to ecosystems and human safety, making timely fire-risk assessment essential for disaster prevention and resource management. However, conventional wildfire early-warning approaches are often constrained by static fire-weather indices or machine-learning models driven by reanalysis data, which cannot exploit future atmospheric fields. We therefore propose and evaluate a decoupled cascade framework that decomposes the problem into (i) an upstream AI weather model (Pangu-Weather) to generate future atmospheric states and (ii) downstream probabilistic fire classifiers. To the best of our knowledge, this is the first study to systematically compare the performance of three operational forecasting strategies (reanalysis, one-step forecast, and rolling forecast) for fire probability estimation. Using Africa as the study area, with multi-source data from 2014 to 2025, we find that one-step AI forecasts preserve the spatial fire-risk structure nearly as well as reanalysis data. Based on this dataset, we evaluated 11 downstream classifiers within a two-stage fire-occurrence and fire-intensity prediction design, while rolling forecasts suffer from degraded detection due to accumulated meteorological errors, with persistent reliability failure occurring after approximately six weeks. Cross-model consensus based on SHapley Additive exPlanations (SHAP) identifies vegetation, land-surface conditions, and meteorological variables as robust contributors. Our results demonstrate that meteorological foundation models can serve as modular and interchangeable upstream modules for operational wildfire hazard estimation, offering a scalable alternative to end-to-end black-box fire foundation models."
-    },
-    {
-      "id": "W7213443731",
-      "title": "How climatic, edaphic, and biotic drivers collectively govern large-scale grassland biomass allocation",
-      "authors": [
-        "Liucui Wu",
-        "Zehao Fan",
-        "Tianshan Zha",
-        "Xinwei Guo",
-        "Weirong Zhang",
-        "Yue Jiao",
-        "Mengdie Wang",
-        "Peihong Song"
-      ],
-      "journal": "Journal of Plant Ecology",
-      "publicationDate": "2026-09-17",
-      "doi": "https://doi.org/10.1093/jpe/rtag228",
-      "openAlexUrl": "https://openalex.org/W7213443731",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 52,
-      "matchedKeywords": [
-        "shap",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change. By integrating multi-scale observations and global datasets, this study applied extreme gradient boosting (XGBoost) and used SHapley Additive exPlanations (SHAP) to quantify variable importance and partial dependence across environmental gradients, revealing how climatic, edaphic, and biological factors synergistically regulate large-scale grassland biomass allocation, and produced a global dataset at 0.05° spatial resolution. The XGBoost model estimated mean values of 282.05 ± 98.57 g m−2 for aboveground biomass (AGB), 999.71 ± 264.17 g m−2 for belowground biomass (BGB), and 6.41 ± 2.25 for root-to-shoot ratio (RS) at global-scale, all of which exhibited distinct spatial distribution patterns. Under water-limited conditions, plants adopted a root plasticity prioritized strategy; rising temperatures promote AGB but suppress BGB, while increased precipitation mainly promoted AGB. Species with high specific leaf area (SLA) did not substantially enhance AGB, whereas those with low SLA invested more in root development to cope with environmental stress. In near-neutral soils, BGB increased with rising pH, and moderate levels of exchangeable magnesium were beneficial to AGB. Our findings demonstrate that grassland biomass allocation represents an adaptive outcome of resource trade-offs and physiological plasticity under multifactorial stress. These insights provide an important theoretical foundation for optimizing carbon sequestration functions and guiding sustainable management of grasslands in the context of global change."
     },
     {
       "id": "W7213531782",
@@ -233,7 +155,7 @@
       "openAlexUrl": "https://openalex.org/W7213531782",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "monsoon"
       ],

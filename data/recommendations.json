@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T05:41:41.415Z",
+  "generatedAt": "2026-09-29T05:58:45.895Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -12,58 +12,104 @@
   },
   "papers": [
     {
-      "id": "W7211979851",
-      "title": "Multi-Model Forecasting of Shoreline Air Temperature using Machine Learning and Deep Learning: The CidAlmeida Station, Portugal",
+      "id": "W7214429590",
+      "title": "Leveraging explainable artificial intelligence and satellite time-series for unravelling nonlinear environmental drivers of post-wildfire vegetation recovery",
       "authors": [
-        "Tahir Mahmood",
-        "Ashish Khatri",
-        "Adeel Rafiq",
-        "Umar Manzoor",
-        "Zeeshan Pervez"
+        "Xiaoyu Liu",
+        "Wei Liu",
+        "Zhihao He",
+        "Chuan Xiao"
       ],
-      "journal": "Applied Artificial Intelligence",
-      "publicationDate": "2026-09-18",
-      "doi": "https://doi.org/10.1080/08839514.2026.2729374",
-      "openAlexUrl": "https://openalex.org/W7211979851",
+      "journal": "Geomatics Natural Hazards and Risk",
+      "publicationDate": "2026-09-26",
+      "doi": "https://doi.org/10.1080/19475705.2026.2738256",
+      "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 85,
+      "score": 95,
       "matchedKeywords": [
         "machine learning",
-        "deep learning",
         "explainable",
         "shap",
-        "precipitation"
+        "artificial intelligence"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、shap、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Accurate short-term meteorological forecasting at reservoir shorelines is essential for reservoir management and adaptation planning in Mediterranean climates. This study proposes a multi-stage data-driven framework for time-series prediction and explainable modeling using hourly meteorological data (2018–2023) from the CidAlmeida station of the Alqueva reservoir. Several imputation techniques were used to fill missing data, where Stineman interpolation achieved the lowest errors, while linear interpolation performed best for maximum wind speed, wind direction, and precipitation. A range of statistical, machine learning, deep learning, and hybrid models were evaluated using MAE, RMSE, MAPE, R2, and NSE. XGBoost achieved the best overall performance (RMSE = 0.45°C, MAE = 0.34°C, R2 = 0.9962), followed by Random Forest (RMSE = 0.63°C). Deep-learning models, including LSTM, LSTM-KANs, GRU, and Transformer variants, also demonstrated strong predictive performance with RMSE values below 1°C. In contrast, the statistical models (ARIMA, SARIMA, VAR, and Holt-Winters) produced substantially larger errors, highlighting the superiority of machine learning and deep learning approaches. Seasonal analysis further confirmed the robustness of XGBoost, maintaining RMSE between 0.38–0.42°C across all seasons. SHAP analysis revealed that lagged air temperature is the dominant predictor. Overall, the framework provides an accurate, efficient, and interpretable solution for short-term microclimate prediction."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a Landsat-derived differenced normalized burn ratio (dNBR). Benchmarking eleven models under an identical chronological split, random forest most accurately forecast vegetation-index residuals (test-set R² = 0.842, RMSE = 0.0230). SHAP analysis yielded three principal insights. First, recovery was governed by short-term accumulated rather than instantaneous meteorological conditions: the three-period rolling mean of atmospheric pressure was the strongest predictor (41.6% of total SHAP importance), while dNBR ranked first among standalone factors and second overall as a fire-legacy control. Second, recovery followed strongly nonlinear dynamics centred on the first post-fire year, as burn severity's suppressive effect peaked in early-to-middle recovery and decayed by the second growing season, after which lagged hydrothermal drivers rebounded. Third, synergistic enhancement was pronounced: soil–moisture interactions with evapotranspiration and recovery duration reached 4.5- and 3.9-fold the standalone moisture effect, confirming water regulates resilience through cumulative coupling. This integrated, mechanism-driven approach informs post-disaster ecosystem management in fire-prone alpine regions."
     },
     {
-      "id": "W7213547783",
-      "title": "Heatwave-dominated changes in compound drought and heatwave events in the middle and lower Yangtze River Basin, China, during 1961–2020",
+      "id": "W7214437372",
+      "title": "Groundwater regulates the spatial pattern of photosynthesis in the contiguous United States",
       "authors": [
-        "Qinmian Bai",
-        "Xingdong Zhang",
-        "Chunmei Chen",
-        "Wei Wang",
-        "Aiqing Feng",
-        "Shaohong Wu",
-        "Shanfeng He"
+        "Francesco Giardina",
+        "Jiangong Liu",
+        "Sonia Isabelle Seneviratne",
+        "Benjamin David Stocker",
+        "Pierre Gentine"
       ],
-      "journal": "Journal of Hydrology Regional Studies",
-      "publicationDate": "2026-09-18",
-      "doi": "https://doi.org/10.1016/j.ejrh.2026.103995",
-      "openAlexUrl": "https://openalex.org/W7213547783",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 71,
+      "journal": "Communications Earth & Environment",
+      "publicationDate": "2026-09-26",
+      "doi": "https://doi.org/10.1038/s43247-026-04067-w",
+      "openAlexUrl": "https://openalex.org/W7214437372",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 73,
       "matchedKeywords": [
-        "monsoon",
-        "yangtze",
-        "precipitation"
+        "machine learning",
+        "explainable"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Study region The middle and lower reaches of the Yangtze River Basin, China. Study focus Compound drought and heatwave events (CDHWs) pose increasing risks to water resources, agriculture and ecosystems, but their daily-scale evolution and amplification relative to single extremes remain insufficiently understood in humid monsoon regions. Using daily observations from 66 meteorological stations during 1961–2020, this study examined the long-term changes, periodic variability, spatial patterns and amplification characteristics of warm-season CDHWs. A regression-based relative contribution framework was further used to assess whether CDHW variability was more closely associated with heatwave- or drought-related indicators. New hydrological insights for the region Warm-season CDHWs showed a clear transition around the 1990s, with decreasing tendencies before 1990 and widespread increases thereafter. High-value and significantly increasing areas were mainly concentrated in Hubei, Hunan, Jiangxi and the Jiangsu–Zhejiang–Shanghai region. Compared with single heatwaves or droughts, CDHWs were characterised by stronger thermal stress, markedly lower precipitation and longer event duration, indicating an amplification of compound hot–dry extremes. Heatwave-related indicators showed larger relative explanatory contributions than drought-related indicators for CDHW occurrence days, event frequency and maximum duration, although drought duration and drought frequency were locally important in mountainous areas. These findings highlight the need to integrate heatwave monitoring with drought risk management to improve early warning and climate adaptation strategies in the Yangtze River Basin."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、atmospher、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Plants can access water stored in aquifers to sustain their activity, releasing moisture into the atmosphere—a critical survival mechanism during drought. Understanding the role of groundwater in regulating photosynthesis is thus key for modelling land-atmosphere interactions. However, the contribution of groundwater to spatial variation in mean annual photosynthesis remains poorly quantified, particularly relative to well-known factors like climatic aridity. Here, we use satellite observations of solar-induced fluorescence together with model estimates of water table depth and aridity to investigate the relative role of groundwater and aridity in determining the spatial pattern of photosynthesis in the contiguous United States. Using causality-guided explainable machine learning, we show that the relative importance of groundwater accounts for 48 to 101% of the effect attributed to aridity in modulating forest photosynthesis across the contiguous United States. The relative importance of groundwater compared to aridity remains substantial in savannahs and shrublands (30-58%), grasslands (22-42%), and croplands (15-32%). Our findings reflect the role of water tables in regulating the water available in the rooting zone, with an effect comparable in magnitude to climatic aridity."
+    },
+    {
+      "id": "W7214461980",
+      "title": "Assessing the environmental risk of lightning-induced forest fires under compound climatic extremes in Northeast China",
+      "authors": [
+        "Liming Lou",
+        "Pengle Cheng",
+        "Mingyu Wang",
+        "Hui Liu",
+        "Xiaodong Liu",
+        "Ying Huang"
+      ],
+      "journal": "Geomatics Natural Hazards and Risk",
+      "publicationDate": "2026-09-26",
+      "doi": "https://doi.org/10.1080/19475705.2026.2738252",
+      "openAlexUrl": "https://openalex.org/W7214461980",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 70,
+      "matchedKeywords": [
+        "shap",
+        "thermal forcing"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、climate、atmospher、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Lightning-induced forest fires pose increasing environmental risks to boreal–temperate forest ecosystems under climate change, yet their impacts remain insufficiently incorporated into environmental risk assessment and planning. This study conducts a spatially explicit assessment of lightning-induced forest fire risk in the Da Hinggan Ling region of Northeast China using a 59-year fire record (1966–2024; n = 1047) integrated with climate reanalysis data. Fire occurrences were aggregated to a 5-km equal-area grid and analyzed within a GIS-based machine-learning framework using ERA5-derived climatic and environmental variables. An XGBoost classifier calibrated to probabilistic scales was applied to map ignition likelihood, while SHAP interpretation and partial-dependence analysis were used to identify dominant drivers and nonlinear response thresholds. Results indicate that lightning-fire risk is governed by compound interactions among thermal forcing, hydrological drying, vegetation stress, and atmospheric instability. Ignition probability peaks under moderate heat and dryness but declines under extreme aridity, revealing a self-limiting dryness regime that constrains further risk escalation. By linking long-term fire records with spatial risk modelling, this study provides a quantitative framework for integrating lightning-induced fires into environmental assessment and climate adaptation planning. The findings support risk-informed decision-making, early-warning strategies, and targeted management interventions for northern forest ecosystems under intensifying climatic extremes."
+    },
+    {
+      "id": "W7214453206",
+      "title": "ASAS-NANP SYMPOSIUM: MATHEMATICAL MODELING IN ANIMAL NUTRITION: Modelling in the Agriculture 4.0 Era and Beyond: Merging Mechanistic Knowledge and Artificial Intelligence with Hybrid Modelling",
+      "authors": [
+        "J.L. Ellis",
+        "Jessica Bode",
+        "Maureen Sahar",
+        "Jihao You",
+        "Dan Tulpan",
+        "Noud Aldenhoven",
+        "Luis O Tedeschi"
+      ],
+      "journal": "Journal of Animal Science",
+      "publicationDate": "2026-09-26",
+      "doi": "https://doi.org/10.1093/jas/skag311",
+      "openAlexUrl": "https://openalex.org/W7214453206",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 69,
+      "matchedKeywords": [
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、artificial intelligence、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "With the arrival of the 4th Agricultural Revolution (Agriculture 4.0) and the influsion of animal production systems with sensors, automation, and advanced analytics, new opportunities have arisen to improve sustainability, efficiency, and the precision with which we feed animals. It is possible that the barriers of the past such as lack of automation, efficient means of data capture, and appropriate analytical tools with which to drive decision support and system optimization will be mitigated in our lifetime. Increasingly, we will see the blending of mechanistic understanding with technological advancement to guide decision-making. The emerging frontier of hybrid models representing frameworks that integrate mechanistic understanding with the pattern recognition of machine learning, offers considerable promise for application in animal systems. As illustrative case studies, research conducted in other fields where modelling approaches have been successfully integrated will be explored (for example, bioprocess engineering, weather, human health), as well as recent research in agriculture. Several architectures for hybrid modelling may be considered for application in animal biosciences: (1) Serial hybridization, where a machine learning (ML) model provides inputs into a white box model (could be mechanistic or empirical), or vice versa, (2) Parallel hybridization, where models act in parallel and ML and white box model outputs are aggregated or weighted to enhance model performance, (3) Physical constraint hybridization, where domain knowledge (such as conservation laws) typically embedded in mechanistic models are integrated into the structure, parameters or outputs of a ML model, and (4) mechanistic learning, where ML model(s) are embedded within a mechanistic model to predict specific pools or fluxes. Key challenges including data quality and integration, model interpretability, and computational efficiency are discussed alongside practical strategies to overcome them. This review examines how hybrid models can bridge the gap between data-driven insights and biological causality to support real-time decision-making in feed formulation, emissions management, and health monitoring. By positioning hybrid modelling as a cornerstone of precision livestock farming, Agriculture 4.0, and beyond, this review outlines a vision for next-generation tools that are scientifically grounded, causally robust, and prepared to support digital decision-making."
     },
     {
       "id": "W7214149109",
@@ -80,7 +126,7 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -107,60 +153,13 @@
       "openAlexUrl": "https://openalex.org/W7213645331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Microplastics (MPs) are considered enormous threats to the environment on a global scale, yet their monitoring in oceanic regions remains challenging due to limited sampling and complex circulation patterns. This study leverages 12 remotely sensed oceanographic variables to predict microplastic abundance (MPA) in the Indian Ocean by developing machine learning (ML) models. Random forest, gradient boosting regression (GBR), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), support vector regression (SVR), k-nearest neighbors (KNN), and multiple linear regression (MLR) were the ML models used to train by utilizing 346 georeferenced data. Among the evaluated models, the GBR model demonstrated superior performance during cross-validation, achieving the highest predictive accuracy and model stability (CV R2 = 0.8434, CV RMSE = 0.2424). SHAP analysis revealed that sea surface salinity, surface roughness, dissolved oxygen, distance from the nearest coast, nitrate concentration, and zonal wind stress were among the most influential predictors associated with microplastic distribution, highlighting the importance of hydrodynamic transport, coastal influence, and biogeochemical processes in regulating marine microplastic accumulation. The findings demonstrate that remotely sensed and reanalysis-derived oceanographic variables can provide environmentally informed estimates of MPA across data-limited marine environments. Therefore, this integrated ML-remote sensing approach provides a scalable, cost-effective pollution monitoring system, supporting focused management and policy changes in areas with limited data. Graphical abstract"
-    },
-    {
-      "id": "W7213536677",
-      "title": "Ensemble fire probability prediction by integrating meteorological AI models with lightweight prediction networks",
-      "authors": [
-        "Hao Wu",
-        "Jie Luo",
-        "Xingdong Yan",
-        "Congcong Li",
-        "Jianwu Xing",
-        "Hengze Zhao",
-        "Dongmei Huang",
-        "Wei Huang"
-      ],
-      "journal": "Ecological Indicators",
-      "publicationDate": "2026-09-18",
-      "doi": "https://doi.org/10.1016/j.ecolind.2026.115478",
-      "openAlexUrl": "https://openalex.org/W7213536677",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 51,
-      "matchedKeywords": [
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Wildfires pose persistent threats to ecosystems and human safety, making timely fire-risk assessment essential for disaster prevention and resource management. However, conventional wildfire early-warning approaches are often constrained by static fire-weather indices or machine-learning models driven by reanalysis data, which cannot exploit future atmospheric fields. We therefore propose and evaluate a decoupled cascade framework that decomposes the problem into (i) an upstream AI weather model (Pangu-Weather) to generate future atmospheric states and (ii) downstream probabilistic fire classifiers. To the best of our knowledge, this is the first study to systematically compare the performance of three operational forecasting strategies (reanalysis, one-step forecast, and rolling forecast) for fire probability estimation. Using Africa as the study area, with multi-source data from 2014 to 2025, we find that one-step AI forecasts preserve the spatial fire-risk structure nearly as well as reanalysis data. Based on this dataset, we evaluated 11 downstream classifiers within a two-stage fire-occurrence and fire-intensity prediction design, while rolling forecasts suffer from degraded detection due to accumulated meteorological errors, with persistent reliability failure occurring after approximately six weeks. Cross-model consensus based on SHapley Additive exPlanations (SHAP) identifies vegetation, land-surface conditions, and meteorological variables as robust contributors. Our results demonstrate that meteorological foundation models can serve as modular and interchangeable upstream modules for operational wildfire hazard estimation, offering a scalable alternative to end-to-end black-box fire foundation models."
-    },
-    {
-      "id": "W7213531782",
-      "title": "A source–medium–receiver framework for modeling wind-driven vegetation cooling in urban landscapes",
-      "authors": [
-        "Hassan Qasim",
-        "Xiaoli Ding",
-        "Sawaid Abbas"
-      ],
-      "journal": "GIScience & Remote Sensing",
-      "publicationDate": "2026-09-18",
-      "doi": "https://doi.org/10.1080/15481603.2026.2733792",
-      "openAlexUrl": "https://openalex.org/W7213531782",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 50,
-      "matchedKeywords": [
-        "monsoon"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Vegetation cooling in cities is often represented as a local, isotropic effect, although atmospheric processes can redistribute cooling beyond individual vegetation patches. This simplification may overlook the nonlocal and directionally structured nature of cooling propagation. We developed a physics-guided source–medium–receiver (SMR) framework for the Greater Bay Area of China to compare multi-source isotropic connectivity with prevailing-wind-conditioned connectivity. Vegetation-source strength was represented by the VCSI, and parameters estimated from 2021 to 2023 were frozen for an independent 2024 holdout and contrasting monsoon assessments. Cooling connectivity was modeled using a spatially varying distance-decay function, controlled by the wind speed, moisture content, surface albedo, terrain, and directional constraints from prevailing winds. In 2024, isotropic connectivity showed a stronger relationship with LST (r = −0.8069) than wind-conditioned connectivity (r = −0.7780) and local VCSI (r = −0.7757), with the same general ordering across monsoon and built-up receiver assessments. The source-level decay lengths ranged from 0.504 to 0.518 km, whereas the wind-conditioned emergent multi-source persistence increased from 4.13 to 4.88 km, reflecting cumulative field behaviors. Wind-relative decomposition further showed that annual connectivity was distributed across downwind, crosswind, and upwind pathways. These findings indicate that regional vegetation cooling is primarily characterized by distance-mediated, multi-source connectivity, while prevailing-wind direction acts as a scale- and condition-dependent modifier. This shift in perspective provides a physically grounded framework for effective urban climate analysis and precision greening strategies."
     }
   ]
 }

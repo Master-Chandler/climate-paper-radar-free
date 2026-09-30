@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:58:45.895Z",
+  "generatedAt": "2026-09-30T05:48:15.805Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -26,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 95,
+      "score": 94,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7214437372",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -77,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7214461980",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "shap",
         "thermal forcing"
@@ -103,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7214453206",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "artificial intelligence"
@@ -126,7 +126,7 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 68,
+      "score": 66,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -135,31 +135,26 @@
       "abstractEn": "Compound heatwave – extreme precipitation (CHWEP) events pose escalating risks in monsoon-influenced mid-latitude region across the globe, yet, long-term and seasonally-resolved observational evidence remains limited. Here, we quantify the seasonal and long-term changes, and recent shifts of CHWEP events across South Korea using daily ground observations over four decades (1986–2025). We find that the recent escalation of CHWEP risk is primarily frequency-driven, with a pronounced nationwide emergence starting summer continuing during autumn, while its severity remains comparatively stationary. In detail, the statistically significant increases of CHWEP total days in summer and autumn indicate a seasonal expansion of CHWEP events beyond the traditional summer period in the study region. The CHWEP severity remains comparatively consistent but still exhibiting marginal increase. We also find that the spatial distribution of the CHWEP hotspots differ by characteristics—high frequency concentrates along the western coastal corridor, whereas the highest severities occur in the southeastern inland. This result highlights the contrast between distinct “chronic exposure” versus “acute impact” regimes within the study region. Overall, our findings using the ground observation data well present that the recent CHWEP events have surpassed the historical envelope of variability, therefore underscoring the urgent need for compound-aware risk frameworks in the mid-latitude monsoon regions as global climate change accelerates."
     },
     {
-      "id": "W7213645331",
-      "title": "AI-driven prediction of marine microplastics from space: a case study of the Indian Ocean",
+      "id": "W7214649035",
+      "title": "Integrative multi-omics for decoding and breeding wheat resilience to combined drought and salinity stress",
       "authors": [
-        "Nafisa Ali",
-        "Sohail Ahmed",
-        "Mst. Humaira Afia",
-        "A. K. Mohibul Islam",
-        "Saif Izlal",
-        "Shahidur Rahman",
-        "MD Asrafuzzaman Arif",
-        "Md Hafizur Rahman"
+        "Dinesh Kumar Saini",
+        "Rajeev Nayan Bahuguna",
+        "Impa M. Somayanda",
+        "S. V. Krishna Jagadish"
       ],
-      "journal": "Discover Oceans",
-      "publicationDate": "2026-09-19",
-      "doi": "https://doi.org/10.1007/s44289-026-00160-2",
-      "openAlexUrl": "https://openalex.org/W7213645331",
+      "journal": "Plant Physiology Reports",
+      "publicationDate": "2026-09-28",
+      "doi": "https://doi.org/10.1007/s40502-026-01011-0",
+      "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 59,
       "matchedKeywords": [
-        "machine learning",
-        "shap"
+        "causal"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Microplastics (MPs) are considered enormous threats to the environment on a global scale, yet their monitoring in oceanic regions remains challenging due to limited sampling and complex circulation patterns. This study leverages 12 remotely sensed oceanographic variables to predict microplastic abundance (MPA) in the Indian Ocean by developing machine learning (ML) models. Random forest, gradient boosting regression (GBR), extreme gradient boosting (XGBoost), light gradient boosting machine (LightGBM), support vector regression (SVR), k-nearest neighbors (KNN), and multiple linear regression (MLR) were the ML models used to train by utilizing 346 georeferenced data. Among the evaluated models, the GBR model demonstrated superior performance during cross-validation, achieving the highest predictive accuracy and model stability (CV R2 = 0.8434, CV RMSE = 0.2424). SHAP analysis revealed that sea surface salinity, surface roughness, dissolved oxygen, distance from the nearest coast, nitrate concentration, and zonal wind stress were among the most influential predictors associated with microplastic distribution, highlighting the importance of hydrodynamic transport, coastal influence, and biogeochemical processes in regulating marine microplastic accumulation. The findings demonstrate that remotely sensed and reanalysis-derived oceanographic variables can provide environmentally informed estimates of MPA across data-limited marine environments. Therefore, this integrated ML-remote sensing approach provides a scalable, cost-effective pollution monitoring system, supporting focused management and policy changes in areas with limited data. Graphical abstract"
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Wheat ( Triticum aestivum L.) productivity is increasingly threatened by the co-occurrence of drought and salinity in water-limited and salt-affected agroecosystems. Their combination creates a distinct stress environment in which restricted water uptake interacts with ion toxicity, nutrient imbalance, oxidative injury, and developmental disruption, often producing responses and genotype rankings that cannot be predicted from either stress alone. This review examines how multi-omics and systems-level approaches can elucidate the biological basis of wheat adaptation to simultaneous osmotic and ionic constraints and translate this knowledge into crop improvement. Evidence across genomic, regulatory, biochemical, physiological, and phenotypic scales indicates that tolerance is not governed by a single pathway but by the coordinated maintenance of root hydraulic function, plant water status, ion and nutrient homeostasis, osmotic and redox balance, membrane integrity, carbon assimilation, and reproductive performance. Pan-genomic resources, network biology, cell-resolved profiling, high-throughput phenotyping, and environment-aware prediction are beginning to link molecular variation to whole-plant performance and distinguish causal or breeding-ready targets from discovery-stage associations. However, direct integrated studies under simultaneous drought and salinity remain scarce, and much of the current understanding is still inferred from individual-stress experiments or controlled seedling assays. Progress will therefore require common populations evaluated across controlled and field-relevant combined-stress environments, standardized environmental metadata, functional validation, and integration with genomic prediction, genome editing, accelerated breeding, and multi-environment testing. Treating combined drought and salinity as a distinct breeding target will be essential for developing wheat cultivars that sustain physiological function and yield under concurrent water and ionic limitations."
     }
   ]
 }

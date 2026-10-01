@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:48:15.805Z",
+  "generatedAt": "2026-10-01T06:19:52.236Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -26,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 94,
+      "score": 92,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -35,6 +35,34 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a Landsat-derived differenced normalized burn ratio (dNBR). Benchmarking eleven models under an identical chronological split, random forest most accurately forecast vegetation-index residuals (test-set R² = 0.842, RMSE = 0.0230). SHAP analysis yielded three principal insights. First, recovery was governed by short-term accumulated rather than instantaneous meteorological conditions: the three-period rolling mean of atmospheric pressure was the strongest predictor (41.6% of total SHAP importance), while dNBR ranked first among standalone factors and second overall as a fire-legacy control. Second, recovery followed strongly nonlinear dynamics centred on the first post-fire year, as burn severity's suppressive effect peaked in early-to-middle recovery and decayed by the second growing season, after which lagged hydrothermal drivers rebounded. Third, synergistic enhancement was pronounced: soil–moisture interactions with evapotranspiration and recovery duration reached 4.5- and 3.9-fold the standalone moisture effect, confirming water regulates resilience through cumulative coupling. This integrated, mechanism-driven approach informs post-disaster ecosystem management in fire-prone alpine regions."
+    },
+    {
+      "id": "W7214627060",
+      "title": "Impacts of South Asian aerosol inflow over Mount Qomolangma on downstream cloud–precipitation processes through a long-range ice-crystal “seeding” effect",
+      "authors": [
+        "Xiangde Xu",
+        "Wenyue Cai",
+        "Tianliang Zhao",
+        "Changjun Yang",
+        "Kai Meng",
+        "Chong Wu",
+        "Na Dong",
+        "Yue Li"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-09-29",
+      "doi": "https://doi.org/10.5194/acp-26-13581-2026",
+      "openAlexUrl": "https://openalex.org/W7214627060",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 76,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Mount Qomolangma (MQ) serves as a natural laboratory for investigating aerosol–cloud–precipitation interactions over the Tibetan Plateau (TP). Using satellite and comprehensive ground-based observations, we identify pronounced ice-cloud activation associated with transported exogenous aerosols. Under different large-scale atmospheric circulation regimes, ice-phase cloud activated over MQ can be efficiently transported downstream through distinct pathways, exerting a pronounced ice crystal seeding effect on cloud–precipitation conversion. The spatial patterns of these downstream pathways are highly consistent with regions of enhanced ice-phase occurrence, precipitation, and upper-tropospheric latent heat release. This study provides new insight into the downstream impacts of aerosol transport through ice seeding for cloud precipitation. The findings highlight the important role of aerosol-induced ice-phase processes in modulating cloud and precipitation systems over the “Third Pole” and its downstream regions, with significant implications for understanding downstream extreme precipitation and environment change under South Asian increasing anthropogenic influences."
     },
     {
       "id": "W7214437372",
@@ -52,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7214437372",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -77,7 +105,7 @@
       "openAlexUrl": "https://openalex.org/W7214461980",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "shap",
         "thermal forcing"
@@ -103,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7214453206",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "artificial intelligence"
@@ -126,7 +154,7 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -149,7 +177,7 @@
       "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "causal"
       ],

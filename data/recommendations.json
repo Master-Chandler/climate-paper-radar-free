@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T06:19:52.236Z",
+  "generatedAt": "2026-10-02T05:59:21.186Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -26,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 92,
+      "score": 91,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -80,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7214437372",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -105,7 +105,7 @@
       "openAlexUrl": "https://openalex.org/W7214461980",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "shap",
         "thermal forcing"
@@ -131,13 +131,37 @@
       "openAlexUrl": "https://openalex.org/W7214453206",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、artificial intelligence、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "With the arrival of the 4th Agricultural Revolution (Agriculture 4.0) and the influsion of animal production systems with sensors, automation, and advanced analytics, new opportunities have arisen to improve sustainability, efficiency, and the precision with which we feed animals. It is possible that the barriers of the past such as lack of automation, efficient means of data capture, and appropriate analytical tools with which to drive decision support and system optimization will be mitigated in our lifetime. Increasingly, we will see the blending of mechanistic understanding with technological advancement to guide decision-making. The emerging frontier of hybrid models representing frameworks that integrate mechanistic understanding with the pattern recognition of machine learning, offers considerable promise for application in animal systems. As illustrative case studies, research conducted in other fields where modelling approaches have been successfully integrated will be explored (for example, bioprocess engineering, weather, human health), as well as recent research in agriculture. Several architectures for hybrid modelling may be considered for application in animal biosciences: (1) Serial hybridization, where a machine learning (ML) model provides inputs into a white box model (could be mechanistic or empirical), or vice versa, (2) Parallel hybridization, where models act in parallel and ML and white box model outputs are aggregated or weighted to enhance model performance, (3) Physical constraint hybridization, where domain knowledge (such as conservation laws) typically embedded in mechanistic models are integrated into the structure, parameters or outputs of a ML model, and (4) mechanistic learning, where ML model(s) are embedded within a mechanistic model to predict specific pools or fluxes. Key challenges including data quality and integration, model interpretability, and computational efficiency are discussed alongside practical strategies to overcome them. This review examines how hybrid models can bridge the gap between data-driven insights and biological causality to support real-time decision-making in feed formulation, emissions management, and health monitoring. By positioning hybrid modelling as a cornerstone of precision livestock farming, Agriculture 4.0, and beyond, this review outlines a vision for next-generation tools that are scientifically grounded, causally robust, and prepared to support digital decision-making."
+    },
+    {
+      "id": "W7214738039",
+      "title": "Large-scale population genomics reveals genetic diversity and evolutionary history of Saxifraga stolonifera",
+      "authors": [
+        "Shimei Tang",
+        "Jialin Luo",
+        "Xing Zhang",
+        "Zhilin Chen",
+        "Daike Tian"
+      ],
+      "journal": "Scientia Horticulturae",
+      "publicationDate": "2026-09-29",
+      "doi": "https://doi.org/10.1016/j.scienta.2026.115178",
+      "openAlexUrl": "https://openalex.org/W7214738039",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 63,
+      "matchedKeywords": [
+        "eastern china",
+        "monsoon"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、monsoon，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Saxifraga stolonifera is widely distributed across the subtropical monsoon regions of China and has been extensively utilized for its medicinal and horticultural importance. A comprehensive assessment of its genetic variation can clarify both the extent and spatial patterns of diversity within available germplasm, thus supporting the identification of representative and diverse materials for future utilization. Here, we analyzed genetic diversity and population structure in S. stolonifera by examining 49 populations sampled throughout China, based on single nucleotide polymorphism (SNP) markers. Phylogenetic inference combined with population structure analysis indicated relatively low levels of genetic diversity but pronounced genetic differentiation, allowing the samples to be classified into five distinct genetic groups (π = 0.00,394–0.00,959; F ST = 0.221–0.513). Estimates from molecular dating together with ancestral range reconstruction suggest that Chinese populations of S. stolonifera likely originated in eastern China during the late Miocene, followed by a westward expansion and diversification. In addition, we detected pronounced patterns of both geographic and environmental isolation in S. stolonifera , as well as limited interspecific gene flow with species in S. sect. Irregulares , and only limited gene exchange was observed among populations of S. stolonifera . These findings enhance our understanding of the diversity patterns of S. stolonifera and offer important perspectives on its evolutionary trajectory and clarify how geographic isolation and gene flow have contributed to the formation of its present genetic structure."
     },
     {
       "id": "W7214149109",
@@ -154,13 +178,36 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、heatwave，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Compound heatwave – extreme precipitation (CHWEP) events pose escalating risks in monsoon-influenced mid-latitude region across the globe, yet, long-term and seasonally-resolved observational evidence remains limited. Here, we quantify the seasonal and long-term changes, and recent shifts of CHWEP events across South Korea using daily ground observations over four decades (1986–2025). We find that the recent escalation of CHWEP risk is primarily frequency-driven, with a pronounced nationwide emergence starting summer continuing during autumn, while its severity remains comparatively stationary. In detail, the statistically significant increases of CHWEP total days in summer and autumn indicate a seasonal expansion of CHWEP events beyond the traditional summer period in the study region. The CHWEP severity remains comparatively consistent but still exhibiting marginal increase. We also find that the spatial distribution of the CHWEP hotspots differ by characteristics—high frequency concentrates along the western coastal corridor, whereas the highest severities occur in the southeastern inland. This result highlights the contrast between distinct “chronic exposure” versus “acute impact” regimes within the study region. Overall, our findings using the ground observation data well present that the recent CHWEP events have surpassed the historical envelope of variability, therefore underscoring the urgent need for compound-aware risk frameworks in the mid-latitude monsoon regions as global climate change accelerates."
+    },
+    {
+      "id": "W7214562314",
+      "title": "Topographic heterogeneity regulates nonlinear vegetation responses to climate and human activities in China’s ecological transition zone",
+      "authors": [
+        "Xinwen Su",
+        "Di Wen",
+        "Jun Li",
+        "Peng Dailiang"
+      ],
+      "journal": "Frontiers in Forests and Global Change",
+      "publicationDate": "2026-09-28",
+      "doi": "https://doi.org/10.3389/ffgc.2026.1948232",
+      "openAlexUrl": "https://openalex.org/W7214562314",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Ecological transition zones, identified as climate-sensitive areas and biodiversity hotspots, are essential for maintaining regional ecological balance through their vegetation dynamics. However, the impact of topographic heterogeneity on the nonlinear responses of vegetation to climate change and human activities is not well understood. This gap limits our comprehension of ecosystem resilience. This study focuses on the ecological transition zone of the Qinling–Daba Mountains in China. We utilized 30-m resolution Landsat NDVI data from 2000 to 2022, along with climate, human activity, and topographic data. To characterize vegetation dynamics, we employed Theil–Sen trend analysis, the Mann–Kendall test, and the Hurst index. A Bayesian-optimized XGBoost model, combined with SHAP values, was employed to evaluate the relative contributions and response patterns of potential drivers across various vegetation trend zones and topographic gradients. The analysis revealed a significant greening trend, with the normalized difference vegetation index (NDVI) increasing at a rate of 0.0051 yr. −1 ( p < 0.05). Approximately 90.13% of the region displayed an improving trend, while 89.83% indicated a propensity for continued enhancement. The most pronounced vegetation improvements were observed primarily at moderate elevations (1,750–2,250 m), on moderate slopes (15–20°), and on north-facing slopes. Land use and land cover (LULC) (42.5%), elevation (13.2%), population density (8.2%), and precipitation (7.0%) emerged as the most significant contributors to NDVI predictions across the study area. LULC consistently served as the most influential predictor in both regions experiencing significant increases and those facing declines. In contrast, the relative importance and nonlinear response patterns of other factors varied across different trend zones. These findings provide a scientific foundation for targeted ecological restoration and adaptive vegetation management in ecological transition zones."
     },
     {
       "id": "W7214649035",
@@ -177,7 +224,7 @@
       "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "causal"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:34:04.809Z",
+  "generatedAt": "2026-10-04T06:10:10.674Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -26,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -63,6 +63,29 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Mount Qomolangma (MQ) serves as a natural laboratory for investigating aerosol–cloud–precipitation interactions over the Tibetan Plateau (TP). Using satellite and comprehensive ground-based observations, we identify pronounced ice-cloud activation associated with transported exogenous aerosols. Under different large-scale atmospheric circulation regimes, ice-phase cloud activated over MQ can be efficiently transported downstream through distinct pathways, exerting a pronounced ice crystal seeding effect on cloud–precipitation conversion. The spatial patterns of these downstream pathways are highly consistent with regions of enhanced ice-phase occurrence, precipitation, and upper-tropospheric latent heat release. This study provides new insight into the downstream impacts of aerosol transport through ice seeding for cloud precipitation. The findings highlight the important role of aerosol-induced ice-phase processes in modulating cloud and precipitation systems over the “Third Pole” and its downstream regions, with significant implications for understanding downstream extreme precipitation and environment change under South Asian increasing anthropogenic influences."
+    },
+    {
+      "id": "W7214907632",
+      "title": "Interpretable machine learning reveals predictability and spatially heterogeneous factors associated with the RSEI in China",
+      "authors": [
+        "Guoqing Chen",
+        "Chao JIAN",
+        "Yanhui Zhang",
+        "Zheng Xu"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-09-30",
+      "doi": "https://doi.org/10.1038/s41598-026-72438-6",
+      "openAlexUrl": "https://openalex.org/W7214907632",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 65,
+      "matchedKeywords": [
+        "machine learning",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Large-scale eco-environmental assessment requires not only long-term monitoring but also an understanding of short-term predictability and spatially heterogeneous environmental associations. Here, we evaluated the Remote Sensing Ecological Index (RSEI) across China from 2002 to 2024 and integrated spatiotemporal trend analysis, one-year-ahead prediction, and interpretable machine learning. The national area-weighted mean RSEI increased from 0.6385 in 2002 to 0.6614 in 2024, although the magnitude and timing of change varied markedly among climatic zones. Under a spatially and temporally held-out test design, XGBoost achieved the best predictive performance, with a weighted of 0.9712 and an RMSE of 0.0262, reducing RMSE by 13.67% relative to a persistence baseline. Variance decomposition showed that 97.39% of total RSEI variability was attributable to between-pixel spatial differences, whereas only 2.61% reflected within-pixel interannual variation. Interpretable modelling further revealed contrasting association structures: elevation, warm-season temperature and land cover were most important for spatial-level differences, whereas warm-season precipitation, land cover and potential evapotranspiration dominated interannual variability. These relationships also differed substantially among climatic zones. Our results show that RSEI dynamics are highly predictable at a one-year horizon, but the factors associated with persistent spatial patterns differ from those linked to year-to-year ecological fluctuations, highlighting the need to distinguish spatial baseline conditions from interannual environmental variability in large-scale ecological assessment."
     },
     {
       "id": "W7214437372",
@@ -80,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7214437372",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -105,7 +128,7 @@
       "openAlexUrl": "https://openalex.org/W7214461980",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "shap",
         "thermal forcing"
@@ -131,7 +154,7 @@
       "openAlexUrl": "https://openalex.org/W7214453206",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "artificial intelligence"
@@ -155,7 +178,7 @@
       "openAlexUrl": "https://openalex.org/W7214738039",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "eastern china",
         "monsoon"
@@ -178,7 +201,7 @@
       "openAlexUrl": "https://openalex.org/W7214149109",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "monsoon",
         "precipitation"
@@ -201,13 +224,39 @@
       "openAlexUrl": "https://openalex.org/W7214562314",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Ecological transition zones, identified as climate-sensitive areas and biodiversity hotspots, are essential for maintaining regional ecological balance through their vegetation dynamics. However, the impact of topographic heterogeneity on the nonlinear responses of vegetation to climate change and human activities is not well understood. This gap limits our comprehension of ecosystem resilience. This study focuses on the ecological transition zone of the Qinling–Daba Mountains in China. We utilized 30-m resolution Landsat NDVI data from 2000 to 2022, along with climate, human activity, and topographic data. To characterize vegetation dynamics, we employed Theil–Sen trend analysis, the Mann–Kendall test, and the Hurst index. A Bayesian-optimized XGBoost model, combined with SHAP values, was employed to evaluate the relative contributions and response patterns of potential drivers across various vegetation trend zones and topographic gradients. The analysis revealed a significant greening trend, with the normalized difference vegetation index (NDVI) increasing at a rate of 0.0051 yr. −1 ( p < 0.05). Approximately 90.13% of the region displayed an improving trend, while 89.83% indicated a propensity for continued enhancement. The most pronounced vegetation improvements were observed primarily at moderate elevations (1,750–2,250 m), on moderate slopes (15–20°), and on north-facing slopes. Land use and land cover (LULC) (42.5%), elevation (13.2%), population density (8.2%), and precipitation (7.0%) emerged as the most significant contributors to NDVI predictions across the study area. LULC consistently served as the most influential predictor in both regions experiencing significant increases and those facing declines. In contrast, the relative importance and nonlinear response patterns of other factors varied across different trend zones. These findings provide a scientific foundation for targeted ecological restoration and adaptive vegetation management in ecological transition zones."
+    },
+    {
+      "id": "W7214287339",
+      "title": "Altitudinal gradient patterns and community assembly mechanisms of birds in the eastern Kunlun Mountains, Qinghai-Tibet Plateau, China",
+      "authors": [
+        "Chunpo Tian",
+        "Shuaibin Shang",
+        "Mengyao Li",
+        "Haowen Tang",
+        "Yilamujiang Tuohetahong",
+        "Ruiyan Guo",
+        "Xiaoping Yu"
+      ],
+      "journal": "Avian Research",
+      "publicationDate": "2026-09-25",
+      "doi": "https://doi.org/10.1016/j.avrs.2026.100437",
+      "openAlexUrl": "https://openalex.org/W7214287339",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 56,
+      "matchedKeywords": [
+        "precipitation",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Avian altitudinal distribution on the Qinghai-Tibet Plateau is shaped by contemporary environmental heterogeneity, history lineage diversification, and high-altitude adaptation. Understanding this pattern is crucial for explaining biodiversity maintenance in the “Third Pole”. However, in extreme arid boundaries with minimal human impact, how the interplay of historical evolutionary constraints and contemporary ecological filters shapes avian communities remains largely unquantified. This study focused on the avian community of the eastern Kunlun Mountains, a high-altitude, cold-arid region on the Plateau’s northern margin. Using field surveys from 2022–2023, supplemented with multi-year data, we integrated taxonomic, phylogenetic, and functional diversity to examine how evolutionary ‘physiological constraints’ and contemporary ‘resource conditions’ jointly shape avian elevational distribution. We recorded 107 bird species across 14 orders and 33 families. Species richness exhibited an asymmetric unimodal pattern along the 2,800–5,200 m gradient, peaking at 3,800 m with a secondary shoulder at 4,500 m, both shaped by precipitation- driven resources. The Enhanced Vegetation Index (EVI) explained over 70% of the variation in large-ranged species diversity, confirming resource availability as the primary constraint on species richness in this arid system. Community structure showed distinct elevational divergence: below 4,400 m, stochastic, resource-driven assembly prevailed; above 4,400 m, constraints from low temperature and high humidity led to functional clustering and phylogenetic convergence, strongly supporting the physiological tolerance hypothesis. Furthermore, a notable masking effect was identified: large-ranged species were predominantly governed by contemporary environmental filtering, whereas small-ranged species were shaped by historical evolutionary contingencies. In summary, the bird diversity pattern in the eastern Kunlun Mountains reflects a trade-off by species between resource benefits and physiological limits. The high sensitivity of high-elevation communities to temperature and precipitation highlights their vulnerability to climate change."
     },
     {
       "id": "W7214649035",
@@ -224,12 +273,34 @@
       "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "causal"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Wheat ( Triticum aestivum L.) productivity is increasingly threatened by the co-occurrence of drought and salinity in water-limited and salt-affected agroecosystems. Their combination creates a distinct stress environment in which restricted water uptake interacts with ion toxicity, nutrient imbalance, oxidative injury, and developmental disruption, often producing responses and genotype rankings that cannot be predicted from either stress alone. This review examines how multi-omics and systems-level approaches can elucidate the biological basis of wheat adaptation to simultaneous osmotic and ionic constraints and translate this knowledge into crop improvement. Evidence across genomic, regulatory, biochemical, physiological, and phenotypic scales indicates that tolerance is not governed by a single pathway but by the coordinated maintenance of root hydraulic function, plant water status, ion and nutrient homeostasis, osmotic and redox balance, membrane integrity, carbon assimilation, and reproductive performance. Pan-genomic resources, network biology, cell-resolved profiling, high-throughput phenotyping, and environment-aware prediction are beginning to link molecular variation to whole-plant performance and distinguish causal or breeding-ready targets from discovery-stage associations. However, direct integrated studies under simultaneous drought and salinity remain scarce, and much of the current understanding is still inferred from individual-stress experiments or controlled seedling assays. Progress will therefore require common populations evaluated across controlled and field-relevant combined-stress environments, standardized environmental metadata, functional validation, and integration with genomic prediction, genome editing, accelerated breeding, and multi-environment testing. Treating combined drought and salinity as a distinct breeding target will be essential for developing wheat cultivars that sustain physiological function and yield under concurrent water and ionic limitations."
+    },
+    {
+      "id": "W7214205400",
+      "title": "LSTM and transformer networks for solar irradiance forecasting in arid and semi-arid climates",
+      "authors": [
+        "Sumit Verma",
+        "Shiv Lal",
+        "Ibrahim Alsaduni",
+        "Mohd Parvez"
+      ],
+      "journal": "Next Energy",
+      "publicationDate": "2026-09-24",
+      "doi": "https://doi.org/10.1016/j.nxener.2026.101040",
+      "openAlexUrl": "https://openalex.org/W7214205400",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 51,
+      "matchedKeywords": [
+        "deep learning"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "In arid and semi-arid climates, global horizontal irradiance forecasting has been quit challenging. It is especially difficult due to heavy dust-aerosol loading, episodic dust storms, and steep diurnal irradiance ramps. However, the absence of a control comparison between recurrent and attention-based deep learning architectures under these conditions has been a notable weakness of the study. This study presents a comparative evaluation of Long Short-Term Memory and Transformer-based self-attention architectures for six-hour-ahead GHI forecasting. These results are benchmarked against Multilayer Perceptron baselines, Persistence, and Support Vector Regression. This study constructed a synthetic dataset of 26,280 hourly observations over three years. The site represents an arid climate in Rajasthan, India, at 27°N. It incorporates dust-aerosol attenuation, eighteen episodic dust-storm events and also includes intermittent cloud cover on 8% of days, along with temperature-dependent efficiency losses. On the held-out test set, SVR achieved the best overall accuracy (RMSE = 99.70 W/m², R² = 0.8733), while the Transformer achieved the lowest mean absolute error (86.95 W/m²) and competitive accuracy (RMSE = 129.33 W/m², R² = 0.7868). Summer dust-storm conditions increased RMSE by 35–45% relative to winter across all models. Multi-head attention-weight visualization revealed three physically interpretable patterns short-term recency, diurnal periodicity, and dust-storm pre-event sensitivity offering new empirical and climate-specific insight to guide AI-based solar-forecasting technology development for arid and semi-arid regions."
     }
   ]
 }

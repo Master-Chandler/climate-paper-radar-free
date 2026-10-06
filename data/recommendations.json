@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:01:29.683Z",
+  "generatedAt": "2026-10-06T06:40:17.914Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -26,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7214429590",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -35,6 +35,30 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a Landsat-derived differenced normalized burn ratio (dNBR). Benchmarking eleven models under an identical chronological split, random forest most accurately forecast vegetation-index residuals (test-set R² = 0.842, RMSE = 0.0230). SHAP analysis yielded three principal insights. First, recovery was governed by short-term accumulated rather than instantaneous meteorological conditions: the three-period rolling mean of atmospheric pressure was the strongest predictor (41.6% of total SHAP importance), while dNBR ranked first among standalone factors and second overall as a fire-legacy control. Second, recovery followed strongly nonlinear dynamics centred on the first post-fire year, as burn severity's suppressive effect peaked in early-to-middle recovery and decayed by the second growing season, after which lagged hydrothermal drivers rebounded. Third, synergistic enhancement was pronounced: soil–moisture interactions with evapotranspiration and recovery duration reached 4.5- and 3.9-fold the standalone moisture effect, confirming water regulates resilience through cumulative coupling. This integrated, mechanism-driven approach informs post-disaster ecosystem management in fire-prone alpine regions."
+    },
+    {
+      "id": "W7216395345",
+      "title": "Lake sediments uncover glacier change on the Kerguelen Islands during the past 1500 years",
+      "authors": [
+        "Jarle Børve Sleire",
+        "Jostein Bakke",
+        "Fabien Arnaud",
+        "Willem G. M. van der Bilt"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "publicationDate": "2026-10-02",
+      "doi": "https://doi.org/10.3389/feart.2026.1877993",
+      "openAlexUrl": "https://openalex.org/W7216395345",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 76,
+      "matchedKeywords": [
+        "antarctic",
+        "southern annular mode",
+        "southern ocean"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change is driving the rapid retreat of glaciers across the sub-Antarctic zone. Using continuous lake sediment-based records of past glacier changes, the recent trends can be evaluated in a long-term context. Here, we analyse sediments from two glacier-fed lakes: Lake Athéna II and Lake Héra, located downstream the Chamonix Glacier on the sub-Antarctic Kerguelen Islands in the Indian Southern Ocean. Lake Héra is a threshold lake for the adjacent outlet glacier: the Agassiz Glacier, but has been solely receiving meltwater runoff from the Chamonix Glacier since the Agassiz Glacier retreated from its maximum extent. Based on distinct changes in grain-size and sediment density, we argue this transition occurred around 495 CE. After this, the glaciogenic sediments in both lakes are solely derived from the Chamonix Glacier. By tracking multi-decadal to centennial changes in incoming clastic sediments, we suggest the Chamonix Glacier retreated close to its current extent between 600 and 750 CE, primarily advanced between 750 and 1600 CE, before gradually retreating towards present-day. The glacier trends documented here are in line with mean annual air temperature and sea surface temperature records that indicate colder late Holocene temperatures, reflecting a negative Southern Annular Mode-like state in the Indian Southern Ocean. Conversely, phases of more positive Southern Annular Mode-like conditions, including gradually more positive anomalies after ∼1600 CE and until present-day, are in line with a decrease in activity at the Chamonix Glacier."
     },
     {
       "id": "W7214627060",
@@ -55,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -82,13 +106,36 @@
       "openAlexUrl": "https://openalex.org/W7214985296",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "shap",
         "antarctic"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Antarctic ice mass loss has intensified in recent decades. However, short-term glacier velocity variability in Victoria Land, East Antarctica, remains poorly documented. This study used Sentinel-1 SLC data and environmental records from 2017 to 2025 to quantify glacier-velocity variability in Victoria Land and examine its model-based statistical associations with selected atmospheric and oceanic variables using XGBoost–SHAP. The results show positive multi-year acceleration trends over the 2017–2025 observational period, superimposed on pronounced seasonal variability. The six selected glacier systems showed positive acceleration rates: Barnett Glacier (2.06 ± 0.92% a−1), Borchgrevink Glacier (2.39 ± 0.66% a−1), David Glacier–Drygalski Ice Tongue system (1.68 ± 0.23% a−1), Larsen Glacier (3.78 ± 0.69% a−1), McMahon Glacier (2.91 ± 0.73% a−1), and Oakley Glacier (2.54 ± 0.33% a−1). Spatially resolved velocity maps, centerline profiles, and terminus-region records revealed substantial differences in flow magnitude and variability among glaciers. Among the five environmental predictors examined, upper-ocean temperature had the largest overall model contribution, followed by near-surface air temperature, surface skin temperature, upper-ocean current speed, and runoff. This study provides a Sentinel-1-based record of recent glacier-velocity variability in Victoria Land and illustrates the utility of repeated, high-temporal-resolution SAR observations for characterizing glacier-flow variability in East Antarctica."
+    },
+    {
+      "id": "W7214907632",
+      "title": "Interpretable machine learning reveals predictability and spatially heterogeneous factors associated with the RSEI in China",
+      "authors": [
+        "Guoqing Chen",
+        "Chao JIAN",
+        "Yanhui Zhang",
+        "Zheng Xu"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-09-30",
+      "doi": "https://doi.org/10.1038/s41598-026-72438-6",
+      "openAlexUrl": "https://openalex.org/W7214907632",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 62,
+      "matchedKeywords": [
+        "machine learning",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Large-scale eco-environmental assessment requires not only long-term monitoring but also an understanding of short-term predictability and spatially heterogeneous environmental associations. Here, we evaluated the Remote Sensing Ecological Index (RSEI) across China from 2002 to 2024 and integrated spatiotemporal trend analysis, one-year-ahead prediction, and interpretable machine learning. The national area-weighted mean RSEI increased from 0.6385 in 2002 to 0.6614 in 2024, although the magnitude and timing of change varied markedly among climatic zones. Under a spatially and temporally held-out test design, XGBoost achieved the best predictive performance, with a weighted of 0.9712 and an RMSE of 0.0262, reducing RMSE by 13.67% relative to a persistence baseline. Variance decomposition showed that 97.39% of total RSEI variability was attributable to between-pixel spatial differences, whereas only 2.61% reflected within-pixel interannual variation. Interpretable modelling further revealed contrasting association structures: elevation, warm-season temperature and land cover were most important for spatial-level differences, whereas warm-season precipitation, land cover and potential evapotranspiration dominated interannual variability. These relationships also differed substantially among climatic zones. Our results show that RSEI dynamics are highly predictable at a one-year horizon, but the factors associated with persistent spatial patterns differ from those linked to year-to-year ecological fluctuations, highlighting the need to distinguish spatial baseline conditions from interannual environmental variability in large-scale ecological assessment."
     },
     {
       "id": "W7214437372",
@@ -106,36 +153,13 @@
       "openAlexUrl": "https://openalex.org/W7214437372",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "machine learning",
         "explainable"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、atmospher、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Plants can access water stored in aquifers to sustain their activity, releasing moisture into the atmosphere—a critical survival mechanism during drought. Understanding the role of groundwater in regulating photosynthesis is thus key for modelling land-atmosphere interactions. However, the contribution of groundwater to spatial variation in mean annual photosynthesis remains poorly quantified, particularly relative to well-known factors like climatic aridity. Here, we use satellite observations of solar-induced fluorescence together with model estimates of water table depth and aridity to investigate the relative role of groundwater and aridity in determining the spatial pattern of photosynthesis in the contiguous United States. Using causality-guided explainable machine learning, we show that the relative importance of groundwater accounts for 48 to 101% of the effect attributed to aridity in modulating forest photosynthesis across the contiguous United States. The relative importance of groundwater compared to aridity remains substantial in savannahs and shrublands (30-58%), grasslands (22-42%), and croplands (15-32%). Our findings reflect the role of water tables in regulating the water available in the rooting zone, with an effect comparable in magnitude to climatic aridity."
-    },
-    {
-      "id": "W7214907632",
-      "title": "Interpretable machine learning reveals predictability and spatially heterogeneous factors associated with the RSEI in China",
-      "authors": [
-        "Guoqing Chen",
-        "Chao JIAN",
-        "Yanhui Zhang",
-        "Zheng Xu"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-09-30",
-      "doi": "https://doi.org/10.1038/s41598-026-72438-6",
-      "openAlexUrl": "https://openalex.org/W7214907632",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 63,
-      "matchedKeywords": [
-        "machine learning",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Large-scale eco-environmental assessment requires not only long-term monitoring but also an understanding of short-term predictability and spatially heterogeneous environmental associations. Here, we evaluated the Remote Sensing Ecological Index (RSEI) across China from 2002 to 2024 and integrated spatiotemporal trend analysis, one-year-ahead prediction, and interpretable machine learning. The national area-weighted mean RSEI increased from 0.6385 in 2002 to 0.6614 in 2024, although the magnitude and timing of change varied markedly among climatic zones. Under a spatially and temporally held-out test design, XGBoost achieved the best predictive performance, with a weighted of 0.9712 and an RMSE of 0.0262, reducing RMSE by 13.67% relative to a persistence baseline. Variance decomposition showed that 97.39% of total RSEI variability was attributable to between-pixel spatial differences, whereas only 2.61% reflected within-pixel interannual variation. Interpretable modelling further revealed contrasting association structures: elevation, warm-season temperature and land cover were most important for spatial-level differences, whereas warm-season precipitation, land cover and potential evapotranspiration dominated interannual variability. These relationships also differed substantially among climatic zones. Our results show that RSEI dynamics are highly predictable at a one-year horizon, but the factors associated with persistent spatial patterns differ from those linked to year-to-year ecological fluctuations, highlighting the need to distinguish spatial baseline conditions from interannual environmental variability in large-scale ecological assessment."
     },
     {
       "id": "W7214461980",
@@ -154,7 +178,7 @@
       "openAlexUrl": "https://openalex.org/W7214461980",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "thermal forcing"
@@ -180,7 +204,7 @@
       "openAlexUrl": "https://openalex.org/W7214453206",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "machine learning",
         "artificial intelligence"
@@ -204,7 +228,7 @@
       "openAlexUrl": "https://openalex.org/W7214738039",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "eastern china",
         "monsoon"
@@ -230,7 +254,7 @@
       "openAlexUrl": "https://openalex.org/W7214774788",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -252,39 +276,13 @@
       "openAlexUrl": "https://openalex.org/W7214562314",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Ecological transition zones, identified as climate-sensitive areas and biodiversity hotspots, are essential for maintaining regional ecological balance through their vegetation dynamics. However, the impact of topographic heterogeneity on the nonlinear responses of vegetation to climate change and human activities is not well understood. This gap limits our comprehension of ecosystem resilience. This study focuses on the ecological transition zone of the Qinling–Daba Mountains in China. We utilized 30-m resolution Landsat NDVI data from 2000 to 2022, along with climate, human activity, and topographic data. To characterize vegetation dynamics, we employed Theil–Sen trend analysis, the Mann–Kendall test, and the Hurst index. A Bayesian-optimized XGBoost model, combined with SHAP values, was employed to evaluate the relative contributions and response patterns of potential drivers across various vegetation trend zones and topographic gradients. The analysis revealed a significant greening trend, with the normalized difference vegetation index (NDVI) increasing at a rate of 0.0051 yr. −1 ( p < 0.05). Approximately 90.13% of the region displayed an improving trend, while 89.83% indicated a propensity for continued enhancement. The most pronounced vegetation improvements were observed primarily at moderate elevations (1,750–2,250 m), on moderate slopes (15–20°), and on north-facing slopes. Land use and land cover (LULC) (42.5%), elevation (13.2%), population density (8.2%), and precipitation (7.0%) emerged as the most significant contributors to NDVI predictions across the study area. LULC consistently served as the most influential predictor in both regions experiencing significant increases and those facing declines. In contrast, the relative importance and nonlinear response patterns of other factors varied across different trend zones. These findings provide a scientific foundation for targeted ecological restoration and adaptive vegetation management in ecological transition zones."
-    },
-    {
-      "id": "W7214287339",
-      "title": "Altitudinal gradient patterns and community assembly mechanisms of birds in the eastern Kunlun Mountains, Qinghai-Tibet Plateau, China",
-      "authors": [
-        "Chunpo Tian",
-        "Shuaibin Shang",
-        "Mengyao Li",
-        "Haowen Tang",
-        "Yilamujiang Tuohetahong",
-        "Ruiyan Guo",
-        "Xiaoping Yu"
-      ],
-      "journal": "Avian Research",
-      "publicationDate": "2026-09-25",
-      "doi": "https://doi.org/10.1016/j.avrs.2026.100437",
-      "openAlexUrl": "https://openalex.org/W7214287339",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 55,
-      "matchedKeywords": [
-        "precipitation",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Avian altitudinal distribution on the Qinghai-Tibet Plateau is shaped by contemporary environmental heterogeneity, history lineage diversification, and high-altitude adaptation. Understanding this pattern is crucial for explaining biodiversity maintenance in the “Third Pole”. However, in extreme arid boundaries with minimal human impact, how the interplay of historical evolutionary constraints and contemporary ecological filters shapes avian communities remains largely unquantified. This study focused on the avian community of the eastern Kunlun Mountains, a high-altitude, cold-arid region on the Plateau’s northern margin. Using field surveys from 2022–2023, supplemented with multi-year data, we integrated taxonomic, phylogenetic, and functional diversity to examine how evolutionary ‘physiological constraints’ and contemporary ‘resource conditions’ jointly shape avian elevational distribution. We recorded 107 bird species across 14 orders and 33 families. Species richness exhibited an asymmetric unimodal pattern along the 2,800–5,200 m gradient, peaking at 3,800 m with a secondary shoulder at 4,500 m, both shaped by precipitation- driven resources. The Enhanced Vegetation Index (EVI) explained over 70% of the variation in large-ranged species diversity, confirming resource availability as the primary constraint on species richness in this arid system. Community structure showed distinct elevational divergence: below 4,400 m, stochastic, resource-driven assembly prevailed; above 4,400 m, constraints from low temperature and high humidity led to functional clustering and phylogenetic convergence, strongly supporting the physiological tolerance hypothesis. Furthermore, a notable masking effect was identified: large-ranged species were predominantly governed by contemporary environmental filtering, whereas small-ranged species were shaped by historical evolutionary contingencies. In summary, the bird diversity pattern in the eastern Kunlun Mountains reflects a trade-off by species between resource benefits and physiological limits. The high sensitivity of high-elevation communities to temperature and precipitation highlights their vulnerability to climate change."
     },
     {
       "id": "W7214649035",
@@ -301,7 +299,7 @@
       "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "causal"
       ],

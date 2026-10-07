@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:40:17.914Z",
+  "generatedAt": "2026-10-07T06:16:59.668Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,31 +11,6 @@
     ]
   },
   "papers": [
-    {
-      "id": "W7214429590",
-      "title": "Leveraging explainable artificial intelligence and satellite time-series for unravelling nonlinear environmental drivers of post-wildfire vegetation recovery",
-      "authors": [
-        "Xiaoyu Liu",
-        "Wei Liu",
-        "Zhihao He",
-        "Chuan Xiao"
-      ],
-      "journal": "Geomatics Natural Hazards and Risk",
-      "publicationDate": "2026-09-26",
-      "doi": "https://doi.org/10.1080/19475705.2026.2738256",
-      "openAlexUrl": "https://openalex.org/W7214429590",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 85,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Understanding post-wildfire vegetation recovery is critical for ecological restoration under climate change. Using the severe March 2024 Yajiang forest fire in China's alpine ecosystem as a case study, we integrated time-series forecasting with interpretable machine learning, augmenting multi-source predictors with a Landsat-derived differenced normalized burn ratio (dNBR). Benchmarking eleven models under an identical chronological split, random forest most accurately forecast vegetation-index residuals (test-set R² = 0.842, RMSE = 0.0230). SHAP analysis yielded three principal insights. First, recovery was governed by short-term accumulated rather than instantaneous meteorological conditions: the three-period rolling mean of atmospheric pressure was the strongest predictor (41.6% of total SHAP importance), while dNBR ranked first among standalone factors and second overall as a fire-legacy control. Second, recovery followed strongly nonlinear dynamics centred on the first post-fire year, as burn severity's suppressive effect peaked in early-to-middle recovery and decayed by the second growing season, after which lagged hydrothermal drivers rebounded. Third, synergistic enhancement was pronounced: soil–moisture interactions with evapotranspiration and recovery duration reached 4.5- and 3.9-fold the standalone moisture effect, confirming water regulates resilience through cumulative coupling. This integrated, mechanism-driven approach informs post-disaster ecosystem management in fire-prone alpine regions."
-    },
     {
       "id": "W7216395345",
       "title": "Lake sediments uncover glacier change on the Kerguelen Islands during the past 1500 years",
@@ -51,7 +26,7 @@
       "openAlexUrl": "https://openalex.org/W7216395345",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode",
@@ -79,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -106,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7214985296",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "shap",
         "antarctic"
@@ -129,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7214907632",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -138,79 +113,25 @@
       "abstractEn": "Abstract Large-scale eco-environmental assessment requires not only long-term monitoring but also an understanding of short-term predictability and spatially heterogeneous environmental associations. Here, we evaluated the Remote Sensing Ecological Index (RSEI) across China from 2002 to 2024 and integrated spatiotemporal trend analysis, one-year-ahead prediction, and interpretable machine learning. The national area-weighted mean RSEI increased from 0.6385 in 2002 to 0.6614 in 2024, although the magnitude and timing of change varied markedly among climatic zones. Under a spatially and temporally held-out test design, XGBoost achieved the best predictive performance, with a weighted of 0.9712 and an RMSE of 0.0262, reducing RMSE by 13.67% relative to a persistence baseline. Variance decomposition showed that 97.39% of total RSEI variability was attributable to between-pixel spatial differences, whereas only 2.61% reflected within-pixel interannual variation. Interpretable modelling further revealed contrasting association structures: elevation, warm-season temperature and land cover were most important for spatial-level differences, whereas warm-season precipitation, land cover and potential evapotranspiration dominated interannual variability. These relationships also differed substantially among climatic zones. Our results show that RSEI dynamics are highly predictable at a one-year horizon, but the factors associated with persistent spatial patterns differ from those linked to year-to-year ecological fluctuations, highlighting the need to distinguish spatial baseline conditions from interannual environmental variability in large-scale ecological assessment."
     },
     {
-      "id": "W7214437372",
-      "title": "Groundwater regulates the spatial pattern of photosynthesis in the contiguous United States",
+      "id": "W7220420648",
+      "title": "Physically consistent and spatially conformalized machine learning for trustworthy flood susceptibility mapping of the 2024 Feni flash flood",
       "authors": [
-        "Francesco Giardina",
-        "Jiangong Liu",
-        "Sonia Isabelle Seneviratne",
-        "Benjamin David Stocker",
-        "Pierre Gentine"
+        "Rakib Ahammed Diptho",
+        "Pial Ghosh",
+        "Safiul Haque Chowdhury"
       ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-09-26",
-      "doi": "https://doi.org/10.1038/s43247-026-04067-w",
-      "openAlexUrl": "https://openalex.org/W7214437372",
+      "journal": "Discover Geoscience",
+      "publicationDate": "2026-10-05",
+      "doi": "https://doi.org/10.1007/s44288-026-00759-0",
+      "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 59,
       "matchedKeywords": [
-        "machine learning",
-        "explainable"
+        "machine learning"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、atmospher、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Plants can access water stored in aquifers to sustain their activity, releasing moisture into the atmosphere—a critical survival mechanism during drought. Understanding the role of groundwater in regulating photosynthesis is thus key for modelling land-atmosphere interactions. However, the contribution of groundwater to spatial variation in mean annual photosynthesis remains poorly quantified, particularly relative to well-known factors like climatic aridity. Here, we use satellite observations of solar-induced fluorescence together with model estimates of water table depth and aridity to investigate the relative role of groundwater and aridity in determining the spatial pattern of photosynthesis in the contiguous United States. Using causality-guided explainable machine learning, we show that the relative importance of groundwater accounts for 48 to 101% of the effect attributed to aridity in modulating forest photosynthesis across the contiguous United States. The relative importance of groundwater compared to aridity remains substantial in savannahs and shrublands (30-58%), grasslands (22-42%), and croplands (15-32%). Our findings reflect the role of water tables in regulating the water available in the rooting zone, with an effect comparable in magnitude to climatic aridity."
-    },
-    {
-      "id": "W7214461980",
-      "title": "Assessing the environmental risk of lightning-induced forest fires under compound climatic extremes in Northeast China",
-      "authors": [
-        "Liming Lou",
-        "Pengle Cheng",
-        "Mingyu Wang",
-        "Hui Liu",
-        "Xiaodong Liu",
-        "Ying Huang"
-      ],
-      "journal": "Geomatics Natural Hazards and Risk",
-      "publicationDate": "2026-09-26",
-      "doi": "https://doi.org/10.1080/19475705.2026.2738252",
-      "openAlexUrl": "https://openalex.org/W7214461980",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 60,
-      "matchedKeywords": [
-        "shap",
-        "thermal forcing"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、climate、atmospher、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Lightning-induced forest fires pose increasing environmental risks to boreal–temperate forest ecosystems under climate change, yet their impacts remain insufficiently incorporated into environmental risk assessment and planning. This study conducts a spatially explicit assessment of lightning-induced forest fire risk in the Da Hinggan Ling region of Northeast China using a 59-year fire record (1966–2024; n = 1047) integrated with climate reanalysis data. Fire occurrences were aggregated to a 5-km equal-area grid and analyzed within a GIS-based machine-learning framework using ERA5-derived climatic and environmental variables. An XGBoost classifier calibrated to probabilistic scales was applied to map ignition likelihood, while SHAP interpretation and partial-dependence analysis were used to identify dominant drivers and nonlinear response thresholds. Results indicate that lightning-fire risk is governed by compound interactions among thermal forcing, hydrological drying, vegetation stress, and atmospheric instability. Ignition probability peaks under moderate heat and dryness but declines under extreme aridity, revealing a self-limiting dryness regime that constrains further risk escalation. By linking long-term fire records with spatial risk modelling, this study provides a quantitative framework for integrating lightning-induced fires into environmental assessment and climate adaptation planning. The findings support risk-informed decision-making, early-warning strategies, and targeted management interventions for northern forest ecosystems under intensifying climatic extremes."
-    },
-    {
-      "id": "W7214453206",
-      "title": "ASAS-NANP SYMPOSIUM: MATHEMATICAL MODELING IN ANIMAL NUTRITION: Modelling in the Agriculture 4.0 Era and Beyond: Merging Mechanistic Knowledge and Artificial Intelligence with Hybrid Modelling",
-      "authors": [
-        "J.L. Ellis",
-        "Jessica Bode",
-        "Maureen Sahar",
-        "Jihao You",
-        "Dan Tulpan",
-        "Noud Aldenhoven",
-        "Luis O Tedeschi"
-      ],
-      "journal": "Journal of Animal Science",
-      "publicationDate": "2026-09-26",
-      "doi": "https://doi.org/10.1093/jas/skag311",
-      "openAlexUrl": "https://openalex.org/W7214453206",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 58,
-      "matchedKeywords": [
-        "machine learning",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、artificial intelligence、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "With the arrival of the 4th Agricultural Revolution (Agriculture 4.0) and the influsion of animal production systems with sensors, automation, and advanced analytics, new opportunities have arisen to improve sustainability, efficiency, and the precision with which we feed animals. It is possible that the barriers of the past such as lack of automation, efficient means of data capture, and appropriate analytical tools with which to drive decision support and system optimization will be mitigated in our lifetime. Increasingly, we will see the blending of mechanistic understanding with technological advancement to guide decision-making. The emerging frontier of hybrid models representing frameworks that integrate mechanistic understanding with the pattern recognition of machine learning, offers considerable promise for application in animal systems. As illustrative case studies, research conducted in other fields where modelling approaches have been successfully integrated will be explored (for example, bioprocess engineering, weather, human health), as well as recent research in agriculture. Several architectures for hybrid modelling may be considered for application in animal biosciences: (1) Serial hybridization, where a machine learning (ML) model provides inputs into a white box model (could be mechanistic or empirical), or vice versa, (2) Parallel hybridization, where models act in parallel and ML and white box model outputs are aggregated or weighted to enhance model performance, (3) Physical constraint hybridization, where domain knowledge (such as conservation laws) typically embedded in mechanistic models are integrated into the structure, parameters or outputs of a ML model, and (4) mechanistic learning, where ML model(s) are embedded within a mechanistic model to predict specific pools or fluxes. Key challenges including data quality and integration, model interpretability, and computational efficiency are discussed alongside practical strategies to overcome them. This review examines how hybrid models can bridge the gap between data-driven insights and biological causality to support real-time decision-making in feed formulation, emissions management, and health monitoring. By positioning hybrid modelling as a cornerstone of precision livestock farming, Agriculture 4.0, and beyond, this review outlines a vision for next-generation tools that are scientifically grounded, causally robust, and prepared to support digital decision-making."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Data-driven flood susceptibility mapping (FSM) has converged on a common template: a gradient-boosting classifier, a random train/test split, a global feature-attribution chart, and a five-class map. Using the catastrophic August-2024 Feni flash flood (Bangladesh) with 11 Google-Earth-Engine conditioning factors ( $$n=1{,}510$$ inventory samples; 982, 866 mapped pixels at 30m), we examine three limitations it can obscure. First, random splitting inflates the area under the ROC curve (AUC) by about 0.06–0.09 relative to spatially blocked cross-validation. Second, an unconstrained learner can attain high accuracy while encoding hydrologically implausible response functions, monotone in the physically expected direction on only $$54.5\\%$$ of its response surface. Third, its outputs are neither calibrated nor accompanied by valid uncertainty. The proposed framework injects hydrological priors as hard monotonicity constraints, enforcing physically consistent behaviour at no measurable cost in skill (spatial AUC 0.938; Matthews correlation 0.700). Because the inventory is balanced by design, we report a relative, event-conditioned susceptibility score rather than an absolute occurrence probability. Predictions are calibrated with cross-fitted isotonic regression (expected calibration error 0.150–0.016) with spatially stratified (Mondrian) conformal sets exposing a conditional-coverage degradation under extrapolation (worst-region coverage 0.48 at the 0.90 level). A Physical Consistency Score (PCS) audits whether learned relationships obey their hydrological priors. The imposed directions are additionally confirmed against the observed inundation, and sensitivity analyses over the constraint set, spatial-block count and calibrator leave the conclusions unchanged. Validated against the spatially independent (same-event) observed 2024 inundation extent, the map yields a strictly monotone class-frequency response (observed flooding rising from $$1.0$$ to $$45.4\\%$$ ; AUC 0.75). The contribution reframes FSM around physical consistency, calibrated probability and honest spatial uncertainty."
     },
     {
       "id": "W7214738039",
@@ -228,7 +149,7 @@
       "openAlexUrl": "https://openalex.org/W7214738039",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "eastern china",
         "monsoon"
@@ -254,7 +175,7 @@
       "openAlexUrl": "https://openalex.org/W7214774788",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -276,7 +197,7 @@
       "openAlexUrl": "https://openalex.org/W7214562314",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "shap",
         "precipitation"
@@ -299,7 +220,7 @@
       "openAlexUrl": "https://openalex.org/W7214649035",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "causal"
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:16:59.668Z",
+  "generatedAt": "2026-10-08T06:26:46.660Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7220363664",
+      "title": "Explainable Deep Learning Reveals Future Changes in East Asian Extreme Winter Predictability",
+      "authors": [
+        "Seo‐Young Jo",
+        "Jeong-Hwan Kim",
+        "Daehyun Kang",
+        "Jae-Heung Park",
+        "Seung‐Ki Min",
+        "Minju Kim",
+        "Mi‐Kyung Sung"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-10-05",
+      "doi": "https://doi.org/10.1038/s41612-026-01564-9",
+      "openAlexUrl": "https://openalex.org/W7220363664",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 89,
+      "matchedKeywords": [
+        "deep learning",
+        "explainable",
+        "neural network",
+        "tropical pacific"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、neural network、climate、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Deep learning-based approaches have emerged as powerful tools for seasonal prediction, yet their skill remains limited for extreme anomalies, and warming climates may alter predictability sources. Here we present a convolutional neural network (CNN)-based framework to assess how seasonal predictability changes in a future climate, focusing on East Asian extreme winters. Our CNN, trained on CESM2-LENS simulations for historical and SSP3-7.0 scenarios and optimized with Amplitude Focal Loss, reliably captures seasonal mean and extreme temperatures. Overall prediction skill increases in the future climate, with warm winter extremes becoming more predictable while cold extremes show little change. Using Integrated Gradients, an explainable AI method, we show this future asymmetry is linked to enhanced sensitivity of East Asian winter temperatures to tropical Pacific SST under background warming, where warm-phase SST more effectively drives extratropical circulation changes. Our framework provides a useful tool for exploring how seasonal predictability mechanisms evolve under climate change."
+    },
     {
       "id": "W7216395345",
       "title": "Lake sediments uncover glacier change on the Kerguelen Islands during the past 1500 years",
@@ -26,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7216395345",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode",
@@ -34,6 +62,28 @@
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change is driving the rapid retreat of glaciers across the sub-Antarctic zone. Using continuous lake sediment-based records of past glacier changes, the recent trends can be evaluated in a long-term context. Here, we analyse sediments from two glacier-fed lakes: Lake Athéna II and Lake Héra, located downstream the Chamonix Glacier on the sub-Antarctic Kerguelen Islands in the Indian Southern Ocean. Lake Héra is a threshold lake for the adjacent outlet glacier: the Agassiz Glacier, but has been solely receiving meltwater runoff from the Chamonix Glacier since the Agassiz Glacier retreated from its maximum extent. Based on distinct changes in grain-size and sediment density, we argue this transition occurred around 495 CE. After this, the glaciogenic sediments in both lakes are solely derived from the Chamonix Glacier. By tracking multi-decadal to centennial changes in incoming clastic sediments, we suggest the Chamonix Glacier retreated close to its current extent between 600 and 750 CE, primarily advanced between 750 and 1600 CE, before gradually retreating towards present-day. The glacier trends documented here are in line with mean annual air temperature and sea surface temperature records that indicate colder late Holocene temperatures, reflecting a negative Southern Annular Mode-like state in the Indian Southern Ocean. Conversely, phases of more positive Southern Annular Mode-like conditions, including gradually more positive anomalies after ∼1600 CE and until present-day, are in line with a decrease in activity at the Chamonix Glacier."
+    },
+    {
+      "id": "W7220743400",
+      "title": "Improved multi-class drought classification through climate data analysis and advanced imbalanced data handling",
+      "authors": [
+        "Razieh Taraghi Delgarm",
+        "Mehdi Ahmadi",
+        "Seyed Jamshid Mousavi"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-10-06",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.104019",
+      "openAlexUrl": "https://openalex.org/W7220743400",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 72,
+      "matchedKeywords": [
+        "machine learning",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、precipitation、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study region The Urmia Lake Basin, a terminal endorheic system in semi-arid northwestern Iran, faces severe hydrological decline. 51 years of monthly precipitation records (1971–2021) from four upper sub-basin rain gauges are analyzed alongside 11 climate teleconnections. Study focus Detecting rare, extreme drought events in terminal basins is frequently hindered by class imbalance in historical hydroclimatic records, biasing machine learning classifiers toward normal conditions. We benchmark a complete ladder of nine data-augmentation methods, including SMOTE, ADASYN, stand-alone CTGAN and VAEs, and two novel hybrids, to improve multi-class Standardized Precipitation Index nowcasting (3–12-month scales) under an identical, strictly leakage-free chronological evaluation protocol. New hydrological insights Under chronological validation, three-class nowcasting yields a moderate operational baseline of approximately 0.42 macro-F1. This exposes a massive temporal leakage gap from the artificial 0.90 F1-score obtained via conventional shuffled splitting, which fits the strong temporal autocorrelation of cumulative SPI. While simpler adaptive oversamplers maximize macro-F1, the hybrids achieve the highest minority-class recall and G-mean on the rare dry states. This trade-off is mathematically explained by CTGAN learning the non-convex probability manifold, whereas SMOTE is geometrically restricted to the minority class’s convex hull. Longer scales function as low-pass filters, smoothing synoptic noise and isolating persistent planetary signals. This nowcasting tool can be directly translated into regional water governance through an operational Traffic-Light Policy Roadmap at Bukan Dam."
     },
     {
       "id": "W7214627060",
@@ -54,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -81,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7214985296",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "shap",
         "antarctic"
@@ -104,7 +154,7 @@
       "openAlexUrl": "https://openalex.org/W7214907632",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -126,7 +176,7 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -149,7 +199,7 @@
       "openAlexUrl": "https://openalex.org/W7214738039",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "eastern china",
         "monsoon"
@@ -175,7 +225,7 @@
       "openAlexUrl": "https://openalex.org/W7214774788",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -197,35 +247,13 @@
       "openAlexUrl": "https://openalex.org/W7214562314",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 51,
       "matchedKeywords": [
         "shap",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Ecological transition zones, identified as climate-sensitive areas and biodiversity hotspots, are essential for maintaining regional ecological balance through their vegetation dynamics. However, the impact of topographic heterogeneity on the nonlinear responses of vegetation to climate change and human activities is not well understood. This gap limits our comprehension of ecosystem resilience. This study focuses on the ecological transition zone of the Qinling–Daba Mountains in China. We utilized 30-m resolution Landsat NDVI data from 2000 to 2022, along with climate, human activity, and topographic data. To characterize vegetation dynamics, we employed Theil–Sen trend analysis, the Mann–Kendall test, and the Hurst index. A Bayesian-optimized XGBoost model, combined with SHAP values, was employed to evaluate the relative contributions and response patterns of potential drivers across various vegetation trend zones and topographic gradients. The analysis revealed a significant greening trend, with the normalized difference vegetation index (NDVI) increasing at a rate of 0.0051 yr. −1 ( p < 0.05). Approximately 90.13% of the region displayed an improving trend, while 89.83% indicated a propensity for continued enhancement. The most pronounced vegetation improvements were observed primarily at moderate elevations (1,750–2,250 m), on moderate slopes (15–20°), and on north-facing slopes. Land use and land cover (LULC) (42.5%), elevation (13.2%), population density (8.2%), and precipitation (7.0%) emerged as the most significant contributors to NDVI predictions across the study area. LULC consistently served as the most influential predictor in both regions experiencing significant increases and those facing declines. In contrast, the relative importance and nonlinear response patterns of other factors varied across different trend zones. These findings provide a scientific foundation for targeted ecological restoration and adaptive vegetation management in ecological transition zones."
-    },
-    {
-      "id": "W7214649035",
-      "title": "Integrative multi-omics for decoding and breeding wheat resilience to combined drought and salinity stress",
-      "authors": [
-        "Dinesh Kumar Saini",
-        "Rajeev Nayan Bahuguna",
-        "Impa M. Somayanda",
-        "S. V. Krishna Jagadish"
-      ],
-      "journal": "Plant Physiology Reports",
-      "publicationDate": "2026-09-28",
-      "doi": "https://doi.org/10.1007/s40502-026-01011-0",
-      "openAlexUrl": "https://openalex.org/W7214649035",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 49,
-      "matchedKeywords": [
-        "causal"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Wheat ( Triticum aestivum L.) productivity is increasingly threatened by the co-occurrence of drought and salinity in water-limited and salt-affected agroecosystems. Their combination creates a distinct stress environment in which restricted water uptake interacts with ion toxicity, nutrient imbalance, oxidative injury, and developmental disruption, often producing responses and genotype rankings that cannot be predicted from either stress alone. This review examines how multi-omics and systems-level approaches can elucidate the biological basis of wheat adaptation to simultaneous osmotic and ionic constraints and translate this knowledge into crop improvement. Evidence across genomic, regulatory, biochemical, physiological, and phenotypic scales indicates that tolerance is not governed by a single pathway but by the coordinated maintenance of root hydraulic function, plant water status, ion and nutrient homeostasis, osmotic and redox balance, membrane integrity, carbon assimilation, and reproductive performance. Pan-genomic resources, network biology, cell-resolved profiling, high-throughput phenotyping, and environment-aware prediction are beginning to link molecular variation to whole-plant performance and distinguish causal or breeding-ready targets from discovery-stage associations. However, direct integrated studies under simultaneous drought and salinity remain scarce, and much of the current understanding is still inferred from individual-stress experiments or controlled seedling assays. Progress will therefore require common populations evaluated across controlled and field-relevant combined-stress environments, standardized environmental metadata, functional validation, and integration with genomic prediction, genome editing, accelerated breeding, and multi-environment testing. Treating combined drought and salinity as a distinct breeding target will be essential for developing wheat cultivars that sustain physiological function and yield under concurrent water and ionic limitations."
     }
   ]
 }

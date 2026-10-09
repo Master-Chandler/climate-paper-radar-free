@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T06:26:46.660Z",
+  "generatedAt": "2026-10-09T06:27:55.135Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 87,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -54,7 +54,7 @@
       "openAlexUrl": "https://openalex.org/W7216395345",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode",
@@ -77,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -104,14 +104,14 @@
       "openAlexUrl": "https://openalex.org/W7214627060",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Mount Qomolangma (MQ) serves as a natural laboratory for investigating aerosol–cloud–precipitation interactions over the Tibetan Plateau (TP). Using satellite and comprehensive ground-based observations, we identify pronounced ice-cloud activation associated with transported exogenous aerosols. Under different large-scale atmospheric circulation regimes, ice-phase cloud activated over MQ can be efficiently transported downstream through distinct pathways, exerting a pronounced ice crystal seeding effect on cloud–precipitation conversion. The spatial patterns of these downstream pathways are highly consistent with regions of enhanced ice-phase occurrence, precipitation, and upper-tropospheric latent heat release. This study provides new insight into the downstream impacts of aerosol transport through ice seeding for cloud precipitation. The findings highlight the important role of aerosol-induced ice-phase processes in modulating cloud and precipitation systems over the “Third Pole” and its downstream regions, with significant implications for understanding downstream extreme precipitation and environment change under South Asian increasing anthropogenic influences."
+      "abstractEn": "Abstract. Mount Qomolangma (MQ) serves as a natural laboratory for investigating aerosol–cloud–precipitation interactions over the Tibetan Plateau (TP). Using satellite and comprehensive ground-based observations, we identify pronounced ice-cloud activation associated with transported exogenous aerosols. Under different large-scale atmospheric circulation regimes, ice-phase cloud activated over MQ can be efficiently transported downstream through distinct pathways, exerting a pronounced ice crystal seeding effect on cloud–precipitation conversion. The spatial patterns of these downstream pathways are highly consistent with regions of enhanced ice-phase occurrence, precipitation, and upper-tropospheric latent heat release. This study provides new insight into the downstream impacts of aerosol transport through ice seeding for cloud precipitation. The findings highlight the important role of aerosol-induced ice-phase processes in modulating cloud and precipitation systems over the “Third Pole” and its downstream regions, with significant implications for understanding downstream extreme precipitation and environment change under South Asian increasing anthropogenic influences."
     },
     {
       "id": "W7214985296",
@@ -131,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7214985296",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "antarctic"
@@ -154,7 +154,7 @@
       "openAlexUrl": "https://openalex.org/W7214907632",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -176,7 +176,7 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 56,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -199,13 +199,36 @@
       "openAlexUrl": "https://openalex.org/W7214738039",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "eastern china",
         "monsoon"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、monsoon，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Saxifraga stolonifera is widely distributed across the subtropical monsoon regions of China and has been extensively utilized for its medicinal and horticultural importance. A comprehensive assessment of its genetic variation can clarify both the extent and spatial patterns of diversity within available germplasm, thus supporting the identification of representative and diverse materials for future utilization. Here, we analyzed genetic diversity and population structure in S. stolonifera by examining 49 populations sampled throughout China, based on single nucleotide polymorphism (SNP) markers. Phylogenetic inference combined with population structure analysis indicated relatively low levels of genetic diversity but pronounced genetic differentiation, allowing the samples to be classified into five distinct genetic groups (π = 0.00,394–0.00,959; F ST = 0.221–0.513). Estimates from molecular dating together with ancestral range reconstruction suggest that Chinese populations of S. stolonifera likely originated in eastern China during the late Miocene, followed by a westward expansion and diversification. In addition, we detected pronounced patterns of both geographic and environmental isolation in S. stolonifera , as well as limited interspecific gene flow with species in S. sect. Irregulares , and only limited gene exchange was observed among populations of S. stolonifera . These findings enhance our understanding of the diversity patterns of S. stolonifera and offer important perspectives on its evolutionary trajectory and clarify how geographic isolation and gene flow have contributed to the formation of its present genetic structure."
+    },
+    {
+      "id": "W7220652780",
+      "title": "Automated mapping and multi-decadal changes in glacial lakes in the Upper Indus Sub-Basin, Western Himalaya, using Google Earth Engine",
+      "authors": [
+        "Suhail Ahmad",
+        "Avtar Singh Jasrotia",
+        "Komal Kumar Singh",
+        "Anurag Sharma",
+        "Qamer Ridwan"
+      ],
+      "journal": "Discover Geoscience",
+      "publicationDate": "2026-10-06",
+      "doi": "https://doi.org/10.1007/s44288-026-00761-6",
+      "openAlexUrl": "https://openalex.org/W7220652780",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 53,
+      "matchedKeywords": [
+        "himalaya"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Western Himalayan Glacial lakes are undergoing rapid transformation as a result of intensified glacier retreat driven by changing climatic conditions, increasing the likelihood of glacial lake outburst floods (GLOFs). This study conducts an automated, multi-decadal analysis of glacial lakes in the Upper Indus Sub-Basin using Landsat imagery spanning 1990 and 2025, processed within the Google Earth Engine (GEE) platform. A Modified Normalized Difference Water Index (MNDWI), integrated with topographic constraints and morphological filtering, was employed for accurate lake extraction, followed by manual refinement. Results reveal a substantial increase in glacial lake number from 255 in 1990 to 775 in 2025, and the overall lake area increased from 34.81 to 37.72 km 2 , which indicates a gradual but consistent growth (0.083 km 2 ·a⁻ 1 ). The expansion is primarily driven by the rapid formation of small lakes (< 1 km 2 ), whereas larger lakes remain limited in number but contribute significantly to total area. Elevation analysis shows that most lakes are concentrated between 4000 and 5000 m a.s.l., which highlights strong altitudinal control on lake development. Additionally, 520 new glacial lakes were identified during the study period, which reflects persistent hydrological stability alongside dynamic lake formation. Hazard assessment based on lake characteristics, glacier proximity, expansion rate, and topographic conditions indicates increasing susceptibility of several lakes to GLOF events. The observed trends are strongly linked to regional warming and enhanced glacier melt. This study suggests the effectiveness of GEE-based approaches for large-scale cryospheric monitoring and provides critical insights for hazard assessment and water resource management in the Upper Indus Sub-Basin."
     },
     {
       "id": "W7214774788",
@@ -225,35 +248,12 @@
       "openAlexUrl": "https://openalex.org/W7214774788",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The Younger Dryas (YD, 12,900–11,700 years before present) event offers a key opportunity to investigate climate system responses to abrupt perturbations, yet regional hydroclimate responses in northeastern China remain debated. Here we reconstruct the spatial fingerprint of YD hydroclimate variability using a comprehensive fossil pollen data set. Our results show regionally coherent cooling but strong spatial heterogeneity in precipitation. At YD onset, northern regions became drier, whereas southern areas experienced slight wetting. By YD termination, precipitation increased significantly in most regions, while changes in the interior was limited. Comparison with climate model simulations indicated that these patterns were likely associated with a YD‐related weakening and subsequent recovery of moisture transport, superimposed on a persistent poleward and inland expansion of atmospheric circulation. Previously reported spatially inconsistent proxy signals can be reconciled by the high tolerance of boreal forests to low‐precipitation conditions."
-    },
-    {
-      "id": "W7214562314",
-      "title": "Topographic heterogeneity regulates nonlinear vegetation responses to climate and human activities in China’s ecological transition zone",
-      "authors": [
-        "Xinwen Su",
-        "Di Wen",
-        "Jun Li",
-        "Peng Dailiang"
-      ],
-      "journal": "Frontiers in Forests and Global Change",
-      "publicationDate": "2026-09-28",
-      "doi": "https://doi.org/10.3389/ffgc.2026.1948232",
-      "openAlexUrl": "https://openalex.org/W7214562314",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 51,
-      "matchedKeywords": [
-        "shap",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Ecological transition zones, identified as climate-sensitive areas and biodiversity hotspots, are essential for maintaining regional ecological balance through their vegetation dynamics. However, the impact of topographic heterogeneity on the nonlinear responses of vegetation to climate change and human activities is not well understood. This gap limits our comprehension of ecosystem resilience. This study focuses on the ecological transition zone of the Qinling–Daba Mountains in China. We utilized 30-m resolution Landsat NDVI data from 2000 to 2022, along with climate, human activity, and topographic data. To characterize vegetation dynamics, we employed Theil–Sen trend analysis, the Mann–Kendall test, and the Hurst index. A Bayesian-optimized XGBoost model, combined with SHAP values, was employed to evaluate the relative contributions and response patterns of potential drivers across various vegetation trend zones and topographic gradients. The analysis revealed a significant greening trend, with the normalized difference vegetation index (NDVI) increasing at a rate of 0.0051 yr. −1 ( p < 0.05). Approximately 90.13% of the region displayed an improving trend, while 89.83% indicated a propensity for continued enhancement. The most pronounced vegetation improvements were observed primarily at moderate elevations (1,750–2,250 m), on moderate slopes (15–20°), and on north-facing slopes. Land use and land cover (LULC) (42.5%), elevation (13.2%), population density (8.2%), and precipitation (7.0%) emerged as the most significant contributors to NDVI predictions across the study area. LULC consistently served as the most influential predictor in both regions experiencing significant increases and those facing declines. In contrast, the relative importance and nonlinear response patterns of other factors varied across different trend zones. These findings provide a scientific foundation for targeted ecological restoration and adaptive vegetation management in ecological transition zones."
     }
   ]
 }

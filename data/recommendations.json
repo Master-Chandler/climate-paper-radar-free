@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:27:55.135Z",
+  "generatedAt": "2026-10-10T06:11:49.101Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 87,
+      "score": 86,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -38,6 +38,33 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、neural network、climate、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Deep learning-based approaches have emerged as powerful tools for seasonal prediction, yet their skill remains limited for extreme anomalies, and warming climates may alter predictability sources. Here we present a convolutional neural network (CNN)-based framework to assess how seasonal predictability changes in a future climate, focusing on East Asian extreme winters. Our CNN, trained on CESM2-LENS simulations for historical and SSP3-7.0 scenarios and optimized with Amplitude Focal Loss, reliably captures seasonal mean and extreme temperatures. Overall prediction skill increases in the future climate, with warm winter extremes becoming more predictable while cold extremes show little change. Using Integrated Gradients, an explainable AI method, we show this future asymmetry is linked to enhanced sensitivity of East Asian winter temperatures to tropical Pacific SST under background warming, where warm-phase SST more effectively drives extratropical circulation changes. Our framework provides a useful tool for exploring how seasonal predictability mechanisms evolve under climate change."
+    },
+    {
+      "id": "W4412845498",
+      "title": "Antarctic sea ice over the past 130 000 years – Part 2: A review of its role in the Earth system",
+      "authors": [
+        "﻿Zanna Chase",
+        "Karen Elizabeth Kohfeld",
+        "Amy R. Leventer",
+        "David Lund",
+        "Xavier Crosta",
+        "Laurie Menviel",
+        "Helen Bostock",
+        "Matthew Chadwick"
+      ],
+      "journal": "Climate of the past",
+      "publicationDate": "2026-10-08",
+      "doi": "https://doi.org/10.5194/cp-22-1881-2026",
+      "openAlexUrl": "https://openalex.org/W4412845498",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 73,
+      "matchedKeywords": [
+        "antarctic",
+        "sea ice"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Antarctic sea-ice cover reached historically low levels in 2023, consistent with the simulated decrease in sea-ice extent in response to anthropogenic warming. Antarctic sea ice is closely linked to multiple components of the Earth system, thus its demise could precipitate widespread, cascading changes across the cryosphere, atmosphere, and ocean. However, the nature and strength of these interconnections are poorly understood, and they are often inadequately represented in models. In this review paper we use modern observations, models and paleoclimate archives covering the last glacial cycle to gain insights into how reductions in sea ice may affect other components of the Earth system. We review how Antarctic sea ice interacts with ocean and atmosphere circulation, ice sheets and ice shelves, marine productivity, and the carbon cycle over the last glacial cycle, for which we have the most robust sea-ice reconstructions. The review finds strong evidence from theory and models for impacts of Antarctic sea ice on the Earth system. Paleo-proxy reconstructions provide examples where changes in sea ice co-occur with changes in the carbon cycle, marine productivity, and ocean circulation. However, challenges remain in isolating the impact of sea ice in a highly interconnected system."
     },
     {
       "id": "W7216395345",
@@ -54,7 +81,7 @@
       "openAlexUrl": "https://openalex.org/W7216395345",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode",
@@ -77,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -86,58 +113,27 @@
       "abstractEn": "Study region The Urmia Lake Basin, a terminal endorheic system in semi-arid northwestern Iran, faces severe hydrological decline. 51 years of monthly precipitation records (1971–2021) from four upper sub-basin rain gauges are analyzed alongside 11 climate teleconnections. Study focus Detecting rare, extreme drought events in terminal basins is frequently hindered by class imbalance in historical hydroclimatic records, biasing machine learning classifiers toward normal conditions. We benchmark a complete ladder of nine data-augmentation methods, including SMOTE, ADASYN, stand-alone CTGAN and VAEs, and two novel hybrids, to improve multi-class Standardized Precipitation Index nowcasting (3–12-month scales) under an identical, strictly leakage-free chronological evaluation protocol. New hydrological insights Under chronological validation, three-class nowcasting yields a moderate operational baseline of approximately 0.42 macro-F1. This exposes a massive temporal leakage gap from the artificial 0.90 F1-score obtained via conventional shuffled splitting, which fits the strong temporal autocorrelation of cumulative SPI. While simpler adaptive oversamplers maximize macro-F1, the hybrids achieve the highest minority-class recall and G-mean on the rare dry states. This trade-off is mathematically explained by CTGAN learning the non-convex probability manifold, whereas SMOTE is geometrically restricted to the minority class’s convex hull. Longer scales function as low-pass filters, smoothing synoptic noise and isolating persistent planetary signals. This nowcasting tool can be directly translated into regional water governance through an operational Traffic-Light Policy Roadmap at Bukan Dam."
     },
     {
-      "id": "W7214627060",
-      "title": "Impacts of South Asian aerosol inflow over Mount Qomolangma on downstream cloud–precipitation processes through a long-range ice-crystal “seeding” effect",
+      "id": "W7220843715",
+      "title": "“Root phenomics for harnessing hidden-half dynamic plasticity under water stress”",
       "authors": [
-        "Xiangde Xu",
-        "Wenyue Cai",
-        "Tianliang Zhao",
-        "Changjun Yang",
-        "Kai Meng",
-        "Chong Wu",
-        "Na Dong",
-        "Yue Li"
+        "Vincent Poulain",
+        "Émilie Cavel",
+        "Laurent Gutierrez",
+        "Eleni Mangina",
+        "Sónia Negrão"
       ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-09-29",
-      "doi": "https://doi.org/10.5194/acp-26-13581-2026",
-      "openAlexUrl": "https://openalex.org/W7214627060",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 65,
-      "matchedKeywords": [
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Mount Qomolangma (MQ) serves as a natural laboratory for investigating aerosol–cloud–precipitation interactions over the Tibetan Plateau (TP). Using satellite and comprehensive ground-based observations, we identify pronounced ice-cloud activation associated with transported exogenous aerosols. Under different large-scale atmospheric circulation regimes, ice-phase cloud activated over MQ can be efficiently transported downstream through distinct pathways, exerting a pronounced ice crystal seeding effect on cloud–precipitation conversion. The spatial patterns of these downstream pathways are highly consistent with regions of enhanced ice-phase occurrence, precipitation, and upper-tropospheric latent heat release. This study provides new insight into the downstream impacts of aerosol transport through ice seeding for cloud precipitation. The findings highlight the important role of aerosol-induced ice-phase processes in modulating cloud and precipitation systems over the “Third Pole” and its downstream regions, with significant implications for understanding downstream extreme precipitation and environment change under South Asian increasing anthropogenic influences."
-    },
-    {
-      "id": "W7214985296",
-      "title": "Satellite‑observed recent flow acceleration of glaciers and model‑based environmental associations in Victoria Land, East Antarctica",
-      "authors": [
-        "Shangshang Xu",
-        "Yulong Kang",
-        "Qin’ou Liang",
-        "Zhenfeng Wang",
-        "Xiebing Yin",
-        "Yanpeng Yang",
-        "Peining Shu"
-      ],
-      "journal": "International Journal of Digital Earth",
-      "publicationDate": "2026-09-29",
-      "doi": "https://doi.org/10.1080/17538947.2026.2738329",
-      "openAlexUrl": "https://openalex.org/W7214985296",
+      "journal": "Journal of Experimental Botany",
+      "publicationDate": "2026-10-07",
+      "doi": "https://doi.org/10.1093/jxb/erag496",
+      "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 61,
       "matchedKeywords": [
-        "shap",
-        "antarctic"
+        "artificial intelligence"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 shap、atmospher、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Antarctic ice mass loss has intensified in recent decades. However, short-term glacier velocity variability in Victoria Land, East Antarctica, remains poorly documented. This study used Sentinel-1 SLC data and environmental records from 2017 to 2025 to quantify glacier-velocity variability in Victoria Land and examine its model-based statistical associations with selected atmospheric and oceanic variables using XGBoost–SHAP. The results show positive multi-year acceleration trends over the 2017–2025 observational period, superimposed on pronounced seasonal variability. The six selected glacier systems showed positive acceleration rates: Barnett Glacier (2.06 ± 0.92% a−1), Borchgrevink Glacier (2.39 ± 0.66% a−1), David Glacier–Drygalski Ice Tongue system (1.68 ± 0.23% a−1), Larsen Glacier (3.78 ± 0.69% a−1), McMahon Glacier (2.91 ± 0.73% a−1), and Oakley Glacier (2.54 ± 0.33% a−1). Spatially resolved velocity maps, centerline profiles, and terminus-region records revealed substantial differences in flow magnitude and variability among glaciers. Among the five environmental predictors examined, upper-ocean temperature had the largest overall model contribution, followed by near-surface air temperature, surface skin temperature, upper-ocean current speed, and runoff. This study provides a Sentinel-1-based record of recent glacier-velocity variability in Victoria Land and illustrates the utility of repeated, high-temporal-resolution SAR observations for characterizing glacier-flow variability in East Antarctica."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Adapting crops to climate-driven water extremes is a cornerstone of agricultural sustainability. Historically overlooked due to phenotyping constraints, root phenes have now emerged as a primary frontier for enhancing crop resilience. We review root architectural and anatomical responses to contrasting water extremes -drought and waterlogging- across major crop species. We examine key root phenes and their associated functions as modulated by developmental and environmental cues. Non-destructive longitudinal root phenomics offers an unprecedented view of the adaptive plastic responses that underpin tolerance to water stress by capturing their spatiotemporal dynamics. We discuss the challenges in root phenomics due to methodological trade-offs in resolution, throughput, and data analysis. We argue that a robust framework for root trait discovery can be achieved by integrating strategic trait selection with modelling and Artificial Intelligence (AI). This will enable scaling root insights across varied environments by bridging the lab-field gap and across phenotyping platforms. Finally, we emphasise the importance of spatial and temporal monitoring of root dynamics during stress and recovery, both critical components of stress adaptation, that are now accessible through non-destructive phenotyping. The next frontier for root research lies in uncovering the genetic architecture behind these dynamics to enhance crop resilience."
     },
     {
       "id": "W7214907632",
@@ -154,7 +150,7 @@
       "openAlexUrl": "https://openalex.org/W7214907632",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -176,36 +172,12 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Data-driven flood susceptibility mapping (FSM) has converged on a common template: a gradient-boosting classifier, a random train/test split, a global feature-attribution chart, and a five-class map. Using the catastrophic August-2024 Feni flash flood (Bangladesh) with 11 Google-Earth-Engine conditioning factors ( $$n=1{,}510$$ inventory samples; 982, 866 mapped pixels at 30m), we examine three limitations it can obscure. First, random splitting inflates the area under the ROC curve (AUC) by about 0.06–0.09 relative to spatially blocked cross-validation. Second, an unconstrained learner can attain high accuracy while encoding hydrologically implausible response functions, monotone in the physically expected direction on only $$54.5\\%$$ of its response surface. Third, its outputs are neither calibrated nor accompanied by valid uncertainty. The proposed framework injects hydrological priors as hard monotonicity constraints, enforcing physically consistent behaviour at no measurable cost in skill (spatial AUC 0.938; Matthews correlation 0.700). Because the inventory is balanced by design, we report a relative, event-conditioned susceptibility score rather than an absolute occurrence probability. Predictions are calibrated with cross-fitted isotonic regression (expected calibration error 0.150–0.016) with spatially stratified (Mondrian) conformal sets exposing a conditional-coverage degradation under extrapolation (worst-region coverage 0.48 at the 0.90 level). A Physical Consistency Score (PCS) audits whether learned relationships obey their hydrological priors. The imposed directions are additionally confirmed against the observed inundation, and sensitivity analyses over the constraint set, spatial-block count and calibrator leave the conclusions unchanged. Validated against the spatially independent (same-event) observed 2024 inundation extent, the map yields a strictly monotone class-frequency response (observed flooding rising from $$1.0$$ to $$45.4\\%$$ ; AUC 0.75). The contribution reframes FSM around physical consistency, calibrated probability and honest spatial uncertainty."
-    },
-    {
-      "id": "W7214738039",
-      "title": "Large-scale population genomics reveals genetic diversity and evolutionary history of Saxifraga stolonifera",
-      "authors": [
-        "Shimei Tang",
-        "Jialin Luo",
-        "Xing Zhang",
-        "Zhilin Chen",
-        "Daike Tian"
-      ],
-      "journal": "Scientia Horticulturae",
-      "publicationDate": "2026-09-29",
-      "doi": "https://doi.org/10.1016/j.scienta.2026.115178",
-      "openAlexUrl": "https://openalex.org/W7214738039",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 54,
-      "matchedKeywords": [
-        "eastern china",
-        "monsoon"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 eastern china、monsoon，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Saxifraga stolonifera is widely distributed across the subtropical monsoon regions of China and has been extensively utilized for its medicinal and horticultural importance. A comprehensive assessment of its genetic variation can clarify both the extent and spatial patterns of diversity within available germplasm, thus supporting the identification of representative and diverse materials for future utilization. Here, we analyzed genetic diversity and population structure in S. stolonifera by examining 49 populations sampled throughout China, based on single nucleotide polymorphism (SNP) markers. Phylogenetic inference combined with population structure analysis indicated relatively low levels of genetic diversity but pronounced genetic differentiation, allowing the samples to be classified into five distinct genetic groups (π = 0.00,394–0.00,959; F ST = 0.221–0.513). Estimates from molecular dating together with ancestral range reconstruction suggest that Chinese populations of S. stolonifera likely originated in eastern China during the late Miocene, followed by a westward expansion and diversification. In addition, we detected pronounced patterns of both geographic and environmental isolation in S. stolonifera , as well as limited interspecific gene flow with species in S. sect. Irregulares , and only limited gene exchange was observed among populations of S. stolonifera . These findings enhance our understanding of the diversity patterns of S. stolonifera and offer important perspectives on its evolutionary trajectory and clarify how geographic isolation and gene flow have contributed to the formation of its present genetic structure."
     },
     {
       "id": "W7220652780",
@@ -223,37 +195,12 @@
       "openAlexUrl": "https://openalex.org/W7220652780",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "himalaya"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Western Himalayan Glacial lakes are undergoing rapid transformation as a result of intensified glacier retreat driven by changing climatic conditions, increasing the likelihood of glacial lake outburst floods (GLOFs). This study conducts an automated, multi-decadal analysis of glacial lakes in the Upper Indus Sub-Basin using Landsat imagery spanning 1990 and 2025, processed within the Google Earth Engine (GEE) platform. A Modified Normalized Difference Water Index (MNDWI), integrated with topographic constraints and morphological filtering, was employed for accurate lake extraction, followed by manual refinement. Results reveal a substantial increase in glacial lake number from 255 in 1990 to 775 in 2025, and the overall lake area increased from 34.81 to 37.72 km 2 , which indicates a gradual but consistent growth (0.083 km 2 ·a⁻ 1 ). The expansion is primarily driven by the rapid formation of small lakes (< 1 km 2 ), whereas larger lakes remain limited in number but contribute significantly to total area. Elevation analysis shows that most lakes are concentrated between 4000 and 5000 m a.s.l., which highlights strong altitudinal control on lake development. Additionally, 520 new glacial lakes were identified during the study period, which reflects persistent hydrological stability alongside dynamic lake formation. Hazard assessment based on lake characteristics, glacier proximity, expansion rate, and topographic conditions indicates increasing susceptibility of several lakes to GLOF events. The observed trends are strongly linked to regional warming and enhanced glacier melt. This study suggests the effectiveness of GEE-based approaches for large-scale cryospheric monitoring and provides critical insights for hazard assessment and water resource management in the Upper Indus Sub-Basin."
-    },
-    {
-      "id": "W7214774788",
-      "title": "Asynchronous Changes in Tempo‐Spatial Patterns of the Younger Dryas Hydroclimate in Northeastern China",
-      "authors": [
-        "Sihan Sun",
-        "Yukun Zheng",
-        "Yue Wang",
-        "Jun Cheng",
-        "Yiyin Li",
-        "Hongyan Liu",
-        "Ulrike Herzschuh"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-09-29",
-      "doi": "https://doi.org/10.1029/2026gl125131",
-      "openAlexUrl": "https://openalex.org/W7214774788",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 50,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The Younger Dryas (YD, 12,900–11,700 years before present) event offers a key opportunity to investigate climate system responses to abrupt perturbations, yet regional hydroclimate responses in northeastern China remain debated. Here we reconstruct the spatial fingerprint of YD hydroclimate variability using a comprehensive fossil pollen data set. Our results show regionally coherent cooling but strong spatial heterogeneity in precipitation. At YD onset, northern regions became drier, whereas southern areas experienced slight wetting. By YD termination, precipitation increased significantly in most regions, while changes in the interior was limited. Comparison with climate model simulations indicated that these patterns were likely associated with a YD‐related weakening and subsequent recovery of moisture transport, superimposed on a persistent poleward and inland expansion of atmospheric circulation. Previously reported spatially inconsistent proxy signals can be reconciled by the high tolerance of boreal forests to low‐precipitation conditions."
     }
   ]
 }

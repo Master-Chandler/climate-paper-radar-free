@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:09:10.964Z",
+  "generatedAt": "2026-10-12T06:17:35.818Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7221052844",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 87,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 84,
+      "score": 83,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -84,7 +84,7 @@
       "openAlexUrl": "https://openalex.org/W4412845498",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "antarctic",
         "sea ice"
@@ -107,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7216395345",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode",
@@ -130,7 +130,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -157,7 +157,7 @@
       "openAlexUrl": "https://openalex.org/W7220953071",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -180,7 +180,7 @@
       "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "artificial intelligence"
       ],
@@ -201,7 +201,7 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -224,7 +224,7 @@
       "openAlexUrl": "https://openalex.org/W7220652780",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "himalaya"
       ],

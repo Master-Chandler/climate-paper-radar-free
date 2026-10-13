@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:17:35.818Z",
+  "generatedAt": "2026-10-13T06:57:43.743Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -16,7 +16,7 @@
       "title": "Explainable machine learning for spatial modelling of groundwater nitrate contamination: a multi-year analysis in the Duero basin",
       "authors": [
         "Manuel Rodríguez del Rosario",
-        "Victor Gómez-Escalonilla",
+        "Víctor Gómez‐Escalonilla",
         "Héctor Aguilera",
         "Pedro Martínez‐Santos",
         "África de la Hera Portillo"
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7221052844",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 87,
+      "score": 86,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 83,
+      "score": 81,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -84,37 +84,13 @@
       "openAlexUrl": "https://openalex.org/W4412845498",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "antarctic",
         "sea ice"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Antarctic sea-ice cover reached historically low levels in 2023, consistent with the simulated decrease in sea-ice extent in response to anthropogenic warming. Antarctic sea ice is closely linked to multiple components of the Earth system, thus its demise could precipitate widespread, cascading changes across the cryosphere, atmosphere, and ocean. However, the nature and strength of these interconnections are poorly understood, and they are often inadequately represented in models. In this review paper we use modern observations, models and paleoclimate archives covering the last glacial cycle to gain insights into how reductions in sea ice may affect other components of the Earth system. We review how Antarctic sea ice interacts with ocean and atmosphere circulation, ice sheets and ice shelves, marine productivity, and the carbon cycle over the last glacial cycle, for which we have the most robust sea-ice reconstructions. The review finds strong evidence from theory and models for impacts of Antarctic sea ice on the Earth system. Paleo-proxy reconstructions provide examples where changes in sea ice co-occur with changes in the carbon cycle, marine productivity, and ocean circulation. However, challenges remain in isolating the impact of sea ice in a highly interconnected system."
-    },
-    {
-      "id": "W7216395345",
-      "title": "Lake sediments uncover glacier change on the Kerguelen Islands during the past 1500 years",
-      "authors": [
-        "Jarle Børve Sleire",
-        "Jostein Bakke",
-        "Fabien Arnaud",
-        "Willem G. M. van der Bilt"
-      ],
-      "journal": "Frontiers in Earth Science",
-      "publicationDate": "2026-10-02",
-      "doi": "https://doi.org/10.3389/feart.2026.1877993",
-      "openAlexUrl": "https://openalex.org/W7216395345",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 68,
-      "matchedKeywords": [
-        "antarctic",
-        "southern annular mode",
-        "southern ocean"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、southern ocean、climate、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change is driving the rapid retreat of glaciers across the sub-Antarctic zone. Using continuous lake sediment-based records of past glacier changes, the recent trends can be evaluated in a long-term context. Here, we analyse sediments from two glacier-fed lakes: Lake Athéna II and Lake Héra, located downstream the Chamonix Glacier on the sub-Antarctic Kerguelen Islands in the Indian Southern Ocean. Lake Héra is a threshold lake for the adjacent outlet glacier: the Agassiz Glacier, but has been solely receiving meltwater runoff from the Chamonix Glacier since the Agassiz Glacier retreated from its maximum extent. Based on distinct changes in grain-size and sediment density, we argue this transition occurred around 495 CE. After this, the glaciogenic sediments in both lakes are solely derived from the Chamonix Glacier. By tracking multi-decadal to centennial changes in incoming clastic sediments, we suggest the Chamonix Glacier retreated close to its current extent between 600 and 750 CE, primarily advanced between 750 and 1600 CE, before gradually retreating towards present-day. The glacier trends documented here are in line with mean annual air temperature and sea surface temperature records that indicate colder late Holocene temperatures, reflecting a negative Southern Annular Mode-like state in the Indian Southern Ocean. Conversely, phases of more positive Southern Annular Mode-like conditions, including gradually more positive anomalies after ∼1600 CE and until present-day, are in line with a decrease in activity at the Chamonix Glacier."
     },
     {
       "id": "W7220743400",
@@ -130,7 +106,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -157,7 +133,7 @@
       "openAlexUrl": "https://openalex.org/W7220953071",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -180,7 +156,7 @@
       "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "artificial intelligence"
       ],
@@ -201,35 +177,12 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Data-driven flood susceptibility mapping (FSM) has converged on a common template: a gradient-boosting classifier, a random train/test split, a global feature-attribution chart, and a five-class map. Using the catastrophic August-2024 Feni flash flood (Bangladesh) with 11 Google-Earth-Engine conditioning factors ( $$n=1{,}510$$ inventory samples; 982, 866 mapped pixels at 30m), we examine three limitations it can obscure. First, random splitting inflates the area under the ROC curve (AUC) by about 0.06–0.09 relative to spatially blocked cross-validation. Second, an unconstrained learner can attain high accuracy while encoding hydrologically implausible response functions, monotone in the physically expected direction on only $$54.5\\%$$ of its response surface. Third, its outputs are neither calibrated nor accompanied by valid uncertainty. The proposed framework injects hydrological priors as hard monotonicity constraints, enforcing physically consistent behaviour at no measurable cost in skill (spatial AUC 0.938; Matthews correlation 0.700). Because the inventory is balanced by design, we report a relative, event-conditioned susceptibility score rather than an absolute occurrence probability. Predictions are calibrated with cross-fitted isotonic regression (expected calibration error 0.150–0.016) with spatially stratified (Mondrian) conformal sets exposing a conditional-coverage degradation under extrapolation (worst-region coverage 0.48 at the 0.90 level). A Physical Consistency Score (PCS) audits whether learned relationships obey their hydrological priors. The imposed directions are additionally confirmed against the observed inundation, and sensitivity analyses over the constraint set, spatial-block count and calibrator leave the conclusions unchanged. Validated against the spatially independent (same-event) observed 2024 inundation extent, the map yields a strictly monotone class-frequency response (observed flooding rising from $$1.0$$ to $$45.4\\%$$ ; AUC 0.75). The contribution reframes FSM around physical consistency, calibrated probability and honest spatial uncertainty."
-    },
-    {
-      "id": "W7220652780",
-      "title": "Automated mapping and multi-decadal changes in glacial lakes in the Upper Indus Sub-Basin, Western Himalaya, using Google Earth Engine",
-      "authors": [
-        "Suhail Ahmad",
-        "Avtar Singh Jasrotia",
-        "Komal Kumar Singh",
-        "Anurag Sharma",
-        "Qamer Ridwan"
-      ],
-      "journal": "Discover Geoscience",
-      "publicationDate": "2026-10-06",
-      "doi": "https://doi.org/10.1007/s44288-026-00761-6",
-      "openAlexUrl": "https://openalex.org/W7220652780",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 49,
-      "matchedKeywords": [
-        "himalaya"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 himalaya、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Western Himalayan Glacial lakes are undergoing rapid transformation as a result of intensified glacier retreat driven by changing climatic conditions, increasing the likelihood of glacial lake outburst floods (GLOFs). This study conducts an automated, multi-decadal analysis of glacial lakes in the Upper Indus Sub-Basin using Landsat imagery spanning 1990 and 2025, processed within the Google Earth Engine (GEE) platform. A Modified Normalized Difference Water Index (MNDWI), integrated with topographic constraints and morphological filtering, was employed for accurate lake extraction, followed by manual refinement. Results reveal a substantial increase in glacial lake number from 255 in 1990 to 775 in 2025, and the overall lake area increased from 34.81 to 37.72 km 2 , which indicates a gradual but consistent growth (0.083 km 2 ·a⁻ 1 ). The expansion is primarily driven by the rapid formation of small lakes (< 1 km 2 ), whereas larger lakes remain limited in number but contribute significantly to total area. Elevation analysis shows that most lakes are concentrated between 4000 and 5000 m a.s.l., which highlights strong altitudinal control on lake development. Additionally, 520 new glacial lakes were identified during the study period, which reflects persistent hydrological stability alongside dynamic lake formation. Hazard assessment based on lake characteristics, glacier proximity, expansion rate, and topographic conditions indicates increasing susceptibility of several lakes to GLOF events. The observed trends are strongly linked to regional warming and enhanced glacier melt. This study suggests the effectiveness of GEE-based approaches for large-scale cryospheric monitoring and provides critical insights for hazard assessment and water resource management in the Upper Indus Sub-Basin."
     }
   ]
 }

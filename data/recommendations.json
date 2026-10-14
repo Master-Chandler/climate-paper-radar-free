@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:57:43.743Z",
+  "generatedAt": "2026-10-14T05:10:22.029Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7221052844",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 84,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -64,6 +64,58 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、neural network、climate、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Deep learning-based approaches have emerged as powerful tools for seasonal prediction, yet their skill remains limited for extreme anomalies, and warming climates may alter predictability sources. Here we present a convolutional neural network (CNN)-based framework to assess how seasonal predictability changes in a future climate, focusing on East Asian extreme winters. Our CNN, trained on CESM2-LENS simulations for historical and SSP3-7.0 scenarios and optimized with Amplitude Focal Loss, reliably captures seasonal mean and extreme temperatures. Overall prediction skill increases in the future climate, with warm winter extremes becoming more predictable while cold extremes show little change. Using Integrated Gradients, an explainable AI method, we show this future asymmetry is linked to enhanced sensitivity of East Asian winter temperatures to tropical Pacific SST under background warming, where warm-phase SST more effectively drives extratropical circulation changes. Our framework provides a useful tool for exploring how seasonal predictability mechanisms evolve under climate change."
+    },
+    {
+      "id": "W7134083210",
+      "title": "Cloud vertical structure across China from a national Ka-band cloud radar network: thermodynamic, dynamical, and land-surface controls",
+      "authors": [
+        "Hui Xu",
+        "Jianping Guo",
+        "Jianbo Deng",
+        "Rongfang Yang",
+        "Deli Meng",
+        "Zhen Zhang",
+        "Ning Li",
+        "Yuping Sun"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-10-12",
+      "doi": "https://doi.org/10.5194/acp-26-14303-2026",
+      "openAlexUrl": "https://openalex.org/W7134083210",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 72,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、hydrolog、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Cloud vertical structure plays a central role in regulating Earth’s radiation balance and hydrological cycle, yet it remains poorly represented in weather and climate models due to limited high-resolution observations. Using a newly established national network of 80 Ka-band cloud radars, we provide the first high-spatiotemporal-resolution characterization of cloud vertical structure across China for 2024 and quantify its thermodynamic, dynamical, and land-surface controls. An improved retrieval algorithm accounting for height-dependent radar sensitivity and clutter suppression is applied to derive cloud boundaries. The national annual mean cloud occurrence frequency is 56.7 %, dominated by single-layer clouds (34.7 %), followed by two-layer (14.7 %) and multi-layer clouds (7.1 %). Single-layer clouds prevail over arid northwestern China, whereas multi-layer clouds are more frequent in humid southeastern regions. Cloud base height exhibits strong seasonality, with higher values in summer and lower values in winter, and distinctly lower bases over the Tibetan Plateau. Diurnally, summer clouds show a pronounced afternoon peak between 3 and 9 km, while winter clouds are mainly confined below 3 km with a near-sunrise maximum. Thermodynamic conditions exert primary control on cloud vertical development. Higher low-level humidity favors deeper clouds and higher tops, whereas stronger lower-tropospheric stability suppresses vertical growth. Wind shear generally limits cloud depth, though moderate shear may enhance organization under unstable conditions. Land-surface characteristics further modulate cloud base height, with higher bases over barren land and lower bases over forests. These results provide national-scale observational benchmarks for improving cloud parameterizations in numerical models."
+    },
+    {
+      "id": "W7221437954",
+      "title": "Reconstructed Evapotranspiration in Northern China: Trends, Drivers, and Ecohydrological Impacts",
+      "authors": [
+        "Hongyu Li",
+        "Yubo Su",
+        "Qiang Zhang",
+        "Ping Yue",
+        "Liang Zhang"
+      ],
+      "journal": "International Journal of Climatology",
+      "publicationDate": "2026-10-11",
+      "doi": "https://doi.org/10.1002/joc.70627",
+      "openAlexUrl": "https://openalex.org/W7221437954",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 69,
+      "matchedKeywords": [
+        "shap",
+        "precipitation",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、atmospher、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "ABSTRACT Attributing regional evapotranspiration (ET) and assessing its impacts are critical for understanding land‐atmosphere interactions in climate‐sensitive regions such as northern China. This study fuses six gridded ET products with in situ measurements using Random Forest after excluding poorly representative flux sites. The resulting monthly 0.25° dataset (1980 to 2021) outperforms all original products, reducing the cross‐validation RMSE from 15.15–22.03 mm month −1 to 11.54 mm month −1 . Based on reconstructed ET, significant increasing ET trends ( p < 0.05) are observed on the Loess Plateau and North China Plain, with a mean trend of 13.3 mm (10a) −1 in humid regions. Using XGBoost with SHAP analysis reveals that precipitation dominates ET interannual variability in grasslands and bare lands, accounting for 35.4% to 40.6%. Yet, as a driver of the long‐term ET trend, precipitation is dominant only in about 5% of the region, specifically over bare land in western Inner Mongolia. Instead, NDVI drives ET trends over 52% of northern China, making vegetation greening a primary force enhancing ET under warming. Enhanced ET offsets precipitation‐driven water yield gains most markedly in semi‐arid regions. There, the ET‐induced reduction reaches −11.4 ± 7.7 mm (10a) −1 , exceeding the positive contribution from precipitation (2.3 ± 9.2 mm (10a) −1 ). Meanwhile, ET positively contributes to the Evaporative Stress Index (ET/PET) over semi‐arid regions, generating a coexistence of ecological wetting but hydrological drying. This study provides ecological insights into ET changes and their contrasting hydrological impacts in climate‐sensitive regions."
     },
     {
       "id": "W4412845498",
@@ -84,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W4412845498",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "antarctic",
         "sea ice"
@@ -106,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -133,7 +185,7 @@
       "openAlexUrl": "https://openalex.org/W7220953071",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 62,
+      "score": 61,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -156,12 +208,35 @@
       "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 55,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、climate、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Adapting crops to climate-driven water extremes is a cornerstone of agricultural sustainability. Historically overlooked due to phenotyping constraints, root phenes have now emerged as a primary frontier for enhancing crop resilience. We review root architectural and anatomical responses to contrasting water extremes -drought and waterlogging- across major crop species. We examine key root phenes and their associated functions as modulated by developmental and environmental cues. Non-destructive longitudinal root phenomics offers an unprecedented view of the adaptive plastic responses that underpin tolerance to water stress by capturing their spatiotemporal dynamics. We discuss the challenges in root phenomics due to methodological trade-offs in resolution, throughput, and data analysis. We argue that a robust framework for root trait discovery can be achieved by integrating strategic trait selection with modelling and Artificial Intelligence (AI). This will enable scaling root insights across varied environments by bridging the lab-field gap and across phenotyping platforms. Finally, we emphasise the importance of spatial and temporal monitoring of root dynamics during stress and recovery, both critical components of stress adaptation, that are now accessible through non-destructive phenotyping. The next frontier for root research lies in uncovering the genetic architecture behind these dynamics to enhance crop resilience."
+    },
+    {
+      "id": "W7220846810",
+      "title": "Predicting regional gray swans via translocation: AI weather models and Dubai’s unprecedented 2024 rainfall",
+      "authors": [
+        "Y. Qiang Sun",
+        "Pedram Hassanzadeh",
+        "Tiffany A. Shaw",
+        "Hamid A. Pahlavan",
+        "Adam Marchakitus"
+      ],
+      "journal": "Science Advances",
+      "publicationDate": "2026-10-07",
+      "doi": "https://doi.org/10.1126/sciadv.ady9406",
+      "openAlexUrl": "https://openalex.org/W7220846810",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 55,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、weather、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Artificial intelligence (AI) models have transformed weather forecasting, but their skill for unprecedented weather extremes is unclear. Here, we analyze GraphCast, AIFS, and FuXi forecasts of the unprecedented 2024 Dubai storm, which had twice the training set's highest rainfall in that region. GraphCast and AIFS accurately forecast this event up to 8 days ahead. FuXi forecasts the event but underestimates the rainfall. Fine-tuning and receptive field analyses suggest that these models' success stems from \"translocation\": learning from comparable/stronger dynamically similar events in other regions during training. Evidence of \"extrapolation\" (learning from weaker events) is not found. Even events within the global distribution's tail are poorly forecasted, which is not only due to data imbalance (generalization error) but also spectral bias (optimization error). These findings demonstrate the potential of AI models to forecast \"regional\" gray swans and the opportunity to improve them through understanding the mechanisms behind their successes/limitations."
     },
     {
       "id": "W7220420648",
@@ -177,7 +252,7 @@
       "openAlexUrl": "https://openalex.org/W7220420648",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "machine learning"
       ],

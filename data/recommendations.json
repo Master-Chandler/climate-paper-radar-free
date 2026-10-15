@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T05:10:22.029Z",
+  "generatedAt": "2026-10-15T04:58:56.562Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7221052844",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 84,
+      "score": 83,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7220363664",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 80,
+      "score": 78,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -84,7 +84,7 @@
       "openAlexUrl": "https://openalex.org/W7134083210",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -108,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7221437954",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "shap",
         "precipitation",
@@ -136,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W4412845498",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 68,
+      "score": 66,
       "matchedKeywords": [
         "antarctic",
         "sea ice"
@@ -158,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -185,12 +185,53 @@
       "openAlexUrl": "https://openalex.org/W7220953071",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 59,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change and environmental degradation increasingly threaten urban public health, yet monitoring infrastructure is often unavailable in resource-constrained settings. This study develops and critically evaluates a machine learning framework that predicts environmental health-related search behavior , used as a low-cost digital proxy rather than a measure of clinical burden, in Morocco using exclusively open-access global datasets. We integrated five years of weekly data (April 2020 to April 2025) from ERA5 meteorological reanalysis, Copernicus Atmosphere Monitoring Service products, and Google Trends to model binary high-interest states for four search categories: air quality, respiratory conditions, heat-related illness, and allergies. Ensemble models with 71 engineered features achieved strong classification performance (ROC-AUC 0.92 to 0.96) with temporal stability over 52-week horizons. An ablation study showed that this discrimination is carried primarily by the autocorrelated search signal; the environmental reanalysis block added negligible incremental ROC-AUC at national scale, yet retained meaningful standalone signal for the respiratory and air-quality categories while collapsing to near-random for allergy and heat-related illness. This contrast tracks biological plausibility, which varied substantially across categories: respiratory predictions aligned with established epidemiological patterns, whereas heat-related predictions showed weak temperature correspondence and implausible winter peaks. We therefore frame the system as a complementary screening layer pending external validation against clinical endpoints, not as a validated disease-surveillance or operational warning system. Because it relies solely on freely available data, the framework offers a replicable national-scale prototype for environmental health monitoring across North Africa and the Global South, contributing to SDG 3, 11, and 13."
+    },
+    {
+      "id": "W7221524331",
+      "title": "Explainable spatiotemporal Graph Neural Networks: Multi-City PM2.5 forecasting in Bangladesh with geographic graph topology validation",
+      "authors": [
+        "Pritom  Ray Nobin"
+      ],
+      "journal": "PLoS ONE",
+      "publicationDate": "2026-10-12",
+      "doi": "https://doi.org/10.1371/journal.pone.0351928",
+      "openAlexUrl": "https://openalex.org/W7221524331",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 58,
+      "matchedKeywords": [
+        "explainable"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Accurate forecasting of fine particulate matter (PM2.5) is critical for mitigating severe health risks in South Asia, yet it remains challenging in data-scarce regions like Bangladesh. While spatiotemporal graph neural networks (GNNs) offer a promising solution by capturing atmospheric transport, their effectiveness and the physical validity of their assumed spatial graphs have rarely been rigorously tested in such constrained settings. This study addresses this gap by evaluating a graph diffusion gated recurrent unit (GD-GRU) model using four years of daily, multi-source environmental data across a 12-city network. For forecasts up to three days ahead, the GD-GRU achieves an overall mean absolute error of 8.853 µg/m3 and an R2 of 0.666, significantly outperforming non-graph baselines under FDR-corrected Diebold-Mariano testing (p < 0.001). Furthermore, the model significantly outperforms DCRNN when pooled across all forecast horizons (p < 0.001), while remaining closely matched at individual lead times. Crucially, empirical validation of the model's underlying spatial assumptions demonstrates that occlusion-based spatial influence closely tracks the fixed geographic adjacency (r = 0.928, p < 0.001), and this simple distance-based graph outperforms unconstrained adaptive, wind-informed, and hybrid alternatives. Finally, a multi-method explainability framework shows strong rank convergence (Spearman ρ = 0.590 to 0.783), identifying the Green Leaf Index, wind speed, atmospheric pressure, and seasonal encoding as the dominant predictors of PM2.5. These findings confirm that carefully validated, interpretable static graph models can deliver robust air quality forecasts without requiring dense sensor networks, offering a practical template for environmental monitoring in data-limited regions."
+    },
+    {
+      "id": "W7135092399",
+      "title": "Summertime ozone sensitivity to temperature in China: observational evidence and mechanistic attribution in urban and rural areas in the Yangtze River Delta region",
+      "authors": [
+        "Chang Su",
+        "Massimo Alberto Bollasina",
+        "James Weber",
+        "David S. Stevenson"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-10-13",
+      "doi": "https://doi.org/10.5194/acp-26-14439-2026",
+      "openAlexUrl": "https://openalex.org/W7135092399",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 58,
+      "matchedKeywords": [
+        "yangtze"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. As climate change increases frequency and intensity of hot extremes, understanding how elevated temperatures influence surface ozone (O3) across different chemical regimes is critical. We combine observations from summer 2022 in the Yangtze River Delta (YRD) with targeted United Kingdom Chemistry and Aerosols (UKCA) Box experiments to quantify and attribute the temperature sensitivity of ground-level O3 in a VOC-limited urban megacity (Shanghai) and a predominantly NOx-limited rural region (Lishui). Observed daily-maximum O3 increases with temperature at both sites, with a stronger response in Shanghai. Two-dimensional T-RH distributions show that O3 rises with temperature and decreases with relative humidity (RH), implying that part of the temperature response is mediated by drying. Factorial box-model experiments separate the roles of temperature-driven shifts in chemical partitioning, diurnal thermal structure, temperature-dependent isoprene emissions, and humidity. In Shanghai, the increase in O3 between 30 °C and 40 °C is dominated by BVOC-driven chemistry, with temperature-amplified isoprene emissions explaining most of the observed response. In Lishui, O3 sensitivity is governed primarily by radical-NOx chemistry and thermal PAN-NOx cycling, with a much smaller role for BVOCs. Fixed RH scenarios substantially reduce the apparent contribution of “thermal chemistry”, highlighting humidity-dependent Ox loss and HOx-NOx cycling as key modifiers of the climate penalty. These regime-specific O3-temperature mechanisms, including BVOC-driven in the urban core, radical-NOx-PAN-driven in the rural area, and significant humidity modulation, provide a process basis for heat-resilient emission controls and demonstrate the value of observation-constrained box models as a bridge to regional chemistry-climate simulations."
     },
     {
       "id": "W7220843715",
@@ -208,7 +249,7 @@
       "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "artificial intelligence"
       ],
@@ -231,33 +272,12 @@
       "openAlexUrl": "https://openalex.org/W7220846810",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、weather、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Artificial intelligence (AI) models have transformed weather forecasting, but their skill for unprecedented weather extremes is unclear. Here, we analyze GraphCast, AIFS, and FuXi forecasts of the unprecedented 2024 Dubai storm, which had twice the training set's highest rainfall in that region. GraphCast and AIFS accurately forecast this event up to 8 days ahead. FuXi forecasts the event but underestimates the rainfall. Fine-tuning and receptive field analyses suggest that these models' success stems from \"translocation\": learning from comparable/stronger dynamically similar events in other regions during training. Evidence of \"extrapolation\" (learning from weaker events) is not found. Even events within the global distribution's tail are poorly forecasted, which is not only due to data imbalance (generalization error) but also spectral bias (optimization error). These findings demonstrate the potential of AI models to forecast \"regional\" gray swans and the opportunity to improve them through understanding the mechanisms behind their successes/limitations."
-    },
-    {
-      "id": "W7220420648",
-      "title": "Physically consistent and spatially conformalized machine learning for trustworthy flood susceptibility mapping of the 2024 Feni flash flood",
-      "authors": [
-        "Rakib Ahammed Diptho",
-        "Pial Ghosh",
-        "Safiul Haque Chowdhury"
-      ],
-      "journal": "Discover Geoscience",
-      "publicationDate": "2026-10-05",
-      "doi": "https://doi.org/10.1007/s44288-026-00759-0",
-      "openAlexUrl": "https://openalex.org/W7220420648",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 49,
-      "matchedKeywords": [
-        "machine learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Data-driven flood susceptibility mapping (FSM) has converged on a common template: a gradient-boosting classifier, a random train/test split, a global feature-attribution chart, and a five-class map. Using the catastrophic August-2024 Feni flash flood (Bangladesh) with 11 Google-Earth-Engine conditioning factors ( $$n=1{,}510$$ inventory samples; 982, 866 mapped pixels at 30m), we examine three limitations it can obscure. First, random splitting inflates the area under the ROC curve (AUC) by about 0.06–0.09 relative to spatially blocked cross-validation. Second, an unconstrained learner can attain high accuracy while encoding hydrologically implausible response functions, monotone in the physically expected direction on only $$54.5\\%$$ of its response surface. Third, its outputs are neither calibrated nor accompanied by valid uncertainty. The proposed framework injects hydrological priors as hard monotonicity constraints, enforcing physically consistent behaviour at no measurable cost in skill (spatial AUC 0.938; Matthews correlation 0.700). Because the inventory is balanced by design, we report a relative, event-conditioned susceptibility score rather than an absolute occurrence probability. Predictions are calibrated with cross-fitted isotonic regression (expected calibration error 0.150–0.016) with spatially stratified (Mondrian) conformal sets exposing a conditional-coverage degradation under extrapolation (worst-region coverage 0.48 at the 0.90 level). A Physical Consistency Score (PCS) audits whether learned relationships obey their hydrological priors. The imposed directions are additionally confirmed against the observed inundation, and sensitivity analyses over the constraint set, spatial-block count and calibrator leave the conclusions unchanged. Validated against the spatially independent (same-event) observed 2024 inundation extent, the map yields a strictly monotone class-frequency response (observed flooding rising from $$1.0$$ to $$45.4\\%$$ ; AUC 0.75). The contribution reframes FSM around physical consistency, calibrated probability and honest spatial uncertainty."
     }
   ]
 }

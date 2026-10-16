@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:58:56.562Z",
+  "generatedAt": "2026-10-16T04:48:13.875Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7221052844",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 83,
+      "score": 81,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -38,32 +38,25 @@
       "abstractEn": "Groundwater nitrate contamination is a major water-quality concern, with implications for drinking water supplies and groundwater-dependent ecosystems. This study assesses the Duero River basin (Spain), where groundwater nitrate concentrations have increased in recent decades due to intensive agriculture and livestock farming. The probability of elevated groundwater nitrate concentrations was predicted using machine learning, formulated as a binary classification problem with a threshold of 37.5 mg/L. Monitoring data were combined with spatially derived environmental and anthropogenic predictors. Several tree-based algorithms were evaluated, with Random Forest selected for its consistent predictive performance. Model performance was assessed through repeated nested cross-validation and the use of metrics suitable for imbalanced datasets, achieving an AUC of 0.79-0.88 and an F1-score of 0.56-0.70 for the minority class across the three analysed hydrological years. SHAP analysis identified precipitation, diffuse agricultural pressures, distance to surface water bodies, NDVI, and soil properties as the main contributing predictors. Multi-year probability maps showed substantial spatial coherence with officially designated Nitrate Vulnerable Zones (46.9-64.9%), while identifying additional high-probability areas outside them (12.7-23.6%). The integration of explainable machine learning, multi-year spatial modelling, and regulatory comparison provides a framework to support groundwater monitoring, review vulnerable-zone delineation, and prioritise mitigation measures."
     },
     {
-      "id": "W7220363664",
-      "title": "Explainable Deep Learning Reveals Future Changes in East Asian Extreme Winter Predictability",
+      "id": "W7169789343",
+      "title": "Physics vs. AI in weather prediction: evaluating GraphCast, AIFS, and FuXi against an observation-corrected WRF model for flash floods",
       "authors": [
-        "Seo‐Young Jo",
-        "Jeong-Hwan Kim",
-        "Daehyun Kang",
-        "Jae-Heung Park",
-        "Seung‐Ki Min",
-        "Minju Kim",
-        "Mi‐Kyung Sung"
+        "Haseeb ur Rehman",
+        "Felix Norman Teferle"
       ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-10-05",
-      "doi": "https://doi.org/10.1038/s41612-026-01564-9",
-      "openAlexUrl": "https://openalex.org/W7220363664",
+      "journal": "Geoscientific model development",
+      "publicationDate": "2026-10-13",
+      "doi": "https://doi.org/10.5194/gmd-19-9831-2026",
+      "openAlexUrl": "https://openalex.org/W7169789343",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 78,
+      "score": 70,
       "matchedKeywords": [
-        "deep learning",
-        "explainable",
-        "neural network",
-        "tropical pacific"
+        "artificial intelligence",
+        "precipitation"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、neural network、climate、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Deep learning-based approaches have emerged as powerful tools for seasonal prediction, yet their skill remains limited for extreme anomalies, and warming climates may alter predictability sources. Here we present a convolutional neural network (CNN)-based framework to assess how seasonal predictability changes in a future climate, focusing on East Asian extreme winters. Our CNN, trained on CESM2-LENS simulations for historical and SSP3-7.0 scenarios and optimized with Amplitude Focal Loss, reliably captures seasonal mean and extreme temperatures. Overall prediction skill increases in the future climate, with warm winter extremes becoming more predictable while cold extremes show little change. Using Integrated Gradients, an explainable AI method, we show this future asymmetry is linked to enhanced sensitivity of East Asian winter temperatures to tropical Pacific SST under background warming, where warm-phase SST more effectively drives extratropical circulation changes. Our framework provides a useful tool for exploring how seasonal predictability mechanisms evolve under climate change."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、precipitation、temperature、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Data-driven artificial intelligence (AI) weather models are increasingly positioned as alternatives or complements to physics-based numerical weather prediction (NWP) systems, yet systematic model evaluation studies that compare both paradigms under controlled experimental conditions remain limited. Here we present a structured model evaluation framework applying standardised verification metrics to assess a regional WRF configuration against three publicly available AI models – GraphCast, AIFS Single 1.0, and FuXi – over three high-impact flood events in Luxembourg and the Greater Region (2016, 2018, and 2021), comprising 90 simulation days and over 7300 matched forecast-observation pairs. The WRF model employs a three-dimensional variational (3D-VAR) data assimilation scheme ingesting GNSS Zenith Total Delay and conventional observations on a 6-hourly Rapid Update Cycle. All systems are initialised from ERA5 reanalysis to ensure consistent initial conditions. Categorical precipitation scores at the 1 mm threshold and continuous temperature metrics at surface stations serve as verification targets. Data assimilation measurably improves WRF's categorical precipitation skill (Critical Success Index: 0.306 to 0.341) while leaving near-surface temperature largely unchanged, demonstrating the value of the assimilation scheme. AIFS achieves the highest detection rate (POD 0.765) and net categorical skill (CSI 0.370), GraphCast and AIFS reduce temperature RMSE by ~10 % relative to assimilated WRF, and WRF alone reproduces the observed mesoscale precipitation structure of the catastrophic July 2021 flood. The per-event breakdown reveals no skill degradation for AI models on out-of-sample events, suggesting that meteorological regime rather than training-data overlap governs model performance. These results provide a replicable model evaluation methodology for benchmarking emerging data-driven NWP systems against observation-corrected regional models."
     },
     {
       "id": "W7134083210",
@@ -84,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7134083210",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -108,7 +101,7 @@
       "openAlexUrl": "https://openalex.org/W7221437954",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 68,
+      "score": 66,
       "matchedKeywords": [
         "shap",
         "precipitation",
@@ -136,7 +129,7 @@
       "openAlexUrl": "https://openalex.org/W4412845498",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "antarctic",
         "sea ice"
@@ -158,7 +151,7 @@
       "openAlexUrl": "https://openalex.org/W7220743400",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -185,31 +178,12 @@
       "openAlexUrl": "https://openalex.org/W7220953071",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 58,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change and environmental degradation increasingly threaten urban public health, yet monitoring infrastructure is often unavailable in resource-constrained settings. This study develops and critically evaluates a machine learning framework that predicts environmental health-related search behavior , used as a low-cost digital proxy rather than a measure of clinical burden, in Morocco using exclusively open-access global datasets. We integrated five years of weekly data (April 2020 to April 2025) from ERA5 meteorological reanalysis, Copernicus Atmosphere Monitoring Service products, and Google Trends to model binary high-interest states for four search categories: air quality, respiratory conditions, heat-related illness, and allergies. Ensemble models with 71 engineered features achieved strong classification performance (ROC-AUC 0.92 to 0.96) with temporal stability over 52-week horizons. An ablation study showed that this discrimination is carried primarily by the autocorrelated search signal; the environmental reanalysis block added negligible incremental ROC-AUC at national scale, yet retained meaningful standalone signal for the respiratory and air-quality categories while collapsing to near-random for allergy and heat-related illness. This contrast tracks biological plausibility, which varied substantially across categories: respiratory predictions aligned with established epidemiological patterns, whereas heat-related predictions showed weak temperature correspondence and implausible winter peaks. We therefore frame the system as a complementary screening layer pending external validation against clinical endpoints, not as a validated disease-surveillance or operational warning system. Because it relies solely on freely available data, the framework offers a replicable national-scale prototype for environmental health monitoring across North Africa and the Global South, contributing to SDG 3, 11, and 13."
-    },
-    {
-      "id": "W7221524331",
-      "title": "Explainable spatiotemporal Graph Neural Networks: Multi-City PM2.5 forecasting in Bangladesh with geographic graph topology validation",
-      "authors": [
-        "Pritom  Ray Nobin"
-      ],
-      "journal": "PLoS ONE",
-      "publicationDate": "2026-10-12",
-      "doi": "https://doi.org/10.1371/journal.pone.0351928",
-      "openAlexUrl": "https://openalex.org/W7221524331",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 58,
-      "matchedKeywords": [
-        "explainable"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Accurate forecasting of fine particulate matter (PM2.5) is critical for mitigating severe health risks in South Asia, yet it remains challenging in data-scarce regions like Bangladesh. While spatiotemporal graph neural networks (GNNs) offer a promising solution by capturing atmospheric transport, their effectiveness and the physical validity of their assumed spatial graphs have rarely been rigorously tested in such constrained settings. This study addresses this gap by evaluating a graph diffusion gated recurrent unit (GD-GRU) model using four years of daily, multi-source environmental data across a 12-city network. For forecasts up to three days ahead, the GD-GRU achieves an overall mean absolute error of 8.853 µg/m3 and an R2 of 0.666, significantly outperforming non-graph baselines under FDR-corrected Diebold-Mariano testing (p < 0.001). Furthermore, the model significantly outperforms DCRNN when pooled across all forecast horizons (p < 0.001), while remaining closely matched at individual lead times. Crucially, empirical validation of the model's underlying spatial assumptions demonstrates that occlusion-based spatial influence closely tracks the fixed geographic adjacency (r = 0.928, p < 0.001), and this simple distance-based graph outperforms unconstrained adaptive, wind-informed, and hybrid alternatives. Finally, a multi-method explainability framework shows strong rank convergence (Spearman ρ = 0.590 to 0.783), identifying the Green Leaf Index, wind speed, atmospheric pressure, and seasonal encoding as the dominant predictors of PM2.5. These findings confirm that carefully validated, interpretable static graph models can deliver robust air quality forecasts without requiring dense sensor networks, offering a practical template for environmental monitoring in data-limited regions."
     },
     {
       "id": "W7135092399",
@@ -226,12 +200,31 @@
       "openAlexUrl": "https://openalex.org/W7135092399",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "yangtze"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. As climate change increases frequency and intensity of hot extremes, understanding how elevated temperatures influence surface ozone (O3) across different chemical regimes is critical. We combine observations from summer 2022 in the Yangtze River Delta (YRD) with targeted United Kingdom Chemistry and Aerosols (UKCA) Box experiments to quantify and attribute the temperature sensitivity of ground-level O3 in a VOC-limited urban megacity (Shanghai) and a predominantly NOx-limited rural region (Lishui). Observed daily-maximum O3 increases with temperature at both sites, with a stronger response in Shanghai. Two-dimensional T-RH distributions show that O3 rises with temperature and decreases with relative humidity (RH), implying that part of the temperature response is mediated by drying. Factorial box-model experiments separate the roles of temperature-driven shifts in chemical partitioning, diurnal thermal structure, temperature-dependent isoprene emissions, and humidity. In Shanghai, the increase in O3 between 30 °C and 40 °C is dominated by BVOC-driven chemistry, with temperature-amplified isoprene emissions explaining most of the observed response. In Lishui, O3 sensitivity is governed primarily by radical-NOx chemistry and thermal PAN-NOx cycling, with a much smaller role for BVOCs. Fixed RH scenarios substantially reduce the apparent contribution of “thermal chemistry”, highlighting humidity-dependent Ox loss and HOx-NOx cycling as key modifiers of the climate penalty. These regime-specific O3-temperature mechanisms, including BVOC-driven in the urban core, radical-NOx-PAN-driven in the rural area, and significant humidity modulation, provide a process basis for heat-resilient emission controls and demonstrate the value of observation-constrained box models as a bridge to regional chemistry-climate simulations."
+    },
+    {
+      "id": "W7221524331",
+      "title": "Explainable spatiotemporal Graph Neural Networks: Multi-City PM2.5 forecasting in Bangladesh with geographic graph topology validation",
+      "authors": [
+        "Pritom  Ray Nobin"
+      ],
+      "journal": "PLoS ONE",
+      "publicationDate": "2026-10-12",
+      "doi": "https://doi.org/10.1371/journal.pone.0351928",
+      "openAlexUrl": "https://openalex.org/W7221524331",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 56,
+      "matchedKeywords": [
+        "explainable"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Accurate forecasting of fine particulate matter (PM2.5) is critical for mitigating severe health risks in South Asia, yet it remains challenging in data-scarce regions like Bangladesh. While spatiotemporal graph neural networks (GNNs) offer a promising solution by capturing atmospheric transport, their effectiveness and the physical validity of their assumed spatial graphs have rarely been rigorously tested in such constrained settings. This study addresses this gap by evaluating a graph diffusion gated recurrent unit (GD-GRU) model using four years of daily, multi-source environmental data across a 12-city network. For forecasts up to three days ahead, the GD-GRU achieves an overall mean absolute error of 8.853 µg/m3 and an R2 of 0.666, significantly outperforming non-graph baselines under FDR-corrected Diebold-Mariano testing (p < 0.001). Furthermore, the model significantly outperforms DCRNN when pooled across all forecast horizons (p < 0.001), while remaining closely matched at individual lead times. Crucially, empirical validation of the model's underlying spatial assumptions demonstrates that occlusion-based spatial influence closely tracks the fixed geographic adjacency (r = 0.928, p < 0.001), and this simple distance-based graph outperforms unconstrained adaptive, wind-informed, and hybrid alternatives. Finally, a multi-method explainability framework shows strong rank convergence (Spearman ρ = 0.590 to 0.783), identifying the Green Leaf Index, wind speed, atmospheric pressure, and seasonal encoding as the dominant predictors of PM2.5. These findings confirm that carefully validated, interpretable static graph models can deliver robust air quality forecasts without requiring dense sensor networks, offering a practical template for environmental monitoring in data-limited regions."
     },
     {
       "id": "W7220843715",
@@ -249,7 +242,7 @@
       "openAlexUrl": "https://openalex.org/W7220843715",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "artificial intelligence"
       ],
@@ -272,7 +265,7 @@
       "openAlexUrl": "https://openalex.org/W7220846810",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "artificial intelligence"
       ],

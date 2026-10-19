@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:54:37.326Z",
+  "generatedAt": "2026-10-19T05:03:42.991Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -12,30 +12,29 @@
   },
   "papers": [
     {
-      "id": "W7221052844",
-      "title": "Explainable machine learning for spatial modelling of groundwater nitrate contamination: a multi-year analysis in the Duero basin",
+      "id": "W7222619113",
+      "title": "Strengthened relationship between August Laptev Sea ice retreat and September precipitation in Central China since 2005",
       "authors": [
-        "Manuel Rodríguez del Rosario",
-        "Víctor Gómez‐Escalonilla",
-        "Héctor Aguilera",
-        "Pedro Martínez‐Santos",
-        "África de la Hera Portillo"
+        "Linwei Jiang",
+        "Kexu Zhu",
+        "Jianqiu Zheng",
+        "Haojie Wu"
       ],
-      "journal": "International Journal of River Basin Management",
-      "publicationDate": "2026-10-08",
-      "doi": "https://doi.org/10.1080/15715124.2026.2742495",
-      "openAlexUrl": "https://openalex.org/W7221052844",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 78,
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-10-16",
+      "doi": "https://doi.org/10.1038/s41612-026-01568-5",
+      "openAlexUrl": "https://openalex.org/W7222619113",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 74,
       "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap",
-        "precipitation"
+        "precipitation",
+        "plateau",
+        "sea ice",
+        "arctic"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Groundwater nitrate contamination is a major water-quality concern, with implications for drinking water supplies and groundwater-dependent ecosystems. This study assesses the Duero River basin (Spain), where groundwater nitrate concentrations have increased in recent decades due to intensive agriculture and livestock farming. The probability of elevated groundwater nitrate concentrations was predicted using machine learning, formulated as a binary classification problem with a threshold of 37.5 mg/L. Monitoring data were combined with spatially derived environmental and anthropogenic predictors. Several tree-based algorithms were evaluated, with Random Forest selected for its consistent predictive performance. Model performance was assessed through repeated nested cross-validation and the use of metrics suitable for imbalanced datasets, achieving an AUC of 0.79-0.88 and an F1-score of 0.56-0.70 for the minority class across the three analysed hydrological years. SHAP analysis identified precipitation, diffuse agricultural pressures, distance to surface water bodies, NDVI, and soil properties as the main contributing predictors. Multi-year probability maps showed substantial spatial coherence with officially designated Nitrate Vulnerable Zones (46.9-64.9%), while identifying additional high-probability areas outside them (12.7-23.6%). The integration of explainable machine learning, multi-year spatial modelling, and regulatory comparison provides a framework to support groundwater monitoring, review vulnerable-zone delineation, and prioritise mitigation measures."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、ocean、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The intensified interannual variability of September rainfall in Central China has led to increasingly frequent and devastating hydrological disasters over the past two decades. This study identifies the accelerated retreat of August Laptev Sea ice since 2005 as a critical, previously unrecognized precursor for September precipitation in Central China. Diagnostics show that post-2005 sea ice retreat and its heightened interannual variance substantially enhance local ice-ocean-atmosphere coupling compared with pre-2005. The resulting surface warming initiates a persistent “warm Siberia–cold North China” thermal dipole, which suppresses the meridional temperature gradient (MTG) over the Mongolian Plateau. This altered thermal gradient modulates transient eddy activity, driving an equatorward shift of the subtropical westerly jet through transient eddy–mean flow interaction, then strengthening the meridional secondary circulation. This configuration facilitates an anomalous anticyclone over the western North Pacific, with anomalous southwesterly flow on its western flank importing moisture across Central China’s southern boundary. Coupled with deep ascending motion, this process drives enhanced September rainfall. These findings underscore the evolving impact of Arctic cryospheric change on mid-latitude climate, providing valuable insights for seasonal forecasting and water resource management."
     },
     {
       "id": "W7222229536",
@@ -51,7 +50,7 @@
       "openAlexUrl": "https://openalex.org/W7222229536",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -74,7 +73,7 @@
       "openAlexUrl": "https://openalex.org/W7221332518",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "shap",
         "precipitation",
@@ -97,7 +96,7 @@
       "openAlexUrl": "https://openalex.org/W7169789343",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "artificial intelligence",
         "precipitation"
@@ -124,7 +123,7 @@
       "openAlexUrl": "https://openalex.org/W7134083210",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -148,7 +147,7 @@
       "openAlexUrl": "https://openalex.org/W7221437954",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "shap",
         "precipitation",
@@ -156,33 +155,6 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、atmospher、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "ABSTRACT Attributing regional evapotranspiration (ET) and assessing its impacts are critical for understanding land‐atmosphere interactions in climate‐sensitive regions such as northern China. This study fuses six gridded ET products with in situ measurements using Random Forest after excluding poorly representative flux sites. The resulting monthly 0.25° dataset (1980 to 2021) outperforms all original products, reducing the cross‐validation RMSE from 15.15–22.03 mm month −1 to 11.54 mm month −1 . Based on reconstructed ET, significant increasing ET trends ( p < 0.05) are observed on the Loess Plateau and North China Plain, with a mean trend of 13.3 mm (10a) −1 in humid regions. Using XGBoost with SHAP analysis reveals that precipitation dominates ET interannual variability in grasslands and bare lands, accounting for 35.4% to 40.6%. Yet, as a driver of the long‐term ET trend, precipitation is dominant only in about 5% of the region, specifically over bare land in western Inner Mongolia. Instead, NDVI drives ET trends over 52% of northern China, making vegetation greening a primary force enhancing ET under warming. Enhanced ET offsets precipitation‐driven water yield gains most markedly in semi‐arid regions. There, the ET‐induced reduction reaches −11.4 ± 7.7 mm (10a) −1 , exceeding the positive contribution from precipitation (2.3 ± 9.2 mm (10a) −1 ). Meanwhile, ET positively contributes to the Evaporative Stress Index (ET/PET) over semi‐arid regions, generating a coexistence of ecological wetting but hydrological drying. This study provides ecological insights into ET changes and their contrasting hydrological impacts in climate‐sensitive regions."
-    },
-    {
-      "id": "W4412845498",
-      "title": "Antarctic sea ice over the past 130 000 years – Part 2: A review of its role in the Earth system",
-      "authors": [
-        "﻿Zanna Chase",
-        "Karen E. Kohfeld",
-        "Amy R. Leventer",
-        "David Lund",
-        "Xavier Crosta",
-        "Laurie Menviel",
-        "Helen Bostock",
-        "Matthew Chadwick"
-      ],
-      "journal": "Climate of the past",
-      "publicationDate": "2026-10-08",
-      "doi": "https://doi.org/10.5194/cp-22-1881-2026",
-      "openAlexUrl": "https://openalex.org/W4412845498",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 62,
-      "matchedKeywords": [
-        "antarctic",
-        "sea ice"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Antarctic sea-ice cover reached historically low levels in 2023, consistent with the simulated decrease in sea-ice extent in response to anthropogenic warming. Antarctic sea ice is closely linked to multiple components of the Earth system, thus its demise could precipitate widespread, cascading changes across the cryosphere, atmosphere, and ocean. However, the nature and strength of these interconnections are poorly understood, and they are often inadequately represented in models. In this review paper we use modern observations, models and paleoclimate archives covering the last glacial cycle to gain insights into how reductions in sea ice may affect other components of the Earth system. We review how Antarctic sea ice interacts with ocean and atmosphere circulation, ice sheets and ice shelves, marine productivity, and the carbon cycle over the last glacial cycle, for which we have the most robust sea-ice reconstructions. The review finds strong evidence from theory and models for impacts of Antarctic sea ice on the Earth system. Paleo-proxy reconstructions provide examples where changes in sea ice co-occur with changes in the carbon cycle, marine productivity, and ocean circulation. However, challenges remain in isolating the impact of sea ice in a highly interconnected system."
     },
     {
       "id": "W7222076092",
@@ -203,61 +175,13 @@
       "openAlexUrl": "https://openalex.org/W7222076092",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "southern ocean",
         "teleconnection"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、ocean、teleconnection，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Tropical teleconnection associated with El Niño–Southern Oscillation (ENSO) is widely recognized for regulating multiple physical processes in the Southern Ocean. However, despite its influence on Southern Ocean wind patterns, the response of surface flow has received little attention. Here, we investigate surface flow in the Southern Ocean using surface‐drifting buoy trajectories collected during September 2022–May 2023 and November 2023–June 2024. Drifter observations exhibit significant cross‐frontal movements primarily driven by Stokes drift rather than Ekman velocity. The observations also show interannual variability, with strong poleward cross‐frontal flow in 2024 during a strong El Niño event. Further analyses over the past approximately 31 years indicate that ENSO teleconnection is the primary driver of this interannual variability. These findings provide a new perspective on how tropical teleconnection influences cross‐frontal flow via wind waves and highlight their potential role in tracer transport across fronts."
-    },
-    {
-      "id": "W7220953071",
-      "title": "Predicting environmental health-related search patterns using freely available digital and reanalysis data: A critical evaluation of Google Trends and global datasets for Morocco",
-      "authors": [
-        "Ayoub Lahlouh",
-        "Jérôme Chenal",
-        "Naoufal El Hachlafi",
-        "Mariem Bounabi",
-        "Mohammed Dalli",
-        "Mohamed Adou Sidi Almouctar",
-        "Mohammed Hlal",
-        "Rida Azmi"
-      ],
-      "journal": "City and Environment Interactions",
-      "publicationDate": "2026-10-08",
-      "doi": "https://doi.org/10.1016/j.cacint.2026.100488",
-      "openAlexUrl": "https://openalex.org/W7220953071",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 55,
-      "matchedKeywords": [
-        "machine learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change and environmental degradation increasingly threaten urban public health, yet monitoring infrastructure is often unavailable in resource-constrained settings. This study develops and critically evaluates a machine learning framework that predicts environmental health-related search behavior , used as a low-cost digital proxy rather than a measure of clinical burden, in Morocco using exclusively open-access global datasets. We integrated five years of weekly data (April 2020 to April 2025) from ERA5 meteorological reanalysis, Copernicus Atmosphere Monitoring Service products, and Google Trends to model binary high-interest states for four search categories: air quality, respiratory conditions, heat-related illness, and allergies. Ensemble models with 71 engineered features achieved strong classification performance (ROC-AUC 0.92 to 0.96) with temporal stability over 52-week horizons. An ablation study showed that this discrimination is carried primarily by the autocorrelated search signal; the environmental reanalysis block added negligible incremental ROC-AUC at national scale, yet retained meaningful standalone signal for the respiratory and air-quality categories while collapsing to near-random for allergy and heat-related illness. This contrast tracks biological plausibility, which varied substantially across categories: respiratory predictions aligned with established epidemiological patterns, whereas heat-related predictions showed weak temperature correspondence and implausible winter peaks. We therefore frame the system as a complementary screening layer pending external validation against clinical endpoints, not as a validated disease-surveillance or operational warning system. Because it relies solely on freely available data, the framework offers a replicable national-scale prototype for environmental health monitoring across North Africa and the Global South, contributing to SDG 3, 11, and 13."
-    },
-    {
-      "id": "W7135092399",
-      "title": "Summertime ozone sensitivity to temperature in China: observational evidence and mechanistic attribution in urban and rural areas in the Yangtze River Delta region",
-      "authors": [
-        "Chang Su",
-        "Massimo Alberto Bollasina",
-        "James Weber",
-        "David S. Stevenson"
-      ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-10-13",
-      "doi": "https://doi.org/10.5194/acp-26-14439-2026",
-      "openAlexUrl": "https://openalex.org/W7135092399",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 54,
-      "matchedKeywords": [
-        "yangtze"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. As climate change increases frequency and intensity of hot extremes, understanding how elevated temperatures influence surface ozone (O3) across different chemical regimes is critical. We combine observations from summer 2022 in the Yangtze River Delta (YRD) with targeted United Kingdom Chemistry and Aerosols (UKCA) Box experiments to quantify and attribute the temperature sensitivity of ground-level O3 in a VOC-limited urban megacity (Shanghai) and a predominantly NOx-limited rural region (Lishui). Observed daily-maximum O3 increases with temperature at both sites, with a stronger response in Shanghai. Two-dimensional T-RH distributions show that O3 rises with temperature and decreases with relative humidity (RH), implying that part of the temperature response is mediated by drying. Factorial box-model experiments separate the roles of temperature-driven shifts in chemical partitioning, diurnal thermal structure, temperature-dependent isoprene emissions, and humidity. In Shanghai, the increase in O3 between 30 °C and 40 °C is dominated by BVOC-driven chemistry, with temperature-amplified isoprene emissions explaining most of the observed response. In Lishui, O3 sensitivity is governed primarily by radical-NOx chemistry and thermal PAN-NOx cycling, with a much smaller role for BVOCs. Fixed RH scenarios substantially reduce the apparent contribution of “thermal chemistry”, highlighting humidity-dependent Ox loss and HOx-NOx cycling as key modifiers of the climate penalty. These regime-specific O3-temperature mechanisms, including BVOC-driven in the urban core, radical-NOx-PAN-driven in the rural area, and significant humidity modulation, provide a process basis for heat-resilient emission controls and demonstrate the value of observation-constrained box models as a bridge to regional chemistry-climate simulations."
     },
     {
       "id": "W7221524331",
@@ -271,7 +195,7 @@
       "openAlexUrl": "https://openalex.org/W7221524331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "explainable"
       ],
@@ -293,12 +217,34 @@
       "openAlexUrl": "https://openalex.org/W4417493356",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. The selection of optimal physical parameterization schemes is a major source of uncertainty in WRF model simulations. A comprehensive evaluation of model performance requires simultaneous consideration of multiple output variables. However, existing multivariate approaches often rely on subjective or overly simplistic equal-weighting strategies and lack an objective mechanism to quantify variable importance. Such limitations can obscure significant biases in poorly simulated variables. To overcome this issue, this study proposes an objective dynamic weighting method for multivariate evaluation. The method employs a two-layer weighting framework based on two statistical metrics: the mean relative error, which measures the simulation accuracy of a variable, and the coefficient of variation of the absolute error, which reflects the sensitivity of a variable to the physical process under evaluation. The approach is applied and validated in assessing WRF parameterization schemes across two climatically distinct environments: the arid Northwest and the humid coastal Southeast of China. The results show that the method assigns greater weights to poorly simulated variables, such as precipitation and wind speed, thereby enabling the identification of more physically plausible and robust parameterization scheme combinations. Compared with the equal-weighting method, the scheme combinations obtained using this approach produce a lower Multivariate Integrated Evaluation Index (MIEI), a higher correlation coefficient (R), a lower Root Mean Square Error (RMSE), and exhibit superior performance in independent extreme-year validations. By dynamically incorporating both simulation performance and sensitivity specific to each variable, the method offers a more rigorous and objective framework for model evaluation and uncertainty reduction."
+    },
+    {
+      "id": "W7135092399",
+      "title": "Summertime ozone sensitivity to temperature in China: observational evidence and mechanistic attribution in urban and rural areas in the Yangtze River Delta region",
+      "authors": [
+        "Chang Su",
+        "Massimo Alberto Bollasina",
+        "James Weber",
+        "David S. Stevenson"
+      ],
+      "journal": "Atmospheric chemistry and physics",
+      "publicationDate": "2026-10-13",
+      "doi": "https://doi.org/10.5194/acp-26-14439-2026",
+      "openAlexUrl": "https://openalex.org/W7135092399",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 52,
+      "matchedKeywords": [
+        "yangtze"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. As climate change increases frequency and intensity of hot extremes, understanding how elevated temperatures influence surface ozone (O3) across different chemical regimes is critical. We combine observations from summer 2022 in the Yangtze River Delta (YRD) with targeted United Kingdom Chemistry and Aerosols (UKCA) Box experiments to quantify and attribute the temperature sensitivity of ground-level O3 in a VOC-limited urban megacity (Shanghai) and a predominantly NOx-limited rural region (Lishui). Observed daily-maximum O3 increases with temperature at both sites, with a stronger response in Shanghai. Two-dimensional T-RH distributions show that O3 rises with temperature and decreases with relative humidity (RH), implying that part of the temperature response is mediated by drying. Factorial box-model experiments separate the roles of temperature-driven shifts in chemical partitioning, diurnal thermal structure, temperature-dependent isoprene emissions, and humidity. In Shanghai, the increase in O3 between 30 °C and 40 °C is dominated by BVOC-driven chemistry, with temperature-amplified isoprene emissions explaining most of the observed response. In Lishui, O3 sensitivity is governed primarily by radical-NOx chemistry and thermal PAN-NOx cycling, with a much smaller role for BVOCs. Fixed RH scenarios substantially reduce the apparent contribution of “thermal chemistry”, highlighting humidity-dependent Ox loss and HOx-NOx cycling as key modifiers of the climate penalty. These regime-specific O3-temperature mechanisms, including BVOC-driven in the urban core, radical-NOx-PAN-driven in the rural area, and significant humidity modulation, provide a process basis for heat-resilient emission controls and demonstrate the value of observation-constrained box models as a bridge to regional chemistry-climate simulations."
     }
   ]
 }

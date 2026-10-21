@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:05:42.120Z",
+  "generatedAt": "2026-10-21T05:07:14.390Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,31 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7222899420",
+      "title": "Neogene birth of the Yangtze River: a synthesis of zircon U-Pb provenance data",
+      "authors": [
+        "Lin Xu",
+        "Haijin Liu",
+        "Li Jing"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-10-18",
+      "doi": "https://doi.org/10.1038/s41598-026-76534-5",
+      "openAlexUrl": "https://openalex.org/W7222899420",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 81,
+      "matchedKeywords": [
+        "east asia",
+        "monsoon",
+        "yangtze",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、monsoon，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The evolution of the Yangtze River is key to deciphering tectonic-climate-geomorphology coupling in East Asia, yet its integration age, whether Eocene, Miocene, or Quaternary, remains hotly contested. To constrain the timing of final Yangtze River integration, this study compiles 11,346 Phanerozoic zircon U-Pb ages from the Yangtze catchment, spanning multiple basins, orogenic belts, and modern river sediments. The results reveal that the diagnostic 45–35 Ma zircon U-Pb age peak from the upper reaches is absent from Paleogene strata in the middle-lower reaches, indicating that detritus from the upper Yangtze River had not yet reached the lower reaches during the Paleogene. However, Neogene strata in the Jianghan (25–18 Ma) and the East China Sea basins (20–10 Ma) show, for the first time, characteristic age peaks at 40–32, 20, and 18–16 Ma, which can be traced back to bedrock sources in the Jinsha and Dadu river catchments. These findings establish that the Yangtze River achieved its final integration during the Early Miocene, refuting Eocene and Quaternary models. Neogene fault reactivation (20–10 Ma) and monsoon intensification along the southeastern Tibetan Plateau generated the topographic relief and hydraulic power that drove river incision and transcontinental sediment routing."
+    },
     {
       "id": "W7222619113",
       "title": "Strengthened relationship between August Laptev Sea ice retreat and September precipitation in Central China since 2005",
@@ -26,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7222619113",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "precipitation",
         "plateau",
@@ -50,38 +75,13 @@
       "openAlexUrl": "https://openalex.org/W7222229536",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "machine learning",
         "explainable"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、hydrolog、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract This study applies a grid-based, explainable machine learning framework to identify dominant flood-influencing factors under hydrologically heterogeneous conditions, using Jeju Island as a representative volcanic environment. Historical flood trace maps were integrated with multi-layer spatial datasets to classify flooded and non-flooded grid cells at a 100 m resolution using five tree-based algorithms. The models achieved recall and F1-scores of up to 0.86 and 0.78, respectively. Feature-importance and explainability analyses demonstrate that the dominance of flood-influencing factors varies across spatial contexts, with hydrometeorological conditions acting as the primary drivers and spatial exposure and proximity-based factors contributing in a region-specific manner. The results highlight diagnostic insights into the primary drivers of flooding and suggest that factors which may be underrepresented in conventional rainfall-centric assessments can exert substantial influences on flood occurrence."
-    },
-    {
-      "id": "W7221332518",
-      "title": "Long-term changes and attribution of lake water levels on the Tibetan Plateau revealed by multisource satellite altimetry data",
-      "authors": [
-        "Ziyue Dou",
-        "Xin Luo",
-        "Chenyu Sun",
-        "Zhiqiang Xie"
-      ],
-      "journal": "Science of Remote Sensing",
-      "publicationDate": "2026-10-10",
-      "doi": "https://doi.org/10.1016/j.srs.2026.100523",
-      "openAlexUrl": "https://openalex.org/W7221332518",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 66,
-      "matchedKeywords": [
-        "shap",
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "ABSTRACT Monitoring Tibetan Plateau (TP) lakes is constrained by harsh environments and methodological limitations. To overcome the limited spatiotemporal coverage of single-mission satellite altimetry and the shortcomings of conventional linear analyses, we integrated CryoSat-2 and Sentinel-3A/B altimetry observations with a multilevel robust anomaly-detection framework to generate water-level time series for 11 representative TP lakes (2010–2026). Seasonal-Trend Decomposition using LOESS (STL) and an XGBoost–SHapley Additive exPlanations(SHAP) framework was subsequently employed to characterize spatiotemporal variations and assess nonlinear associations with five hydrometeorological factors. The generated time series showed strong agreement with in-situ observations (R > 0.94, RMSE: 0.07–0.11 m). Over the 16-year study period, more than 80% of the investigated lakes exhibited sustained water-level increases, with a regional mean rate of 0.27 m yr -1 . However, lake trajectories recent lake trajectories diverged, with some showing accelerated rises and others displaying decelerating or reversed trends. Intra-annual variability also intensified: the mean seasonal amplitude increased by 48.6% (0.17 m) during the last five years. Attribution analysis revealed substantial spatial heterogeneity. While statistical modeling indicated that precipitation (32.5%) and groundwater (21.6%) made the largest regional contributions within the XGBoost framework, individual lakes exhibited predominantly precipitation-dominated, thermal-loss-sensitive, or groundwater-associated response patterns. These contrasting patterns are likely modulated by differences in basin topography, lake morphology, and local geological settings. These findings provide an improved basis for estimating lake-water-storage changes, assessing long-term water-level trends, monitoring overflow and flood hazards, and investigating interactions among lake ecosystems, climate variability, and regional water resources across the TP."
     },
     {
       "id": "W7169789343",
@@ -96,7 +96,7 @@
       "openAlexUrl": "https://openalex.org/W7169789343",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "artificial intelligence",
         "precipitation"
@@ -123,7 +123,7 @@
       "openAlexUrl": "https://openalex.org/W7134083210",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -147,7 +147,7 @@
       "openAlexUrl": "https://openalex.org/W7221437954",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "shap",
         "precipitation",
@@ -175,7 +175,7 @@
       "openAlexUrl": "https://openalex.org/W7222076092",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 56,
+      "score": 54,
       "matchedKeywords": [
         "southern ocean",
         "teleconnection"
@@ -198,7 +198,7 @@
       "openAlexUrl": "https://openalex.org/W7135092399",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 51,
+      "score": 50,
       "matchedKeywords": [
         "yangtze"
       ],
@@ -217,7 +217,7 @@
       "openAlexUrl": "https://openalex.org/W7221524331",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "explainable"
       ],
@@ -239,7 +239,7 @@
       "openAlexUrl": "https://openalex.org/W4417493356",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "precipitation"
       ],

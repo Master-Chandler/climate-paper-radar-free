@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:10:15.022Z",
+  "generatedAt": "2026-10-23T05:10:00.814Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,30 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7223134167",
+      "title": "A snow-jet bridging mechanism driving the Afro-Asian summer monsoon precipitation dipole",
+      "authors": [
+        "Chao Zhang",
+        "Anmin Duan"
+      ],
+      "journal": "npj Climate and Atmospheric Science",
+      "publicationDate": "2026-10-21",
+      "doi": "https://doi.org/10.1038/s41612-026-01582-7",
+      "openAlexUrl": "https://openalex.org/W7223134167",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 85,
+      "matchedKeywords": [
+        "causal",
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
+    },
     {
       "id": "W7222899420",
       "title": "Neogene birth of the Yangtze River: a synthesis of zircon U-Pb provenance data",
@@ -25,7 +49,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -51,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7222619113",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "precipitation",
         "plateau",
@@ -75,7 +99,7 @@
       "openAlexUrl": "https://openalex.org/W7222229536",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "machine learning",
         "explainable"
@@ -96,40 +120,13 @@
       "openAlexUrl": "https://openalex.org/W7169789343",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "artificial intelligence",
         "precipitation"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、precipitation、temperature、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Data-driven artificial intelligence (AI) weather models are increasingly positioned as alternatives or complements to physics-based numerical weather prediction (NWP) systems, yet systematic model evaluation studies that compare both paradigms under controlled experimental conditions remain limited. Here we present a structured model evaluation framework applying standardised verification metrics to assess a regional WRF configuration against three publicly available AI models – GraphCast, AIFS Single 1.0, and FuXi – over three high-impact flood events in Luxembourg and the Greater Region (2016, 2018, and 2021), comprising 90 simulation days and over 7300 matched forecast-observation pairs. The WRF model employs a three-dimensional variational (3D-VAR) data assimilation scheme ingesting GNSS Zenith Total Delay and conventional observations on a 6-hourly Rapid Update Cycle. All systems are initialised from ERA5 reanalysis to ensure consistent initial conditions. Categorical precipitation scores at the 1 mm threshold and continuous temperature metrics at surface stations serve as verification targets. Data assimilation measurably improves WRF's categorical precipitation skill (Critical Success Index: 0.306 to 0.341) while leaving near-surface temperature largely unchanged, demonstrating the value of the assimilation scheme. AIFS achieves the highest detection rate (POD 0.765) and net categorical skill (CSI 0.370), GraphCast and AIFS reduce temperature RMSE by ~10 % relative to assimilated WRF, and WRF alone reproduces the observed mesoscale precipitation structure of the catastrophic July 2021 flood. The per-event breakdown reveals no skill degradation for AI models on out-of-sample events, suggesting that meteorological regime rather than training-data overlap governs model performance. These results provide a replicable model evaluation methodology for benchmarking emerging data-driven NWP systems against observation-corrected regional models."
-    },
-    {
-      "id": "W7134083210",
-      "title": "Cloud vertical structure across China from a national Ka-band cloud radar network: thermodynamic, dynamical, and land-surface controls",
-      "authors": [
-        "Hui Xu",
-        "Jianping Guo",
-        "Jianbo Deng",
-        "Rongfang Yang",
-        "Deli Meng",
-        "Zhen Zhang",
-        "Ning Li",
-        "Yuping Sun"
-      ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-10-12",
-      "doi": "https://doi.org/10.5194/acp-26-14303-2026",
-      "openAlexUrl": "https://openalex.org/W7134083210",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 61,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、hydrolog、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Cloud vertical structure plays a central role in regulating Earth’s radiation balance and hydrological cycle, yet it remains poorly represented in weather and climate models due to limited high-resolution observations. Using a newly established national network of 80 Ka-band cloud radars, we provide the first high-spatiotemporal-resolution characterization of cloud vertical structure across China for 2024 and quantify its thermodynamic, dynamical, and land-surface controls. An improved retrieval algorithm accounting for height-dependent radar sensitivity and clutter suppression is applied to derive cloud boundaries. The national annual mean cloud occurrence frequency is 56.7 %, dominated by single-layer clouds (34.7 %), followed by two-layer (14.7 %) and multi-layer clouds (7.1 %). Single-layer clouds prevail over arid northwestern China, whereas multi-layer clouds are more frequent in humid southeastern regions. Cloud base height exhibits strong seasonality, with higher values in summer and lower values in winter, and distinctly lower bases over the Tibetan Plateau. Diurnally, summer clouds show a pronounced afternoon peak between 3 and 9 km, while winter clouds are mainly confined below 3 km with a near-sunrise maximum. Thermodynamic conditions exert primary control on cloud vertical development. Higher low-level humidity favors deeper clouds and higher tops, whereas stronger lower-tropospheric stability suppresses vertical growth. Wind shear generally limits cloud depth, though moderate shear may enhance organization under unstable conditions. Land-surface characteristics further modulate cloud base height, with higher bases over barren land and lower bases over forests. These results provide national-scale observational benchmarks for improving cloud parameterizations in numerical models."
     },
     {
       "id": "W7222076092",
@@ -150,57 +147,13 @@
       "openAlexUrl": "https://openalex.org/W7222076092",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "southern ocean",
         "teleconnection"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、ocean、teleconnection，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Tropical teleconnection associated with El Niño–Southern Oscillation (ENSO) is widely recognized for regulating multiple physical processes in the Southern Ocean. However, despite its influence on Southern Ocean wind patterns, the response of surface flow has received little attention. Here, we investigate surface flow in the Southern Ocean using surface‐drifting buoy trajectories collected during September 2022–May 2023 and November 2023–June 2024. Drifter observations exhibit significant cross‐frontal movements primarily driven by Stokes drift rather than Ekman velocity. The observations also show interannual variability, with strong poleward cross‐frontal flow in 2024 during a strong El Niño event. Further analyses over the past approximately 31 years indicate that ENSO teleconnection is the primary driver of this interannual variability. These findings provide a new perspective on how tropical teleconnection influences cross‐frontal flow via wind waves and highlight their potential role in tracer transport across fronts."
-    },
-    {
-      "id": "W4417493356",
-      "title": "A performance-based multivariable weighting framework for WRF parameterization-scheme selection",
-      "authors": [
-        "Tian‐Yu Gou",
-        "Yaoyang Deng",
-        "Jun Niu",
-        "Shaozhong Kang"
-      ],
-      "journal": "Geoscientific model development",
-      "publicationDate": "2026-10-15",
-      "doi": "https://doi.org/10.5194/gmd-19-9879-2026",
-      "openAlexUrl": "https://openalex.org/W4417493356",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 48,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. The selection of optimal physical parameterization schemes is a major source of uncertainty in WRF model simulations. A comprehensive evaluation of model performance requires simultaneous consideration of multiple output variables. However, existing multivariate approaches often rely on subjective or overly simplistic equal-weighting strategies and lack an objective mechanism to quantify variable importance. Such limitations can obscure significant biases in poorly simulated variables. To overcome this issue, this study proposes an objective dynamic weighting method for multivariate evaluation. The method employs a two-layer weighting framework based on two statistical metrics: the mean relative error, which measures the simulation accuracy of a variable, and the coefficient of variation of the absolute error, which reflects the sensitivity of a variable to the physical process under evaluation. The approach is applied and validated in assessing WRF parameterization schemes across two climatically distinct environments: the arid Northwest and the humid coastal Southeast of China. The results show that the method assigns greater weights to poorly simulated variables, such as precipitation and wind speed, thereby enabling the identification of more physically plausible and robust parameterization scheme combinations. Compared with the equal-weighting method, the scheme combinations obtained using this approach produce a lower Multivariate Integrated Evaluation Index (MIEI), a higher correlation coefficient (R), a lower Root Mean Square Error (RMSE), and exhibit superior performance in independent extreme-year validations. By dynamically incorporating both simulation performance and sensitivity specific to each variable, the method offers a more rigorous and objective framework for model evaluation and uncertainty reduction."
-    },
-    {
-      "id": "W7135092399",
-      "title": "Summertime ozone sensitivity to temperature in China: observational evidence and mechanistic attribution in urban and rural areas in the Yangtze River Delta region",
-      "authors": [
-        "Chang Su",
-        "Massimo Alberto Bollasina",
-        "James Weber",
-        "David S. Stevenson"
-      ],
-      "journal": "Atmospheric chemistry and physics",
-      "publicationDate": "2026-10-13",
-      "doi": "https://doi.org/10.5194/acp-26-14439-2026",
-      "openAlexUrl": "https://openalex.org/W7135092399",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 48,
-      "matchedKeywords": [
-        "yangtze"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. As climate change increases frequency and intensity of hot extremes, understanding how elevated temperatures influence surface ozone (O3) across different chemical regimes is critical. We combine observations from summer 2022 in the Yangtze River Delta (YRD) with targeted United Kingdom Chemistry and Aerosols (UKCA) Box experiments to quantify and attribute the temperature sensitivity of ground-level O3 in a VOC-limited urban megacity (Shanghai) and a predominantly NOx-limited rural region (Lishui). Observed daily-maximum O3 increases with temperature at both sites, with a stronger response in Shanghai. Two-dimensional T-RH distributions show that O3 rises with temperature and decreases with relative humidity (RH), implying that part of the temperature response is mediated by drying. Factorial box-model experiments separate the roles of temperature-driven shifts in chemical partitioning, diurnal thermal structure, temperature-dependent isoprene emissions, and humidity. In Shanghai, the increase in O3 between 30 °C and 40 °C is dominated by BVOC-driven chemistry, with temperature-amplified isoprene emissions explaining most of the observed response. In Lishui, O3 sensitivity is governed primarily by radical-NOx chemistry and thermal PAN-NOx cycling, with a much smaller role for BVOCs. Fixed RH scenarios substantially reduce the apparent contribution of “thermal chemistry”, highlighting humidity-dependent Ox loss and HOx-NOx cycling as key modifiers of the climate penalty. These regime-specific O3-temperature mechanisms, including BVOC-driven in the urban core, radical-NOx-PAN-driven in the rural area, and significant humidity modulation, provide a process basis for heat-resilient emission controls and demonstrate the value of observation-constrained box models as a bridge to regional chemistry-climate simulations."
     }
   ]
 }

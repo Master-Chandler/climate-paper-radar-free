@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:10:00.814Z",
+  "generatedAt": "2026-10-24T04:52:54.437Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -24,7 +24,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 85,
+      "score": 84,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -49,7 +49,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -75,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7222619113",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "plateau",
@@ -99,34 +99,13 @@
       "openAlexUrl": "https://openalex.org/W7222229536",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "explainable"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、hydrolog、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract This study applies a grid-based, explainable machine learning framework to identify dominant flood-influencing factors under hydrologically heterogeneous conditions, using Jeju Island as a representative volcanic environment. Historical flood trace maps were integrated with multi-layer spatial datasets to classify flooded and non-flooded grid cells at a 100 m resolution using five tree-based algorithms. The models achieved recall and F1-scores of up to 0.86 and 0.78, respectively. Feature-importance and explainability analyses demonstrate that the dominance of flood-influencing factors varies across spatial contexts, with hydrometeorological conditions acting as the primary drivers and spatial exposure and proximity-based factors contributing in a region-specific manner. The results highlight diagnostic insights into the primary drivers of flooding and suggest that factors which may be underrepresented in conventional rainfall-centric assessments can exert substantial influences on flood occurrence."
-    },
-    {
-      "id": "W7169789343",
-      "title": "Physics vs. AI in weather prediction: evaluating GraphCast, AIFS, and FuXi against an observation-corrected WRF model for flash floods",
-      "authors": [
-        "Haseeb ur Rehman",
-        "Felix Norman Teferle"
-      ],
-      "journal": "Geoscientific model development",
-      "publicationDate": "2026-10-13",
-      "doi": "https://doi.org/10.5194/gmd-19-9831-2026",
-      "openAlexUrl": "https://openalex.org/W7169789343",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 60,
-      "matchedKeywords": [
-        "artificial intelligence",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、precipitation、temperature、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Data-driven artificial intelligence (AI) weather models are increasingly positioned as alternatives or complements to physics-based numerical weather prediction (NWP) systems, yet systematic model evaluation studies that compare both paradigms under controlled experimental conditions remain limited. Here we present a structured model evaluation framework applying standardised verification metrics to assess a regional WRF configuration against three publicly available AI models – GraphCast, AIFS Single 1.0, and FuXi – over three high-impact flood events in Luxembourg and the Greater Region (2016, 2018, and 2021), comprising 90 simulation days and over 7300 matched forecast-observation pairs. The WRF model employs a three-dimensional variational (3D-VAR) data assimilation scheme ingesting GNSS Zenith Total Delay and conventional observations on a 6-hourly Rapid Update Cycle. All systems are initialised from ERA5 reanalysis to ensure consistent initial conditions. Categorical precipitation scores at the 1 mm threshold and continuous temperature metrics at surface stations serve as verification targets. Data assimilation measurably improves WRF's categorical precipitation skill (Critical Success Index: 0.306 to 0.341) while leaving near-surface temperature largely unchanged, demonstrating the value of the assimilation scheme. AIFS achieves the highest detection rate (POD 0.765) and net categorical skill (CSI 0.370), GraphCast and AIFS reduce temperature RMSE by ~10 % relative to assimilated WRF, and WRF alone reproduces the observed mesoscale precipitation structure of the catastrophic July 2021 flood. The per-event breakdown reveals no skill degradation for AI models on out-of-sample events, suggesting that meteorological regime rather than training-data overlap governs model performance. These results provide a replicable model evaluation methodology for benchmarking emerging data-driven NWP systems against observation-corrected regional models."
     },
     {
       "id": "W7222076092",
@@ -147,7 +126,7 @@
       "openAlexUrl": "https://openalex.org/W7222076092",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 52,
+      "score": 51,
       "matchedKeywords": [
         "southern ocean",
         "teleconnection"

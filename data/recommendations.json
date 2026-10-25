@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:52:54.437Z",
+  "generatedAt": "2026-10-25T05:03:47.806Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,64 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7223234038",
+      "title": "Cutting-edge trends in drought prediction and mitigation using ensemble learning and augmented XAI: a meteorological study",
+      "authors": [
+        "Megha Rathi",
+        "Dr. Shailendra Mishra",
+        "Naif S. Alshammari",
+        "Himani Agrawal",
+        "Ehtesham Ashraf"
+      ],
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-10-22",
+      "doi": "https://doi.org/10.1038/s41598-026-69632-x",
+      "openAlexUrl": "https://openalex.org/W7223234038",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 95,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap",
+        "artificial intelligence",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Drought affects more than 60% of India's population, reducing agricultural productivity, straining water resources, and threatening socioeconomic stability. This study proposes an interpretable one-month-ahead meteorological drought prediction framework by integrating class-weighted ensemble machine learning with SHAP and LIME explainable artificial intelligence (XAI). Historical meteorological observations (1972–2022) obtained from the Zenodo climate database were analyzed for 49 districts across five drought-prone Indian states (Bihar, Maharashtra, Gujarat, Andhra Pradesh, and Karnataka). After generating lagged meteorological features (t − 1 to t − 6) and addressing severe class imbalance (7.07% drought events), multiple machine learning classifiers were evaluated. The class-weighted XGBoost model (scale_pos_weight ≈ 11.90, without SMOTE) achieved the best overall performance on the independent 2016–2022 test dataset, with an accuracy of 95.7%, macro precision of 84.7%, macro recall of 81.0%, macro F1-score of 82.7%, and a PR-AUC of 0.647 on the highly imbalanced test set (outperforming both unweighted training and SMOTE-based approaches). SHAP and LIME consistently identified lagged Standardized Precipitation Index (SPI), lagged precipitation, vapour pressure, and wet-day frequency as the most influential drivers of drought occurrence. Exploratory temporal analysis further revealed declining wet-day frequency in Karnataka, increasing vapour pressure in Andhra Pradesh, and substantial climatic variability across the study regions. The proposed framework combines accurate drought prediction with transparent model interpretation, providing a practical decision-support tool for district-level drought early warning, water resource management, and climate-resilient agricultural planning in India."
+    },
+    {
+      "id": "W7223132196",
+      "title": "Decadal variability of the integrated warm-wet conditions over China and its modulation by the pacific decadal oscillation",
+      "authors": [
+        "Xinping Yang",
+        "Fei Ji",
+        "Shaobo Zhang",
+        "Jun Chang",
+        "Shujuan Hu",
+        "M Luo",
+        "Yuheng Chen",
+        "Xiaodan Guan"
+      ],
+      "journal": "Frontiers in Environmental Science",
+      "publicationDate": "2026-10-21",
+      "doi": "https://doi.org/10.3389/fenvs.2026.1992362",
+      "openAlexUrl": "https://openalex.org/W7223132196",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 83,
+      "matchedKeywords": [
+        "east asia",
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "teleconnection",
+        "pacific decadal oscillation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、precipitation、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The integrated warm-wet conditions across China, represented by the Warm-Wet Index (WWI), exhibit pronounced interdecadal variability during 1960–2022. Understanding the large-scale climatic drivers of this variability is essential for elucidating the mechanisms underlying long-term climate changes over China. In this study, Ensemble Empirical Mode Decomposition (EEMD) was applied to extract the interdecadal component of the WWI and investigate its relationship with the Pacific Decadal Oscillation (PDO). The association between the nationally averaged WWI and the PDO index was examined, together with the corresponding sea surface temperature anomalies and atmospheric circulation patterns, to explore the physical mechanisms linking PDO variability to regional warm-wet conditions. The nationally averaged WWI exhibits a significant correlation with the PDO index, indicating a robust interdecadal association between oceanic variability and regional climate over China. During positive PDO phases, sea surface temperature anomalies in the tropical central-eastern Pacific and the Indian Ocean are associated with an East Asia–Pacific (EAP)-like teleconnection pattern, accompanied by anomalous cyclonic circulation over most of China. This circulation favors enhanced upward motion and moisture convergence over southeastern China, Northeast China, and northern Xinjiang, thereby increasing precipitation and strengthening warm-wet conditions. Conversely, anomalous subsidence prevails over North China and the Tibetan Plateau, suppressing precipitation and weakening the WWI. These contrasting regional responses produce a distinct meridional tripole pattern in the WWI, with enhanced warm-wet conditions in Northeast China, northern Xinjiang, and southeastern coastal regions, and weakened warm-wet conditions over North China and the Tibetan Plateau. Opposite spatial patterns occur during negative PDO phases. The results suggest that the PDO modulates interdecadal warm-wet variability over China primarily through atmospheric circulation changes that influence precipitation. This ocean–atmosphere–land linkage provides further insight into the mechanisms governing long-term climate variability over China and offers a scientific basis for climate risk assessment and adaptation in the context of ongoing global warming."
+    },
     {
       "id": "W7223134167",
       "title": "A snow-jet bridging mechanism driving the Afro-Asian summer monsoon precipitation dipole",
@@ -24,7 +82,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 84,
+      "score": 83,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -34,6 +92,35 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
+    },
+    {
+      "id": "W7223132667",
+      "title": "Regional moisture conditions and mid- to late-Holocene wildfire variability along the southeastern margin of the Tibetan Plateau",
+      "authors": [
+        "Pengrui Yang",
+        "Yuesong Gao",
+        "胡翠月",
+        "Lingyang Kong",
+        "Guangjie Chen",
+        "Jiaxuan Chen",
+        "Ruikang Li",
+        "Junjie Ma"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "publicationDate": "2026-10-21",
+      "doi": "https://doi.org/10.3389/feart.2026.1963785",
+      "openAlexUrl": "https://openalex.org/W7223132667",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 78,
+      "matchedKeywords": [
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Wildfire is a major disturbance in terrestrial ecosystems. Previous studies have shown that since the Last Glacial Maximum, wildfire activity across the East Asian and Indian summer monsoon regions has been closely associated with precipitation variability on suborbital to millennial timescales. However, continuous records of long-term wildfire dynamics and their relationships with regional moisture variability remain scarce in the alpine regions along the southeastern margin of the Tibetan Plateau. In this study, a composite fire activity index (FAI) was constructed by integrating the fluxes of levoglucosan (Lev), mannosan (Man), and galactosan (Gan) measured in a sediment core from Wodi Co, northwestern Yunnan, China. The molecular wildfire record was evaluated together with paleolimnological proxies (Ca/Si, Fe/Mn, Zr/Rb, total organic carbon (TOC) and >64 μm grain-size fraction), TraCE21k-simulated moisture-related climate variables, and records of large-scale atmospheric circulation to reconstruct regional wildfire variability over the past approximately 4.5 kyr. The results indicate that wildfire activity was particularly intense between ∼2.9 and 2.0 kyr BP. During this interval, enhanced lake-water concentration, more oxic sedimentary conditions, and reduced precipitation collectively point to regional drought, while sedimentary organic-carbon accumulation remained relatively low. These findings suggest that wildfire activity was primarily associated with the regional moisture variability in the alpine area of northwestern Yunnan, consistent with paleofire records from southern and southwestern China. From a large-scale circulation perspective, variability in the Indian summer monsoon and ENSO may have jointly influenced the climatic background of wildfire season moisture conditions. Since 2 kyr BP, wildfire activity has generally remained low, broadly consistent with the widespread monsoon reorganization and the shift towards wetter conditions recorded across the Asian monsoon domain. This study provides new sedimentary evidence for understanding long-term linkages between wildfire activity and regional moisture conditions along the southeastern margin of the Tibetan Plateau."
     },
     {
       "id": "W7222899420",
@@ -49,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -75,7 +162,7 @@
       "openAlexUrl": "https://openalex.org/W7222619113",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "precipitation",
         "plateau",
@@ -99,13 +186,32 @@
       "openAlexUrl": "https://openalex.org/W7222229536",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "machine learning",
         "explainable"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、hydrolog、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract This study applies a grid-based, explainable machine learning framework to identify dominant flood-influencing factors under hydrologically heterogeneous conditions, using Jeju Island as a representative volcanic environment. Historical flood trace maps were integrated with multi-layer spatial datasets to classify flooded and non-flooded grid cells at a 100 m resolution using five tree-based algorithms. The models achieved recall and F1-scores of up to 0.86 and 0.78, respectively. Feature-importance and explainability analyses demonstrate that the dominance of flood-influencing factors varies across spatial contexts, with hydrometeorological conditions acting as the primary drivers and spatial exposure and proximity-based factors contributing in a region-specific manner. The results highlight diagnostic insights into the primary drivers of flooding and suggest that factors which may be underrepresented in conventional rainfall-centric assessments can exert substantial influences on flood occurrence."
+    },
+    {
+      "id": "W7223043298",
+      "title": "Challenges posed by the digital twin of the ocean to the benefit-sharing mechanism for digital sequence information on marine genetic resources under the BBNJ Agreement and corresponding responses",
+      "authors": [
+        "Jun Zhang"
+      ],
+      "journal": "Frontiers in Marine Science",
+      "publicationDate": "2026-10-20",
+      "doi": "https://doi.org/10.3389/fmars.2026.1966759",
+      "openAlexUrl": "https://openalex.org/W7223043298",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 55,
+      "matchedKeywords": [
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "A Digital Twin of the Ocean (DTO), as a cutting-edge product of the interdisciplinary integration of marine science and data science, is transforming the generation and use of digital sequence information on marine genetic resources (DSI on MGRs), thereby posing new challenges to the benefit-sharing mechanism established under the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement). Drawing on doctrinal legal analysis, this article argues that although the BBNJ Agreement establishes a basic framework for benefit-sharing with respect to digital sequence information (DSI) on marine genetic resources (MGRs), it still contains deficiencies regarding the definition of DSI, the scope of application, and the notification mechanism. Characterized by data hybridity, multi-source integration, data fusion, real-time processing, and artificial intelligence (AI) driven data generation, DTOs further complicate benefit-sharing with respect to DSI under the BBNJ Agreement. Specifically, it is difficult to determine whether particular data or information generated within DTOs constitute DSI on MGRs under the BBNJ Agreement; the data-related rights and interests are increasingly complex; and both the design and implementation of the benefit-sharing mechanism face greater challenges. To address these issues, a progressive approach to defining DSI should be adopted, a hierarchical and classified data management mechanism should be further refined, a tiered periodic fee should be selected as the monetary benefit-sharing modality, and both the Clearing-House Mechanism and the traceability monitoring system should be strengthened, thereby promoting the objective of fair and equitable benefit-sharing under the BBNJ Agreement."
     },
     {
       "id": "W7222076092",
@@ -126,7 +232,7 @@
       "openAlexUrl": "https://openalex.org/W7222076092",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 51,
+      "score": 49,
       "matchedKeywords": [
         "southern ocean",
         "teleconnection"

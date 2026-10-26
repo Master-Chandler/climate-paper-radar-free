@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:03:47.806Z",
+  "generatedAt": "2026-10-26T05:07:29.906Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 95,
+      "score": 94,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -37,6 +37,59 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Drought affects more than 60% of India's population, reducing agricultural productivity, straining water resources, and threatening socioeconomic stability. This study proposes an interpretable one-month-ahead meteorological drought prediction framework by integrating class-weighted ensemble machine learning with SHAP and LIME explainable artificial intelligence (XAI). Historical meteorological observations (1972–2022) obtained from the Zenodo climate database were analyzed for 49 districts across five drought-prone Indian states (Bihar, Maharashtra, Gujarat, Andhra Pradesh, and Karnataka). After generating lagged meteorological features (t − 1 to t − 6) and addressing severe class imbalance (7.07% drought events), multiple machine learning classifiers were evaluated. The class-weighted XGBoost model (scale_pos_weight ≈ 11.90, without SMOTE) achieved the best overall performance on the independent 2016–2022 test dataset, with an accuracy of 95.7%, macro precision of 84.7%, macro recall of 81.0%, macro F1-score of 82.7%, and a PR-AUC of 0.647 on the highly imbalanced test set (outperforming both unweighted training and SMOTE-based approaches). SHAP and LIME consistently identified lagged Standardized Precipitation Index (SPI), lagged precipitation, vapour pressure, and wet-day frequency as the most influential drivers of drought occurrence. Exploratory temporal analysis further revealed declining wet-day frequency in Karnataka, increasing vapour pressure in Andhra Pradesh, and substantial climatic variability across the study regions. The proposed framework combines accurate drought prediction with transparent model interpretation, providing a practical decision-support tool for district-level drought early warning, water resource management, and climate-resilient agricultural planning in India."
+    },
+    {
+      "id": "W7223413087",
+      "title": "Tibetan Plateau uplift increased western North Pacific tropical cyclone frequency",
+      "authors": [
+        "Tingyu Zhang",
+        "Tianjun Zhou",
+        "Linqiang He",
+        "Zhun Guo",
+        "Zikun Ren",
+        "Jie Jiang"
+      ],
+      "journal": "Nature Communications",
+      "publicationDate": "2026-10-23",
+      "doi": "https://doi.org/10.1038/s41467-026-78480-2",
+      "openAlexUrl": "https://openalex.org/W7223413087",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 88,
+      "matchedKeywords": [
+        "east asia",
+        "monsoon",
+        "tibetan plateau",
+        "high mountain asia",
+        "plateau",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、high mountain asia、plateau、atmospher、monsoon，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Nearly one-third of global tropical cyclones (TCs) form over the western North Pacific (WNP), with severe hazards impacting Southeast and East Asia. TC genesis over the WNP underwent substantial shifts during the Cenozoic, yet the underlying mechanisms remain unclear. Here we show that Tibetan Plateau uplift was crucial in shaping the present-day WNP TC genesis pattern. With the present-day land-sea configuration and sea surface temperature prescribed, Tibetan Plateau uplift from early Eocene to modern elevations accounts for nearly half of the simulated increase in TC frequency between the early Eocene and present day. Mechanistically, Tibetan Plateau uplift generates an eastward-propagating Rossby wave train, enhancing the WNP subtropical high and thereby intensifying the monsoon trough. The amplified moisture supply and reinforced upward motion within the monsoon trough collectively favor TC genesis and intensification. Our findings underscore the pivotal role of High Mountain Asia in the Cenozoic evolution of TC frequency over the WNP. Tropical cyclogenesis over the western North Pacific was largely absent in the Eocene (~55 million years ago) but has increased over time, with Tibetan Plateau uplift acting as a key driver in this evolutionary process via reshaping large-scale atmospheric circulation."
+    },
+    {
+      "id": "W7223121456",
+      "title": "Artificial Intelligence–Driven Precision Agriculture Systems: Engineering Frameworks for Climate-Resilient Food Production",
+      "authors": [
+        "Olumayowa J. Iyanda",
+        "Oluwadare OYEBODE",
+        "Iretiayo Adelaiye",
+        "Ayomide Afolabi"
+      ],
+      "journal": "ABUAD Journal of Engineering Research and Development (AJERD)",
+      "publicationDate": "2026-10-21",
+      "doi": "https://doi.org/10.53982/ajerd.2026.01.14-j",
+      "openAlexUrl": "https://openalex.org/W7223121456",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 81,
+      "matchedKeywords": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change, soil issues, water scarcity, and the increasing need for food worldwide mean we need smart farming systems that can manage resources flexibly. Old farming methods used the same inputs and simple rules for decisions. AI can help us manage resources better by adapting and optimizing them as we deal with complex environmental factors. This paper looks closely at AI-powered precision agriculture systems designed to make food production more resilient to changing weather. The authors reviewed research from 2021 to 2026 in agricultural engineering, computer engineering, and environmental systems. The authors examined how machine learning, deep learning, reinforcement learning, computer vision, robotics, and IoT sensors are used for predicting crop yields, spotting diseases, improving irrigation, managing nutrients, and automating field tasks. Our analysis shows that hybrid deep learning models (CNN-LSTM) are better than single models for predicting crop yields over space and time. Reinforcement learning algorithms are also better at adjusting irrigation cycles when weather is unpredictable. Using edge computing for system design reduces delays and improves real-time decision-making compared to traditional cloud-based systems. However, there are still big challenges with understanding how AI models work, having enough diverse data, ensuring cybersecurity, setting common standards, and making these systems affordable, especially in developing countries. To tackle these problems, we suggest a framework that combines AI analysis, distributed sensor networks, adaptive controls, and climate risk assessments. The authors provided critical insights into essential research gaps and outline a technological roadmap towards achieving sustainable, resilient and intelligent agricultural systems."
     },
     {
       "id": "W7223132196",
@@ -57,7 +110,7 @@
       "openAlexUrl": "https://openalex.org/W7223132196",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 83,
+      "score": 81,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -82,7 +135,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 83,
+      "score": 81,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -112,7 +165,7 @@
       "openAlexUrl": "https://openalex.org/W7223132667",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -136,7 +189,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -162,7 +215,7 @@
       "openAlexUrl": "https://openalex.org/W7222619113",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "precipitation",
         "plateau",
@@ -171,28 +224,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、ocean、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The intensified interannual variability of September rainfall in Central China has led to increasingly frequent and devastating hydrological disasters over the past two decades. This study identifies the accelerated retreat of August Laptev Sea ice since 2005 as a critical, previously unrecognized precursor for September precipitation in Central China. Diagnostics show that post-2005 sea ice retreat and its heightened interannual variance substantially enhance local ice-ocean-atmosphere coupling compared with pre-2005. The resulting surface warming initiates a persistent “warm Siberia–cold North China” thermal dipole, which suppresses the meridional temperature gradient (MTG) over the Mongolian Plateau. This altered thermal gradient modulates transient eddy activity, driving an equatorward shift of the subtropical westerly jet through transient eddy–mean flow interaction, then strengthening the meridional secondary circulation. This configuration facilitates an anomalous anticyclone over the western North Pacific, with anomalous southwesterly flow on its western flank importing moisture across Central China’s southern boundary. Coupled with deep ascending motion, this process drives enhanced September rainfall. These findings underscore the evolving impact of Arctic cryospheric change on mid-latitude climate, providing valuable insights for seasonal forecasting and water resource management."
-    },
-    {
-      "id": "W7222229536",
-      "title": "Diagnosing region-specific flood influencing factors in a volcanic island using explainable machine learning",
-      "authors": [
-        "Hyeon‐Tae Moon",
-        "Gilho Kim",
-        "Kyungtak Kim"
-      ],
-      "journal": "Natural Hazards",
-      "publicationDate": "2026-10-15",
-      "doi": "https://doi.org/10.1007/s11069-026-08426-w",
-      "openAlexUrl": "https://openalex.org/W7222229536",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 62,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、hydrolog、rainfall，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract This study applies a grid-based, explainable machine learning framework to identify dominant flood-influencing factors under hydrologically heterogeneous conditions, using Jeju Island as a representative volcanic environment. Historical flood trace maps were integrated with multi-layer spatial datasets to classify flooded and non-flooded grid cells at a 100 m resolution using five tree-based algorithms. The models achieved recall and F1-scores of up to 0.86 and 0.78, respectively. Feature-importance and explainability analyses demonstrate that the dominance of flood-influencing factors varies across spatial contexts, with hydrometeorological conditions acting as the primary drivers and spatial exposure and proximity-based factors contributing in a region-specific manner. The results highlight diagnostic insights into the primary drivers of flooding and suggest that factors which may be underrepresented in conventional rainfall-centric assessments can exert substantial influences on flood occurrence."
     },
     {
       "id": "W7223043298",
@@ -206,39 +237,12 @@
       "openAlexUrl": "https://openalex.org/W7223043298",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 55,
+      "score": 53,
       "matchedKeywords": [
         "artificial intelligence"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、ocean，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "A Digital Twin of the Ocean (DTO), as a cutting-edge product of the interdisciplinary integration of marine science and data science, is transforming the generation and use of digital sequence information on marine genetic resources (DSI on MGRs), thereby posing new challenges to the benefit-sharing mechanism established under the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement). Drawing on doctrinal legal analysis, this article argues that although the BBNJ Agreement establishes a basic framework for benefit-sharing with respect to digital sequence information (DSI) on marine genetic resources (MGRs), it still contains deficiencies regarding the definition of DSI, the scope of application, and the notification mechanism. Characterized by data hybridity, multi-source integration, data fusion, real-time processing, and artificial intelligence (AI) driven data generation, DTOs further complicate benefit-sharing with respect to DSI under the BBNJ Agreement. Specifically, it is difficult to determine whether particular data or information generated within DTOs constitute DSI on MGRs under the BBNJ Agreement; the data-related rights and interests are increasingly complex; and both the design and implementation of the benefit-sharing mechanism face greater challenges. To address these issues, a progressive approach to defining DSI should be adopted, a hierarchical and classified data management mechanism should be further refined, a tiered periodic fee should be selected as the monetary benefit-sharing modality, and both the Clearing-House Mechanism and the traceability monitoring system should be strengthened, thereby promoting the objective of fair and equitable benefit-sharing under the BBNJ Agreement."
-    },
-    {
-      "id": "W7222076092",
-      "title": "ENSO's Imprint on the Southern Ocean: Wind Waves Drive Surface Cross‐Frontal Flow",
-      "authors": [
-        "송하진",
-        "Jae‐Hun Park",
-        "Jae‐Hun Park",
-        "Jeong‐Yeob Chae",
-        "Kathleen Donohue",
-        "D. Randolph Watts",
-        "Ahyoung Ku",
-        "Kiduk Kim"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-10-15",
-      "doi": "https://doi.org/10.1029/2026gl124921",
-      "openAlexUrl": "https://openalex.org/W7222076092",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 49,
-      "matchedKeywords": [
-        "southern ocean",
-        "teleconnection"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern ocean、ocean、teleconnection，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Tropical teleconnection associated with El Niño–Southern Oscillation (ENSO) is widely recognized for regulating multiple physical processes in the Southern Ocean. However, despite its influence on Southern Ocean wind patterns, the response of surface flow has received little attention. Here, we investigate surface flow in the Southern Ocean using surface‐drifting buoy trajectories collected during September 2022–May 2023 and November 2023–June 2024. Drifter observations exhibit significant cross‐frontal movements primarily driven by Stokes drift rather than Ekman velocity. The observations also show interannual variability, with strong poleward cross‐frontal flow in 2024 during a strong El Niño event. Further analyses over the past approximately 31 years indicate that ENSO teleconnection is the primary driver of this interannual variability. These findings provide a new perspective on how tropical teleconnection influences cross‐frontal flow via wind waves and highlight their potential role in tracer transport across fronts."
     }
   ]
 }

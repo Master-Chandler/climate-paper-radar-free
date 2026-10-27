@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:07:29.906Z",
+  "generatedAt": "2026-10-27T05:22:03.103Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 94,
+      "score": 92,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 88,
+      "score": 86,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -66,30 +66,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、high mountain asia、plateau、atmospher、monsoon，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Nearly one-third of global tropical cyclones (TCs) form over the western North Pacific (WNP), with severe hazards impacting Southeast and East Asia. TC genesis over the WNP underwent substantial shifts during the Cenozoic, yet the underlying mechanisms remain unclear. Here we show that Tibetan Plateau uplift was crucial in shaping the present-day WNP TC genesis pattern. With the present-day land-sea configuration and sea surface temperature prescribed, Tibetan Plateau uplift from early Eocene to modern elevations accounts for nearly half of the simulated increase in TC frequency between the early Eocene and present day. Mechanistically, Tibetan Plateau uplift generates an eastward-propagating Rossby wave train, enhancing the WNP subtropical high and thereby intensifying the monsoon trough. The amplified moisture supply and reinforced upward motion within the monsoon trough collectively favor TC genesis and intensification. Our findings underscore the pivotal role of High Mountain Asia in the Cenozoic evolution of TC frequency over the WNP. Tropical cyclogenesis over the western North Pacific was largely absent in the Eocene (~55 million years ago) but has increased over time, with Tibetan Plateau uplift acting as a key driver in this evolutionary process via reshaping large-scale atmospheric circulation."
-    },
-    {
-      "id": "W7223121456",
-      "title": "Artificial Intelligence–Driven Precision Agriculture Systems: Engineering Frameworks for Climate-Resilient Food Production",
-      "authors": [
-        "Olumayowa J. Iyanda",
-        "Oluwadare OYEBODE",
-        "Iretiayo Adelaiye",
-        "Ayomide Afolabi"
-      ],
-      "journal": "ABUAD Journal of Engineering Research and Development (AJERD)",
-      "publicationDate": "2026-10-21",
-      "doi": "https://doi.org/10.53982/ajerd.2026.01.14-j",
-      "openAlexUrl": "https://openalex.org/W7223121456",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 81,
-      "matchedKeywords": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change, soil issues, water scarcity, and the increasing need for food worldwide mean we need smart farming systems that can manage resources flexibly. Old farming methods used the same inputs and simple rules for decisions. AI can help us manage resources better by adapting and optimizing them as we deal with complex environmental factors. This paper looks closely at AI-powered precision agriculture systems designed to make food production more resilient to changing weather. The authors reviewed research from 2021 to 2026 in agricultural engineering, computer engineering, and environmental systems. The authors examined how machine learning, deep learning, reinforcement learning, computer vision, robotics, and IoT sensors are used for predicting crop yields, spotting diseases, improving irrigation, managing nutrients, and automating field tasks. Our analysis shows that hybrid deep learning models (CNN-LSTM) are better than single models for predicting crop yields over space and time. Reinforcement learning algorithms are also better at adjusting irrigation cycles when weather is unpredictable. Using edge computing for system design reduces delays and improves real-time decision-making compared to traditional cloud-based systems. However, there are still big challenges with understanding how AI models work, having enough diverse data, ensuring cybersecurity, setting common standards, and making these systems affordable, especially in developing countries. To tackle these problems, we suggest a framework that combines AI analysis, distributed sensor networks, adaptive controls, and climate risk assessments. The authors provided critical insights into essential research gaps and outline a technological roadmap towards achieving sustainable, resilient and intelligent agricultural systems."
     },
     {
       "id": "W7223132196",
@@ -110,7 +86,7 @@
       "openAlexUrl": "https://openalex.org/W7223132196",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -135,7 +111,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -145,6 +121,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
+    },
+    {
+      "id": "W7223121456",
+      "title": "Artificial Intelligence–Driven Precision Agriculture Systems: Engineering Frameworks for Climate-Resilient Food Production",
+      "authors": [
+        "Olumayowa J. Iyanda",
+        "Oluwadare OYEBODE",
+        "Iretiayo Adelaiye",
+        "Ayomide Afolabi"
+      ],
+      "journal": "ABUAD Journal of Engineering Research and Development (AJERD)",
+      "publicationDate": "2026-10-21",
+      "doi": "https://doi.org/10.53982/ajerd.2026.01.14-j",
+      "openAlexUrl": "https://openalex.org/W7223121456",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 79,
+      "matchedKeywords": [
+        "machine learning",
+        "deep learning",
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate change, soil issues, water scarcity, and the increasing need for food worldwide mean we need smart farming systems that can manage resources flexibly. Old farming methods used the same inputs and simple rules for decisions. AI can help us manage resources better by adapting and optimizing them as we deal with complex environmental factors. This paper looks closely at AI-powered precision agriculture systems designed to make food production more resilient to changing weather. The authors reviewed research from 2021 to 2026 in agricultural engineering, computer engineering, and environmental systems. The authors examined how machine learning, deep learning, reinforcement learning, computer vision, robotics, and IoT sensors are used for predicting crop yields, spotting diseases, improving irrigation, managing nutrients, and automating field tasks. Our analysis shows that hybrid deep learning models (CNN-LSTM) are better than single models for predicting crop yields over space and time. Reinforcement learning algorithms are also better at adjusting irrigation cycles when weather is unpredictable. Using edge computing for system design reduces delays and improves real-time decision-making compared to traditional cloud-based systems. However, there are still big challenges with understanding how AI models work, having enough diverse data, ensuring cybersecurity, setting common standards, and making these systems affordable, especially in developing countries. To tackle these problems, we suggest a framework that combines AI analysis, distributed sensor networks, adaptive controls, and climate risk assessments. The authors provided critical insights into essential research gaps and outline a technological roadmap towards achieving sustainable, resilient and intelligent agricultural systems."
     },
     {
       "id": "W7223132667",
@@ -165,7 +165,7 @@
       "openAlexUrl": "https://openalex.org/W7223132667",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -189,7 +189,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -201,29 +201,26 @@
       "abstractEn": "The evolution of the Yangtze River is key to deciphering tectonic-climate-geomorphology coupling in East Asia, yet its integration age, whether Eocene, Miocene, or Quaternary, remains hotly contested. To constrain the timing of final Yangtze River integration, this study compiles 11,346 Phanerozoic zircon U-Pb ages from the Yangtze catchment, spanning multiple basins, orogenic belts, and modern river sediments. The results reveal that the diagnostic 45–35 Ma zircon U-Pb age peak from the upper reaches is absent from Paleogene strata in the middle-lower reaches, indicating that detritus from the upper Yangtze River had not yet reached the lower reaches during the Paleogene. However, Neogene strata in the Jianghan (25–18 Ma) and the East China Sea basins (20–10 Ma) show, for the first time, characteristic age peaks at 40–32, 20, and 18–16 Ma, which can be traced back to bedrock sources in the Jinsha and Dadu river catchments. These findings establish that the Yangtze River achieved its final integration during the Early Miocene, refuting Eocene and Quaternary models. Neogene fault reactivation (20–10 Ma) and monsoon intensification along the southeastern Tibetan Plateau generated the topographic relief and hydraulic power that drove river incision and transcontinental sediment routing."
     },
     {
-      "id": "W7222619113",
-      "title": "Strengthened relationship between August Laptev Sea ice retreat and September precipitation in Central China since 2005",
+      "id": "W7223569148",
+      "title": "A multi-source earth observation and artificial intelligence framework for unsupervised water-use anomaly screening in Mediterranean agriculture",
       "authors": [
-        "Linwei Jiang",
-        "Kexu Zhu",
-        "Jianqiu Zheng",
-        "Haojie Wu"
+        "Elena Kakoulli",
+        "Anastasios Antoniades",
+        "Stelios P. Neophytides"
       ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-10-16",
-      "doi": "https://doi.org/10.1038/s41612-026-01568-5",
-      "openAlexUrl": "https://openalex.org/W7222619113",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 64,
+      "journal": "Scientific Reports",
+      "publicationDate": "2026-10-25",
+      "doi": "https://doi.org/10.1038/s41598-026-76069-9",
+      "openAlexUrl": "https://openalex.org/W7223569148",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 70,
       "matchedKeywords": [
-        "precipitation",
-        "plateau",
-        "sea ice",
-        "arctic"
+        "artificial intelligence",
+        "neural network"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、atmospher、ocean、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The intensified interannual variability of September rainfall in Central China has led to increasingly frequent and devastating hydrological disasters over the past two decades. This study identifies the accelerated retreat of August Laptev Sea ice since 2005 as a critical, previously unrecognized precursor for September precipitation in Central China. Diagnostics show that post-2005 sea ice retreat and its heightened interannual variance substantially enhance local ice-ocean-atmosphere coupling compared with pre-2005. The resulting surface warming initiates a persistent “warm Siberia–cold North China” thermal dipole, which suppresses the meridional temperature gradient (MTG) over the Mongolian Plateau. This altered thermal gradient modulates transient eddy activity, driving an equatorward shift of the subtropical westerly jet through transient eddy–mean flow interaction, then strengthening the meridional secondary circulation. This configuration facilitates an anomalous anticyclone over the western North Pacific, with anomalous southwesterly flow on its western flank importing moisture across Central China’s southern boundary. Coupled with deep ascending motion, this process drives enhanced September rainfall. These findings underscore the evolving impact of Arctic cryospheric change on mid-latitude climate, providing valuable insights for seasonal forecasting and water resource management."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
     },
     {
       "id": "W7223043298",
@@ -237,7 +234,7 @@
       "openAlexUrl": "https://openalex.org/W7223043298",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 53,
+      "score": 52,
       "matchedKeywords": [
         "artificial intelligence"
       ],

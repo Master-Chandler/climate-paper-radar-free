@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:22:03.103Z",
+  "generatedAt": "2026-10-28T06:00:45.503Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 92,
+      "score": 91,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -55,7 +55,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -86,7 +86,7 @@
       "openAlexUrl": "https://openalex.org/W7223132196",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -111,7 +111,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -137,7 +137,7 @@
       "openAlexUrl": "https://openalex.org/W7223121456",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -165,7 +165,7 @@
       "openAlexUrl": "https://openalex.org/W7223132667",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -174,6 +174,26 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Wildfire is a major disturbance in terrestrial ecosystems. Previous studies have shown that since the Last Glacial Maximum, wildfire activity across the East Asian and Indian summer monsoon regions has been closely associated with precipitation variability on suborbital to millennial timescales. However, continuous records of long-term wildfire dynamics and their relationships with regional moisture variability remain scarce in the alpine regions along the southeastern margin of the Tibetan Plateau. In this study, a composite fire activity index (FAI) was constructed by integrating the fluxes of levoglucosan (Lev), mannosan (Man), and galactosan (Gan) measured in a sediment core from Wodi Co, northwestern Yunnan, China. The molecular wildfire record was evaluated together with paleolimnological proxies (Ca/Si, Fe/Mn, Zr/Rb, total organic carbon (TOC) and >64 μm grain-size fraction), TraCE21k-simulated moisture-related climate variables, and records of large-scale atmospheric circulation to reconstruct regional wildfire variability over the past approximately 4.5 kyr. The results indicate that wildfire activity was particularly intense between ∼2.9 and 2.0 kyr BP. During this interval, enhanced lake-water concentration, more oxic sedimentary conditions, and reduced precipitation collectively point to regional drought, while sedimentary organic-carbon accumulation remained relatively low. These findings suggest that wildfire activity was primarily associated with the regional moisture variability in the alpine area of northwestern Yunnan, consistent with paleofire records from southern and southwestern China. From a large-scale circulation perspective, variability in the Indian summer monsoon and ENSO may have jointly influenced the climatic background of wildfire season moisture conditions. Since 2 kyr BP, wildfire activity has generally remained low, broadly consistent with the widespread monsoon reorganization and the shift towards wetter conditions recorded across the Asian monsoon domain. This study provides new sedimentary evidence for understanding long-term linkages between wildfire activity and regional moisture conditions along the southeastern margin of the Tibetan Plateau."
+    },
+    {
+      "id": "W7223575395",
+      "title": "HelioDA-XFE: ERA5-Based Solar Radiation Estimation and PV Potential Classification over Eastern Anatolia, Türkiye",
+      "authors": [
+        "Ertuğrul Gül"
+      ],
+      "journal": "Firat University Journal of Experimental and Computational Engineering",
+      "publicationDate": "2026-10-25",
+      "doi": "https://doi.org/10.62520/fujece.1994408",
+      "openAlexUrl": "https://openalex.org/W7223575395",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 73,
+      "matchedKeywords": [
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
     },
     {
       "id": "W7222899420",
@@ -189,7 +209,7 @@
       "openAlexUrl": "https://openalex.org/W7222899420",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -214,7 +234,7 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
@@ -234,7 +254,7 @@
       "openAlexUrl": "https://openalex.org/W7223043298",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 52,
+      "score": 50,
       "matchedKeywords": [
         "artificial intelligence"
       ],

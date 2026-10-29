@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T06:00:45.503Z",
+  "generatedAt": "2026-10-29T06:11:10.925Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,30 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7224009858",
+      "title": "Explainable deep learning for predicting temperature breaks and identifying their causal drivers in fresh produce cold chains",
+      "authors": [
+        "Jeremiah Taguta",
+        "Jean Frederic Isingizwe Nturambirwe",
+        "Clement Nyirenda"
+      ],
+      "journal": "Frontiers in Artificial Intelligence",
+      "publicationDate": "2026-10-27",
+      "doi": "https://doi.org/10.3389/frai.2026.1893108",
+      "openAlexUrl": "https://openalex.org/W7224009858",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 93,
+      "matchedKeywords": [
+        "machine learning",
+        "deep learning",
+        "explainable",
+        "causal"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、causal、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Introduction This study proposes an integrated framework combining deep learning, causal discovery, explainability, and domain thresholds for proactive monitoring in temperature-sensitive fresh fruits and vegetables cold chains, a domain that remains largely unexplored. The framework predicts temperature breaks (a critical physical hazard that compromises food safety and accelerates postharvest losses), prospectively identifies their causal drivers, and prioritizes countermeasures. Methods Using two IoT-gathered datasets from an Apple cold room in South Africa, eight machine learning models and three baselines were compared for temperature prediction, including a proposed LSTM-GRU hybrid (LSGR) model. Causal relationships between measured parameters and predicted temperature were identified using Latent Peter & Clark Momentary Conditional Independence (LPCMCI; compared with PCMCI). At the same time, SHapley Additive exPlanations quantified feature importance, and domain-based thresholds complemented them for countermeasure prioritization after temperature-break prediction (TBP). Results On the extended dataset, deep neural networks' (DNN) R 2 and normalized mean squared error improved by up to 30% and to 61%, respectively, over the smaller dataset, demonstrating strong generalizability to substantially different cold room operating conditions. The LSGR demonstrated the best overall performance across both temperature and TBP tasks among the recurrent models assessed, raising the fewest false alarms per day. All DNNs flagged breaks in advance; no baseline did. LPCMCI recovered most direct causal links after break prediction, especially for lagged temperature, identifying it as the dominant factor associated with predicted breaks. Notably, post-TBP, causality, importance, and thresholds strongly agreed on the same top two critical parameters or countermeasures (temperature and humidity), providing consistent and actionable insights for decision-making. Discussion These findings demonstrate the viability of combining causal discovery, explainability and thresholds for cold chain management, with implications for reducing food wastage and enhancing quality, safety, and sustainability from farm to fork in temperature-sensitive FFVs supply chains. LPCMCI recovered a few links overall, indicating the influence of unmeasured drivers and warranting further investigation, including additional features, their interactions, and seasonal data, as well as a fuller characterization of causality-regime dependence."
+    },
     {
       "id": "W7223234038",
       "title": "Cutting-edge trends in drought prediction and mitigation using ensemble learning and augmented XAI: a meteorological study",
@@ -27,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 89,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -37,6 +61,34 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Drought affects more than 60% of India's population, reducing agricultural productivity, straining water resources, and threatening socioeconomic stability. This study proposes an interpretable one-month-ahead meteorological drought prediction framework by integrating class-weighted ensemble machine learning with SHAP and LIME explainable artificial intelligence (XAI). Historical meteorological observations (1972–2022) obtained from the Zenodo climate database were analyzed for 49 districts across five drought-prone Indian states (Bihar, Maharashtra, Gujarat, Andhra Pradesh, and Karnataka). After generating lagged meteorological features (t − 1 to t − 6) and addressing severe class imbalance (7.07% drought events), multiple machine learning classifiers were evaluated. The class-weighted XGBoost model (scale_pos_weight ≈ 11.90, without SMOTE) achieved the best overall performance on the independent 2016–2022 test dataset, with an accuracy of 95.7%, macro precision of 84.7%, macro recall of 81.0%, macro F1-score of 82.7%, and a PR-AUC of 0.647 on the highly imbalanced test set (outperforming both unweighted training and SMOTE-based approaches). SHAP and LIME consistently identified lagged Standardized Precipitation Index (SPI), lagged precipitation, vapour pressure, and wet-day frequency as the most influential drivers of drought occurrence. Exploratory temporal analysis further revealed declining wet-day frequency in Karnataka, increasing vapour pressure in Andhra Pradesh, and substantial climatic variability across the study regions. The proposed framework combines accurate drought prediction with transparent model interpretation, providing a practical decision-support tool for district-level drought early warning, water resource management, and climate-resilient agricultural planning in India."
+    },
+    {
+      "id": "W7223649481",
+      "title": "High- and low-latitude forcing on precipitation variations over the central Qilian Mountains since 18.5 ka",
+      "authors": [
+        "Yun Cai",
+        "Jingran Zhang",
+        "Liangqing Cheng",
+        "Xianqiang Meng",
+        "Liang Yi",
+        "Hao Long"
+      ],
+      "journal": "Quaternary Science Reviews",
+      "publicationDate": "2026-10-26",
+      "doi": "https://doi.org/10.1016/j.quascirev.2026.110343",
+      "openAlexUrl": "https://openalex.org/W7223649481",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 88,
+      "matchedKeywords": [
+        "east asia",
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、monsoon、precipitation、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The moisture of the northeastern Tibetan Plateau is jointly shaped by the East Asian Summer Monsoon (EASM) and the mid-latitude Westerlies, the two key atmospheric circulation systems originating from low- and high-latitudes, respectively. Modern observations demonstrate that the intensity change and meridional position of the Westerlies directly modulate the EASM precipitation, which sustains vast human populations and ecosystems across East Asia. However, the interaction between these two systems over geological time remains controversial, partly due to controversies in the reconstructed past precipitation intensity. Here, we present a high-resolution multi-proxy loess record (ZES) spanning the past 18.5 ka from the central Qilian Mountains, located in the monsoon marginal zone where both systems jointly operate. We first found that loess–paleosol carbonate δ 18 O of ZES record captures a summer signal and covaries inversely with δ 13 C, which tracks monsoon precipitation intensity. Together with comparisons between modern observations and geological records, this constrains EASM-dominated precipitation. We then establish a robust EASM index from multiple independent proxies including magnetic susceptibility, total carbonate content, dolomite content, carbonate δ 13 C, and colour reflectance. Our results reveal that EASM precipitation responded to combined high- and low-latitude forcing on both millennial timescales during the Last Deglaciation and orbital timescales manifested in the long-term trend since 18.5 ka, with the pre-Boreal oscillation offering complementary insights into early-Holocene centennial-scale interactions. The EASM precipitation intensity was suppressed during the Last Deglaciation, strengthened gradually through the early Holocene, peaked from ∼7.5 to 1.8 ka, and subsequently declined. Direct comparison of Westerlies and EASM signals retrieved from the same loess sequence reveals coupled interaction between the two systems since the mid-late Holocene, with westerly intensification accompanying monsoon strengthening. These findings indicate bidirectional linkage between high- and low-latitude systems and further suggest that, under continued global warming, the monsoon marginal zone of northwestern China may experience a progressive increase in precipitation."
     },
     {
       "id": "W7223413087",
@@ -55,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 85,
+      "score": 83,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -86,7 +138,7 @@
       "openAlexUrl": "https://openalex.org/W7223132196",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -111,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -121,6 +173,28 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
+    },
+    {
+      "id": "W7223369016",
+      "title": "Explainable Multi-Source Machine Learning for PM₂.₅ Mapping Across Indonesian Cities: Integrating Satellite, Meteorological, Land-Surface and Fire Information",
+      "authors": [
+        "Rio Rinaldy",
+        "Siti Hapsah Pahira"
+      ],
+      "journal": "Jurnal Indonesia Sosial Teknologi",
+      "publicationDate": "2026-10-23",
+      "doi": "https://doi.org/10.59141/jist.v7i9.9244",
+      "openAlexUrl": "https://openalex.org/W7223369016",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 76,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
     },
     {
       "id": "W7223121456",
@@ -137,7 +211,7 @@
       "openAlexUrl": "https://openalex.org/W7223121456",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -165,7 +239,7 @@
       "openAlexUrl": "https://openalex.org/W7223132667",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -187,38 +261,13 @@
       "openAlexUrl": "https://openalex.org/W7223575395",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "explainable",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
-    },
-    {
-      "id": "W7222899420",
-      "title": "Neogene birth of the Yangtze River: a synthesis of zircon U-Pb provenance data",
-      "authors": [
-        "Lin Xu",
-        "Haijin Liu",
-        "Li Jing"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-10-18",
-      "doi": "https://doi.org/10.1038/s41598-026-76534-5",
-      "openAlexUrl": "https://openalex.org/W7222899420",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 71,
-      "matchedKeywords": [
-        "east asia",
-        "monsoon",
-        "yangtze",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、monsoon，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The evolution of the Yangtze River is key to deciphering tectonic-climate-geomorphology coupling in East Asia, yet its integration age, whether Eocene, Miocene, or Quaternary, remains hotly contested. To constrain the timing of final Yangtze River integration, this study compiles 11,346 Phanerozoic zircon U-Pb ages from the Yangtze catchment, spanning multiple basins, orogenic belts, and modern river sediments. The results reveal that the diagnostic 45–35 Ma zircon U-Pb age peak from the upper reaches is absent from Paleogene strata in the middle-lower reaches, indicating that detritus from the upper Yangtze River had not yet reached the lower reaches during the Paleogene. However, Neogene strata in the Jianghan (25–18 Ma) and the East China Sea basins (20–10 Ma) show, for the first time, characteristic age peaks at 40–32, 20, and 18–16 Ma, which can be traced back to bedrock sources in the Jinsha and Dadu river catchments. These findings establish that the Yangtze River achieved its final integration during the Early Miocene, refuting Eocene and Quaternary models. Neogene fault reactivation (20–10 Ma) and monsoon intensification along the southeastern Tibetan Plateau generated the topographic relief and hydraulic power that drove river incision and transcontinental sediment routing."
     },
     {
       "id": "W7223569148",
@@ -234,7 +283,7 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
@@ -254,7 +303,7 @@
       "openAlexUrl": "https://openalex.org/W7223043298",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 50,
+      "score": 49,
       "matchedKeywords": [
         "artificial intelligence"
       ],

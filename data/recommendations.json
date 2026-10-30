@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:11:10.925Z",
+  "generatedAt": "2026-10-30T06:11:04.736Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -25,7 +25,7 @@
       "openAlexUrl": "https://openalex.org/W7224009858",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 93,
+      "score": 91,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -51,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 89,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -79,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7223649481",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 88,
+      "score": 86,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -107,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 83,
+      "score": 82,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -138,7 +138,7 @@
       "openAlexUrl": "https://openalex.org/W7223132196",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -163,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7223134167",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "causal",
         "monsoon",
@@ -173,28 +173,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
-    },
-    {
-      "id": "W7223369016",
-      "title": "Explainable Multi-Source Machine Learning for PM₂.₅ Mapping Across Indonesian Cities: Integrating Satellite, Meteorological, Land-Surface and Fire Information",
-      "authors": [
-        "Rio Rinaldy",
-        "Siti Hapsah Pahira"
-      ],
-      "journal": "Jurnal Indonesia Sosial Teknologi",
-      "publicationDate": "2026-10-23",
-      "doi": "https://doi.org/10.59141/jist.v7i9.9244",
-      "openAlexUrl": "https://openalex.org/W7223369016",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 76,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
     },
     {
       "id": "W7223121456",
@@ -211,7 +189,7 @@
       "openAlexUrl": "https://openalex.org/W7223121456",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -219,6 +197,28 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Climate change, soil issues, water scarcity, and the increasing need for food worldwide mean we need smart farming systems that can manage resources flexibly. Old farming methods used the same inputs and simple rules for decisions. AI can help us manage resources better by adapting and optimizing them as we deal with complex environmental factors. This paper looks closely at AI-powered precision agriculture systems designed to make food production more resilient to changing weather. The authors reviewed research from 2021 to 2026 in agricultural engineering, computer engineering, and environmental systems. The authors examined how machine learning, deep learning, reinforcement learning, computer vision, robotics, and IoT sensors are used for predicting crop yields, spotting diseases, improving irrigation, managing nutrients, and automating field tasks. Our analysis shows that hybrid deep learning models (CNN-LSTM) are better than single models for predicting crop yields over space and time. Reinforcement learning algorithms are also better at adjusting irrigation cycles when weather is unpredictable. Using edge computing for system design reduces delays and improves real-time decision-making compared to traditional cloud-based systems. However, there are still big challenges with understanding how AI models work, having enough diverse data, ensuring cybersecurity, setting common standards, and making these systems affordable, especially in developing countries. To tackle these problems, we suggest a framework that combines AI analysis, distributed sensor networks, adaptive controls, and climate risk assessments. The authors provided critical insights into essential research gaps and outline a technological roadmap towards achieving sustainable, resilient and intelligent agricultural systems."
+    },
+    {
+      "id": "W7223369016",
+      "title": "Explainable Multi-Source Machine Learning for PM₂.₅ Mapping Across Indonesian Cities: Integrating Satellite, Meteorological, Land-Surface and Fire Information",
+      "authors": [
+        "Rio Rinaldy",
+        "Siti Hapsah Pahira"
+      ],
+      "journal": "Jurnal Indonesia Sosial Teknologi",
+      "publicationDate": "2026-10-23",
+      "doi": "https://doi.org/10.59141/jist.v7i9.9244",
+      "openAlexUrl": "https://openalex.org/W7223369016",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 74,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
     },
     {
       "id": "W7223132667",
@@ -239,7 +239,7 @@
       "openAlexUrl": "https://openalex.org/W7223132667",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -261,13 +261,37 @@
       "openAlexUrl": "https://openalex.org/W7223575395",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "explainable",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
+    },
+    {
+      "id": "W7223784096",
+      "title": "Debris flow susceptibility assessment along the G55 expressway in Guangdong Province, China",
+      "authors": [
+        "Xibei Jia",
+        "Yibiao Liu",
+        "Bin Liu",
+        "Weizhong Ren",
+        "Ling Qin"
+      ],
+      "journal": "Environmental Earth Sciences",
+      "publicationDate": "2026-10-27",
+      "doi": "https://doi.org/10.1007/s12665-026-13191-x",
+      "openAlexUrl": "https://openalex.org/W7223784096",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 69,
+      "matchedKeywords": [
+        "machine learning",
+        "neural network"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、neural network、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Western Guangdong Province in China is frequently affected by intense rainfall and related geological hazards, yet studies on debris flow disasters in this area remain limited. In June 2025, four consecutive debris flow events occurred along the Lianzhou-Sanshui section of the G55 Erenhot-Guangzhou Expressway, attracting significant attention. To better understand the spatial distribution and controlling factors of these hazards, this study conducted a debris flow susceptibility assessment for this section. Based on regional topographic, meteorological, and geological conditions, combined with historical disaster data, an evaluation index system and database were established. Four machine learning algorithms, Back Propagation Neural Network (BPNN), Random Forest (RF), Support Vector Machine (SVM), and Extreme Gradient Boosting (XGBoost), were applied and systematically compared. Algorithm performance was assessed using 3-fold spatially independent validation. Among the tested algorithms, XGBoost achieved the best predictive performance, with an accuracy of 0.923, recall of 0.879, F1-score of 0.794, and ROC-AUC of 0.927. The debris flow susceptibility was classified into low, medium, and high levels. Medium and high susceptibility areas exhibited clear spatial clustering, mainly in the northern section of the expressway, while the southern section showed generally low susceptibility. Debris flows along the expressway were primarily triggered by shallow surface collapses and landslides that formed cascading hazard chains, while the slipperiness of surface weathering products showed an observed association with debris-flow occurrence and may represent a potential conditioning factor. These findings provide a scientific basis for debris flow risk identification and mitigation and offer insights for improving susceptibility assessment methodologies."
     },
     {
       "id": "W7223569148",
@@ -283,32 +307,13 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
-    },
-    {
-      "id": "W7223043298",
-      "title": "Challenges posed by the digital twin of the ocean to the benefit-sharing mechanism for digital sequence information on marine genetic resources under the BBNJ Agreement and corresponding responses",
-      "authors": [
-        "Jun Zhang"
-      ],
-      "journal": "Frontiers in Marine Science",
-      "publicationDate": "2026-10-20",
-      "doi": "https://doi.org/10.3389/fmars.2026.1966759",
-      "openAlexUrl": "https://openalex.org/W7223043298",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 49,
-      "matchedKeywords": [
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "A Digital Twin of the Ocean (DTO), as a cutting-edge product of the interdisciplinary integration of marine science and data science, is transforming the generation and use of digital sequence information on marine genetic resources (DSI on MGRs), thereby posing new challenges to the benefit-sharing mechanism established under the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement). Drawing on doctrinal legal analysis, this article argues that although the BBNJ Agreement establishes a basic framework for benefit-sharing with respect to digital sequence information (DSI) on marine genetic resources (MGRs), it still contains deficiencies regarding the definition of DSI, the scope of application, and the notification mechanism. Characterized by data hybridity, multi-source integration, data fusion, real-time processing, and artificial intelligence (AI) driven data generation, DTOs further complicate benefit-sharing with respect to DSI under the BBNJ Agreement. Specifically, it is difficult to determine whether particular data or information generated within DTOs constitute DSI on MGRs under the BBNJ Agreement; the data-related rights and interests are increasingly complex; and both the design and implementation of the benefit-sharing mechanism face greater challenges. To address these issues, a progressive approach to defining DSI should be adopted, a hierarchical and classified data management mechanism should be further refined, a tiered periodic fee should be selected as the monetary benefit-sharing modality, and both the Clearing-House Mechanism and the traceability monitoring system should be strengthened, thereby promoting the objective of fair and equitable benefit-sharing under the BBNJ Agreement."
     }
   ]
 }

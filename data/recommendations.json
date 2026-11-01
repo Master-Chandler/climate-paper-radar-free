@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:05:28.649Z",
+  "generatedAt": "2026-11-01T06:35:07.178Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -25,7 +25,7 @@
       "openAlexUrl": "https://openalex.org/W7224009858",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 90,
+      "score": 88,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -51,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7223234038",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -79,7 +79,7 @@
       "openAlexUrl": "https://openalex.org/W7223649481",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 85,
+      "score": 83,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -107,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -120,59 +120,32 @@
       "abstractEn": "Nearly one-third of global tropical cyclones (TCs) form over the western North Pacific (WNP), with severe hazards impacting Southeast and East Asia. TC genesis over the WNP underwent substantial shifts during the Cenozoic, yet the underlying mechanisms remain unclear. Here we show that Tibetan Plateau uplift was crucial in shaping the present-day WNP TC genesis pattern. With the present-day land-sea configuration and sea surface temperature prescribed, Tibetan Plateau uplift from early Eocene to modern elevations accounts for nearly half of the simulated increase in TC frequency between the early Eocene and present day. Mechanistically, Tibetan Plateau uplift generates an eastward-propagating Rossby wave train, enhancing the WNP subtropical high and thereby intensifying the monsoon trough. The amplified moisture supply and reinforced upward motion within the monsoon trough collectively favor TC genesis and intensification. Our findings underscore the pivotal role of High Mountain Asia in the Cenozoic evolution of TC frequency over the WNP. Tropical cyclogenesis over the western North Pacific was largely absent in the Eocene (~55 million years ago) but has increased over time, with Tibetan Plateau uplift acting as a key driver in this evolutionary process via reshaping large-scale atmospheric circulation."
     },
     {
-      "id": "W7223132196",
-      "title": "Decadal variability of the integrated warm-wet conditions over China and its modulation by the pacific decadal oscillation",
+      "id": "W7203765652",
+      "title": "Persistent influx of atmospheric microplastics and nanoplastics to Mount Everest driven by large scale circulation",
       "authors": [
-        "Xinping Yang",
-        "Fei Ji",
-        "Shaobo Zhang",
-        "Jun Chang",
-        "Shujuan Hu",
-        "M Luo",
-        "Yuheng Chen",
-        "Xiaodan Guan"
+        "Yanhua Wang",
+        "Qing Guo",
+        "Jiayan Wu",
+        "Zhenhua Xi",
+        "Xinqi Xu",
+        "Quanyun Ye",
+        "Xin Long",
+        "Hanzhong Jia"
       ],
-      "journal": "Frontiers in Environmental Science",
-      "publicationDate": "2026-10-21",
-      "doi": "https://doi.org/10.3389/fenvs.2026.1992362",
-      "openAlexUrl": "https://openalex.org/W7223132196",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 74,
-      "matchedKeywords": [
-        "east asia",
-        "precipitation",
-        "tibetan plateau",
-        "plateau",
-        "teleconnection",
-        "pacific decadal oscillation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、precipitation、climate、atmospher、ocean，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The integrated warm-wet conditions across China, represented by the Warm-Wet Index (WWI), exhibit pronounced interdecadal variability during 1960–2022. Understanding the large-scale climatic drivers of this variability is essential for elucidating the mechanisms underlying long-term climate changes over China. In this study, Ensemble Empirical Mode Decomposition (EEMD) was applied to extract the interdecadal component of the WWI and investigate its relationship with the Pacific Decadal Oscillation (PDO). The association between the nationally averaged WWI and the PDO index was examined, together with the corresponding sea surface temperature anomalies and atmospheric circulation patterns, to explore the physical mechanisms linking PDO variability to regional warm-wet conditions. The nationally averaged WWI exhibits a significant correlation with the PDO index, indicating a robust interdecadal association between oceanic variability and regional climate over China. During positive PDO phases, sea surface temperature anomalies in the tropical central-eastern Pacific and the Indian Ocean are associated with an East Asia–Pacific (EAP)-like teleconnection pattern, accompanied by anomalous cyclonic circulation over most of China. This circulation favors enhanced upward motion and moisture convergence over southeastern China, Northeast China, and northern Xinjiang, thereby increasing precipitation and strengthening warm-wet conditions. Conversely, anomalous subsidence prevails over North China and the Tibetan Plateau, suppressing precipitation and weakening the WWI. These contrasting regional responses produce a distinct meridional tripole pattern in the WWI, with enhanced warm-wet conditions in Northeast China, northern Xinjiang, and southeastern coastal regions, and weakened warm-wet conditions over North China and the Tibetan Plateau. Opposite spatial patterns occur during negative PDO phases. The results suggest that the PDO modulates interdecadal warm-wet variability over China primarily through atmospheric circulation changes that influence precipitation. This ocean–atmosphere–land linkage provides further insight into the mechanisms governing long-term climate variability over China and offers a scientific basis for climate risk assessment and adaptation in the context of ongoing global warming."
-    },
-    {
-      "id": "W7223134167",
-      "title": "A snow-jet bridging mechanism driving the Afro-Asian summer monsoon precipitation dipole",
-      "authors": [
-        "Chao Zhang",
-        "Anmin Duan"
-      ],
-      "journal": "npj Climate and Atmospheric Science",
-      "publicationDate": "2026-10-21",
-      "doi": "https://doi.org/10.1038/s41612-026-01582-7",
-      "openAlexUrl": "https://openalex.org/W7223134167",
+      "journal": "Communications Earth & Environment",
+      "publicationDate": "2026-10-30",
+      "doi": "https://doi.org/10.1038/s43247-026-04206-3",
+      "openAlexUrl": "https://openalex.org/W7203765652",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 76,
       "matchedKeywords": [
-        "causal",
         "monsoon",
-        "precipitation",
         "tibetan plateau",
         "plateau"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Afro-Asian summer monsoon precipitation sustains billions of people across the two continents, and its variability strongly affects water supply, irrigation, and drought-flood risks. While this variability has been linked to air-sea interactions, its connection with land-surface signals remains unclear. Using large-ensemble snow perturbation experiments and information flow causal analysis, we show that reduced Tibetan Plateau snow cover (TPS) contributes to a dipole pattern in Afro-Asian summer monsoon precipitation: positive anomalies over tropical Africa and negative anomalies over South Asia. This relationship is modulated by an accelerated tropical easterly jet (TEJ). Reduced TPS enhances thermal heating, exciting an upper-level anticyclonic anomaly. The easterly flow along its southern flank intensifies the TEJ, enhancing moisture transport toward tropical Africa and reinforcing the low-level anticyclonic anomaly over South Asia, resulting in a dipole precipitation pattern. Since 2006, TPS extent has stayed below 9% (a transition after which the TPS-TEJ coupling substantially weakens), raising uncertainty in future projections of Afro-Asian monsoon under continued warming and TPS loss."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Third Pole receives long-range transported pollutants, yet atmospheric micro- and nanoplastics inputs remain poorly constrained. Here we report year-long monitoring on the northern slope of Mount Everest using dry, wet, and total deposition sampling. Microplastic deposition fluxes at Qomolangma Station (64.0 n m−2 d−1) significantly exceed those at Everest Base Camp (23.0 n m−2 d−1), reflecting topographic and anthropogenic differences. Deposited microplastics are dominated by fragments, mainly polyamide, polyethylene terephthalate, and polyethylene. Nanoplastic concentrations across five representative months are higher at Qomolangma Station than at Everest Base Camp and include polyethylene, polyethylene terephthalate, polyvinyl chloride, and polypropylene. Monsoon periods enhance wet deposition via short-range transport, whereas non-monsoon periods receive long-range continental inputs. Upscaling suggests an annual atmospheric input of 56.4 tons of microplastic to the Tibetan Plateau above 4000 m. These results identify the atmosphere as an efficient pathway for plastic delivery to the Third Pole, with potential ecological risks despite low ambient concentrations. Microplastic deposition fluxes at Qomolangma Station exceed those at Everest Base Camp, reflecting topographic and anthropogenic differences, with an estimated annual atmospheric input of 56 tons to the Tibetan Plateau above 4000 m, based on year-long monitoring on Mount Everest’s northern slope."
     },
     {
       "id": "W7223369016",
@@ -187,7 +160,7 @@
       "openAlexUrl": "https://openalex.org/W7223369016",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -195,59 +168,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
-    },
-    {
-      "id": "W7223121456",
-      "title": "Artificial Intelligence–Driven Precision Agriculture Systems: Engineering Frameworks for Climate-Resilient Food Production",
-      "authors": [
-        "Olumayowa J. Iyanda",
-        "Oluwadare OYEBODE",
-        "Iretiayo Adelaiye",
-        "Ayomide Afolabi"
-      ],
-      "journal": "ABUAD Journal of Engineering Research and Development (AJERD)",
-      "publicationDate": "2026-10-21",
-      "doi": "https://doi.org/10.53982/ajerd.2026.01.14-j",
-      "openAlexUrl": "https://openalex.org/W7223121456",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 73,
-      "matchedKeywords": [
-        "machine learning",
-        "deep learning",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、artificial intelligence、climate、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate change, soil issues, water scarcity, and the increasing need for food worldwide mean we need smart farming systems that can manage resources flexibly. Old farming methods used the same inputs and simple rules for decisions. AI can help us manage resources better by adapting and optimizing them as we deal with complex environmental factors. This paper looks closely at AI-powered precision agriculture systems designed to make food production more resilient to changing weather. The authors reviewed research from 2021 to 2026 in agricultural engineering, computer engineering, and environmental systems. The authors examined how machine learning, deep learning, reinforcement learning, computer vision, robotics, and IoT sensors are used for predicting crop yields, spotting diseases, improving irrigation, managing nutrients, and automating field tasks. Our analysis shows that hybrid deep learning models (CNN-LSTM) are better than single models for predicting crop yields over space and time. Reinforcement learning algorithms are also better at adjusting irrigation cycles when weather is unpredictable. Using edge computing for system design reduces delays and improves real-time decision-making compared to traditional cloud-based systems. However, there are still big challenges with understanding how AI models work, having enough diverse data, ensuring cybersecurity, setting common standards, and making these systems affordable, especially in developing countries. To tackle these problems, we suggest a framework that combines AI analysis, distributed sensor networks, adaptive controls, and climate risk assessments. The authors provided critical insights into essential research gaps and outline a technological roadmap towards achieving sustainable, resilient and intelligent agricultural systems."
-    },
-    {
-      "id": "W7223132667",
-      "title": "Regional moisture conditions and mid- to late-Holocene wildfire variability along the southeastern margin of the Tibetan Plateau",
-      "authors": [
-        "Pengrui Yang",
-        "Yuesong Gao",
-        "胡翠月",
-        "Lingyang Kong",
-        "Guangjie Chen",
-        "Jiaxuan Chen",
-        "Ruikang Li",
-        "Junjie Ma"
-      ],
-      "journal": "Frontiers in Earth Science",
-      "publicationDate": "2026-10-21",
-      "doi": "https://doi.org/10.3389/feart.2026.1963785",
-      "openAlexUrl": "https://openalex.org/W7223132667",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 70,
-      "matchedKeywords": [
-        "monsoon",
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、precipitation、climate、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Wildfire is a major disturbance in terrestrial ecosystems. Previous studies have shown that since the Last Glacial Maximum, wildfire activity across the East Asian and Indian summer monsoon regions has been closely associated with precipitation variability on suborbital to millennial timescales. However, continuous records of long-term wildfire dynamics and their relationships with regional moisture variability remain scarce in the alpine regions along the southeastern margin of the Tibetan Plateau. In this study, a composite fire activity index (FAI) was constructed by integrating the fluxes of levoglucosan (Lev), mannosan (Man), and galactosan (Gan) measured in a sediment core from Wodi Co, northwestern Yunnan, China. The molecular wildfire record was evaluated together with paleolimnological proxies (Ca/Si, Fe/Mn, Zr/Rb, total organic carbon (TOC) and >64 μm grain-size fraction), TraCE21k-simulated moisture-related climate variables, and records of large-scale atmospheric circulation to reconstruct regional wildfire variability over the past approximately 4.5 kyr. The results indicate that wildfire activity was particularly intense between ∼2.9 and 2.0 kyr BP. During this interval, enhanced lake-water concentration, more oxic sedimentary conditions, and reduced precipitation collectively point to regional drought, while sedimentary organic-carbon accumulation remained relatively low. These findings suggest that wildfire activity was primarily associated with the regional moisture variability in the alpine area of northwestern Yunnan, consistent with paleofire records from southern and southwestern China. From a large-scale circulation perspective, variability in the Indian summer monsoon and ENSO may have jointly influenced the climatic background of wildfire season moisture conditions. Since 2 kyr BP, wildfire activity has generally remained low, broadly consistent with the widespread monsoon reorganization and the shift towards wetter conditions recorded across the Asian monsoon domain. This study provides new sedimentary evidence for understanding long-term linkages between wildfire activity and regional moisture conditions along the southeastern margin of the Tibetan Plateau."
     },
     {
       "id": "W7223575395",
@@ -261,13 +181,36 @@
       "openAlexUrl": "https://openalex.org/W7223575395",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "explainable",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
+    },
+    {
+      "id": "W7223971208",
+      "title": "Disentangling the dynamic and thermal effects of the Tibetan Plateau on the amplitude of ENSO",
+      "authors": [
+        "Baohuang Su",
+        "Yong Sun",
+        "Shuangze Han",
+        "Na Wang"
+      ],
+      "journal": "Research Square",
+      "publicationDate": "2026-10-27",
+      "doi": "https://doi.org/10.21203/rs.3.rs-10586960/v1",
+      "openAlexUrl": "https://openalex.org/W7223971208",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 67,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract This study investigates the impact of the Tibetan Plateau (TP) on El Niño-Southern Oscillation (ENSO) amplitude based on three long-term numerical experiments using the Community Earth System Model (CESM). Results indicate that the TP significantly suppresses the ENSO amplitude by 0.51°C (− 41%), where the dynamic effect (DY) and thermal effect (SH) of the TP exert opposite influences, contributing to a reduction of 0.58°C (− 46%) and an increase of 0.07°C (5%), respectively. Analysis of the Bjerknes coupled stability index reveals that the combined DY + SH effects lower the index, which is dynamically consistent with the weakened ENSO amplitude. This reduction is primarily manifested through the enhancement of mean advection feedback, the weakening of thermocline feedback, Ekman feedback, and zonal advective feedback, as well as the reduction of thermodynamic damping feedback, thereby regulating the ENSO growth rate. In each feedback process, the influence of DY consistently dominates and acts in the opposite direction to SH. Specifically, the weakening of the thermocline, Ekman, and zonal advective feedbacks is closely linked to a deepened thermocline and reduced sensitivity of vertical and zonal ocean currents to atmospheric forcing, while the reduction in thermodynamic damping feedback is attributed to the enhancement of shortwave radiation feedback driven by a strengthened Walker circulation. This study provides a mechanistic basis for how the TP modulates ENSO through air-sea coupling processes, offering valuable insights for improving ENSO predictability."
     },
     {
       "id": "W7223784096",
@@ -285,7 +228,7 @@
       "openAlexUrl": "https://openalex.org/W7223784096",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "machine learning",
         "neural network"
@@ -307,13 +250,56 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
+    },
+    {
+      "id": "W7223798014",
+      "title": "Persistent Increase in June Precipitation over South China and a Teleconnection Linked to Central European Warming",
+      "authors": [
+        "Zhixiang Xiao",
+        "Yi Lin"
+      ],
+      "journal": "Research Square",
+      "publicationDate": "2026-10-27",
+      "doi": "https://doi.org/10.21203/rs.3.rs-10642014/v1",
+      "openAlexUrl": "https://openalex.org/W7223798014",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 62,
+      "matchedKeywords": [
+        "precipitation",
+        "teleconnection"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、atmospher、temperature、circulation、teleconnection，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Based on station observations and the JRA-3Q reanalysis dataset, this study investigates the atmospheric moisture budget responsible for the persistently increasing June precipitation over South China (SC) during 1979‒2023. The moisture budget analysis reveals that dynamic effects dominate the increase in precipitation, with vertical moisture advection accounting for the largest proportion (64.86% of the total positive contributions), followed by horizontal moisture advection. In contrast, the thermodynamic component of horizontal moisture advection exerts a significant negative effect, partly offsetting the enhancement of precipitation. Vertically, both the largest positive and negative contributions exhibit a unimodal structure, peaking at 500 hPa and 700 hPa, respectively. Further analysis indicates a close connection between the enhanced SC precipitation and the concurrent warming over Central Europe (CE). The warming over CE excites a wave train characterized by alternating anticyclonic and cyclonic circulation anomalies, propagating from the CE to the Ural Mountains, then turning southeastward toward the Altay Mountains, the North China Plain, and finally reaching the northwest Pacific. The cyclonic circulation over the North China Plain, together with the intensified western North Pacific subtropical high, favors water vapor transport toward SC and strong convergence there, leading to heavy precipitation. Finally, the temperature budget equation is employed to diagnose the warming over CE. Results show that the warming is governed by two main processes: anomalous warm horizontal advection originating from the Iberian Peninsula and the Mediterranean Sea dominates the western CE, while prevailing downward motion controls the central and eastern CE. These findings highlight the crucial role of extratropical warming in modulating subtropical precipitation through teleconnection patterns."
+    },
+    {
+      "id": "W7223401278",
+      "title": "Operationalizing a Swiss Cheese Model-informed framework for fatal-fall classification: An interpretable machine learning and web-based decision-support approach",
+      "authors": [
+        "Zohre Shafiei Darbasiabi",
+        "Esmatullah Noorzai",
+        "Majid Parchami Jalal"
+      ],
+      "journal": "Results in Engineering",
+      "publicationDate": "2026-10-23",
+      "doi": "https://doi.org/10.1016/j.rineng.2026.113721",
+      "openAlexUrl": "https://openalex.org/W7223401278",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 60,
+      "matchedKeywords": [
+        "machine learning",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Falls are the leading cause of construction fatalities, yet prediction models often treat risk factors in isolation. Guided by Reason’s Swiss Cheese Model, this study develops a machine learning-based decision-support web application for classifying fatal construction accidents as fall versus non-fall events and translating the resulting classification model into a web-based decision-support prototype for proactive safety planning. The analytical framework incorporates established factors, such as activity, with underexplored variables, including weather conditions. OSHA reports (2019-2023) were enriched with NOAA weather data. After preprocessing, the final dataset comprised 525 fatal construction accidents, including 360 fatal fall cases. Five machine learning classifiers: Random Forest, Naive Bayes, Decision Tree, XGBoost, and Support Vector Machine, were trained and optimized using Recursive Feature Elimination, Grid search, and Stratified Cross-Validation. XGBoost demonstrated the highest observed performance (91.6% accuracy) and was interpreted using SHAP. Safety Condition, Height, Accident-Related Element, Activity, and Time of the accident were the strongest predictive features. The Reduced-Feature XGBoost model was then integrated into a Streamlit prototype using operationally feasible inputs."
     }
   ]
 }

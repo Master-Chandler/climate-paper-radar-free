@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T06:35:07.178Z",
+  "generatedAt": "2026-11-02T06:35:08.425Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,31 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7224990642",
+      "title": "Monitoring Marine Microplastic Distributions in Data-Scarce Ocean Regions Using Environmental Representation Learning and Explainable Machine Learning",
+      "authors": [
+        "Prachi Dalvi",
+        "Harshal Dalvi",
+        "Aarti Karande",
+        "Ankita Amburle",
+        "Neha Patwari"
+      ],
+      "journal": "Computer and decision making.",
+      "publicationDate": "2026-10-30",
+      "doi": "https://doi.org/10.1922/comdem.v3i6s.18824",
+      "openAlexUrl": "https://openalex.org/W7224990642",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 88,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Monitoring pollution in the ocean from microplastic and making decisions using this data is challenging, especially in ocean areas with little data and geographically limited observations. The ability to accurately predict microplastic distributions is crucial for the identification of pollution hotspots and for understanding environmental risk and for taking decisions on marine conservation. This study introduces a framework for learning a representation of the environment which is explainable and aware of uncertainty that combines NOAA marine microplastic observation data with oceanographic and geospatial data provided by Copernicus Marine and GEBCO datasets. The proposed Contrastive-XGBoost model outperformed the other models with the highest predictive capability with R2 = 0.651, RMSE = 1.008 and MAE = 0.619. Predictors identified by SHAP analysis included depth, bathymetry, geographical location, temperature, ocean circulation, and proximity to coast. Ablation analysis revealed the advantage of using combined (heterogeneous) environmental variables. Global prediction maps indicated that coastal and semi-enclosed seas, such as the Bay of Bengal, South China Sea, Gulf of Mexico and Mediterranean Sea are potentially accumulation hotspots. Conventional XGBoost, however, showed statistically comparable predictive power and geographically independent validation showed a limited transferability to environmentally different regions. The results show the possibility of using interpretable environmental machine learning for supplying additional data for environmental pollution monitoring, hotspot detection and uncertainty aware environmental decision-making."
+    },
     {
       "id": "W7224009858",
       "title": "Explainable deep learning for predicting temperature breaks and identifying their causal drivers in fresh produce cold chains",
@@ -25,7 +50,7 @@
       "openAlexUrl": "https://openalex.org/W7224009858",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 87,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -34,33 +59,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、causal、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Introduction This study proposes an integrated framework combining deep learning, causal discovery, explainability, and domain thresholds for proactive monitoring in temperature-sensitive fresh fruits and vegetables cold chains, a domain that remains largely unexplored. The framework predicts temperature breaks (a critical physical hazard that compromises food safety and accelerates postharvest losses), prospectively identifies their causal drivers, and prioritizes countermeasures. Methods Using two IoT-gathered datasets from an Apple cold room in South Africa, eight machine learning models and three baselines were compared for temperature prediction, including a proposed LSTM-GRU hybrid (LSGR) model. Causal relationships between measured parameters and predicted temperature were identified using Latent Peter & Clark Momentary Conditional Independence (LPCMCI; compared with PCMCI). At the same time, SHapley Additive exPlanations quantified feature importance, and domain-based thresholds complemented them for countermeasure prioritization after temperature-break prediction (TBP). Results On the extended dataset, deep neural networks' (DNN) R 2 and normalized mean squared error improved by up to 30% and to 61%, respectively, over the smaller dataset, demonstrating strong generalizability to substantially different cold room operating conditions. The LSGR demonstrated the best overall performance across both temperature and TBP tasks among the recurrent models assessed, raising the fewest false alarms per day. All DNNs flagged breaks in advance; no baseline did. LPCMCI recovered most direct causal links after break prediction, especially for lagged temperature, identifying it as the dominant factor associated with predicted breaks. Notably, post-TBP, causality, importance, and thresholds strongly agreed on the same top two critical parameters or countermeasures (temperature and humidity), providing consistent and actionable insights for decision-making. Discussion These findings demonstrate the viability of combining causal discovery, explainability and thresholds for cold chain management, with implications for reducing food wastage and enhancing quality, safety, and sustainability from farm to fork in temperature-sensitive FFVs supply chains. LPCMCI recovered a few links overall, indicating the influence of unmeasured drivers and warranting further investigation, including additional features, their interactions, and seasonal data, as well as a fuller characterization of causality-regime dependence."
-    },
-    {
-      "id": "W7223234038",
-      "title": "Cutting-edge trends in drought prediction and mitigation using ensemble learning and augmented XAI: a meteorological study",
-      "authors": [
-        "Megha Rathi",
-        "Dr. Shailendra Mishra",
-        "Naif S. Alshammari",
-        "Himani Agrawal",
-        "Ehtesham Ashraf"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-10-22",
-      "doi": "https://doi.org/10.1038/s41598-026-69632-x",
-      "openAlexUrl": "https://openalex.org/W7223234038",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 85,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "shap",
-        "artificial intelligence",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、artificial intelligence、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Drought affects more than 60% of India's population, reducing agricultural productivity, straining water resources, and threatening socioeconomic stability. This study proposes an interpretable one-month-ahead meteorological drought prediction framework by integrating class-weighted ensemble machine learning with SHAP and LIME explainable artificial intelligence (XAI). Historical meteorological observations (1972–2022) obtained from the Zenodo climate database were analyzed for 49 districts across five drought-prone Indian states (Bihar, Maharashtra, Gujarat, Andhra Pradesh, and Karnataka). After generating lagged meteorological features (t − 1 to t − 6) and addressing severe class imbalance (7.07% drought events), multiple machine learning classifiers were evaluated. The class-weighted XGBoost model (scale_pos_weight ≈ 11.90, without SMOTE) achieved the best overall performance on the independent 2016–2022 test dataset, with an accuracy of 95.7%, macro precision of 84.7%, macro recall of 81.0%, macro F1-score of 82.7%, and a PR-AUC of 0.647 on the highly imbalanced test set (outperforming both unweighted training and SMOTE-based approaches). SHAP and LIME consistently identified lagged Standardized Precipitation Index (SPI), lagged precipitation, vapour pressure, and wet-day frequency as the most influential drivers of drought occurrence. Exploratory temporal analysis further revealed declining wet-day frequency in Karnataka, increasing vapour pressure in Andhra Pradesh, and substantial climatic variability across the study regions. The proposed framework combines accurate drought prediction with transparent model interpretation, providing a practical decision-support tool for district-level drought early warning, water resource management, and climate-resilient agricultural planning in India."
     },
     {
       "id": "W7223649481",
@@ -79,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7223649481",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 83,
+      "score": 82,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -107,7 +105,7 @@
       "openAlexUrl": "https://openalex.org/W7223413087",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -138,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7203765652",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -160,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7223369016",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -168,26 +166,6 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
-    },
-    {
-      "id": "W7223575395",
-      "title": "HelioDA-XFE: ERA5-Based Solar Radiation Estimation and PV Potential Classification over Eastern Anatolia, Türkiye",
-      "authors": [
-        "Ertuğrul Gül"
-      ],
-      "journal": "Firat University Journal of Experimental and Computational Engineering",
-      "publicationDate": "2026-10-25",
-      "doi": "https://doi.org/10.62520/fujece.1994408",
-      "openAlexUrl": "https://openalex.org/W7223575395",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 67,
-      "matchedKeywords": [
-        "explainable",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
     },
     {
       "id": "W7223971208",
@@ -204,13 +182,33 @@
       "openAlexUrl": "https://openalex.org/W7223971208",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 66,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract This study investigates the impact of the Tibetan Plateau (TP) on El Niño-Southern Oscillation (ENSO) amplitude based on three long-term numerical experiments using the Community Earth System Model (CESM). Results indicate that the TP significantly suppresses the ENSO amplitude by 0.51°C (− 41%), where the dynamic effect (DY) and thermal effect (SH) of the TP exert opposite influences, contributing to a reduction of 0.58°C (− 46%) and an increase of 0.07°C (5%), respectively. Analysis of the Bjerknes coupled stability index reveals that the combined DY + SH effects lower the index, which is dynamically consistent with the weakened ENSO amplitude. This reduction is primarily manifested through the enhancement of mean advection feedback, the weakening of thermocline feedback, Ekman feedback, and zonal advective feedback, as well as the reduction of thermodynamic damping feedback, thereby regulating the ENSO growth rate. In each feedback process, the influence of DY consistently dominates and acts in the opposite direction to SH. Specifically, the weakening of the thermocline, Ekman, and zonal advective feedbacks is closely linked to a deepened thermocline and reduced sensitivity of vertical and zonal ocean currents to atmospheric forcing, while the reduction in thermodynamic damping feedback is attributed to the enhancement of shortwave radiation feedback driven by a strengthened Walker circulation. This study provides a mechanistic basis for how the TP modulates ENSO through air-sea coupling processes, offering valuable insights for improving ENSO predictability."
+    },
+    {
+      "id": "W7223575395",
+      "title": "HelioDA-XFE: ERA5-Based Solar Radiation Estimation and PV Potential Classification over Eastern Anatolia, Türkiye",
+      "authors": [
+        "Ertuğrul Gül"
+      ],
+      "journal": "Firat University Journal of Experimental and Computational Engineering",
+      "publicationDate": "2026-10-25",
+      "doi": "https://doi.org/10.62520/fujece.1994408",
+      "openAlexUrl": "https://openalex.org/W7223575395",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 65,
+      "matchedKeywords": [
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、shap、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Accurate assessment of solar energy potential is a core input for renewable energy planning in high-altitude regions such as Eastern Anatolia, where ground measurement stations are sparse. This study proposes HelioDA-XFE, an explainable feature engineering framework that estimates daily surface solar radiation (SSRD) from same-day ERA5 reanalysis fields (concurrent estimation, not forecasting) and assigns relative, radiation-based photovoltaic (PV) resource classes over an analysis domain centred on the Eastern Anatolia Region of Türkiye. The framework consists of four steps: (1) feature generation based on lags, rolling means, and seasonality encoding, (2) feature selection with mutual information (MI), (3) XGBoost models for regression and for a three-class classification of relative PV resource classes defined by SSRD terciles, and (4) SHAP-based interpretability analysis. A total of 5,228,990 grid-cell days covering 2000-2025 on a rectangular 19x29 cell (551-cell) domain at 0.25° resolution were evaluated with an expanding-window cross-validation scheme that prevents temporal leakage. The model reached R² = 0.972 ± 0.002 and RMSE = 0.354 ± 0.009 kWh/m²/day in regression, and 92.8 ± 0.5% accuracy with 0.928 ± 0.005 macro-F1 in classification, outperforming linear and decision tree baselines in both tasks. SHAP analysis indicated that clear-sky radiation is the dominant driver (mean |SHAP| = 1.51 kWh/m²/day), followed by cloud cover layers as the second largest driver group, confirming the physical consistency of the model. A theoretical, temperature-corrected PV potential that excludes system losses yielded annual specific yields of 1799 kWh/kWp for the domain and 1824 kWh/kWp for Elazığ; transferring the trained model to the 0.1° ERA5-Land grid mapped the intra-provincial distribution of PV yield across 94 points within Elazığ province. Because the target is the ERA5 radiation field itself, these results describe temporal generalization within the ERA5 climatology rather than independent radiation accuracy, and the outputs are intended for relative comparison and pre-feasibility screening. Within that scope, the framework offers a computationally light, transparent, and locally trained tool for regional solar energy assessment."
     },
     {
       "id": "W7223784096",
@@ -228,7 +226,7 @@
       "openAlexUrl": "https://openalex.org/W7223784096",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "neural network"
@@ -250,13 +248,35 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
+    },
+    {
+      "id": "W7224904617",
+      "title": "Interdecadal change in the interannual relationship between spring tropical Indian ocean sea surface temperature and summer extreme precipitation in northern Xinjiang of Northwest China",
+      "authors": [
+        "Nannan Li",
+        "Yong Zhao",
+        "Lixia Meng",
+        "Yuanan Jiang"
+      ],
+      "journal": "Climate Dynamics",
+      "publicationDate": "2026-10-30",
+      "doi": "https://doi.org/10.1007/s00382-026-08446-z",
+      "openAlexUrl": "https://openalex.org/W7224904617",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、atmospher、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Based on the daily precipitation data released by the China Meteorological Data Service Centre, the monthly Sea Surface Temperature (SST) provided by the National Oceanic and Atmospheric Administration (NOAA) and monthly atmospheric reanalysis data extracted from the National Centers for Environmental Prediction (NCEP) and the National Center for Atmospheric Research (NCAR) during 1961–2022, we examine the interdecadal change in the relationship between spring Indian Ocean SST (IOSST) and summer extreme precipitation (SEP) in northern Xinjiang of Northwest China. Results show that the IOSST-SEP relationship has experienced an obvious interdecadal change, especially between 1963 and 1983 and 1984–2004, and in the latter period their relationship significantly becomes closer. The meridional movement of the subtropical westerly jet (SWJ) over Central Asia (CA) can well affect the Central Asian cyclone and transport of water vapor and is responsible for the SEP in northern Xinjiang, which plays an important role in linking IOSST and SEP. During 1963–1983, the persistence of anomalous IOSST signals from spring to summer strongly depends on El Niño, so the IOSST is manifested as a heat sink and cannot influence the meridional movement of the SWJ over CA. However, during 1984–2004, the persistence of anomalous IOSST signals from spring to summer is independent of El Niño, and the IOSST is manifested as a heat source and can modulate the meridional movement of the SWJ over CA via Gill-type atmospheric response."
     },
     {
       "id": "W7223798014",
@@ -271,35 +291,13 @@
       "openAlexUrl": "https://openalex.org/W7223798014",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "precipitation",
         "teleconnection"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、atmospher、temperature、circulation、teleconnection，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Based on station observations and the JRA-3Q reanalysis dataset, this study investigates the atmospheric moisture budget responsible for the persistently increasing June precipitation over South China (SC) during 1979‒2023. The moisture budget analysis reveals that dynamic effects dominate the increase in precipitation, with vertical moisture advection accounting for the largest proportion (64.86% of the total positive contributions), followed by horizontal moisture advection. In contrast, the thermodynamic component of horizontal moisture advection exerts a significant negative effect, partly offsetting the enhancement of precipitation. Vertically, both the largest positive and negative contributions exhibit a unimodal structure, peaking at 500 hPa and 700 hPa, respectively. Further analysis indicates a close connection between the enhanced SC precipitation and the concurrent warming over Central Europe (CE). The warming over CE excites a wave train characterized by alternating anticyclonic and cyclonic circulation anomalies, propagating from the CE to the Ural Mountains, then turning southeastward toward the Altay Mountains, the North China Plain, and finally reaching the northwest Pacific. The cyclonic circulation over the North China Plain, together with the intensified western North Pacific subtropical high, favors water vapor transport toward SC and strong convergence there, leading to heavy precipitation. Finally, the temperature budget equation is employed to diagnose the warming over CE. Results show that the warming is governed by two main processes: anomalous warm horizontal advection originating from the Iberian Peninsula and the Mediterranean Sea dominates the western CE, while prevailing downward motion controls the central and eastern CE. These findings highlight the crucial role of extratropical warming in modulating subtropical precipitation through teleconnection patterns."
-    },
-    {
-      "id": "W7223401278",
-      "title": "Operationalizing a Swiss Cheese Model-informed framework for fatal-fall classification: An interpretable machine learning and web-based decision-support approach",
-      "authors": [
-        "Zohre Shafiei Darbasiabi",
-        "Esmatullah Noorzai",
-        "Majid Parchami Jalal"
-      ],
-      "journal": "Results in Engineering",
-      "publicationDate": "2026-10-23",
-      "doi": "https://doi.org/10.1016/j.rineng.2026.113721",
-      "openAlexUrl": "https://openalex.org/W7223401278",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 60,
-      "matchedKeywords": [
-        "machine learning",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Falls are the leading cause of construction fatalities, yet prediction models often treat risk factors in isolation. Guided by Reason’s Swiss Cheese Model, this study develops a machine learning-based decision-support web application for classifying fatal construction accidents as fall versus non-fall events and translating the resulting classification model into a web-based decision-support prototype for proactive safety planning. The analytical framework incorporates established factors, such as activity, with underexplored variables, including weather conditions. OSHA reports (2019-2023) were enriched with NOAA weather data. After preprocessing, the final dataset comprised 525 fatal construction accidents, including 360 fatal fall cases. Five machine learning classifiers: Random Forest, Naive Bayes, Decision Tree, XGBoost, and Support Vector Machine, were trained and optimized using Recursive Feature Elimination, Grid search, and Stratified Cross-Validation. XGBoost demonstrated the highest observed performance (91.6% accuracy) and was interpreted using SHAP. Safety Condition, Height, Accident-Related Element, Activity, and Time of the accident were the strongest predictive features. The Reduced-Feature XGBoost model was then integrated into a Streamlit prototype using operationally feasible inputs."
     }
   ]
 }

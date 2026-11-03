@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T06:35:08.425Z",
+  "generatedAt": "2026-11-03T07:05:22.022Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7224990642",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 86,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -50,7 +50,7 @@
       "openAlexUrl": "https://openalex.org/W7224009858",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 87,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -77,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7223649481",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 82,
+      "score": 81,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -87,35 +87,6 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、monsoon、precipitation、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The moisture of the northeastern Tibetan Plateau is jointly shaped by the East Asian Summer Monsoon (EASM) and the mid-latitude Westerlies, the two key atmospheric circulation systems originating from low- and high-latitudes, respectively. Modern observations demonstrate that the intensity change and meridional position of the Westerlies directly modulate the EASM precipitation, which sustains vast human populations and ecosystems across East Asia. However, the interaction between these two systems over geological time remains controversial, partly due to controversies in the reconstructed past precipitation intensity. Here, we present a high-resolution multi-proxy loess record (ZES) spanning the past 18.5 ka from the central Qilian Mountains, located in the monsoon marginal zone where both systems jointly operate. We first found that loess–paleosol carbonate δ 18 O of ZES record captures a summer signal and covaries inversely with δ 13 C, which tracks monsoon precipitation intensity. Together with comparisons between modern observations and geological records, this constrains EASM-dominated precipitation. We then establish a robust EASM index from multiple independent proxies including magnetic susceptibility, total carbonate content, dolomite content, carbonate δ 13 C, and colour reflectance. Our results reveal that EASM precipitation responded to combined high- and low-latitude forcing on both millennial timescales during the Last Deglaciation and orbital timescales manifested in the long-term trend since 18.5 ka, with the pre-Boreal oscillation offering complementary insights into early-Holocene centennial-scale interactions. The EASM precipitation intensity was suppressed during the Last Deglaciation, strengthened gradually through the early Holocene, peaked from ∼7.5 to 1.8 ka, and subsequently declined. Direct comparison of Westerlies and EASM signals retrieved from the same loess sequence reveals coupled interaction between the two systems since the mid-late Holocene, with westerly intensification accompanying monsoon strengthening. These findings indicate bidirectional linkage between high- and low-latitude systems and further suggest that, under continued global warming, the monsoon marginal zone of northwestern China may experience a progressive increase in precipitation."
-    },
-    {
-      "id": "W7223413087",
-      "title": "Tibetan Plateau uplift increased western North Pacific tropical cyclone frequency",
-      "authors": [
-        "Tingyu Zhang",
-        "Tianjun Zhou",
-        "Linqiang He",
-        "Zhun Guo",
-        "Zikun Ren",
-        "Jie Jiang"
-      ],
-      "journal": "Nature Communications",
-      "publicationDate": "2026-10-23",
-      "doi": "https://doi.org/10.1038/s41467-026-78480-2",
-      "openAlexUrl": "https://openalex.org/W7223413087",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 78,
-      "matchedKeywords": [
-        "east asia",
-        "monsoon",
-        "tibetan plateau",
-        "high mountain asia",
-        "plateau",
-        "rossby"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、high mountain asia、plateau、atmospher、monsoon，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Nearly one-third of global tropical cyclones (TCs) form over the western North Pacific (WNP), with severe hazards impacting Southeast and East Asia. TC genesis over the WNP underwent substantial shifts during the Cenozoic, yet the underlying mechanisms remain unclear. Here we show that Tibetan Plateau uplift was crucial in shaping the present-day WNP TC genesis pattern. With the present-day land-sea configuration and sea surface temperature prescribed, Tibetan Plateau uplift from early Eocene to modern elevations accounts for nearly half of the simulated increase in TC frequency between the early Eocene and present day. Mechanistically, Tibetan Plateau uplift generates an eastward-propagating Rossby wave train, enhancing the WNP subtropical high and thereby intensifying the monsoon trough. The amplified moisture supply and reinforced upward motion within the monsoon trough collectively favor TC genesis and intensification. Our findings underscore the pivotal role of High Mountain Asia in the Cenozoic evolution of TC frequency over the WNP. Tropical cyclogenesis over the western North Pacific was largely absent in the Eocene (~55 million years ago) but has increased over time, with Tibetan Plateau uplift acting as a key driver in this evolutionary process via reshaping large-scale atmospheric circulation."
     },
     {
       "id": "W7203765652",
@@ -136,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W7203765652",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -146,26 +117,76 @@
       "abstractEn": "The Third Pole receives long-range transported pollutants, yet atmospheric micro- and nanoplastics inputs remain poorly constrained. Here we report year-long monitoring on the northern slope of Mount Everest using dry, wet, and total deposition sampling. Microplastic deposition fluxes at Qomolangma Station (64.0 n m−2 d−1) significantly exceed those at Everest Base Camp (23.0 n m−2 d−1), reflecting topographic and anthropogenic differences. Deposited microplastics are dominated by fragments, mainly polyamide, polyethylene terephthalate, and polyethylene. Nanoplastic concentrations across five representative months are higher at Qomolangma Station than at Everest Base Camp and include polyethylene, polyethylene terephthalate, polyvinyl chloride, and polypropylene. Monsoon periods enhance wet deposition via short-range transport, whereas non-monsoon periods receive long-range continental inputs. Upscaling suggests an annual atmospheric input of 56.4 tons of microplastic to the Tibetan Plateau above 4000 m. These results identify the atmosphere as an efficient pathway for plastic delivery to the Third Pole, with potential ecological risks despite low ambient concentrations. Microplastic deposition fluxes at Qomolangma Station exceed those at Everest Base Camp, reflecting topographic and anthropogenic differences, with an estimated annual atmospheric input of 56 tons to the Tibetan Plateau above 4000 m, based on year-long monitoring on Mount Everest’s northern slope."
     },
     {
-      "id": "W7223369016",
-      "title": "Explainable Multi-Source Machine Learning for PM₂.₅ Mapping Across Indonesian Cities: Integrating Satellite, Meteorological, Land-Surface and Fire Information",
+      "id": "W7224993795",
+      "title": "Lower agricultural drought predictability in canal-irrigated districts of Pakistan",
       "authors": [
-        "Rio Rinaldy",
-        "Siti Hapsah Pahira"
+        "Akash Hussain",
+        "Yu Zhang",
+        "Muhammad Saleem",
+        "Mubashir  Ali Ghaffar",
+        "Mohsin Ijaz",
+        "Wajahat Waseem",
+        "Mahmood Hemat",
+        "Atiyyah Rafaqat"
       ],
-      "journal": "Jurnal Indonesia Sosial Teknologi",
-      "publicationDate": "2026-10-23",
-      "doi": "https://doi.org/10.59141/jist.v7i9.9244",
-      "openAlexUrl": "https://openalex.org/W7223369016",
+      "journal": "Agricultural Water Management",
+      "publicationDate": "2026-10-31",
+      "doi": "https://doi.org/10.1016/j.agwat.2026.110904",
+      "openAlexUrl": "https://openalex.org/W7224993795",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
       "score": 70,
       "matchedKeywords": [
         "machine learning",
-        "explainable",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、climate、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Agricultural drought threatens food security in irrigated and rainfed regions worldwide, and early warning is especially difficult in large irrigated basins, where canal water partly decouples crop condition from local climate. Machine learning forecasts often claim multi-month skill, yet few are tested over multiple years against simple benchmarks, and few examine irrigation's effect on predictability. Using Pakistan's Indus Basin as a test case, this study forecasts the monthly Vegetation Health Index (VHI) at 1-, 3-, and 6-month leads for 94 districts of Sindh, Punjab, and Khyber Pakhtunkhwa (KP). Zone-stratified stacking ensembles combined Random Forest, XGBoost, LightGBM, and CatBoost with a Ridge meta-learner. Predictors were restricted to information available at the forecast origin, and skill was evaluated by rolling-origin validation over seven test years (2016–2022). Forecasts outperformed climatology only one month ahead, with a mean squared error skill score (MSESS) of 0.234 (95% confidence interval 0.151–0.302). This skill was positive in every test year, including the 2022 compound drought and flood, while skill at three and six months did not differ from climatology. Removing all VHI-derived predictors halved one-month skill without eliminating it. Shapley attribution showed vegetation persistence dominating at one month and soil moisture gaining weight at longer leads. VHI responded to the three-month Standardized Precipitation Evapotranspiration Index (SPEI-3) within the same month in 80 of 94 districts, and propagation timescale did not constrain predictability. Districts with more canal-irrigated cropland were less predictable: a one standard deviation increase in canal-irrigated fraction was associated with a 0.046 lower one-month MSESS, about 20% of mean skill. This association remained robust after controlling for agro-climatic factors, province effects, within-province permutation, and spatial dependence, whereas tubewell irrigation had a smaller, non-significant effect. The canal association arose mainly in the thermal component of VHI. Conformal intervals calibrated on preceding years achieved 91% coverage at one month, and a deterministic warning gave the best balance between detection and false alarms (Peirce skill score 0.29). Predicted VHI was associated with rice but not wheat yield anomalies. The framework provides district drought managers with a skillful one-month forecast and calibrated uncertainty, and points to canal supply data as the priority input for extending warning lead times in irrigated basins."
+    },
+    {
+      "id": "W7224999743",
+      "title": "Conformal Prediction for River Total Dissolved Solids (TDS) Prediction and Risk Quantification",
+      "authors": [
+        "Mahesh Pal",
+        "Erfan Abdi",
+        "Ali Torabi Haghighi"
+      ],
+      "journal": "Khazar Journal of Water and Environment",
+      "publicationDate": "2026-10-31",
+      "doi": "https://doi.org/10.68277/kjwe.2026.11",
+      "openAlexUrl": "https://openalex.org/W7224999743",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 69,
+      "matchedKeywords": [
+        "machine learning",
         "shap"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Background: Fine particulate matter (PM₂.₅) is a critical indicator of atmospheric environmental quality, yet its spatial assessment in Indonesia remains constrained by the limited and uneven distribution of ground-monitoring stations. Objectives: This study develops an explainable multi-source machine-learning framework for estimating daily PM₂.₅ concentrations across Indonesian cities by integrating ground observations with satellite-derived aerosol optical depth, meteorological reanalysis, land-surface characteristics, and satellite-detected fire activity. Method: Ground-level PM₂.₅ observations are harmonized with MODIS MAIAC aerosol data, ERA5-Land meteorological variables, VIIRS fire information, and selected geographic covariates. Linear baseline models, Random Forest, and gradient-boosted trees are evaluated using temporal-block validation and leave-one-city-out cross-validation to distinguish temporal predictive performance from geographic transferability. SHapley Additive exPlanations (SHAP) are used to identify predictor contributions, while spatial residual diagnostics are employed to detect systematic geographic prediction errors. Results: In the present simulated analytical scenario, the dataset comprised 3,854 station-days from six Indonesian cities during 2023–2024. The best-performing XGBoost model achieved an out-of-sample R² of 0.79, RMSE of 7.8 µg m⁻³, and MAE of 5.6 µg m⁻³ under temporal validation. Under leave-one-city-out validation, performance decreased to R² = 0.64, RMSE = 10.5 µg m⁻³, and MAE = 7.7 µg m⁻³. Satellite AOD, planetary boundary-layer height, relative humidity, wind speed, and lagged fire radiative power were the dominant predictors. Conclusion: The proposed framework provides a transparent approach for extending PM₂.₅ assessment beyond existing monitoring locations while explicitly evaluating geographic generalizability and model interpretability."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Probabilistic machine learning models estimate total dissolved solids (TDS) levels and exceedance probabilities, enabling risk-based regulation and safeguarding public health. This study develops a probabilistic machine learning framework to forecast monthly TDS in the Lam Tsuen River in Hong Kong using long‑term monitoring data from 2000 to 2023, split into 80% for training and 20% for testing. Four routinely measured variables, pH, salinity, turbidity, and water temperature, were used as predictors of TDS. Five gradient boosting‑based algorithms (Gradient boosting, LightGB, XGBoost, CatBoost, and GPBoost) were calibrated, and predictive uncertainty was quantified using three conformal prediction schemes: Split Conformal Prediction (SplitCP), Cross Validation Plus (CV+), and Conformal Quantile Regression (CQR). Probabilistic prediction was implemented via the Treeffuser framework, enabling consistent construction of prediction intervals and exceedance probabilities. Among the tested models, GPBoost delivered the best deterministic performance, with Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and correlation coefficient (CC) of 85.968 mg/l, 59.943, and 0.902 on the test set, respectively, outperforming gradient boosting (RMSE 88.855 mg/l, MAE 61.067, CC 0.906), LightGB (RMSE 89.837, MAE 62.054, CC 0.905), XGBoost (RMSE 97.723, MAE 68.792, CC 0.885), and CatBoost (RMSE 108.758 mg/l, MAE 66.886, CC 0.840). The conformal prediction methods produced well‑calibrated prediction intervals, with the narrowest and most stable bands obtained for GPBoost. SHAP analysis further showed that salinity and turbidity were the dominant predictors, followed by pH and water temperature, providing hydrochemically consistent insight into the drivers of TDS variability. These methods can be extended to river quality/quantity for probabilistic forecasting and adaptive planning."
+    },
+    {
+      "id": "W7224758294",
+      "title": "Causal-prior-constrained deep learning for rapid-intensification warning of western North Pacific tropical cyclones",
+      "authors": [
+        "Xinrui Li",
+        "Yijun Jin",
+        "Yifan Dong",
+        "Shoujuan Shu"
+      ],
+      "journal": "arXiv (Cornell University)",
+      "publicationDate": "2026-10-29",
+      "doi": "https://doi.org/10.48550/arxiv.2610.40304",
+      "openAlexUrl": "https://openalex.org/W7224758294",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 66,
+      "matchedKeywords": [
+        "deep learning",
+        "causal"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、causal、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Rapid intensification (RI) is one of the most dangerous and unpredictable phases of tropical cyclones, and its environmental and structural drivers are difficult to identify and separate in observations. Here we introduce CausalVisionRI, a causal-prior-constrained deep-learning system for 24-h RI warning in the western North Pacific. It integrates infrared remote sensing imagery, atmospheric and oceanic fields, and an observationally discovered causal graph into a unified model. The graph and eight sign-verified effects on 24-h intensity change provide an auditable causal prior for training. Discovered from 522 cyclones in 2000-2017, it identifies causal pathways linking atmospheric and oceanic conditions, the cyclone's dynamical and structural state, and its 24-h intensity change. On a forward holdout covering 2020-2024 and 3,004 records, the five-member ensemble achieves a Brier skill score (BSS) of 0.259 relative to a fixed development climatology, significantly exceeding four reference systems; the three LDA baselines reach at most 0.105. It also attains higher detection rates than a published knowledge-block scheme and a reconstructed contrastive-learning scheme at matched false-detection rates under our USA 30-kt standard and the published RITCF standard. Ablations show that the graph pathway adds 0.032 BSS across the holdout and 0.063 over 2020-2021, with a significant contribution in one ensemble member. A deep-learning model constrained by observationally discovered causal structure thus offers a new route to physically informed RI warning."
     },
     {
       "id": "W7223971208",
@@ -182,7 +203,7 @@
       "openAlexUrl": "https://openalex.org/W7223971208",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -202,7 +223,7 @@
       "openAlexUrl": "https://openalex.org/W7223575395",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "explainable",
         "shap"
@@ -226,7 +247,7 @@
       "openAlexUrl": "https://openalex.org/W7223784096",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "neural network"
@@ -248,35 +269,13 @@
       "openAlexUrl": "https://openalex.org/W7223569148",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "artificial intelligence",
         "neural network"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
-    },
-    {
-      "id": "W7224904617",
-      "title": "Interdecadal change in the interannual relationship between spring tropical Indian ocean sea surface temperature and summer extreme precipitation in northern Xinjiang of Northwest China",
-      "authors": [
-        "Nannan Li",
-        "Yong Zhao",
-        "Lixia Meng",
-        "Yuanan Jiang"
-      ],
-      "journal": "Climate Dynamics",
-      "publicationDate": "2026-10-30",
-      "doi": "https://doi.org/10.1007/s00382-026-08446-z",
-      "openAlexUrl": "https://openalex.org/W7224904617",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 60,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、atmospher、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Based on the daily precipitation data released by the China Meteorological Data Service Centre, the monthly Sea Surface Temperature (SST) provided by the National Oceanic and Atmospheric Administration (NOAA) and monthly atmospheric reanalysis data extracted from the National Centers for Environmental Prediction (NCEP) and the National Center for Atmospheric Research (NCAR) during 1961–2022, we examine the interdecadal change in the relationship between spring Indian Ocean SST (IOSST) and summer extreme precipitation (SEP) in northern Xinjiang of Northwest China. Results show that the IOSST-SEP relationship has experienced an obvious interdecadal change, especially between 1963 and 1983 and 1984–2004, and in the latter period their relationship significantly becomes closer. The meridional movement of the subtropical westerly jet (SWJ) over Central Asia (CA) can well affect the Central Asian cyclone and transport of water vapor and is responsible for the SEP in northern Xinjiang, which plays an important role in linking IOSST and SEP. During 1963–1983, the persistence of anomalous IOSST signals from spring to summer strongly depends on El Niño, so the IOSST is manifested as a heat sink and cannot influence the meridional movement of the SWJ over CA. However, during 1984–2004, the persistence of anomalous IOSST signals from spring to summer is independent of El Niño, and the IOSST is manifested as a heat source and can modulate the meridional movement of the SWJ over CA via Gill-type atmospheric response."
     },
     {
       "id": "W7223798014",
@@ -291,7 +290,7 @@
       "openAlexUrl": "https://openalex.org/W7223798014",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "precipitation",
         "teleconnection"

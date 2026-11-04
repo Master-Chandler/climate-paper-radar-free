@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:05:22.022Z",
+  "generatedAt": "2026-11-04T06:49:41.912Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -27,7 +27,7 @@
       "openAlexUrl": "https://openalex.org/W7224990642",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 86,
+      "score": 85,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -50,7 +50,7 @@
       "openAlexUrl": "https://openalex.org/W7224009858",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 85,
+      "score": 84,
       "matchedKeywords": [
         "machine learning",
         "deep learning",
@@ -59,6 +59,34 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、causal、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Introduction This study proposes an integrated framework combining deep learning, causal discovery, explainability, and domain thresholds for proactive monitoring in temperature-sensitive fresh fruits and vegetables cold chains, a domain that remains largely unexplored. The framework predicts temperature breaks (a critical physical hazard that compromises food safety and accelerates postharvest losses), prospectively identifies their causal drivers, and prioritizes countermeasures. Methods Using two IoT-gathered datasets from an Apple cold room in South Africa, eight machine learning models and three baselines were compared for temperature prediction, including a proposed LSTM-GRU hybrid (LSGR) model. Causal relationships between measured parameters and predicted temperature were identified using Latent Peter & Clark Momentary Conditional Independence (LPCMCI; compared with PCMCI). At the same time, SHapley Additive exPlanations quantified feature importance, and domain-based thresholds complemented them for countermeasure prioritization after temperature-break prediction (TBP). Results On the extended dataset, deep neural networks' (DNN) R 2 and normalized mean squared error improved by up to 30% and to 61%, respectively, over the smaller dataset, demonstrating strong generalizability to substantially different cold room operating conditions. The LSGR demonstrated the best overall performance across both temperature and TBP tasks among the recurrent models assessed, raising the fewest false alarms per day. All DNNs flagged breaks in advance; no baseline did. LPCMCI recovered most direct causal links after break prediction, especially for lagged temperature, identifying it as the dominant factor associated with predicted breaks. Notably, post-TBP, causality, importance, and thresholds strongly agreed on the same top two critical parameters or countermeasures (temperature and humidity), providing consistent and actionable insights for decision-making. Discussion These findings demonstrate the viability of combining causal discovery, explainability and thresholds for cold chain management, with implications for reducing food wastage and enhancing quality, safety, and sustainability from farm to fork in temperature-sensitive FFVs supply chains. LPCMCI recovered a few links overall, indicating the influence of unmeasured drivers and warranting further investigation, including additional features, their interactions, and seasonal data, as well as a fuller characterization of causality-regime dependence."
+    },
+    {
+      "id": "W7225043985",
+      "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
+      "authors": [
+        "Shuoyan Wu",
+        "Heyu Sun",
+        "Lei Liu",
+        "Ping Zhao",
+        "Jianfang Fei",
+        "Qi Zhang"
+      ],
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-01",
+      "doi": "https://doi.org/10.1029/2026gl125445",
+      "openAlexUrl": "https://openalex.org/W7225043985",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 84,
+      "matchedKeywords": [
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "teleconnection"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The Tibetan Plateau (TP) is a key water source for downstream Asia, and its rainy‐season precipitation is influenced by the El Niño–Southern Oscillation (ENSO). However, whether this teleconnection has remained stationary over recent decades remains uncertain. Using multi‐source data sets, we examine ENSO‐related precipitation, circulation, and moisture‐transport composites during the pre‐2000 epoch (1979–2000) and the post‐2001 epoch (2001–2023). ENSO lifecycle composites show that El Niño and La Niña are associated with opposite‐signed precipitation responses through changes in Western Pacific Subtropical High (WPSH) displacement and monsoon moisture transport. In the post‐2001 epoch, the sensitivity of the plateau's rainy‐season precipitation to La Niña is enhanced: La Niña‐related wetting and WPSH responses are larger in the composites, with a more westward‐displaced WPSH and enhanced moisture transport toward the plateau."
     },
     {
       "id": "W7223649481",
@@ -77,7 +105,7 @@
       "openAlexUrl": "https://openalex.org/W7223649481",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -87,6 +115,33 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、monsoon、precipitation、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The moisture of the northeastern Tibetan Plateau is jointly shaped by the East Asian Summer Monsoon (EASM) and the mid-latitude Westerlies, the two key atmospheric circulation systems originating from low- and high-latitudes, respectively. Modern observations demonstrate that the intensity change and meridional position of the Westerlies directly modulate the EASM precipitation, which sustains vast human populations and ecosystems across East Asia. However, the interaction between these two systems over geological time remains controversial, partly due to controversies in the reconstructed past precipitation intensity. Here, we present a high-resolution multi-proxy loess record (ZES) spanning the past 18.5 ka from the central Qilian Mountains, located in the monsoon marginal zone where both systems jointly operate. We first found that loess–paleosol carbonate δ 18 O of ZES record captures a summer signal and covaries inversely with δ 13 C, which tracks monsoon precipitation intensity. Together with comparisons between modern observations and geological records, this constrains EASM-dominated precipitation. We then establish a robust EASM index from multiple independent proxies including magnetic susceptibility, total carbonate content, dolomite content, carbonate δ 13 C, and colour reflectance. Our results reveal that EASM precipitation responded to combined high- and low-latitude forcing on both millennial timescales during the Last Deglaciation and orbital timescales manifested in the long-term trend since 18.5 ka, with the pre-Boreal oscillation offering complementary insights into early-Holocene centennial-scale interactions. The EASM precipitation intensity was suppressed during the Last Deglaciation, strengthened gradually through the early Holocene, peaked from ∼7.5 to 1.8 ka, and subsequently declined. Direct comparison of Westerlies and EASM signals retrieved from the same loess sequence reveals coupled interaction between the two systems since the mid-late Holocene, with westerly intensification accompanying monsoon strengthening. These findings indicate bidirectional linkage between high- and low-latitude systems and further suggest that, under continued global warming, the monsoon marginal zone of northwestern China may experience a progressive increase in precipitation."
+    },
+    {
+      "id": "W7225099760",
+      "title": "Spatiotemporal Heterogeneity in Cascading Snow-Hydrological Responses to Warming and Wetting on the Tibetan Plateau",
+      "authors": [
+        "Xinyun Hu",
+        "Xin Miao",
+        "Shangyong Shi",
+        "Le Wang",
+        "Yizhuo Li",
+        "Qing Guo",
+        "Weidong Guo"
+      ],
+      "journal": "Preprint / Unknown source",
+      "publicationDate": "2026-11-02",
+      "doi": "https://doi.org/10.5194/egusphere-2026-4924",
+      "openAlexUrl": "https://openalex.org/W7225099760",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 76,
+      "matchedKeywords": [
+        "precipitation",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Tibetan Plateau (TP) has experienced significant warming-wetting trends in recent years, inducing snowfall changes. However, the relative roles of precipitation and temperature in driving changes in snowfall and subsequent snow-hydrological processes remain poorly understood. We use China Meteorological Forcing Dataset (CMFD) v2.0 to quantify the contribution of meteorological factors including precipitation and air temperature to variations in snowfall. The results indicates that snowfall variability arises from complex interplay of both synergistic and competing effects between warming-wetting trends, with pronounced spatiotemporal and seasonal heterogeneity. Precipitation is the primary factor dominating snowfall variation during different stages, affecting snowfall changes across 66.42 % areas of the TP. The compensatory effect of precipitation change offsetting warming-induced snowfall decline has intensified, especially after 2000, with positive contribution of 15.28 mm. Besides, the contribution mechanisms governing snowfall changes show phased elevation dependence, with mid-to-high elevation regions exhibiting greater sensitivity. Furthermore, sensitivity analyses based on the SSiB3 (Simplified Simple Biosphere Model version 3) land surface model reveal that warming-wetting induces cascading impacts through the “warming-wetting-snowfall-snow cover-snowmelt runoff (SMR)” chain. This cascading process leads to an overall increase of 2.2 % in cumulative SMR, accompanied by enhanced spatial heterogeneity and seasonal variability of snowmelt. Distinct responses are observed among different snowfall-contribution regimes, snow regimes, and elevation bands. Changes in dominant climatic factors reshape the seasonal distribution of SMR. These findings reveal the complex mechanisms linking snowfall changes to cascading snow-hydrological responses under a warming-wetting climate over the TP, providing novel insights for water resource assessment and future climate adaptation."
     },
     {
       "id": "W7203765652",
@@ -107,7 +162,7 @@
       "openAlexUrl": "https://openalex.org/W7203765652",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -135,7 +190,7 @@
       "openAlexUrl": "https://openalex.org/W7224993795",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -157,7 +212,7 @@
       "openAlexUrl": "https://openalex.org/W7224999743",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -180,7 +235,7 @@
       "openAlexUrl": "https://openalex.org/W7224758294",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "deep learning",
         "causal"
@@ -203,7 +258,7 @@
       "openAlexUrl": "https://openalex.org/W7223971208",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -223,7 +278,7 @@
       "openAlexUrl": "https://openalex.org/W7223575395",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "explainable",
         "shap"
@@ -247,56 +302,13 @@
       "openAlexUrl": "https://openalex.org/W7223784096",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "neural network"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、neural network、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Western Guangdong Province in China is frequently affected by intense rainfall and related geological hazards, yet studies on debris flow disasters in this area remain limited. In June 2025, four consecutive debris flow events occurred along the Lianzhou-Sanshui section of the G55 Erenhot-Guangzhou Expressway, attracting significant attention. To better understand the spatial distribution and controlling factors of these hazards, this study conducted a debris flow susceptibility assessment for this section. Based on regional topographic, meteorological, and geological conditions, combined with historical disaster data, an evaluation index system and database were established. Four machine learning algorithms, Back Propagation Neural Network (BPNN), Random Forest (RF), Support Vector Machine (SVM), and Extreme Gradient Boosting (XGBoost), were applied and systematically compared. Algorithm performance was assessed using 3-fold spatially independent validation. Among the tested algorithms, XGBoost achieved the best predictive performance, with an accuracy of 0.923, recall of 0.879, F1-score of 0.794, and ROC-AUC of 0.927. The debris flow susceptibility was classified into low, medium, and high levels. Medium and high susceptibility areas exhibited clear spatial clustering, mainly in the northern section of the expressway, while the southern section showed generally low susceptibility. Debris flows along the expressway were primarily triggered by shallow surface collapses and landslides that formed cascading hazard chains, while the slipperiness of surface weathering products showed an observed association with debris-flow occurrence and may represent a potential conditioning factor. These findings provide a scientific basis for debris flow risk identification and mitigation and offer insights for improving susceptibility assessment methodologies."
-    },
-    {
-      "id": "W7223569148",
-      "title": "A multi-source earth observation and artificial intelligence framework for unsupervised water-use anomaly screening in Mediterranean agriculture",
-      "authors": [
-        "Elena Kakoulli",
-        "Anastasios Antoniades",
-        "Stelios P. Neophytides"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-10-25",
-      "doi": "https://doi.org/10.1038/s41598-026-76069-9",
-      "openAlexUrl": "https://openalex.org/W7223569148",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 60,
-      "matchedKeywords": [
-        "artificial intelligence",
-        "neural network"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 artificial intelligence、neural network、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Reliable screening of agricultural water-use anomalies over large areas remains challenging because verified event labels and field observations are rarely available. We present AI4WaterGuard, a multi-source Earth Observation and artificial intelligence framework for unsupervised water-use anomaly screening across Cyprus. Using 617,862 records from 1,974 centroids across six hydrological years, six primary detector families were assessed under nested temporal cross-validation with training-consistent scaling, validity-aware scoring, and harmonised temporal support. Among the five centroid-sequence detectors, the convolutional neural network autoencoder showed the strongest response to the strong-reference controlled synthetic proxy, achieving Average Precision of $$0.893\\pm 0.130$$ and Proxy F1 of $$0.880\\pm 0.100$$ . The spatially explicit convolutional long short-term memory variational autoencoder was evaluated at finer land-pixel-sequence granularity and interpreted descriptively. Across five perturbation patterns and three severities, the convolutional neural network autoencoder achieved an equal-scenario mean Average Precision of 0.342, declining to 0.088 for weak perturbations. These synthetic metrics quantify controlled-proxy sensitivity, not field-validated detection performance. Operational post-processing on 1,157 WorldCover-eligible centroids combined threshold sensitivity, 1,000 exact-count randomisations, a primary Top-50 inspection-prioritisation queue with a nested Top-20 high-priority subset, and common-cadence spatiotemporal events. The resulting screening priorities require independent administrative and field evidence to establish physical cause or legal status."
-    },
-    {
-      "id": "W7223798014",
-      "title": "Persistent Increase in June Precipitation over South China and a Teleconnection Linked to Central European Warming",
-      "authors": [
-        "Zhixiang Xiao",
-        "Yi Lin"
-      ],
-      "journal": "Research Square",
-      "publicationDate": "2026-10-27",
-      "doi": "https://doi.org/10.21203/rs.3.rs-10642014/v1",
-      "openAlexUrl": "https://openalex.org/W7223798014",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 59,
-      "matchedKeywords": [
-        "precipitation",
-        "teleconnection"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、atmospher、temperature、circulation、teleconnection，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Based on station observations and the JRA-3Q reanalysis dataset, this study investigates the atmospheric moisture budget responsible for the persistently increasing June precipitation over South China (SC) during 1979‒2023. The moisture budget analysis reveals that dynamic effects dominate the increase in precipitation, with vertical moisture advection accounting for the largest proportion (64.86% of the total positive contributions), followed by horizontal moisture advection. In contrast, the thermodynamic component of horizontal moisture advection exerts a significant negative effect, partly offsetting the enhancement of precipitation. Vertically, both the largest positive and negative contributions exhibit a unimodal structure, peaking at 500 hPa and 700 hPa, respectively. Further analysis indicates a close connection between the enhanced SC precipitation and the concurrent warming over Central Europe (CE). The warming over CE excites a wave train characterized by alternating anticyclonic and cyclonic circulation anomalies, propagating from the CE to the Ural Mountains, then turning southeastward toward the Altay Mountains, the North China Plain, and finally reaching the northwest Pacific. The cyclonic circulation over the North China Plain, together with the intensified western North Pacific subtropical high, favors water vapor transport toward SC and strong convergence there, leading to heavy precipitation. Finally, the temperature budget equation is employed to diagnose the warming over CE. Results show that the warming is governed by two main processes: anomalous warm horizontal advection originating from the Iberian Peninsula and the Mediterranean Sea dominates the western CE, while prevailing downward motion controls the central and eastern CE. These findings highlight the crucial role of extratropical warming in modulating subtropical precipitation through teleconnection patterns."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:09:12.367Z",
+  "generatedAt": "2026-11-07T06:21:09.568Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,89 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7225228852",
+      "title": "Detection and characterization of deep convective clouds over the Tibetan plateau and Asian Monsoon regions using hyperspectral infrared sounders",
+      "authors": [
+        "Xiaozhen Xiong",
+        "Xu Liu",
+        "蒋循",
+        "Wan Wu",
+        "Liqiao Lei",
+        "Qiguang yang",
+        "Hyun-Sung Jang"
+      ],
+      "journal": "Frontiers in Remote Sensing",
+      "publicationDate": "2026-11-04",
+      "doi": "https://doi.org/10.3389/frsen.2026.1839965",
+      "openAlexUrl": "https://openalex.org/W7225228852",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 82,
+      "matchedKeywords": [
+        "monsoon",
+        "tibetan plateau",
+        "himalaya",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、himalaya、plateau、ocean、monsoon，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "A novel method for detecting deep convective clouds based on the height of inverted hyperspectral infrared spectra near 9.6 μm, i.e., H-index, is presented. Verification to their cloud top heights using Single Field-of-View Retrieval Products (SiFSAP) and CERES products demonstrates that this method provide an effective way to detect the deep convective clouds, with the DCCs detected using H-index >3.5 K being mostly above 250 hPa, and DCCi2 detected by H-index >11.5 K mostly above 150 hPa. Further analysis of the spatiotemporal distribution of these two categories of DCCs and DCCi2 over the Tibetan Plateau (TP) and surrounding Asian Monsoon regions using 13 years of CrIS data (2013–2025) reveals: (1) Frequent DCCs occur over the Western Himalaya, Pakistan, Northwest India during summer, and western Himalayan DCCs are significantly more likely to intensify into DCCi2 compared to those over the TP, confirming previous findings of extreme deep convection along steep Himalayan slopes; (2) The occurrence of DCCs over the TP exhibits a strong correlation with ENSO cycles, with less DCCS during El Niño years (2015, 2019) and more DCCs during La Niña year (2022), and DCCs over the TP shows a decreasing trend: and (3) nighttime (∼1:30 am) DCCs are more frequent than daytime (∼1:30 pm) over the TP. Notably, frequent DCCs occurrence is found near Ya’an, Sichuan (the “Rain City”), particularly during summer nights. Frequent DCCs are also evident over the Bay of Bengal and South China Sea. From the annual cycle of DCCs, the maximum DCCs occurrence over the Western Himalaya and TP lags behind ocean regions by approximately 1 month, reflecting monsoon propagation dynamics. These results demonstrate the value of hyperspectral infrared data for studying DCCs over the TP and Asian Monsoon regions. This new method can be easily applied to other hyperspectral infrared sounders, such as AIRS and IASI, enabling DCC studies in other regions and facilitating climatological analysis using over 20 years of accumulated hyperspectral sounder data from AIRS, IASI and CrIS."
+    },
+    {
+      "id": "W7225233178",
+      "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
+      "authors": [
+        "Boyuan Zhang",
+        "冯方林",
+        "Qian Liu",
+        "Zhenzhao Zhou",
+        "Tieshi Dong",
+        "Lihui Yin",
+        "Benhua Xin"
+      ],
+      "journal": "Frontiers in Forests and Global Change",
+      "publicationDate": "2026-11-04",
+      "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
+      "openAlexUrl": "https://openalex.org/W7225233178",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 81,
+      "matchedKeywords": [
+        "machine learning",
+        "causal",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、causal、climate、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Forests provide multiple ecosystem services, including water regulation, water supply, soil retention, carbon sequestration, habitat provision, biodiversity conservation, and timber production. These services arise from coupled processes operating across vegetation, litter, soil, and watershed compartments. Changes in climate, land use, forest structure, or management can therefore alter several services simultaneously, but the direction of change depends on the process pathway, environmental context, and scale of assessment. Here, we synthesize advances in the quantitative assessment of interactions between forest hydrological functions and other ecosystem services, emphasizing how environmental drivers and management reorganize forest structure, how structural states alter hydrological partitioning and water-carbon coupling, and how these process changes propagate to ecosystem-service outcomes. We first establish a process-based framework covering canopy interception, throughfall, stemflow, litter interception, infiltration, evapotranspiration, soil-water storage, deep drainage, groundwater recharge, lateral flow, baseflow, and surface runoff. We then evaluate field experiments, watershed observations, process-based and ecosystem-service models, spatial statistics, machine learning, and causal inference, with explicit attention to their assumptions and scale limitations. Quantitative evidence from global thinning syntheses and classical catchment experiments is used to distinguish relatively consistent responses from context-dependent ones. A long-term Korean pine forest-management experiment on Changbai Mountain is included as an illustrative case study: the treatments persisted for 27 years, whereas the hydrological measurements summarized here represent observations made in 2023 rather than a continuous 27-year hydrological time series. The case illustrates how post-treatment structural states are associated with differences in precipitation partitioning and soil-water processes, but it is not presented as a formal causal mediation test. We further identify knowledge gaps involving belowground hydraulic redistribution, nonlinear thresholds, temporal legacies, cross-scale interactions, causal attribution, and model uncertainty, and propose a research and management framework linking long-term experiments, remote sensing, process-based models, causal inference, and multi-objective optimization."
+    },
+    {
+      "id": "W7225251203",
+      "title": "Drought to Flood Abrupt Alternation Events Across Monsoon Region in China: Characteristics, Mechanisms, and Crop Exposure",
+      "authors": [
+        "Jun Liu",
+        "Yingxiao Sun",
+        "Chunxuan Zhao",
+        "Tong Jin",
+        "An Xuehua",
+        "Jiayi Mu",
+        "Qianrong Ma",
+        "Shanlei Sun"
+      ],
+      "journal": "Research Square",
+      "publicationDate": "2026-11-04",
+      "doi": "https://doi.org/10.21203/rs.3.rs-10952103/v1",
+      "openAlexUrl": "https://openalex.org/W7225251203",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 81,
+      "matchedKeywords": [
+        "monsoon",
+        "yangtze",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Climate change is altering the frequency and intensity of hydroclimatic extremes, increasing the likelihood of drought to flood abrupt alternation (DTFAA) events which creates compound risks. Here, we identify DTFAA events across the monsoon region of China (MRC) during May–September from 1961 to 2023 using the daily Standardized Weighted Average Precipitation index. We identify 3,575 DTFAA events, with most transitions occurring within 1–2 days and a modest maximum in June. Generally, DTFAA frequency and intensity in MRC increase significantly at rates of 0.29 times decade⁻¹ and 0.26 decade⁻¹, respectively, with high frequencies concentrated in the middle and lower Yangtze River Basin, southern coastal China, and parts of North and Southwest China. Dynamically, governed by jet-waveguide interaction, the transition initiates with high-latitude easterly anomalies anchoring upstream blocking and the westward-extending subtropic high priming baroclinicity. Subsequently, the intensified and westward-extending subtropical jet establishes a mid-latitude meridional potential vorticity gradient conduit, routing trapped energy in blocking downstream to drive deep dynamic suction and moisture convergence, unleashing the abrupt flooding. Furthermore, crop exposure is crop-specific heterogeneous: maize and wheat show extensive high-exposure belts, whereas rice exposure is more fragmented; maize exhibits significant increases in both frequency and intensity exposure during 2000–2019. These results demonstrate that DTFAA events in the MRC arise from coordinated large-scale circulation and moisture-transport processes and that their agricultural consequences are strongly crop and region dependent, providing a dynamical and impact-oriented framework for improving monitoring, prediction, and adaptation to rapid hydroclimatic transitions."
+    },
     {
       "id": "W7224990642",
       "title": "Monitoring Marine Microplastic Distributions in Data-Scarce Ocean Regions Using Environmental Representation Learning and Explainable Machine Learning",
@@ -27,7 +110,7 @@
       "openAlexUrl": "https://openalex.org/W7224990642",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 80,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -37,28 +120,32 @@
       "abstractEn": "Monitoring pollution in the ocean from microplastic and making decisions using this data is challenging, especially in ocean areas with little data and geographically limited observations. The ability to accurately predict microplastic distributions is crucial for the identification of pollution hotspots and for understanding environmental risk and for taking decisions on marine conservation. This study introduces a framework for learning a representation of the environment which is explainable and aware of uncertainty that combines NOAA marine microplastic observation data with oceanographic and geospatial data provided by Copernicus Marine and GEBCO datasets. The proposed Contrastive-XGBoost model outperformed the other models with the highest predictive capability with R2 = 0.651, RMSE = 1.008 and MAE = 0.619. Predictors identified by SHAP analysis included depth, bathymetry, geographical location, temperature, ocean circulation, and proximity to coast. Ablation analysis revealed the advantage of using combined (heterogeneous) environmental variables. Global prediction maps indicated that coastal and semi-enclosed seas, such as the Bay of Bengal, South China Sea, Gulf of Mexico and Mediterranean Sea are potentially accumulation hotspots. Conventional XGBoost, however, showed statistically comparable predictive power and geographically independent validation showed a limited transferability to environmentally different regions. The results show the possibility of using interpretable environmental machine learning for supplying additional data for environmental pollution monitoring, hotspot detection and uncertainty aware environmental decision-making."
     },
     {
-      "id": "W7224009858",
-      "title": "Explainable deep learning for predicting temperature breaks and identifying their causal drivers in fresh produce cold chains",
+      "id": "W7225043985",
+      "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
       "authors": [
-        "Jeremiah Taguta",
-        "Jean Frederic Isingizwe Nturambirwe",
-        "Clement Nyirenda"
+        "Shuoyan Wu",
+        "Heyu Sun",
+        "Lei Liu",
+        "Ping Zhao",
+        "Jianfang Fei",
+        "Qi Zhang"
       ],
-      "journal": "Frontiers in Artificial Intelligence",
-      "publicationDate": "2026-10-27",
-      "doi": "https://doi.org/10.3389/frai.2026.1893108",
-      "openAlexUrl": "https://openalex.org/W7224009858",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 81,
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-01",
+      "doi": "https://doi.org/10.1029/2026gl125445",
+      "openAlexUrl": "https://openalex.org/W7225043985",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 80,
       "matchedKeywords": [
-        "machine learning",
-        "deep learning",
-        "explainable",
-        "causal"
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "teleconnection"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、explainable、causal、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Introduction This study proposes an integrated framework combining deep learning, causal discovery, explainability, and domain thresholds for proactive monitoring in temperature-sensitive fresh fruits and vegetables cold chains, a domain that remains largely unexplored. The framework predicts temperature breaks (a critical physical hazard that compromises food safety and accelerates postharvest losses), prospectively identifies their causal drivers, and prioritizes countermeasures. Methods Using two IoT-gathered datasets from an Apple cold room in South Africa, eight machine learning models and three baselines were compared for temperature prediction, including a proposed LSTM-GRU hybrid (LSGR) model. Causal relationships between measured parameters and predicted temperature were identified using Latent Peter & Clark Momentary Conditional Independence (LPCMCI; compared with PCMCI). At the same time, SHapley Additive exPlanations quantified feature importance, and domain-based thresholds complemented them for countermeasure prioritization after temperature-break prediction (TBP). Results On the extended dataset, deep neural networks' (DNN) R 2 and normalized mean squared error improved by up to 30% and to 61%, respectively, over the smaller dataset, demonstrating strong generalizability to substantially different cold room operating conditions. The LSGR demonstrated the best overall performance across both temperature and TBP tasks among the recurrent models assessed, raising the fewest false alarms per day. All DNNs flagged breaks in advance; no baseline did. LPCMCI recovered most direct causal links after break prediction, especially for lagged temperature, identifying it as the dominant factor associated with predicted breaks. Notably, post-TBP, causality, importance, and thresholds strongly agreed on the same top two critical parameters or countermeasures (temperature and humidity), providing consistent and actionable insights for decision-making. Discussion These findings demonstrate the viability of combining causal discovery, explainability and thresholds for cold chain management, with implications for reducing food wastage and enhancing quality, safety, and sustainability from farm to fork in temperature-sensitive FFVs supply chains. LPCMCI recovered a few links overall, indicating the influence of unmeasured drivers and warranting further investigation, including additional features, their interactions, and seasonal data, as well as a fuller characterization of causality-regime dependence."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The Tibetan Plateau (TP) is a key water source for downstream Asia, and its rainy‐season precipitation is influenced by the El Niño–Southern Oscillation (ENSO). However, whether this teleconnection has remained stationary over recent decades remains uncertain. Using multi‐source data sets, we examine ENSO‐related precipitation, circulation, and moisture‐transport composites during the pre‐2000 epoch (1979–2000) and the post‐2001 epoch (2001–2023). ENSO lifecycle composites show that El Niño and La Niña are associated with opposite‐signed precipitation responses through changes in Western Pacific Subtropical High (WPSH) displacement and monsoon moisture transport. In the post‐2001 epoch, the sensitivity of the plateau's rainy‐season precipitation to La Niña is enhanced: La Niña‐related wetting and WPSH responses are larger in the composites, with a more westward‐displaced WPSH and enhanced moisture transport toward the plateau."
     },
     {
       "id": "W7225205454",
@@ -73,7 +160,7 @@
       "openAlexUrl": "https://openalex.org/W7225205454",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -97,7 +184,7 @@
       "openAlexUrl": "https://openalex.org/W7225183534",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 81,
+      "score": 79,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -107,34 +194,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Quantifying the contributions of silicate and carbonate weathering to global carbon dioxide sequestration is crucial for understanding Earth’s climate regulation mechanisms. In this study, we introduce a framework that integrates explainable machine learning with partial dependence analysis to understand the relationships between environmental forcings and chemical weathering rates. We trained machine learning models on a geochemical dataset from the Tibetan Plateau together with climatic and environmental factors, achieving a weathering model with high predictive ability (R 2 = 0.84–0.96). Furthermore, we separated direct environmental driving effects from indirect mediating effects through systemic partial dependence plots. The results indicate that runoff is the dominant controlling factor of both riverine dissolved SiO 2 and HCO 3 ⁻ flux. Warming promotes riverine HCO 3 ⁻ flux in the river, but its effect on riverine dissolved SiO 2 flux is bidirectional-first inhibiting, then promoting. Further, our analysis reveals that the effect of precipitation on riverine dissolved SiO 2 flux is mainly mediated indirectly by runoff. Our study establishes a framework for investigating chemical weathering, highlighting the potential of machine learning to advance predictive modeling and reveal complex interactions between environmental forcings and chemical weathering."
-    },
-    {
-      "id": "W7225043985",
-      "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
-      "authors": [
-        "Shuoyan Wu",
-        "Heyu Sun",
-        "Lei Liu",
-        "Ping Zhao",
-        "Jianfang Fei",
-        "Qi Zhang"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-11-01",
-      "doi": "https://doi.org/10.1029/2026gl125445",
-      "openAlexUrl": "https://openalex.org/W7225043985",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 81,
-      "matchedKeywords": [
-        "monsoon",
-        "precipitation",
-        "tibetan plateau",
-        "plateau",
-        "teleconnection"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The Tibetan Plateau (TP) is a key water source for downstream Asia, and its rainy‐season precipitation is influenced by the El Niño–Southern Oscillation (ENSO). However, whether this teleconnection has remained stationary over recent decades remains uncertain. Using multi‐source data sets, we examine ENSO‐related precipitation, circulation, and moisture‐transport composites during the pre‐2000 epoch (1979–2000) and the post‐2001 epoch (2001–2023). ENSO lifecycle composites show that El Niño and La Niña are associated with opposite‐signed precipitation responses through changes in Western Pacific Subtropical High (WPSH) displacement and monsoon moisture transport. In the post‐2001 epoch, the sensitivity of the plateau's rainy‐season precipitation to La Niña is enhanced: La Niña‐related wetting and WPSH responses are larger in the composites, with a more westward‐displaced WPSH and enhanced moisture transport toward the plateau."
     },
     {
       "id": "W7225099760",
@@ -154,7 +213,7 @@
       "openAlexUrl": "https://openalex.org/W7225099760",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -175,7 +234,7 @@
       "openAlexUrl": "https://openalex.org/W7225154171",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "explainable",
         "precipitation"
@@ -202,7 +261,7 @@
       "openAlexUrl": "https://openalex.org/W7203765652",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -230,7 +289,7 @@
       "openAlexUrl": "https://openalex.org/W7224993795",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "precipitation"
@@ -252,59 +311,13 @@
       "openAlexUrl": "https://openalex.org/W7224999743",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "machine learning",
         "shap"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Probabilistic machine learning models estimate total dissolved solids (TDS) levels and exceedance probabilities, enabling risk-based regulation and safeguarding public health. This study develops a probabilistic machine learning framework to forecast monthly TDS in the Lam Tsuen River in Hong Kong using long‑term monitoring data from 2000 to 2023, split into 80% for training and 20% for testing. Four routinely measured variables, pH, salinity, turbidity, and water temperature, were used as predictors of TDS. Five gradient boosting‑based algorithms (Gradient boosting, LightGB, XGBoost, CatBoost, and GPBoost) were calibrated, and predictive uncertainty was quantified using three conformal prediction schemes: Split Conformal Prediction (SplitCP), Cross Validation Plus (CV+), and Conformal Quantile Regression (CQR). Probabilistic prediction was implemented via the Treeffuser framework, enabling consistent construction of prediction intervals and exceedance probabilities. Among the tested models, GPBoost delivered the best deterministic performance, with Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and correlation coefficient (CC) of 85.968 mg/l, 59.943, and 0.902 on the test set, respectively, outperforming gradient boosting (RMSE 88.855 mg/l, MAE 61.067, CC 0.906), LightGB (RMSE 89.837, MAE 62.054, CC 0.905), XGBoost (RMSE 97.723, MAE 68.792, CC 0.885), and CatBoost (RMSE 108.758 mg/l, MAE 66.886, CC 0.840). The conformal prediction methods produced well‑calibrated prediction intervals, with the narrowest and most stable bands obtained for GPBoost. SHAP analysis further showed that salinity and turbidity were the dominant predictors, followed by pH and water temperature, providing hydrochemically consistent insight into the drivers of TDS variability. These methods can be extended to river quality/quantity for probabilistic forecasting and adaptive planning."
-    },
-    {
-      "id": "W7224758294",
-      "title": "Causal-prior-constrained deep learning for rapid-intensification warning of western North Pacific tropical cyclones",
-      "authors": [
-        "Xinrui Li",
-        "Yijun Jin",
-        "Yifan Dong",
-        "Shoujuan Shu"
-      ],
-      "journal": "arXiv (Cornell University)",
-      "publicationDate": "2026-10-29",
-      "doi": "https://doi.org/10.48550/arxiv.2610.40304",
-      "openAlexUrl": "https://openalex.org/W7224758294",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 61,
-      "matchedKeywords": [
-        "deep learning",
-        "causal"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、causal、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Rapid intensification (RI) is one of the most dangerous and unpredictable phases of tropical cyclones, and its environmental and structural drivers are difficult to identify and separate in observations. Here we introduce CausalVisionRI, a causal-prior-constrained deep-learning system for 24-h RI warning in the western North Pacific. It integrates infrared remote sensing imagery, atmospheric and oceanic fields, and an observationally discovered causal graph into a unified model. The graph and eight sign-verified effects on 24-h intensity change provide an auditable causal prior for training. Discovered from 522 cyclones in 2000-2017, it identifies causal pathways linking atmospheric and oceanic conditions, the cyclone's dynamical and structural state, and its 24-h intensity change. On a forward holdout covering 2020-2024 and 3,004 records, the five-member ensemble achieves a Brier skill score (BSS) of 0.259 relative to a fixed development climatology, significantly exceeding four reference systems; the three LDA baselines reach at most 0.105. It also attains higher detection rates than a published knowledge-block scheme and a reconstructed contrastive-learning scheme at matched false-detection rates under our USA 30-kt standard and the published RITCF standard. Ablations show that the graph pathway adds 0.032 BSS across the holdout and 0.063 over 2020-2021, with a significant contribution in one ensemble member. A deep-learning model constrained by observationally discovered causal structure thus offers a new route to physically informed RI warning."
-    },
-    {
-      "id": "W7223971208",
-      "title": "Disentangling the dynamic and thermal effects of the Tibetan Plateau on the amplitude of ENSO",
-      "authors": [
-        "Baohuang Su",
-        "Yong Sun",
-        "Shuangze Han",
-        "Na Wang"
-      ],
-      "journal": "Research Square",
-      "publicationDate": "2026-10-27",
-      "doi": "https://doi.org/10.21203/rs.3.rs-10586960/v1",
-      "openAlexUrl": "https://openalex.org/W7223971208",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 61,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、ocean、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract This study investigates the impact of the Tibetan Plateau (TP) on El Niño-Southern Oscillation (ENSO) amplitude based on three long-term numerical experiments using the Community Earth System Model (CESM). Results indicate that the TP significantly suppresses the ENSO amplitude by 0.51°C (− 41%), where the dynamic effect (DY) and thermal effect (SH) of the TP exert opposite influences, contributing to a reduction of 0.58°C (− 46%) and an increase of 0.07°C (5%), respectively. Analysis of the Bjerknes coupled stability index reveals that the combined DY + SH effects lower the index, which is dynamically consistent with the weakened ENSO amplitude. This reduction is primarily manifested through the enhancement of mean advection feedback, the weakening of thermocline feedback, Ekman feedback, and zonal advective feedback, as well as the reduction of thermodynamic damping feedback, thereby regulating the ENSO growth rate. In each feedback process, the influence of DY consistently dominates and acts in the opposite direction to SH. Specifically, the weakening of the thermocline, Ekman, and zonal advective feedbacks is closely linked to a deepened thermocline and reduced sensitivity of vertical and zonal ocean currents to atmospheric forcing, while the reduction in thermodynamic damping feedback is attributed to the enhancement of shortwave radiation feedback driven by a strengthened Walker circulation. This study provides a mechanistic basis for how the TP modulates ENSO through air-sea coupling processes, offering valuable insights for improving ENSO predictability."
     }
   ]
 }

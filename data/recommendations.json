@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:28:05.486Z",
+  "generatedAt": "2026-11-09T06:59:19.733Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -23,7 +23,7 @@
       "openAlexUrl": "https://openalex.org/W7225344728",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 91,
+      "score": 90,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -34,31 +34,33 @@
       "abstractEn": "Introduction Accurate temperature prediction is essential for improving energy efficiency and ensuring reliable operation in modern data centers. However, despite their high accuracy, deep learning forecasting models often lack interpretability, limiting their deployment in critical environments. This study extends a previously developed hybrid SARIMAX-GRU forecasting model by introducing an explainable artificial intelligence (XAI) framework to analyze and validate its decision-making process under different operating conditions. Methods The proposed framework employs four XAI techniques, including SHapley Additive exPlanations (SHAP), Local Interpretable Model-agnostic Explanations (LIME), Integrated Gradients, and Permutation Importance, to analyze the contribution of temporal residual features in temperature prediction. The analysis considers nine scenarios covering low, moderate, and high temperatures (24 °C, 27 °C, and 30 °C) with workload transitions between 50%, 75%, and 100%. Pearson and Spearman correlation analyses are used to evaluate the agreement between explanation methods in terms of importance scores and feature rankings, respectively. Results The results show that the hybrid SARIMAX-GRU model mainly depends on recent residual features, particularly Residual_t1 to Residual_t4, while older residuals have limited influence. The dominant features vary according to workload transitions and sensor locations, reflecting changes in thermal dynamics. SHAP, Integrated Gradients, and Permutation Importance demonstrate highly consistent explanations, with Pearson correlations ranging from 0.93 to 1.00, while LIME provides more variable but complementary interpretations. Spearman correlation analysis further confirms strong agreement in feature rankings among SHAP, Integrated Gradients, and Permutation Importance, whereas rank agreement involving LIME varies across scenarios. Discussion The XAI analysis confirms that the model captures meaningful short-term thermal dependencies rather than arbitrary patterns. The variations in feature importance across different operating conditions highlight the model's ability to adapt to changing thermal behaviors, while the agreement among multiple XAI techniques improves confidence in the generated explanations. Conclusion This study demonstrates that integrating XAI with hybrid temperature forecasting enhances model transparency and provides valuable insights into data center thermal prediction. The proposed framework supports more trustworthy intelligent cooling and energy optimization decisions by identifying the key factors influencing model predictions."
     },
     {
-      "id": "W7225233178",
-      "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
+      "id": "W7225426666",
+      "title": "A Comprehensive Hourly Land–Atmosphere Interaction Dataset from a Coordinated 15-Station Network Spanning the Environmental Gradients of the Tibetan Plateau (2021–24)",
       "authors": [
-        "Boyuan Zhang",
-        "冯方林",
-        "Qian Liu",
-        "Zhenzhao Zhou",
-        "Tieshi Dong",
-        "Lihui Yin",
-        "Benhua Xin"
+        "Zhipeng Xie",
+        "Weiqiang Ma",
+        "Binbin Wang",
+        "Cunbo Han",
+        "Bin Ma",
+        "Xuelong Chen",
+        "Yongjie Wang",
+        "Maoshan Li"
       ],
-      "journal": "Frontiers in Forests and Global Change",
-      "publicationDate": "2026-11-04",
-      "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
-      "openAlexUrl": "https://openalex.org/W7225233178",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 80,
+      "journal": "Advances in Atmospheric Sciences",
+      "publicationDate": "2026-11-07",
+      "doi": "https://doi.org/10.1007/s00376-026-6282-3",
+      "openAlexUrl": "https://openalex.org/W7225426666",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 81,
       "matchedKeywords": [
         "machine learning",
-        "causal",
-        "precipitation"
+        "monsoon",
+        "tibetan plateau",
+        "plateau"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、causal、climate、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Forests provide multiple ecosystem services, including water regulation, water supply, soil retention, carbon sequestration, habitat provision, biodiversity conservation, and timber production. These services arise from coupled processes operating across vegetation, litter, soil, and watershed compartments. Changes in climate, land use, forest structure, or management can therefore alter several services simultaneously, but the direction of change depends on the process pathway, environmental context, and scale of assessment. Here, we synthesize advances in the quantitative assessment of interactions between forest hydrological functions and other ecosystem services, emphasizing how environmental drivers and management reorganize forest structure, how structural states alter hydrological partitioning and water-carbon coupling, and how these process changes propagate to ecosystem-service outcomes. We first establish a process-based framework covering canopy interception, throughfall, stemflow, litter interception, infiltration, evapotranspiration, soil-water storage, deep drainage, groundwater recharge, lateral flow, baseflow, and surface runoff. We then evaluate field experiments, watershed observations, process-based and ecosystem-service models, spatial statistics, machine learning, and causal inference, with explicit attention to their assumptions and scale limitations. Quantitative evidence from global thinning syntheses and classical catchment experiments is used to distinguish relatively consistent responses from context-dependent ones. A long-term Korean pine forest-management experiment on Changbai Mountain is included as an illustrative case study: the treatments persisted for 27 years, whereas the hydrological measurements summarized here represent observations made in 2023 rather than a continuous 27-year hydrological time series. The case illustrates how post-treatment structural states are associated with differences in precipitation partitioning and soil-water processes, but it is not presented as a formal causal mediation test. We further identify knowledge gaps involving belowground hydraulic redistribution, nonlinear thresholds, temporal legacies, cross-scale interactions, causal attribution, and model uncertainty, and propose a research and management framework linking long-term experiments, remote sensing, process-based models, causal inference, and multi-objective optimization."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high reliability and internal consistency. This dataset provides a robust observational foundation for advancing process-based understanding of land–atmosphere coupling and its representation in models over the TP. It is expected to support land surface and Earth system model evaluation, satellite product validation, and data assimilation. Furthermore, it provides a basis for developing hybrid physics-machine learning approaches for data quality control and gap-filling in-situ observations in complex high-altitude environments."
     },
     {
       "id": "W7225228852",
@@ -78,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7225228852",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 80,
+      "score": 79,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -89,29 +91,31 @@
       "abstractEn": "A novel method for detecting deep convective clouds based on the height of inverted hyperspectral infrared spectra near 9.6 μm, i.e., H-index, is presented. Verification to their cloud top heights using Single Field-of-View Retrieval Products (SiFSAP) and CERES products demonstrates that this method provide an effective way to detect the deep convective clouds, with the DCCs detected using H-index >3.5 K being mostly above 250 hPa, and DCCi2 detected by H-index >11.5 K mostly above 150 hPa. Further analysis of the spatiotemporal distribution of these two categories of DCCs and DCCi2 over the Tibetan Plateau (TP) and surrounding Asian Monsoon regions using 13 years of CrIS data (2013–2025) reveals: (1) Frequent DCCs occur over the Western Himalaya, Pakistan, Northwest India during summer, and western Himalayan DCCs are significantly more likely to intensify into DCCi2 compared to those over the TP, confirming previous findings of extreme deep convection along steep Himalayan slopes; (2) The occurrence of DCCs over the TP exhibits a strong correlation with ENSO cycles, with less DCCS during El Niño years (2015, 2019) and more DCCs during La Niña year (2022), and DCCs over the TP shows a decreasing trend: and (3) nighttime (∼1:30 am) DCCs are more frequent than daytime (∼1:30 pm) over the TP. Notably, frequent DCCs occurrence is found near Ya’an, Sichuan (the “Rain City”), particularly during summer nights. Frequent DCCs are also evident over the Bay of Bengal and South China Sea. From the annual cycle of DCCs, the maximum DCCs occurrence over the Western Himalaya and TP lags behind ocean regions by approximately 1 month, reflecting monsoon propagation dynamics. These results demonstrate the value of hyperspectral infrared data for studying DCCs over the TP and Asian Monsoon regions. This new method can be easily applied to other hyperspectral infrared sounders, such as AIRS and IASI, enabling DCC studies in other regions and facilitating climatological analysis using over 20 years of accumulated hyperspectral sounder data from AIRS, IASI and CrIS."
     },
     {
-      "id": "W7224990642",
-      "title": "Monitoring Marine Microplastic Distributions in Data-Scarce Ocean Regions Using Environmental Representation Learning and Explainable Machine Learning",
+      "id": "W7225233178",
+      "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
       "authors": [
-        "Prachi Dalvi",
-        "Harshal Dalvi",
-        "Aarti Karande",
-        "Ankita Amburle",
-        "Neha Patwari"
+        "Boyuan Zhang",
+        "冯方林",
+        "Qian Liu",
+        "Zhenzhao Zhou",
+        "Tieshi Dong",
+        "Lihui Yin",
+        "Benhua Xin"
       ],
-      "journal": "Computer and decision making.",
-      "publicationDate": "2026-10-30",
-      "doi": "https://doi.org/10.1922/comdem.v3i6s.18824",
-      "openAlexUrl": "https://openalex.org/W7224990642",
+      "journal": "Frontiers in Forests and Global Change",
+      "publicationDate": "2026-11-04",
+      "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
+      "openAlexUrl": "https://openalex.org/W7225233178",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "machine learning",
-        "explainable",
-        "shap"
+        "causal",
+        "precipitation"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Monitoring pollution in the ocean from microplastic and making decisions using this data is challenging, especially in ocean areas with little data and geographically limited observations. The ability to accurately predict microplastic distributions is crucial for the identification of pollution hotspots and for understanding environmental risk and for taking decisions on marine conservation. This study introduces a framework for learning a representation of the environment which is explainable and aware of uncertainty that combines NOAA marine microplastic observation data with oceanographic and geospatial data provided by Copernicus Marine and GEBCO datasets. The proposed Contrastive-XGBoost model outperformed the other models with the highest predictive capability with R2 = 0.651, RMSE = 1.008 and MAE = 0.619. Predictors identified by SHAP analysis included depth, bathymetry, geographical location, temperature, ocean circulation, and proximity to coast. Ablation analysis revealed the advantage of using combined (heterogeneous) environmental variables. Global prediction maps indicated that coastal and semi-enclosed seas, such as the Bay of Bengal, South China Sea, Gulf of Mexico and Mediterranean Sea are potentially accumulation hotspots. Conventional XGBoost, however, showed statistically comparable predictive power and geographically independent validation showed a limited transferability to environmentally different regions. The results show the possibility of using interpretable environmental machine learning for supplying additional data for environmental pollution monitoring, hotspot detection and uncertainty aware environmental decision-making."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、causal、climate、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Forests provide multiple ecosystem services, including water regulation, water supply, soil retention, carbon sequestration, habitat provision, biodiversity conservation, and timber production. These services arise from coupled processes operating across vegetation, litter, soil, and watershed compartments. Changes in climate, land use, forest structure, or management can therefore alter several services simultaneously, but the direction of change depends on the process pathway, environmental context, and scale of assessment. Here, we synthesize advances in the quantitative assessment of interactions between forest hydrological functions and other ecosystem services, emphasizing how environmental drivers and management reorganize forest structure, how structural states alter hydrological partitioning and water-carbon coupling, and how these process changes propagate to ecosystem-service outcomes. We first establish a process-based framework covering canopy interception, throughfall, stemflow, litter interception, infiltration, evapotranspiration, soil-water storage, deep drainage, groundwater recharge, lateral flow, baseflow, and surface runoff. We then evaluate field experiments, watershed observations, process-based and ecosystem-service models, spatial statistics, machine learning, and causal inference, with explicit attention to their assumptions and scale limitations. Quantitative evidence from global thinning syntheses and classical catchment experiments is used to distinguish relatively consistent responses from context-dependent ones. A long-term Korean pine forest-management experiment on Changbai Mountain is included as an illustrative case study: the treatments persisted for 27 years, whereas the hydrological measurements summarized here represent observations made in 2023 rather than a continuous 27-year hydrological time series. The case illustrates how post-treatment structural states are associated with differences in precipitation partitioning and soil-water processes, but it is not presented as a formal causal mediation test. We further identify knowledge gaps involving belowground hydraulic redistribution, nonlinear thresholds, temporal legacies, cross-scale interactions, causal attribution, and model uncertainty, and propose a research and management framework linking long-term experiments, remote sensing, process-based models, causal inference, and multi-objective optimization."
     },
     {
       "id": "W7225251203",
@@ -132,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7225251203",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -140,6 +144,31 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Climate change is altering the frequency and intensity of hydroclimatic extremes, increasing the likelihood of drought to flood abrupt alternation (DTFAA) events which creates compound risks. Here, we identify DTFAA events across the monsoon region of China (MRC) during May–September from 1961 to 2023 using the daily Standardized Weighted Average Precipitation index. We identify 3,575 DTFAA events, with most transitions occurring within 1–2 days and a modest maximum in June. Generally, DTFAA frequency and intensity in MRC increase significantly at rates of 0.29 times decade⁻¹ and 0.26 decade⁻¹, respectively, with high frequencies concentrated in the middle and lower Yangtze River Basin, southern coastal China, and parts of North and Southwest China. Dynamically, governed by jet-waveguide interaction, the transition initiates with high-latitude easterly anomalies anchoring upstream blocking and the westward-extending subtropic high priming baroclinicity. Subsequently, the intensified and westward-extending subtropical jet establishes a mid-latitude meridional potential vorticity gradient conduit, routing trapped energy in blocking downstream to drive deep dynamic suction and moisture convergence, unleashing the abrupt flooding. Furthermore, crop exposure is crop-specific heterogeneous: maize and wheat show extensive high-exposure belts, whereas rice exposure is more fragmented; maize exhibits significant increases in both frequency and intensity exposure during 2000–2019. These results demonstrate that DTFAA events in the MRC arise from coordinated large-scale circulation and moisture-transport processes and that their agricultural consequences are strongly crop and region dependent, providing a dynamical and impact-oriented framework for improving monitoring, prediction, and adaptation to rapid hydroclimatic transitions."
+    },
+    {
+      "id": "W7224990642",
+      "title": "Monitoring Marine Microplastic Distributions in Data-Scarce Ocean Regions Using Environmental Representation Learning and Explainable Machine Learning",
+      "authors": [
+        "Prachi Dalvi",
+        "Harshal Dalvi",
+        "Aarti Karande",
+        "Ankita Amburle",
+        "Neha Patwari"
+      ],
+      "journal": "Computer and decision making.",
+      "publicationDate": "2026-10-30",
+      "doi": "https://doi.org/10.1922/comdem.v3i6s.18824",
+      "openAlexUrl": "https://openalex.org/W7224990642",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 77,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "shap"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、shap、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Monitoring pollution in the ocean from microplastic and making decisions using this data is challenging, especially in ocean areas with little data and geographically limited observations. The ability to accurately predict microplastic distributions is crucial for the identification of pollution hotspots and for understanding environmental risk and for taking decisions on marine conservation. This study introduces a framework for learning a representation of the environment which is explainable and aware of uncertainty that combines NOAA marine microplastic observation data with oceanographic and geospatial data provided by Copernicus Marine and GEBCO datasets. The proposed Contrastive-XGBoost model outperformed the other models with the highest predictive capability with R2 = 0.651, RMSE = 1.008 and MAE = 0.619. Predictors identified by SHAP analysis included depth, bathymetry, geographical location, temperature, ocean circulation, and proximity to coast. Ablation analysis revealed the advantage of using combined (heterogeneous) environmental variables. Global prediction maps indicated that coastal and semi-enclosed seas, such as the Bay of Bengal, South China Sea, Gulf of Mexico and Mediterranean Sea are potentially accumulation hotspots. Conventional XGBoost, however, showed statistically comparable predictive power and geographically independent validation showed a limited transferability to environmentally different regions. The results show the possibility of using interpretable environmental machine learning for supplying additional data for environmental pollution monitoring, hotspot detection and uncertainty aware environmental decision-making."
     },
     {
       "id": "W7225043985",
@@ -158,7 +187,7 @@
       "openAlexUrl": "https://openalex.org/W7225043985",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 77,
       "matchedKeywords": [
         "monsoon",
         "precipitation",
@@ -182,7 +211,7 @@
       "openAlexUrl": "https://openalex.org/W7225205454",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -206,7 +235,7 @@
       "openAlexUrl": "https://openalex.org/W7225183534",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -235,7 +264,7 @@
       "openAlexUrl": "https://openalex.org/W7225099760",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -262,7 +291,7 @@
       "openAlexUrl": "https://openalex.org/W7225295797",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
@@ -271,52 +300,25 @@
       "abstractEn": "Coastal landscapes experience overlapping environmental pressures that require integrated spatial assessment. This study combines satellite and geospatial indicators to map chronic environmental pressure in Goa, India. Fifteen predictors represent atmospheric composition, terrain, land-surface conditions, land use, and human activity. Time-filtered products cover available observations within a nominal 2018–2023 period, alongside static and differently dated products. Of 89 expert-informed reference records, 81 supplied predictor information for three tree-based algorithms and four neural-network architectures. Their probabilities were combined into an environmental-pressure classification. Low-, moderate-, and high-classes accounted for 56.75%, 30.54%, and 12.71% of valid mapped pixels, respectively. Higher scores characterised urban and industrial corridors, whereas forested eastern areas generally recorded lower scores. Night-time lights had the largest contribution to the high-class extreme gradient boosting Shapley additive explanations. Model scores align with the expert-informed reference classes. The integrated maps provide a relative screening framework in selecting locations for further environmental observation."
     },
     {
-      "id": "W7225154171",
-      "title": "HydroSPI-ARX for explainable multi-scale drought early warning over Türkiye from ERA5 and ERA5-Land reanalyses",
+      "id": "W7225389278",
+      "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid–Hot Extremes in the Yangtze River Basin, a Major Humid‐Heat Hotspot in China",
       "authors": [
-        "Ertuğrul Gül"
+        "Jiangfeng Wei",
+        "Guojie Wang"
       ],
-      "journal": "Environmental Research Letters",
-      "publicationDate": "2026-11-03",
-      "doi": "https://doi.org/10.1088/1748-9326/aebcff",
-      "openAlexUrl": "https://openalex.org/W7225154171",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-06",
+      "doi": "https://doi.org/10.1029/2026gl125735",
+      "openAlexUrl": "https://openalex.org/W7225389278",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
       "score": 67,
       "matchedKeywords": [
-        "explainable",
+        "yangtze",
         "precipitation"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、climate、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Machine-learning drought studies typically regress a smooth, autocorrelated index at single stations and report near-perfect fits. Temporal leakage is rarely controlled, and the skill the index already carries in its own history is rarely separated out. Here we present HydroSPI-ARX, an autoregressive and explainable framework for drought early warning over Türkiye. It recasts the Standardized Precipitation Index (SPI) as a leakage-controlled, lead-resolved classification target built from ERA5 and ERA5-Land hydroclimatic fields. Five drought targets are evaluated at leads of one, three, six and twelve months, with feature selection and scaling recomputed inside every training fold. The moderate-or-worse warning reaches a macro-F1 of 0.853 one month ahead, 0.794 at three months and 0.709 at six months. At twelve months it falls to 0.486, where no configuration retains skill. Naive persistence is ahead at one month; against it the framework gains 0.038 macro-F1 at three months and 0.066 at six, with year-block bootstrap intervals that exclude zero. Against a per-cell linear autoregression on the index's own memory, the gain is measurable only at six months (0.043, 95% interval 0.010 to 0.078). Exogenous hydroclimatic fields add 0.007 at one month and nothing beyond. Skill is therefore carried by the multi-scale memory of the index, and the learned model earns its place at the six-month horizon. Scoring the same held-out forecasts against station-derived labels lowers agreement (Cohen's kappa of 0.30, 0.26 and 0.21 at one, three and six months). The ranking of the forecasts survives, so the advantage is not an artefact of verifying against the same reanalysis. ERA5 and ERA5-Land are equivalent within a margin of 0.02 macro-F1 set in advance, and a model trained without a climate zone still forecasts inside it. A Mann-Kendall analysis shows rising three-month drought frequency over 1981 to 2025."
-    },
-    {
-      "id": "W7203765652",
-      "title": "Persistent influx of atmospheric microplastics and nanoplastics to Mount Everest driven by large scale circulation",
-      "authors": [
-        "Yanhua Wang",
-        "Qing Guo",
-        "Jiayan Wu",
-        "Zhenhua Xi",
-        "Xinqi Xu",
-        "Quanyun Ye",
-        "Xin Long",
-        "Hanzhong Jia"
-      ],
-      "journal": "Communications Earth & Environment",
-      "publicationDate": "2026-10-30",
-      "doi": "https://doi.org/10.1038/s43247-026-04206-3",
-      "openAlexUrl": "https://openalex.org/W7203765652",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 67,
-      "matchedKeywords": [
-        "monsoon",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Third Pole receives long-range transported pollutants, yet atmospheric micro- and nanoplastics inputs remain poorly constrained. Here we report year-long monitoring on the northern slope of Mount Everest using dry, wet, and total deposition sampling. Microplastic deposition fluxes at Qomolangma Station (64.0 n m−2 d−1) significantly exceed those at Everest Base Camp (23.0 n m−2 d−1), reflecting topographic and anthropogenic differences. Deposited microplastics are dominated by fragments, mainly polyamide, polyethylene terephthalate, and polyethylene. Nanoplastic concentrations across five representative months are higher at Qomolangma Station than at Everest Base Camp and include polyethylene, polyethylene terephthalate, polyvinyl chloride, and polypropylene. Monsoon periods enhance wet deposition via short-range transport, whereas non-monsoon periods receive long-range continental inputs. Upscaling suggests an annual atmospheric input of 56.4 tons of microplastic to the Tibetan Plateau above 4000 m. These results identify the atmosphere as an efficient pathway for plastic delivery to the Third Pole, with potential ecological risks despite low ambient concentrations. Microplastic deposition fluxes at Qomolangma Station exceed those at Everest Base Camp, reflecting topographic and anthropogenic differences, with an estimated annual atmospheric input of 56 tons to the Tibetan Plateau above 4000 m, based on year-long monitoring on Mount Everest’s northern slope."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
     }
   ]
 }

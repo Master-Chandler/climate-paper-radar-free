@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:36:19.667Z",
+  "generatedAt": "2026-11-11T06:54:38.992Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -23,7 +23,7 @@
       "openAlexUrl": "https://openalex.org/W7225344728",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 88,
+      "score": 87,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -52,7 +52,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -80,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7225228852",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -108,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7225233178",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "machine learning",
         "causal",
@@ -136,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7225251203",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -144,34 +144,6 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Climate change is altering the frequency and intensity of hydroclimatic extremes, increasing the likelihood of drought to flood abrupt alternation (DTFAA) events which creates compound risks. Here, we identify DTFAA events across the monsoon region of China (MRC) during May–September from 1961 to 2023 using the daily Standardized Weighted Average Precipitation index. We identify 3,575 DTFAA events, with most transitions occurring within 1–2 days and a modest maximum in June. Generally, DTFAA frequency and intensity in MRC increase significantly at rates of 0.29 times decade⁻¹ and 0.26 decade⁻¹, respectively, with high frequencies concentrated in the middle and lower Yangtze River Basin, southern coastal China, and parts of North and Southwest China. Dynamically, governed by jet-waveguide interaction, the transition initiates with high-latitude easterly anomalies anchoring upstream blocking and the westward-extending subtropic high priming baroclinicity. Subsequently, the intensified and westward-extending subtropical jet establishes a mid-latitude meridional potential vorticity gradient conduit, routing trapped energy in blocking downstream to drive deep dynamic suction and moisture convergence, unleashing the abrupt flooding. Furthermore, crop exposure is crop-specific heterogeneous: maize and wheat show extensive high-exposure belts, whereas rice exposure is more fragmented; maize exhibits significant increases in both frequency and intensity exposure during 2000–2019. These results demonstrate that DTFAA events in the MRC arise from coordinated large-scale circulation and moisture-transport processes and that their agricultural consequences are strongly crop and region dependent, providing a dynamical and impact-oriented framework for improving monitoring, prediction, and adaptation to rapid hydroclimatic transitions."
-    },
-    {
-      "id": "W7225043985",
-      "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
-      "authors": [
-        "Shuoyan Wu",
-        "Heyu Sun",
-        "Lei Liu",
-        "Ping Zhao",
-        "Jianfang Fei",
-        "Qi Zhang"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-11-01",
-      "doi": "https://doi.org/10.1029/2026gl125445",
-      "openAlexUrl": "https://openalex.org/W7225043985",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 76,
-      "matchedKeywords": [
-        "monsoon",
-        "precipitation",
-        "tibetan plateau",
-        "plateau",
-        "teleconnection"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The Tibetan Plateau (TP) is a key water source for downstream Asia, and its rainy‐season precipitation is influenced by the El Niño–Southern Oscillation (ENSO). However, whether this teleconnection has remained stationary over recent decades remains uncertain. Using multi‐source data sets, we examine ENSO‐related precipitation, circulation, and moisture‐transport composites during the pre‐2000 epoch (1979–2000) and the post‐2001 epoch (2001–2023). ENSO lifecycle composites show that El Niño and La Niña are associated with opposite‐signed precipitation responses through changes in Western Pacific Subtropical High (WPSH) displacement and monsoon moisture transport. In the post‐2001 epoch, the sensitivity of the plateau's rainy‐season precipitation to La Niña is enhanced: La Niña‐related wetting and WPSH responses are larger in the composites, with a more westward‐displaced WPSH and enhanced moisture transport toward the plateau."
     },
     {
       "id": "W7225205454",
@@ -186,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7225205454",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -210,7 +182,7 @@
       "openAlexUrl": "https://openalex.org/W7225183534",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -220,6 +192,34 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Quantifying the contributions of silicate and carbonate weathering to global carbon dioxide sequestration is crucial for understanding Earth’s climate regulation mechanisms. In this study, we introduce a framework that integrates explainable machine learning with partial dependence analysis to understand the relationships between environmental forcings and chemical weathering rates. We trained machine learning models on a geochemical dataset from the Tibetan Plateau together with climatic and environmental factors, achieving a weathering model with high predictive ability (R 2 = 0.84–0.96). Furthermore, we separated direct environmental driving effects from indirect mediating effects through systemic partial dependence plots. The results indicate that runoff is the dominant controlling factor of both riverine dissolved SiO 2 and HCO 3 ⁻ flux. Warming promotes riverine HCO 3 ⁻ flux in the river, but its effect on riverine dissolved SiO 2 flux is bidirectional-first inhibiting, then promoting. Further, our analysis reveals that the effect of precipitation on riverine dissolved SiO 2 flux is mainly mediated indirectly by runoff. Our study establishes a framework for investigating chemical weathering, highlighting the potential of machine learning to advance predictive modeling and reveal complex interactions between environmental forcings and chemical weathering."
+    },
+    {
+      "id": "W7225043985",
+      "title": "Enhanced Sensitivity of the Asian Water Tower to La Niña in the 21st Century",
+      "authors": [
+        "Shuoyan Wu",
+        "Heyu Sun",
+        "Lei Liu",
+        "Ping Zhao",
+        "Jianfang Fei",
+        "Qi Zhang"
+      ],
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-01",
+      "doi": "https://doi.org/10.1029/2026gl125445",
+      "openAlexUrl": "https://openalex.org/W7225043985",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 74,
+      "matchedKeywords": [
+        "monsoon",
+        "precipitation",
+        "tibetan plateau",
+        "plateau",
+        "teleconnection"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、monsoon、precipitation、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The Tibetan Plateau (TP) is a key water source for downstream Asia, and its rainy‐season precipitation is influenced by the El Niño–Southern Oscillation (ENSO). However, whether this teleconnection has remained stationary over recent decades remains uncertain. Using multi‐source data sets, we examine ENSO‐related precipitation, circulation, and moisture‐transport composites during the pre‐2000 epoch (1979–2000) and the post‐2001 epoch (2001–2023). ENSO lifecycle composites show that El Niño and La Niña are associated with opposite‐signed precipitation responses through changes in Western Pacific Subtropical High (WPSH) displacement and monsoon moisture transport. In the post‐2001 epoch, the sensitivity of the plateau's rainy‐season precipitation to La Niña is enhanced: La Niña‐related wetting and WPSH responses are larger in the composites, with a more westward‐displaced WPSH and enhanced moisture transport toward the plateau."
     },
     {
       "id": "W7225099760",
@@ -239,7 +239,7 @@
       "openAlexUrl": "https://openalex.org/W7225099760",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "precipitation",
         "tibetan plateau",
@@ -247,6 +247,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract. Tibetan Plateau (TP) has experienced significant warming-wetting trends in recent years, inducing snowfall changes. However, the relative roles of precipitation and temperature in driving changes in snowfall and subsequent snow-hydrological processes remain poorly understood. We use China Meteorological Forcing Dataset (CMFD) v2.0 to quantify the contribution of meteorological factors including precipitation and air temperature to variations in snowfall. The results indicates that snowfall variability arises from complex interplay of both synergistic and competing effects between warming-wetting trends, with pronounced spatiotemporal and seasonal heterogeneity. Precipitation is the primary factor dominating snowfall variation during different stages, affecting snowfall changes across 66.42 % areas of the TP. The compensatory effect of precipitation change offsetting warming-induced snowfall decline has intensified, especially after 2000, with positive contribution of 15.28 mm. Besides, the contribution mechanisms governing snowfall changes show phased elevation dependence, with mid-to-high elevation regions exhibiting greater sensitivity. Furthermore, sensitivity analyses based on the SSiB3 (Simplified Simple Biosphere Model version 3) land surface model reveal that warming-wetting induces cascading impacts through the “warming-wetting-snowfall-snow cover-snowmelt runoff (SMR)” chain. This cascading process leads to an overall increase of 2.2 % in cumulative SMR, accompanied by enhanced spatial heterogeneity and seasonal variability of snowmelt. Distinct responses are observed among different snowfall-contribution regimes, snow regimes, and elevation bands. Changes in dominant climatic factors reshape the seasonal distribution of SMR. These findings reveal the complex mechanisms linking snowfall changes to cascading snow-hydrological responses under a warming-wetting climate over the TP, providing novel insights for water resource assessment and future climate adaptation."
+    },
+    {
+      "id": "W7134033769",
+      "title": "Dynamical precursors to summer temperature extremes on the Antarctic Peninsula",
+      "authors": [
+        "William James Dow",
+        "Amanda C. Maycock",
+        "Andrew N Ross",
+        "Ryan Williams",
+        "Thomas J. Bracegirdle"
+      ],
+      "journal": "Weather and Climate Dynamics",
+      "publicationDate": "2026-11-09",
+      "doi": "https://doi.org/10.5194/wcd-7-2213-2026",
+      "openAlexUrl": "https://openalex.org/W7134033769",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 65,
+      "matchedKeywords": [
+        "antarctic",
+        "southern annular mode"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract. Extreme warm summer near-surface temperatures over the Antarctic Peninsula (AP) can lead to surface melting and the disintegration of ice shelves. While individual case studies have linked such events to anomalous large-scale circulation, a systematic assessment of the dynamical pathways leading to AP-wide extreme austral summer warm events remains limited. This study uses ERA5 reanalysis data to investigate the large-scale dynamical precursors associated with extreme warm days over the Antarctic Peninsula. We apply k-means clustering to mean sea level pressure anomalies during high temperature extremes and identify five distinct circulation patterns with different dominant zonal wavenumbers. We investigate the spatio-temporal evolution and persistence of near-surface wind, temperature and pressure for each cluster. Four clusters are associated with rapidly amplifying planetary-scale wave patterns, while a fifth resembles a negative Southern Annular Mode–like state with enhanced persistence prior to event onset. Despite these differing pathways, all regimes promote anomalous northerly flow toward the AP, driving strong meridional temperature advection and regional warming. We demonstrate that extreme Antarctic Peninsula warm events arise from distinct circulation pathways, reflecting diverse dynamical states likely influenced by hemispheric-scale teleconnections and planetary wave interactions."
     },
     {
       "id": "W7225295797",
@@ -266,7 +290,7 @@
       "openAlexUrl": "https://openalex.org/W7225295797",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 64,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
@@ -287,33 +311,13 @@
       "openAlexUrl": "https://openalex.org/W7225389278",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
-    },
-    {
-      "id": "W7225154171",
-      "title": "HydroSPI-ARX for explainable multi-scale drought early warning over Türkiye from ERA5 and ERA5-Land reanalyses",
-      "authors": [
-        "Ertuğrul Gül"
-      ],
-      "journal": "Environmental Research Letters",
-      "publicationDate": "2026-11-03",
-      "doi": "https://doi.org/10.1088/1748-9326/aebcff",
-      "openAlexUrl": "https://openalex.org/W7225154171",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 64,
-      "matchedKeywords": [
-        "explainable",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、climate、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Machine-learning drought studies typically regress a smooth, autocorrelated index at single stations and report near-perfect fits. Temporal leakage is rarely controlled, and the skill the index already carries in its own history is rarely separated out. Here we present HydroSPI-ARX, an autoregressive and explainable framework for drought early warning over Türkiye. It recasts the Standardized Precipitation Index (SPI) as a leakage-controlled, lead-resolved classification target built from ERA5 and ERA5-Land hydroclimatic fields. Five drought targets are evaluated at leads of one, three, six and twelve months, with feature selection and scaling recomputed inside every training fold. The moderate-or-worse warning reaches a macro-F1 of 0.853 one month ahead, 0.794 at three months and 0.709 at six months. At twelve months it falls to 0.486, where no configuration retains skill. Naive persistence is ahead at one month; against it the framework gains 0.038 macro-F1 at three months and 0.066 at six, with year-block bootstrap intervals that exclude zero. Against a per-cell linear autoregression on the index's own memory, the gain is measurable only at six months (0.043, 95% interval 0.010 to 0.078). Exogenous hydroclimatic fields add 0.007 at one month and nothing beyond. Skill is therefore carried by the multi-scale memory of the index, and the learned model earns its place at the six-month horizon. Scoring the same held-out forecasts against station-derived labels lowers agreement (Cohen's kappa of 0.30, 0.26 and 0.21 at one, three and six months). The ranking of the forecasts survives, so the advantage is not an artefact of verifying against the same reanalysis. ERA5 and ERA5-Land are equivalent within a margin of 0.02 macro-F1 set in advance, and a model trained without a climate zone still forecasts inside it. A Mann-Kendall analysis shows rising three-month drought frequency over 1981 to 2025."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:30:07.838Z",
+  "generatedAt": "2026-11-13T07:01:33.454Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -23,7 +23,7 @@
       "openAlexUrl": "https://openalex.org/W7225344728",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 85,
+      "score": 84,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -32,6 +32,29 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、shap、artificial intelligence、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Introduction Accurate temperature prediction is essential for improving energy efficiency and ensuring reliable operation in modern data centers. However, despite their high accuracy, deep learning forecasting models often lack interpretability, limiting their deployment in critical environments. This study extends a previously developed hybrid SARIMAX-GRU forecasting model by introducing an explainable artificial intelligence (XAI) framework to analyze and validate its decision-making process under different operating conditions. Methods The proposed framework employs four XAI techniques, including SHapley Additive exPlanations (SHAP), Local Interpretable Model-agnostic Explanations (LIME), Integrated Gradients, and Permutation Importance, to analyze the contribution of temporal residual features in temperature prediction. The analysis considers nine scenarios covering low, moderate, and high temperatures (24 °C, 27 °C, and 30 °C) with workload transitions between 50%, 75%, and 100%. Pearson and Spearman correlation analyses are used to evaluate the agreement between explanation methods in terms of importance scores and feature rankings, respectively. Results The results show that the hybrid SARIMAX-GRU model mainly depends on recent residual features, particularly Residual_t1 to Residual_t4, while older residuals have limited influence. The dominant features vary according to workload transitions and sensor locations, reflecting changes in thermal dynamics. SHAP, Integrated Gradients, and Permutation Importance demonstrate highly consistent explanations, with Pearson correlations ranging from 0.93 to 1.00, while LIME provides more variable but complementary interpretations. Spearman correlation analysis further confirms strong agreement in feature rankings among SHAP, Integrated Gradients, and Permutation Importance, whereas rank agreement involving LIME varies across scenarios. Discussion The XAI analysis confirms that the model captures meaningful short-term thermal dependencies rather than arbitrary patterns. The variations in feature importance across different operating conditions highlight the model's ability to adapt to changing thermal behaviors, while the agreement among multiple XAI techniques improves confidence in the generated explanations. Conclusion This study demonstrates that integrating XAI with hybrid temperature forecasting enhances model transparency and provides valuable insights into data center thermal prediction. The proposed framework supports more trustworthy intelligent cooling and energy optimization decisions by identifying the key factors influencing model predictions."
+    },
+    {
+      "id": "W4412786656",
+      "title": "Extreme glacier melt on the Central Tibetan Plateau during the summer of 2022: detection and mechanisms",
+      "authors": [
+        "Fei Zhu",
+        "Meilin Zhu",
+        "Lu An"
+      ],
+      "journal": "Hydrology and earth system sciences",
+      "publicationDate": "2026-11-11",
+      "doi": "https://doi.org/10.5194/hess-30-6983-2026",
+      "openAlexUrl": "https://openalex.org/W4412786656",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 79,
+      "matchedKeywords": [
+        "yangtze",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
     },
     {
       "id": "W7225426666",
@@ -52,7 +75,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 77,
+      "score": 75,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -80,7 +103,7 @@
       "openAlexUrl": "https://openalex.org/W7225228852",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -108,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7225233178",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "machine learning",
         "causal",
@@ -136,7 +159,7 @@
       "openAlexUrl": "https://openalex.org/W7225251203",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -158,7 +181,7 @@
       "openAlexUrl": "https://openalex.org/W7225205454",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "east asia",
         "monsoon",
@@ -182,7 +205,7 @@
       "openAlexUrl": "https://openalex.org/W7225183534",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -194,31 +217,51 @@
       "abstractEn": "Quantifying the contributions of silicate and carbonate weathering to global carbon dioxide sequestration is crucial for understanding Earth’s climate regulation mechanisms. In this study, we introduce a framework that integrates explainable machine learning with partial dependence analysis to understand the relationships between environmental forcings and chemical weathering rates. We trained machine learning models on a geochemical dataset from the Tibetan Plateau together with climatic and environmental factors, achieving a weathering model with high predictive ability (R 2 = 0.84–0.96). Furthermore, we separated direct environmental driving effects from indirect mediating effects through systemic partial dependence plots. The results indicate that runoff is the dominant controlling factor of both riverine dissolved SiO 2 and HCO 3 ⁻ flux. Warming promotes riverine HCO 3 ⁻ flux in the river, but its effect on riverine dissolved SiO 2 flux is bidirectional-first inhibiting, then promoting. Further, our analysis reveals that the effect of precipitation on riverine dissolved SiO 2 flux is mainly mediated indirectly by runoff. Our study establishes a framework for investigating chemical weathering, highlighting the potential of machine learning to advance predictive modeling and reveal complex interactions between environmental forcings and chemical weathering."
     },
     {
-      "id": "W7225099760",
-      "title": "Spatiotemporal Heterogeneity in Cascading Snow-Hydrological Responses to Warming and Wetting on the Tibetan Plateau",
+      "id": "W7225703396",
+      "title": "Selective coupling of the Western Tibetan Vortex and the South Asian High",
       "authors": [
-        "Xinyun Hu",
-        "Xin Miao",
-        "Shangyong Shi",
-        "Le Wang",
-        "Yizhuo Li",
-        "Qing Guo",
-        "Weidong Guo"
+        "Xiaofeng Li",
+        "Hayley Jane Fowler",
+        "Yang Song",
+        "Binbo Lei",
+        "Yonglu Li"
       ],
-      "journal": "Preprint / Unknown source",
-      "publicationDate": "2026-11-02",
-      "doi": "https://doi.org/10.5194/egusphere-2026-4924",
-      "openAlexUrl": "https://openalex.org/W7225099760",
+      "journal": "Research Square",
+      "publicationDate": "2026-11-10",
+      "doi": "https://doi.org/10.21203/rs.3.rs-11482186/v1",
+      "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 67,
       "matchedKeywords": [
-        "precipitation",
         "tibetan plateau",
         "plateau"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract. Tibetan Plateau (TP) has experienced significant warming-wetting trends in recent years, inducing snowfall changes. However, the relative roles of precipitation and temperature in driving changes in snowfall and subsequent snow-hydrological processes remain poorly understood. We use China Meteorological Forcing Dataset (CMFD) v2.0 to quantify the contribution of meteorological factors including precipitation and air temperature to variations in snowfall. The results indicates that snowfall variability arises from complex interplay of both synergistic and competing effects between warming-wetting trends, with pronounced spatiotemporal and seasonal heterogeneity. Precipitation is the primary factor dominating snowfall variation during different stages, affecting snowfall changes across 66.42 % areas of the TP. The compensatory effect of precipitation change offsetting warming-induced snowfall decline has intensified, especially after 2000, with positive contribution of 15.28 mm. Besides, the contribution mechanisms governing snowfall changes show phased elevation dependence, with mid-to-high elevation regions exhibiting greater sensitivity. Furthermore, sensitivity analyses based on the SSiB3 (Simplified Simple Biosphere Model version 3) land surface model reveal that warming-wetting induces cascading impacts through the “warming-wetting-snowfall-snow cover-snowmelt runoff (SMR)” chain. This cascading process leads to an overall increase of 2.2 % in cumulative SMR, accompanied by enhanced spatial heterogeneity and seasonal variability of snowmelt. Distinct responses are observed among different snowfall-contribution regimes, snow regimes, and elevation bands. Changes in dominant climatic factors reshape the seasonal distribution of SMR. These findings reveal the complex mechanisms linking snowfall changes to cascading snow-hydrological responses under a warming-wetting climate over the TP, providing novel insights for water resource assessment and future climate adaptation."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract The Western Tibetan Vortex (WTV) and South Asian High (SAH) overlap in the Asian upper troposphere, but whether they represent distinct phenomena and how they interact remain unclear. Using ERA5 reanalysis (1979–2023) and 53 CMIP6 models, we demonstrate that the WTV is a year-round circulation-variability mode distinct from the summer SAH anticyclone. Their summer variability is selectively coupled through SAH position rather than intensity or extent, with SAH centre displacements explaining 52.8% of WTV variance. This relationship involves two complementary pathways: meridional displacement associated with subtropical westerly jet shifts and zonal displacement associated with circulation anomalies over the western Tibetan Plateau. We further show that WTV variability covaries with the continuous western ridge of the SAH, but not with intermittent splitting into separate centres. Most CMIP6 models reproduce the coupling structure but underestimate its strength. These findings clarify the dynamical relationship between two distinct atmospheric phenomena and resolve a longstanding ambiguity surrounding the SAH western centre."
+    },
+    {
+      "id": "W7225693290",
+      "title": "A Causal Effect Network Analysis of Summer Compound Heatwave and Drought Events Over the Yangtze River Basin",
+      "authors": [
+        "Keying Xue",
+        "Wei Li",
+        "Yang Chen",
+        "Cenxiao Sun"
+      ],
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "publicationDate": "2026-11-09",
+      "doi": "https://doi.org/10.1029/2026jd048173",
+      "openAlexUrl": "https://openalex.org/W7225693290",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 63,
+      "matchedKeywords": [
+        "causal",
+        "yangtze"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、atmospher、temperature、circulation、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Under global warming, compound heatwave and drought events (CHDEs) have become increasingly frequent. Although large‐scale atmospheric circulation and land–atmosphere feedback are recognized as the primary drivers of CHDEs, the strengths of their causal relationships and long‐term evolution remain poorly quantified. Focusing on summer CHDEs over the Yangtze River Basin (YRB) during 1961–2022, this study uses the ERA5 reanalysis data set and the Peter and Clark Momentary Conditional Independence (PCMCI) causal discovery method to construct causal effect networks for both individual extreme events and CHDEs, and quantitatively investigates the strengths and long‐term evolution of the identified causal pathways. The results show that large‐scale circulation anomalies not only directly promote regional warming but also induce soil drying, providing a favorable large‐scale atmospheric background for CHDEs. Soil moisture (SM) maintains drought conditions through a pronounced memory effect and further enhances near‐surface warming via land–atmosphere feedback, resulting in stronger atmosphere–land coupling during compound events than during individual heat events. Accordingly, both circulation anomalies and SM deficits are stronger in CHDEs than in individual heat events. Long‐term analysis shows that large‐scale circulation has remained the dominant and relatively stable driver of regional heat extremes and CHDEs, whereas the influence of SM on temperature has strengthened significantly, with the enhancement during compound events being approximately twice that for individual extreme events. This strengthening is associated with declining SM, suppressed evapotranspiration, and an enhanced conversion of net radiation from latent to sensible heat flux over the YRB."
     },
     {
       "id": "W7134033769",
@@ -236,7 +279,7 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"
@@ -262,54 +305,13 @@
       "openAlexUrl": "https://openalex.org/W7225295797",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Coastal landscapes experience overlapping environmental pressures that require integrated spatial assessment. This study combines satellite and geospatial indicators to map chronic environmental pressure in Goa, India. Fifteen predictors represent atmospheric composition, terrain, land-surface conditions, land use, and human activity. Time-filtered products cover available observations within a nominal 2018–2023 period, alongside static and differently dated products. Of 89 expert-informed reference records, 81 supplied predictor information for three tree-based algorithms and four neural-network architectures. Their probabilities were combined into an environmental-pressure classification. Low-, moderate-, and high-classes accounted for 56.75%, 30.54%, and 12.71% of valid mapped pixels, respectively. Higher scores characterised urban and industrial corridors, whereas forested eastern areas generally recorded lower scores. Night-time lights had the largest contribution to the high-class extreme gradient boosting Shapley additive explanations. Model scores align with the expert-informed reference classes. The integrated maps provide a relative screening framework in selecting locations for further environmental observation."
-    },
-    {
-      "id": "W7225389278",
-      "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid–Hot Extremes in the Yangtze River Basin, a Major Humid‐Heat Hotspot in China",
-      "authors": [
-        "Jiangfeng Wei",
-        "Guojie Wang"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-11-06",
-      "doi": "https://doi.org/10.1029/2026gl125735",
-      "openAlexUrl": "https://openalex.org/W7225389278",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 63,
-      "matchedKeywords": [
-        "yangtze",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
-    },
-    {
-      "id": "W7225154171",
-      "title": "HydroSPI-ARX for explainable multi-scale drought early warning over Türkiye from ERA5 and ERA5-Land reanalyses",
-      "authors": [
-        "Ertuğrul Gül"
-      ],
-      "journal": "Environmental Research Letters",
-      "publicationDate": "2026-11-03",
-      "doi": "https://doi.org/10.1088/1748-9326/aebcff",
-      "openAlexUrl": "https://openalex.org/W7225154171",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 61,
-      "matchedKeywords": [
-        "explainable",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、climate、precipitation、drought，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Machine-learning drought studies typically regress a smooth, autocorrelated index at single stations and report near-perfect fits. Temporal leakage is rarely controlled, and the skill the index already carries in its own history is rarely separated out. Here we present HydroSPI-ARX (Hydroclimatic, Standardised-Precipitation-Index, AutoRegressive, eXplainable), an autoregressive and explainable framework for drought early warning over Türkiye. It recasts the Standardised Precipitation Index as a leakage-controlled, lead-resolved classification target built from ERA5 and ERA5-Land hydroclimatic fields. Five drought targets are evaluated at leads of one, three, six and twelve months, with feature selection and scaling recomputed inside every training fold. The moderate-or-worse warning reaches a macro- F 1 of 0.853 one month ahead, 0.794 at three months and 0.709 at six months. At twelve months it falls to 0.486, where no configuration retains skill. Naive persistence is ahead at one month; against it the framework gains 0.038 macro- F 1 at three months and 0.066 at six, with year-block bootstrap intervals that exclude zero. Against a per-cell linear autoregression on the index’s own memory, the gain is measurable only at six months (0.043, 95% interval 0.010–0.078). Exogenous hydroclimatic fields add 0.007 at one month and nothing beyond. Skill is therefore carried by the multi-scale memory of the index, and the learned model earns its place at the six-month horizon. Scoring the same held-out forecasts against station-derived labels lowers agreement (Cohen’s kappa of 0.30, 0.26 and 0.21 at one, three and six months). The ranking of the forecasts survives, so the advantage is not an artefact of verifying against the same reanalysis. ERA5 and ERA5-Land are equivalent within a margin of 0.02 macro- F 1 set in advance, and a model trained without a climate zone still forecasts inside it. A Mann–Kendall analysis shows rising three-month drought frequency over 1981–2025."
     }
   ]
 }

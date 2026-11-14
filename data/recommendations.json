@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:01:33.454Z",
+  "generatedAt": "2026-11-14T06:51:40.231Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -12,6 +12,39 @@
   },
   "papers": [
     {
+      "id": "W7225817610",
+      "title": "Antarctic sea ice variability and monsoonal precipitation: a review of reported teleconnections, associations and uncertainties",
+      "authors": [
+        "Ninu Krishnan Modon Valappil",
+        "Muhaji Sahnita Putri",
+        "Yusri Yusup",
+        "Sheeba Nettukandy Chenoli",
+        "Mohd Nadzri Md Reba",
+        "Hua Lu",
+        "Xin Yang",
+        "Mohd Saiful Samsudin"
+      ],
+      "journal": "Progress in Earth and Planetary Science",
+      "publicationDate": "2026-11-11",
+      "doi": "https://doi.org/10.1186/s40645-026-00857-0",
+      "openAlexUrl": "https://openalex.org/W7225817610",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 84,
+      "matchedKeywords": [
+        "east asia",
+        "precipitation",
+        "antarctic",
+        "sea ice",
+        "southern annular mode",
+        "southern ocean",
+        "teleconnection",
+        "rossby"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、southern annular mode、southern ocean、climate，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
+    },
+    {
       "id": "W7225344728",
       "title": "A multi-method explainable AI for analyzing hybrid SARIMAX-GRU temperature forecasting in high-temperature data centers",
       "authors": [
@@ -23,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7225344728",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 84,
+      "score": 82,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -47,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 79,
+      "score": 78,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -75,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -103,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7225228852",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "monsoon",
         "tibetan plateau",
@@ -131,7 +164,7 @@
       "openAlexUrl": "https://openalex.org/W7225233178",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "causal",
@@ -159,7 +192,7 @@
       "openAlexUrl": "https://openalex.org/W7225251203",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "monsoon",
         "yangtze",
@@ -167,54 +200,6 @@
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Climate change is altering the frequency and intensity of hydroclimatic extremes, increasing the likelihood of drought to flood abrupt alternation (DTFAA) events which creates compound risks. Here, we identify DTFAA events across the monsoon region of China (MRC) during May–September from 1961 to 2023 using the daily Standardized Weighted Average Precipitation index. We identify 3,575 DTFAA events, with most transitions occurring within 1–2 days and a modest maximum in June. Generally, DTFAA frequency and intensity in MRC increase significantly at rates of 0.29 times decade⁻¹ and 0.26 decade⁻¹, respectively, with high frequencies concentrated in the middle and lower Yangtze River Basin, southern coastal China, and parts of North and Southwest China. Dynamically, governed by jet-waveguide interaction, the transition initiates with high-latitude easterly anomalies anchoring upstream blocking and the westward-extending subtropic high priming baroclinicity. Subsequently, the intensified and westward-extending subtropical jet establishes a mid-latitude meridional potential vorticity gradient conduit, routing trapped energy in blocking downstream to drive deep dynamic suction and moisture convergence, unleashing the abrupt flooding. Furthermore, crop exposure is crop-specific heterogeneous: maize and wheat show extensive high-exposure belts, whereas rice exposure is more fragmented; maize exhibits significant increases in both frequency and intensity exposure during 2000–2019. These results demonstrate that DTFAA events in the MRC arise from coordinated large-scale circulation and moisture-transport processes and that their agricultural consequences are strongly crop and region dependent, providing a dynamical and impact-oriented framework for improving monitoring, prediction, and adaptation to rapid hydroclimatic transitions."
-    },
-    {
-      "id": "W7225205454",
-      "title": "Monsoon and Tropical Cyclones shape mid-latitude precipitation in East Asia during the early Eocene hothouse climate",
-      "authors": [
-        "Fanni Dóra Kelemen",
-        "Niels Meijer"
-      ],
-      "journal": "Research Square",
-      "publicationDate": "2026-11-03",
-      "doi": "https://doi.org/10.21203/rs.3.rs-11206418/v1",
-      "openAlexUrl": "https://openalex.org/W7225205454",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 71,
-      "matchedKeywords": [
-        "east asia",
-        "monsoon",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、monsoon、precipitation、climate、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The Asian mid-latitudes experienced a subtropical arid belt during most of the Eocene hothouse climate. This interpretation is supported by climate model simulations, but is in contrast with new proxy reconstructions, which indicate greening during the early Eocene. Here, we investigate the discrepancy between models and proxies by analysing the atmospheric circulation in the modelled climate. We assess the contribution of monsoonal circulation, extratropical and tropical cyclones to precipitation, and investigate the sensitivity of precipitation patterns to sea surface temperature (SST) changes. We find that the precipitation in our selected target region is mainly associated with monsoonal circulation and that fewer extratropical cyclones reach the target region from west than in the pre-industrial climate. Additionally, we find tropical cyclones in the model simulation, which reach the mid-latitude target region and contribute significantly to the summer precipitation. The co-existence of an extremely warm tropical ocean and the large-scale monsoonal circulation promotes tropical cyclones to reach the continental mid-latitudes, presenting an additional pathway for moisture transport into the mid-latitudes. Our sensitivity experiments show that the precipitation in our mid-latitude continental target area is sensitive to the land-sea temperature contrast, and that lowering SST values enhance the monsoonal circulation which then transports more moisture inland. Our study thus highlights that the early Eocene climate simulation underestimates the monsoonal circulation and precipitation across the continental interior of East Asia, which is likely connected to a discrepancy in the land sea thermal contrast."
-    },
-    {
-      "id": "W7225183534",
-      "title": "Deconvoluting the influence of environmental forcings on chemical weathering rates using machine learning model",
-      "authors": [
-        "Shuai Liu",
-        "Wenjing Liu",
-        "Mingyu Zhao",
-        "Zhifang Xu"
-      ],
-      "journal": "Scientific Reports",
-      "publicationDate": "2026-11-03",
-      "doi": "https://doi.org/10.1038/s41598-026-76267-5",
-      "openAlexUrl": "https://openalex.org/W7225183534",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 71,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "precipitation",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Quantifying the contributions of silicate and carbonate weathering to global carbon dioxide sequestration is crucial for understanding Earth’s climate regulation mechanisms. In this study, we introduce a framework that integrates explainable machine learning with partial dependence analysis to understand the relationships between environmental forcings and chemical weathering rates. We trained machine learning models on a geochemical dataset from the Tibetan Plateau together with climatic and environmental factors, achieving a weathering model with high predictive ability (R 2 = 0.84–0.96). Furthermore, we separated direct environmental driving effects from indirect mediating effects through systemic partial dependence plots. The results indicate that runoff is the dominant controlling factor of both riverine dissolved SiO 2 and HCO 3 ⁻ flux. Warming promotes riverine HCO 3 ⁻ flux in the river, but its effect on riverine dissolved SiO 2 flux is bidirectional-first inhibiting, then promoting. Further, our analysis reveals that the effect of precipitation on riverine dissolved SiO 2 flux is mainly mediated indirectly by runoff. Our study establishes a framework for investigating chemical weathering, highlighting the potential of machine learning to advance predictive modeling and reveal complex interactions between environmental forcings and chemical weathering."
     },
     {
       "id": "W7225703396",
@@ -232,7 +217,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 67,
+      "score": 65,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -255,7 +240,7 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "causal",
         "yangtze"
@@ -279,7 +264,7 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"
@@ -305,13 +290,34 @@
       "openAlexUrl": "https://openalex.org/W7225295797",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Coastal landscapes experience overlapping environmental pressures that require integrated spatial assessment. This study combines satellite and geospatial indicators to map chronic environmental pressure in Goa, India. Fifteen predictors represent atmospheric composition, terrain, land-surface conditions, land use, and human activity. Time-filtered products cover available observations within a nominal 2018–2023 period, alongside static and differently dated products. Of 89 expert-informed reference records, 81 supplied predictor information for three tree-based algorithms and four neural-network architectures. Their probabilities were combined into an environmental-pressure classification. Low-, moderate-, and high-classes accounted for 56.75%, 30.54%, and 12.71% of valid mapped pixels, respectively. Higher scores characterised urban and industrial corridors, whereas forested eastern areas generally recorded lower scores. Night-time lights had the largest contribution to the high-class extreme gradient boosting Shapley additive explanations. Model scores align with the expert-informed reference classes. The integrated maps provide a relative screening framework in selecting locations for further environmental observation."
+    },
+    {
+      "id": "W7225389278",
+      "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid–Hot Extremes in the Yangtze River Basin, a Major Humid‐Heat Hotspot in China",
+      "authors": [
+        "Jiangfeng Wei",
+        "Guojie Wang"
+      ],
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-06",
+      "doi": "https://doi.org/10.1029/2026gl125735",
+      "openAlexUrl": "https://openalex.org/W7225389278",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "yangtze",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
     }
   ]
 }

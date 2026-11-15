@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:51:40.231Z",
+  "generatedAt": "2026-11-15T06:56:24.127Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 84,
+      "score": 82,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -56,7 +56,7 @@
       "openAlexUrl": "https://openalex.org/W7225344728",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 82,
+      "score": 81,
       "matchedKeywords": [
         "deep learning",
         "explainable",
@@ -80,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 78,
+      "score": 76,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -108,7 +108,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -119,87 +119,28 @@
       "abstractEn": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high reliability and internal consistency. This dataset provides a robust observational foundation for advancing process-based understanding of land–atmosphere coupling and its representation in models over the TP. It is expected to support land surface and Earth system model evaluation, satellite product validation, and data assimilation. Furthermore, it provides a basis for developing hybrid physics-machine learning approaches for data quality control and gap-filling in-situ observations in complex high-altitude environments."
     },
     {
-      "id": "W7225228852",
-      "title": "Detection and characterization of deep convective clouds over the Tibetan plateau and Asian Monsoon regions using hyperspectral infrared sounders",
+      "id": "W7225815411",
+      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
       "authors": [
-        "Xiaozhen Xiong",
-        "Xu Liu",
-        "蒋循",
-        "Wan Wu",
-        "Liqiao Lei",
-        "Qiguang yang",
-        "Hyun-Sung Jang"
+        "Savannah L. Ferretti",
+        "Jane Wilson Baldwin",
+        "Michael S. Pritchard",
+        "Tom Beucler"
       ],
-      "journal": "Frontiers in Remote Sensing",
-      "publicationDate": "2026-11-04",
-      "doi": "https://doi.org/10.3389/frsen.2026.1839965",
-      "openAlexUrl": "https://openalex.org/W7225228852",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 72,
-      "matchedKeywords": [
-        "monsoon",
-        "tibetan plateau",
-        "himalaya",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、himalaya、plateau、ocean、monsoon，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "A novel method for detecting deep convective clouds based on the height of inverted hyperspectral infrared spectra near 9.6 μm, i.e., H-index, is presented. Verification to their cloud top heights using Single Field-of-View Retrieval Products (SiFSAP) and CERES products demonstrates that this method provide an effective way to detect the deep convective clouds, with the DCCs detected using H-index >3.5 K being mostly above 250 hPa, and DCCi2 detected by H-index >11.5 K mostly above 150 hPa. Further analysis of the spatiotemporal distribution of these two categories of DCCs and DCCi2 over the Tibetan Plateau (TP) and surrounding Asian Monsoon regions using 13 years of CrIS data (2013–2025) reveals: (1) Frequent DCCs occur over the Western Himalaya, Pakistan, Northwest India during summer, and western Himalayan DCCs are significantly more likely to intensify into DCCi2 compared to those over the TP, confirming previous findings of extreme deep convection along steep Himalayan slopes; (2) The occurrence of DCCs over the TP exhibits a strong correlation with ENSO cycles, with less DCCS during El Niño years (2015, 2019) and more DCCs during La Niña year (2022), and DCCs over the TP shows a decreasing trend: and (3) nighttime (∼1:30 am) DCCs are more frequent than daytime (∼1:30 pm) over the TP. Notably, frequent DCCs occurrence is found near Ya’an, Sichuan (the “Rain City”), particularly during summer nights. Frequent DCCs are also evident over the Bay of Bengal and South China Sea. From the annual cycle of DCCs, the maximum DCCs occurrence over the Western Himalaya and TP lags behind ocean regions by approximately 1 month, reflecting monsoon propagation dynamics. These results demonstrate the value of hyperspectral infrared data for studying DCCs over the TP and Asian Monsoon regions. This new method can be easily applied to other hyperspectral infrared sounders, such as AIRS and IASI, enabling DCC studies in other regions and facilitating climatological analysis using over 20 years of accumulated hyperspectral sounder data from AIRS, IASI and CrIS."
-    },
-    {
-      "id": "W7225233178",
-      "title": "Forest structural mediation of hydrological processes and ecosystem multifunctionality: mechanisms, trade-offs, and adaptive management",
-      "authors": [
-        "Boyuan Zhang",
-        "冯方林",
-        "Qian Liu",
-        "Zhenzhao Zhou",
-        "Tieshi Dong",
-        "Lihui Yin",
-        "Benhua Xin"
-      ],
-      "journal": "Frontiers in Forests and Global Change",
-      "publicationDate": "2026-11-04",
-      "doi": "https://doi.org/10.3389/ffgc.2026.1973044",
-      "openAlexUrl": "https://openalex.org/W7225233178",
+      "journal": "arXiv (Cornell University)",
+      "publicationDate": "2026-11-10",
+      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
+      "openAlexUrl": "https://openalex.org/W7225815411",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 72,
       "matchedKeywords": [
-        "machine learning",
-        "causal",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、causal、climate、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Forests provide multiple ecosystem services, including water regulation, water supply, soil retention, carbon sequestration, habitat provision, biodiversity conservation, and timber production. These services arise from coupled processes operating across vegetation, litter, soil, and watershed compartments. Changes in climate, land use, forest structure, or management can therefore alter several services simultaneously, but the direction of change depends on the process pathway, environmental context, and scale of assessment. Here, we synthesize advances in the quantitative assessment of interactions between forest hydrological functions and other ecosystem services, emphasizing how environmental drivers and management reorganize forest structure, how structural states alter hydrological partitioning and water-carbon coupling, and how these process changes propagate to ecosystem-service outcomes. We first establish a process-based framework covering canopy interception, throughfall, stemflow, litter interception, infiltration, evapotranspiration, soil-water storage, deep drainage, groundwater recharge, lateral flow, baseflow, and surface runoff. We then evaluate field experiments, watershed observations, process-based and ecosystem-service models, spatial statistics, machine learning, and causal inference, with explicit attention to their assumptions and scale limitations. Quantitative evidence from global thinning syntheses and classical catchment experiments is used to distinguish relatively consistent responses from context-dependent ones. A long-term Korean pine forest-management experiment on Changbai Mountain is included as an illustrative case study: the treatments persisted for 27 years, whereas the hydrological measurements summarized here represent observations made in 2023 rather than a continuous 27-year hydrological time series. The case illustrates how post-treatment structural states are associated with differences in precipitation partitioning and soil-water processes, but it is not presented as a formal causal mediation test. We further identify knowledge gaps involving belowground hydraulic redistribution, nonlinear thresholds, temporal legacies, cross-scale interactions, causal attribution, and model uncertainty, and propose a research and management framework linking long-term experiments, remote sensing, process-based models, causal inference, and multi-objective optimization."
-    },
-    {
-      "id": "W7225251203",
-      "title": "Drought to Flood Abrupt Alternation Events Across Monsoon Region in China: Characteristics, Mechanisms, and Crop Exposure",
-      "authors": [
-        "Jun Liu",
-        "Yingxiao Sun",
-        "Chunxuan Zhao",
-        "Tong Jin",
-        "An Xuehua",
-        "Jiayi Mu",
-        "Qianrong Ma",
-        "Shanlei Sun"
-      ],
-      "journal": "Research Square",
-      "publicationDate": "2026-11-04",
-      "doi": "https://doi.org/10.21203/rs.3.rs-10952103/v1",
-      "openAlexUrl": "https://openalex.org/W7225251203",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 71,
-      "matchedKeywords": [
+        "neural network",
         "monsoon",
-        "yangtze",
         "precipitation"
       ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、yangtze、precipitation、climate、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Climate change is altering the frequency and intensity of hydroclimatic extremes, increasing the likelihood of drought to flood abrupt alternation (DTFAA) events which creates compound risks. Here, we identify DTFAA events across the monsoon region of China (MRC) during May–September from 1961 to 2023 using the daily Standardized Weighted Average Precipitation index. We identify 3,575 DTFAA events, with most transitions occurring within 1–2 days and a modest maximum in June. Generally, DTFAA frequency and intensity in MRC increase significantly at rates of 0.29 times decade⁻¹ and 0.26 decade⁻¹, respectively, with high frequencies concentrated in the middle and lower Yangtze River Basin, southern coastal China, and parts of North and Southwest China. Dynamically, governed by jet-waveguide interaction, the transition initiates with high-latitude easterly anomalies anchoring upstream blocking and the westward-extending subtropic high priming baroclinicity. Subsequently, the intensified and westward-extending subtropical jet establishes a mid-latitude meridional potential vorticity gradient conduit, routing trapped energy in blocking downstream to drive deep dynamic suction and moisture convergence, unleashing the abrupt flooding. Furthermore, crop exposure is crop-specific heterogeneous: maize and wheat show extensive high-exposure belts, whereas rice exposure is more fragmented; maize exhibits significant increases in both frequency and intensity exposure during 2000–2019. These results demonstrate that DTFAA events in the MRC arise from coordinated large-scale circulation and moisture-transport processes and that their agricultural consequences are strongly crop and region dependent, providing a dynamical and impact-oriented framework for improving monitoring, prediction, and adaptation to rapid hydroclimatic transitions."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
     },
     {
       "id": "W7225703396",
@@ -217,7 +158,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 64,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -240,7 +181,7 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 62,
+      "score": 60,
       "matchedKeywords": [
         "causal",
         "yangtze"
@@ -264,7 +205,7 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"
@@ -290,7 +231,7 @@
       "openAlexUrl": "https://openalex.org/W7225295797",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
@@ -311,13 +252,63 @@
       "openAlexUrl": "https://openalex.org/W7225389278",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
+    },
+    {
+      "id": "W7225380575",
+      "title": "Record‐Shattering Winter “Heatwave” Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
+      "authors": [
+        "Zhaosheng Zhai",
+        "Yetang Wang",
+        "Xiaolu Li",
+        "Qingli Wu",
+        "Yulun Zhang"
+      ],
+      "journal": "Geophysical Research Letters",
+      "publicationDate": "2026-11-06",
+      "doi": "https://doi.org/10.1029/2026gl126171",
+      "openAlexUrl": "https://openalex.org/W7225380575",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 54,
+      "matchedKeywords": [
+        "atmospheric river",
+        "antarctic"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、atmospher、ocean、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Abstract Extreme winter warming events over the Antarctic Peninsula (AP) have potential impacts on ice‐shelf stability, but their mechanisms and teleconnections remain poorly studied. Using multi‐station observations, we report several warm extremes during May–June 2026, with early–June temperatures exceeding 0°C and peak anomalies reaching +22.32°C. These extremes were primarily driven by a pressure‐dipole pattern, featuring an enhanced Amundsen Sea Low and Drake Passage blocking, which directed frequent atmospheric river landfalls. The resulting moisture‐heat advection, alongside enhanced downward longwave radiation, dominated the rapid warming over the AP. Notably, record‐high sea surface temperatures in the tropical eastern Indian Ocean played a key role in this anomalous circulation, whereas the concurrent El Niño (still developing) had minimal direct impact. Our findings enrich the rare wintertime cases and identify the tropical Indian Ocean as a key precursor for improving projections of such events, which is also essential for estimating their impact on ice‐shelf stability."
+    },
+    {
+      "id": "W7170064728",
+      "title": "Past and future projected radiative effects from irrigation",
+      "authors": [
+        "Amen Al‐Yaari",
+        "Chris Smith",
+        "Yi Yao",
+        "Kjetil Schanke",
+        "Lai-Yung Ruby Leung",
+        "Min‐Hui Lo",
+        "Sonali McDermid",
+        "Larissa Nazarenko"
+      ],
+      "journal": "Earth System Dynamics",
+      "publicationDate": "2026-11-05",
+      "doi": "https://doi.org/10.5194/esd-17-1629-2026",
+      "openAlexUrl": "https://openalex.org/W7170064728",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 50,
+      "matchedKeywords": [
+        "east asia"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Irrigation is the most dominant freshwater use practice on Earth, yet its effect on the top-of-atmosphere (TOA) radiative budget remains uncertain because past estimates have relied on idealised experiments or single-model frameworks. Here, we use historical simulations (1902–2014) from the Irrigation Model Intercomparison Project (IRRMIP) to provide the first multi-model quantification of irrigation-induced effective radiative forcing (ERF), defined as the change in net TOA radiative flux including rapid atmospheric adjustments. Across seven Earth system models, under prescribed sea surface temperatures (SST), the global multi-model mean (MMM) irrigation-induced ERF is positive but small (∼ 0.023 W m −2 ). While the global signal is small, it masks regional heterogeneity: South Asia and West Central Asia exhibit higher positive ERF (∼0.23 W m −2 ), with spatial maps revealing coherent forcing hotspots of up to +5 W m −2 over the Indo-Gangetic Plain that are consistent across all models, while East Asia shows negative ERF (∼-0.03 W m −2 ). The clear-sky ERF is greater than the all-sky ERF in most of the regions, indicating that cloud adjustments following irrigation may exert a negative contribution to the ERF. Correlations between historical irrigation ERF variability and its potential drivers suggest that reduced outgoing longwave radiation is the dominant control at the global scale, as well as in South Asia and West Central Asia, while near-surface temperature, precipitable water, albedo, and cloud cover contribute with substantial regional and inter-model variability. We additionally examine future changes in net TOA radiation imbalance (Δ R n,TOA ) from a fully coupled CMIP-style model (SSP1-2.6 and SSP3-7.0, 2015–2070) to assess whether the historical ERF pattern persists under future irrigation. The global mean Δ R n,TOA is more positive under the high irrigation demand pathway (SSP3-7.0) than under SSP1-2.6, consistent with projected differences in irrigation expansion between scenarios. These results demonstrate that irrigation's radiative influence, while small in the global mean, is regionally substantial and scenario-dependent, with implications for the attribution of regional climate change and for the design of land-based mitigation trajectories."
     }
   ]
 }

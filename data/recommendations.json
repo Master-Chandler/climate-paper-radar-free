@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:56:24.127Z",
+  "generatedAt": "2026-11-16T07:01:32.491Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 82,
+      "score": 81,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -45,26 +45,31 @@
       "abstractEn": "Abstract Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
     },
     {
-      "id": "W7225344728",
-      "title": "A multi-method explainable AI for analyzing hybrid SARIMAX-GRU temperature forecasting in high-temperature data centers",
+      "id": "W7165789827",
+      "title": "High resolution sediment-specific surface soil moisture retrieval using Sentinel-1 time series and auxiliary data",
       "authors": [
-        "Safaa Hriez"
+        "Alireza Hamedianfar",
+        "Oleg Antropov",
+        "Matthieu Molinier",
+        "Ulla Salmela",
+        "Hanna Kukkula",
+        "Lauri Seitsonen",
+        "Pauliina Liwata-Kenttälä",
+        "Maarit Middleton"
       ],
-      "journal": "Frontiers in Big Data",
-      "publicationDate": "2026-11-05",
-      "doi": "https://doi.org/10.3389/fdata.2026.1941665",
-      "openAlexUrl": "https://openalex.org/W7225344728",
+      "journal": "International Journal of Applied Earth Observation and Geoinformation",
+      "publicationDate": "2026-11-13",
+      "doi": "https://doi.org/10.1016/j.jag.2026.105665",
+      "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 76,
       "matchedKeywords": [
-        "deep learning",
-        "explainable",
-        "shap",
-        "artificial intelligence"
+        "machine learning",
+        "shap"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 deep learning、explainable、shap、artificial intelligence、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Introduction Accurate temperature prediction is essential for improving energy efficiency and ensuring reliable operation in modern data centers. However, despite their high accuracy, deep learning forecasting models often lack interpretability, limiting their deployment in critical environments. This study extends a previously developed hybrid SARIMAX-GRU forecasting model by introducing an explainable artificial intelligence (XAI) framework to analyze and validate its decision-making process under different operating conditions. Methods The proposed framework employs four XAI techniques, including SHapley Additive exPlanations (SHAP), Local Interpretable Model-agnostic Explanations (LIME), Integrated Gradients, and Permutation Importance, to analyze the contribution of temporal residual features in temperature prediction. The analysis considers nine scenarios covering low, moderate, and high temperatures (24 °C, 27 °C, and 30 °C) with workload transitions between 50%, 75%, and 100%. Pearson and Spearman correlation analyses are used to evaluate the agreement between explanation methods in terms of importance scores and feature rankings, respectively. Results The results show that the hybrid SARIMAX-GRU model mainly depends on recent residual features, particularly Residual_t1 to Residual_t4, while older residuals have limited influence. The dominant features vary according to workload transitions and sensor locations, reflecting changes in thermal dynamics. SHAP, Integrated Gradients, and Permutation Importance demonstrate highly consistent explanations, with Pearson correlations ranging from 0.93 to 1.00, while LIME provides more variable but complementary interpretations. Spearman correlation analysis further confirms strong agreement in feature rankings among SHAP, Integrated Gradients, and Permutation Importance, whereas rank agreement involving LIME varies across scenarios. Discussion The XAI analysis confirms that the model captures meaningful short-term thermal dependencies rather than arbitrary patterns. The variations in feature importance across different operating conditions highlight the model's ability to adapt to changing thermal behaviors, while the agreement among multiple XAI techniques improves confidence in the generated explanations. Conclusion This study demonstrates that integrating XAI with hybrid temperature forecasting enhances model transparency and provides valuable insights into data center thermal prediction. The proposed framework supports more trustworthy intelligent cooling and energy optimization decisions by identifying the key factors influencing model predictions."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、temperature、weather，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "In this study, we examine the potential of continuous ground moisture monitoring over a mining site using a combination of in-situ soil moisture sensors and multi-sensor SAR images. We focus on assessing and improving methodologies for retrieval of surface soil moisture, i.e. ground moisture, from SAR measurements focusing on detailed in situ reference observations for several key geomaterials, i.e. sediments, typical in the study site. The mining site represents a limestone quarry located in the southeastern Finland. Our hypothesis is that sediment-specific well-calibrated models can be instrumental in improving soil moisture retrieval under different weather conditions to produce spatially explicit soil moisture estimates at high resolution compared to baseline approaches. Studied SAR data are represented by Copernicus Sentinel-1 C-band images, while auxiliary datasets include optical Sentinel-2 data. Reference data were collected using IoT enabled capacitance sensors. The reference data were calibrated based on laboratory analyses conducted on the different sediment types studied, including organic soil, clay, gravel, and flotation sand. The examined machine learning (ML) methods include XGBoost, LightGBM, random forest, support vector regression, linear regression and k-nearest neighbors. The performance of ML algorithms was evaluated using different cross-validation techniques including a five-fold approach as well as Leave-One-Sensor-Out (LOSO) to assess predictive accuracy and transferability to unseen sensors. The best performance under random five-fold cross-validation was achieved with the most comprehensive feature set which combines Sentinel-1 backscatter, time-series based soil moisture indices (SMI), Sentinel-2 optical, topographic, and temperature predictors. SHAP analysis revealed that SAR based features such as VH backscatter, traditional SMI derived from VV backscatter, and incidence angle were among the most important multi-source predictors. Adding sediment information improved Sentinel-1-only retrievals by more than 2 vol-%, but provided little additional benefit when richer multi-source feature sets were used. In the best sediment-area-level configurations, RMSE decreased to 0.037–0.050 m 3 m − 3 (3.7-5.0 vol. % points ), with R 2 values reaching 0.90. Accuracy varied by sediment texture, with the lowest errors for clay and organic soil and higher errors for flotation sand and gravel. However, LOSO validation demonstrated substantially weaker and site-dependent transferability: R 2 ranged from 0.45 to 0.67 for organic soil at a southern site and from 0.07 to 0.21 for organic soil at a northern site. Thus, high within-dataset predictive accuracy did not translate uniformly to unseen sensor locations, highlighting the need for broader spatially independent validation."
     },
     {
       "id": "W4412786656",
@@ -80,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 76,
+      "score": 75,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -88,6 +93,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
+    },
+    {
+      "id": "W7225815411",
+      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
+      "authors": [
+        "Savannah L. Ferretti",
+        "Jane Wilson Baldwin",
+        "Michael S. Pritchard",
+        "Tom Beucler"
+      ],
+      "journal": "arXiv (Cornell University)",
+      "publicationDate": "2026-11-10",
+      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
+      "openAlexUrl": "https://openalex.org/W7225815411",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 71,
+      "matchedKeywords": [
+        "neural network",
+        "monsoon",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
     },
     {
       "id": "W7225426666",
@@ -108,7 +137,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -117,30 +146,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high reliability and internal consistency. This dataset provides a robust observational foundation for advancing process-based understanding of land–atmosphere coupling and its representation in models over the TP. It is expected to support land surface and Earth system model evaluation, satellite product validation, and data assimilation. Furthermore, it provides a basis for developing hybrid physics-machine learning approaches for data quality control and gap-filling in-situ observations in complex high-altitude environments."
-    },
-    {
-      "id": "W7225815411",
-      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
-      "authors": [
-        "Savannah L. Ferretti",
-        "Jane Wilson Baldwin",
-        "Michael S. Pritchard",
-        "Tom Beucler"
-      ],
-      "journal": "arXiv (Cornell University)",
-      "publicationDate": "2026-11-10",
-      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
-      "openAlexUrl": "https://openalex.org/W7225815411",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 72,
-      "matchedKeywords": [
-        "neural network",
-        "monsoon",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
     },
     {
       "id": "W7225703396",
@@ -158,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 64,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -181,7 +186,7 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "causal",
         "yangtze"
@@ -205,39 +210,13 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme warm summer near-surface temperatures over the Antarctic Peninsula (AP) can lead to surface melting and the disintegration of ice shelves. While individual case studies have linked such events to anomalous large-scale circulation, a systematic assessment of the dynamical pathways leading to AP-wide extreme austral summer warm events remains limited. This study uses ERA5 reanalysis data to investigate the large-scale dynamical precursors associated with extreme warm days over the Antarctic Peninsula. We apply k -means clustering to mean sea level pressure anomalies during high temperature extremes and identify five distinct circulation patterns with different dominant zonal wavenumbers. We investigate the spatio-temporal evolution and persistence of near-surface wind, temperature and pressure for each cluster. Four clusters are associated with rapidly amplifying planetary-scale wave patterns, while a fifth resembles a negative Southern Annular Mode–like state with enhanced persistence prior to event onset. Despite these differing pathways, all regimes promote anomalous northerly flow toward the AP, driving strong meridional temperature advection and regional warming. We demonstrate that extreme Antarctic Peninsula warm events arise from distinct circulation pathways, reflecting diverse dynamical states likely influenced by hemispheric-scale teleconnections and planetary wave interactions."
-    },
-    {
-      "id": "W7225295797",
-      "title": "Mapping chronic environmental pressure in Goa using machine learning and deep learning",
-      "authors": [
-        "Madhusudhan Das",
-        "Saurabh K. Gupta",
-        "Shruti Kanga",
-        "Divyansh Kumar Pandey",
-        "Bhartendu Sajan",
-        "Gowhar Meraj",
-        "Suraj Kumar Singh"
-      ],
-      "journal": "Asian Journal of Water Environment and Pollution",
-      "publicationDate": "2026-11-05",
-      "doi": "https://doi.org/10.36922/ajwep026340243",
-      "openAlexUrl": "https://openalex.org/W7225295797",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 58,
-      "matchedKeywords": [
-        "machine learning",
-        "deep learning"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Coastal landscapes experience overlapping environmental pressures that require integrated spatial assessment. This study combines satellite and geospatial indicators to map chronic environmental pressure in Goa, India. Fifteen predictors represent atmospheric composition, terrain, land-surface conditions, land use, and human activity. Time-filtered products cover available observations within a nominal 2018–2023 period, alongside static and differently dated products. Of 89 expert-informed reference records, 81 supplied predictor information for three tree-based algorithms and four neural-network architectures. Their probabilities were combined into an environmental-pressure classification. Low-, moderate-, and high-classes accounted for 56.75%, 30.54%, and 12.71% of valid mapped pixels, respectively. Higher scores characterised urban and industrial corridors, whereas forested eastern areas generally recorded lower scores. Night-time lights had the largest contribution to the high-class extreme gradient boosting Shapley additive explanations. Model scores align with the expert-informed reference classes. The integrated maps provide a relative screening framework in selecting locations for further environmental observation."
     },
     {
       "id": "W7225389278",
@@ -252,7 +231,7 @@
       "openAlexUrl": "https://openalex.org/W7225389278",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "yangtze",
         "precipitation"
@@ -276,39 +255,13 @@
       "openAlexUrl": "https://openalex.org/W7225380575",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "atmospheric river",
         "antarctic"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、atmospher、ocean、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Extreme winter warming events over the Antarctic Peninsula (AP) have potential impacts on ice‐shelf stability, but their mechanisms and teleconnections remain poorly studied. Using multi‐station observations, we report several warm extremes during May–June 2026, with early–June temperatures exceeding 0°C and peak anomalies reaching +22.32°C. These extremes were primarily driven by a pressure‐dipole pattern, featuring an enhanced Amundsen Sea Low and Drake Passage blocking, which directed frequent atmospheric river landfalls. The resulting moisture‐heat advection, alongside enhanced downward longwave radiation, dominated the rapid warming over the AP. Notably, record‐high sea surface temperatures in the tropical eastern Indian Ocean played a key role in this anomalous circulation, whereas the concurrent El Niño (still developing) had minimal direct impact. Our findings enrich the rare wintertime cases and identify the tropical Indian Ocean as a key precursor for improving projections of such events, which is also essential for estimating their impact on ice‐shelf stability."
-    },
-    {
-      "id": "W7170064728",
-      "title": "Past and future projected radiative effects from irrigation",
-      "authors": [
-        "Amen Al‐Yaari",
-        "Chris Smith",
-        "Yi Yao",
-        "Kjetil Schanke",
-        "Lai-Yung Ruby Leung",
-        "Min‐Hui Lo",
-        "Sonali McDermid",
-        "Larissa Nazarenko"
-      ],
-      "journal": "Earth System Dynamics",
-      "publicationDate": "2026-11-05",
-      "doi": "https://doi.org/10.5194/esd-17-1629-2026",
-      "openAlexUrl": "https://openalex.org/W7170064728",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 50,
-      "matchedKeywords": [
-        "east asia"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 east asia、climate、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Irrigation is the most dominant freshwater use practice on Earth, yet its effect on the top-of-atmosphere (TOA) radiative budget remains uncertain because past estimates have relied on idealised experiments or single-model frameworks. Here, we use historical simulations (1902–2014) from the Irrigation Model Intercomparison Project (IRRMIP) to provide the first multi-model quantification of irrigation-induced effective radiative forcing (ERF), defined as the change in net TOA radiative flux including rapid atmospheric adjustments. Across seven Earth system models, under prescribed sea surface temperatures (SST), the global multi-model mean (MMM) irrigation-induced ERF is positive but small (∼ 0.023 W m −2 ). While the global signal is small, it masks regional heterogeneity: South Asia and West Central Asia exhibit higher positive ERF (∼0.23 W m −2 ), with spatial maps revealing coherent forcing hotspots of up to +5 W m −2 over the Indo-Gangetic Plain that are consistent across all models, while East Asia shows negative ERF (∼-0.03 W m −2 ). The clear-sky ERF is greater than the all-sky ERF in most of the regions, indicating that cloud adjustments following irrigation may exert a negative contribution to the ERF. Correlations between historical irrigation ERF variability and its potential drivers suggest that reduced outgoing longwave radiation is the dominant control at the global scale, as well as in South Asia and West Central Asia, while near-surface temperature, precipitable water, albedo, and cloud cover contribute with substantial regional and inter-model variability. We additionally examine future changes in net TOA radiation imbalance (Δ R n,TOA ) from a fully coupled CMIP-style model (SSP1-2.6 and SSP3-7.0, 2015–2070) to assess whether the historical ERF pattern persists under future irrigation. The global mean Δ R n,TOA is more positive under the high irrigation demand pathway (SSP3-7.0) than under SSP1-2.6, consistent with projected differences in irrigation expansion between scenarios. These results demonstrate that irrigation's radiative influence, while small in the global mean, is regionally substantial and scenario-dependent, with implications for the attribution of regional climate change and for the design of land-based mitigation trajectories."
     }
   ]
 }

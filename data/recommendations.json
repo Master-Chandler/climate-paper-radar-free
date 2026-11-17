@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:01:32.491Z",
+  "generatedAt": "2026-11-17T08:16:05.790Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -63,7 +63,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -93,30 +93,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
-    },
-    {
-      "id": "W7225815411",
-      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
-      "authors": [
-        "Savannah L. Ferretti",
-        "Jane Wilson Baldwin",
-        "Michael S. Pritchard",
-        "Tom Beucler"
-      ],
-      "journal": "arXiv (Cornell University)",
-      "publicationDate": "2026-11-10",
-      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
-      "openAlexUrl": "https://openalex.org/W7225815411",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 71,
-      "matchedKeywords": [
-        "neural network",
-        "monsoon",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
     },
     {
       "id": "W7225426666",
@@ -137,7 +113,7 @@
       "openAlexUrl": "https://openalex.org/W7225426666",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "monsoon",
@@ -146,6 +122,30 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high reliability and internal consistency. This dataset provides a robust observational foundation for advancing process-based understanding of land–atmosphere coupling and its representation in models over the TP. It is expected to support land surface and Earth system model evaluation, satellite product validation, and data assimilation. Furthermore, it provides a basis for developing hybrid physics-machine learning approaches for data quality control and gap-filling in-situ observations in complex high-altitude environments."
+    },
+    {
+      "id": "W7225815411",
+      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
+      "authors": [
+        "Savannah L. Ferretti",
+        "Jane Wilson Baldwin",
+        "Michael S. Pritchard",
+        "Tom Beucler"
+      ],
+      "journal": "arXiv (Cornell University)",
+      "publicationDate": "2026-11-10",
+      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
+      "openAlexUrl": "https://openalex.org/W7225815411",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 69,
+      "matchedKeywords": [
+        "neural network",
+        "monsoon",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
     },
     {
       "id": "W7225703396",
@@ -163,7 +163,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 61,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -186,7 +186,7 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "causal",
         "yangtze"
@@ -210,58 +210,13 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme warm summer near-surface temperatures over the Antarctic Peninsula (AP) can lead to surface melting and the disintegration of ice shelves. While individual case studies have linked such events to anomalous large-scale circulation, a systematic assessment of the dynamical pathways leading to AP-wide extreme austral summer warm events remains limited. This study uses ERA5 reanalysis data to investigate the large-scale dynamical precursors associated with extreme warm days over the Antarctic Peninsula. We apply k -means clustering to mean sea level pressure anomalies during high temperature extremes and identify five distinct circulation patterns with different dominant zonal wavenumbers. We investigate the spatio-temporal evolution and persistence of near-surface wind, temperature and pressure for each cluster. Four clusters are associated with rapidly amplifying planetary-scale wave patterns, while a fifth resembles a negative Southern Annular Mode–like state with enhanced persistence prior to event onset. Despite these differing pathways, all regimes promote anomalous northerly flow toward the AP, driving strong meridional temperature advection and regional warming. We demonstrate that extreme Antarctic Peninsula warm events arise from distinct circulation pathways, reflecting diverse dynamical states likely influenced by hemispheric-scale teleconnections and planetary wave interactions."
-    },
-    {
-      "id": "W7225389278",
-      "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid–Hot Extremes in the Yangtze River Basin, a Major Humid‐Heat Hotspot in China",
-      "authors": [
-        "Jiangfeng Wei",
-        "Guojie Wang"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-11-06",
-      "doi": "https://doi.org/10.1029/2026gl125735",
-      "openAlexUrl": "https://openalex.org/W7225389278",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 57,
-      "matchedKeywords": [
-        "yangtze",
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、precipitation、atmospher，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Compound humid‐hot extremes bring growing threats to human society, yet land–atmosphere feedbacks regulating these events remain insufficiently understood. Using high‐resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid‐hot extremes, with rare hot‐only events. Comparing humid‐hot and non‐humid‐hot days, we find that humid‐hot extremes are sustained by positive feedbacks involving a high‐pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity—mutually reinforcing the extreme state. Land–atmosphere coupling strengthens substantially for near‐surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid‐hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
-    },
-    {
-      "id": "W7225380575",
-      "title": "Record‐Shattering Winter “Heatwave” Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
-      "authors": [
-        "Zhaosheng Zhai",
-        "Yetang Wang",
-        "Xiaolu Li",
-        "Qingli Wu",
-        "Yulun Zhang"
-      ],
-      "journal": "Geophysical Research Letters",
-      "publicationDate": "2026-11-06",
-      "doi": "https://doi.org/10.1029/2026gl126171",
-      "openAlexUrl": "https://openalex.org/W7225380575",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 52,
-      "matchedKeywords": [
-        "atmospheric river",
-        "antarctic"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、atmospher、ocean、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Extreme winter warming events over the Antarctic Peninsula (AP) have potential impacts on ice‐shelf stability, but their mechanisms and teleconnections remain poorly studied. Using multi‐station observations, we report several warm extremes during May–June 2026, with early–June temperatures exceeding 0°C and peak anomalies reaching +22.32°C. These extremes were primarily driven by a pressure‐dipole pattern, featuring an enhanced Amundsen Sea Low and Drake Passage blocking, which directed frequent atmospheric river landfalls. The resulting moisture‐heat advection, alongside enhanced downward longwave radiation, dominated the rapid warming over the AP. Notably, record‐high sea surface temperatures in the tropical eastern Indian Ocean played a key role in this anomalous circulation, whereas the concurrent El Niño (still developing) had minimal direct impact. Our findings enrich the rare wintertime cases and identify the tropical Indian Ocean as a key precursor for improving projections of such events, which is also essential for estimating their impact on ice‐shelf stability."
     }
   ]
 }

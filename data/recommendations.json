@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:16:05.790Z",
+  "generatedAt": "2026-11-18T07:48:53.507Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -15,7 +15,7 @@
       "id": "W7225817610",
       "title": "Antarctic sea ice variability and monsoonal precipitation: a review of reported teleconnections, associations and uncertainties",
       "authors": [
-        "Ninu Krishnan Modon Valappil",
+        "M. V. Ninu Krishnan",
         "Muhaji Sahnita Putri",
         "Yusri Yusup",
         "Sheeba Nettukandy Chenoli",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 80,
+      "score": 78,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -43,6 +43,28 @@
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、southern annular mode、southern ocean、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
+    },
+    {
+      "id": "W7225624090",
+      "title": "Multi-horizon early warning of harmful algal blooms in cascade reservoirs using mechanistic data augmentation and machine learning",
+      "authors": [
+        "sungjin kim",
+        "Se‐Woong Chung"
+      ],
+      "journal": "Journal of Hydrology",
+      "publicationDate": "2026-11-09",
+      "doi": "https://doi.org/10.1016/j.jhydrol.2026.136777",
+      "openAlexUrl": "https://openalex.org/W7225624090",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 75,
+      "matchedKeywords": [
+        "machine learning",
+        "explainable",
+        "artificial intelligence"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、artificial intelligence、temperature、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Hydrologic regulation and variability influence cyanobacterial blooms in cascade reservoirs, yet sparse monitoring and infrequent bloom events constrain early warning. We developed a hybrid framework coupling CE-QUAL-W2 simulations with machine-learning classifiers to predict bloom alerts across multiple horizons in a Korean cascade reservoir system. Mechanistic augmentation increased training data resolution from weekly to daily while preserving physically plausible hydrodynamic, thermal, and water-quality dynamics. Recall reached 0.89 and 0.76 at 1-day and 2-day horizons, respectively, exceeding persistence baselines of 0.68 and 0.58. At 3 days, recall approached persistence, indicating limited additional predictive skill. Because predictions used observed meteorological inputs, performance represents a retrospective upper bound on operational forecasting skill. External validation using held-out observations from two independent bloom years with contrasting hydrologic regimes yielded caution-level recall of 0.60–0.71 at 1 day and 0.50–0.71 at 2 days. These estimates, reported with 95% confidence intervals, provide preliminary evidence of transferability given the small numbers of observed alert events (10 and 7). Explainable artificial intelligence identified water temperature, residence time, and discharge as dominant predictors, linking warning skill to thermal and hydrologic controls. Mechanistic augmentation outperformed non-mechanistic interpolation, whereas synthetic oversampling degraded performance, potentially through physically implausible samples. The findings demonstrate the value of process-informed data augmentation for bloom early warning under sparse monitoring. Using routinely monitored variables, the framework could support intensified monitoring and assessment of coordinated upstream flow regulation within a 1–2-day warning window, with transfer to other cascade reservoirs requiring site-specific recalibration and evaluation using forecast meteorological inputs."
     },
     {
       "id": "W7165789827",
@@ -63,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 73,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -85,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 73,
+      "score": 72,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -93,35 +115,6 @@
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
-    },
-    {
-      "id": "W7225426666",
-      "title": "A Comprehensive Hourly Land–Atmosphere Interaction Dataset from a Coordinated 15-Station Network Spanning the Environmental Gradients of the Tibetan Plateau (2021–24)",
-      "authors": [
-        "Zhipeng Xie",
-        "Weiqiang Ma",
-        "Binbin Wang",
-        "Cunbo Han",
-        "Bin Ma",
-        "Xuelong Chen",
-        "Yongjie Wang",
-        "Maoshan Li"
-      ],
-      "journal": "Advances in Atmospheric Sciences",
-      "publicationDate": "2026-11-07",
-      "doi": "https://doi.org/10.1007/s00376-026-6282-3",
-      "openAlexUrl": "https://openalex.org/W7225426666",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 70,
-      "matchedKeywords": [
-        "machine learning",
-        "monsoon",
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、monsoon、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Accurate characterization of land–atmosphere interactions over the Tibetan Plateau (TP) is hindered by fragmented measurements, inconsistent data-processing standards, and a scarcity of integrated, multi-component observations. To address these limitations, we present an integrated dataset from 15 stations spanning monsoon-dominated, westerlies-dominated, and transitional regions of the TP. The dataset features hourly gradient meteorological variables, radiation components, soil temperature and moisture measurements, and turbulent fluxes, providing vertically resolved information on land surface processes. Processed under standardized protocols with harmonized temporal resolutions, consistent variable definitions, and rigorous quality control procedures, the data ensure high reliability and internal consistency. This dataset provides a robust observational foundation for advancing process-based understanding of land–atmosphere coupling and its representation in models over the TP. It is expected to support land surface and Earth system model evaluation, satellite product validation, and data assimilation. Furthermore, it provides a basis for developing hybrid physics-machine learning approaches for data quality control and gap-filling in-situ observations in complex high-altitude environments."
     },
     {
       "id": "W7225815411",
@@ -138,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7225815411",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "neural network",
         "monsoon",
@@ -163,7 +156,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -186,13 +179,39 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "causal",
         "yangtze"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、atmospher、temperature、circulation、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Under global warming, compound heatwave and drought events (CHDEs) have become increasingly frequent. Although large‐scale atmospheric circulation and land–atmosphere feedback are recognized as the primary drivers of CHDEs, the strengths of their causal relationships and long‐term evolution remain poorly quantified. Focusing on summer CHDEs over the Yangtze River Basin (YRB) during 1961–2022, this study uses the ERA5 reanalysis data set and the Peter and Clark Momentary Conditional Independence (PCMCI) causal discovery method to construct causal effect networks for both individual extreme events and CHDEs, and quantitatively investigates the strengths and long‐term evolution of the identified causal pathways. The results show that large‐scale circulation anomalies not only directly promote regional warming but also induce soil drying, providing a favorable large‐scale atmospheric background for CHDEs. Soil moisture (SM) maintains drought conditions through a pronounced memory effect and further enhances near‐surface warming via land–atmosphere feedback, resulting in stronger atmosphere–land coupling during compound events than during individual heat events. Accordingly, both circulation anomalies and SM deficits are stronger in CHDEs than in individual heat events. Long‐term analysis shows that large‐scale circulation has remained the dominant and relatively stable driver of regional heat extremes and CHDEs, whereas the influence of SM on temperature has strengthened significantly, with the enhancement during compound events being approximately twice that for individual extreme events. This strengthening is associated with declining SM, suppressed evapotranspiration, and an enhanced conversion of net radiation from latent to sensible heat flux over the YRB."
+    },
+    {
+      "id": "W7233613796",
+      "title": "Developing 500 m‐Resolution Annual Net Primary Productivity Dataset Over the Qingzang Plateau via an Improved CASA Model",
+      "authors": [
+        "Boting Xu",
+        "Hou Jiang",
+        "Deyun Chen",
+        "Ziyue Xu",
+        "Wei Wang",
+        "Jiankun Bai",
+        "Fujia Yang",
+        "Yinfeng Zhang"
+      ],
+      "journal": "Geoscience Data Journal",
+      "publicationDate": "2026-11-15",
+      "doi": "https://doi.org/10.1002/gdj3.70112",
+      "openAlexUrl": "https://openalex.org/W7233613796",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 56,
+      "matchedKeywords": [
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "ABSTRACT Vegetation net primary productivity (NPP) is a fundamental indicator of terrestrial vegetation productivity and carbon cycling. However, existing global NPP products may exhibit low biases over parts of the Qingzang Plateau and may not fully capture the pronounced spatial heterogeneity of alpine vegetation productivity, partly because of generalized model parameterization and limitations in representing vegetation thermal responses. To address these limitations, we developed an annual NPP dataset for the Qingzang Plateau at a spatial resolution of 500 m for the period 2001–2024. The dataset was generated using an improved Carnegie–Ames–Stanford Approach (CASA) model implemented on the Google Earth Engine platform. Key model improvements included the dynamic allocation of maximum light‐use efficiency based on annual MCD12Q1 IGBP land‐cover classes and the replacement of the traditional bell‐shaped temperature stress function with a regionally adapted logistic function as an empirical representation of temperature limitation in alpine vegetation. Comparisons with the NASA MOD17A3HGF product and the regional TPDC NPP dataset yielded coefficients of determination (R 2 ) of 0.785 and 0.708, respectively, indicating substantial spatial consistency with both benchmark datasets. The improved CASA model also produced higher NPP estimates in high‐biomass regions, particularly in the southeastern forests of the plateau. The dataset revealed a significant overall increase in NPP across the Qingzang Plateau during 2001–2024 ( p < 0.01), with mean NPP increasing at a rate of 1.94 g C m −2 year −1 . This dataset provides a transparent resource for characterizing the spatial and temporal dynamics of vegetation productivity and for supporting ecological and climate‐related assessments across the Third Pole region."
     },
     {
       "id": "W7134033769",
@@ -210,7 +229,7 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"

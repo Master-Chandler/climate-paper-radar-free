@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:48:53.507Z",
+  "generatedAt": "2026-11-19T07:44:34.973Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -57,7 +57,7 @@
       "openAlexUrl": "https://openalex.org/W7225624090",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "machine learning",
         "explainable",
@@ -85,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 73,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -107,7 +107,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -131,7 +131,7 @@
       "openAlexUrl": "https://openalex.org/W7225815411",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 68,
+      "score": 66,
       "matchedKeywords": [
         "neural network",
         "monsoon",
@@ -139,6 +139,31 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
+    },
+    {
+      "id": "W7234397073",
+      "title": "Radial growth and their responses to environmental factors of four major afforestation species after returning farmland to forest in Southwest China",
+      "authors": [
+        "Yongyan Yang",
+        "Na Liu",
+        "Zhirong Feng",
+        "Yuru Wen",
+        "Yi Dang",
+        "Hua Kun Zhou",
+        "Fangjun Ding"
+      ],
+      "journal": "New Forests",
+      "publicationDate": "2026-11-16",
+      "doi": "https://doi.org/10.1007/s11056-026-10237-7",
+      "openAlexUrl": "https://openalex.org/W7234397073",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
+      "matchedKeywords": [
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "To elucidate radial growth variation and differences in climatic responses among coexisting tree species, this study, based on 2024 monitoring data of stem radial variation, compared the growing-season phenology, stem radial growth, and environmental factors response characteristics of four tree species ( Liquidambar formosana (FX), Melia azedarach (KL), Cryptomeria japonica var. sinensis (LS), and Camptotheca acuminata (XS)). The results showed that: (1) M. azedarach exhibited the longest growing season (168 ± 9.9 days), L. formosana was intermediate (131 ± 4.04 days), and C. japonica var. sinensis and C. acuminata were shorter (117–121 days). (2) In terms of annual increment, KL1 had the highest annual cumulative increment (3.21 mm), followed by FX1 (3.18 mm), whereas C. japonica var. sinensis and C. acuminata were lower (XS2 only 0.38 mm); (3) The growth of L. formosana was primarily driven by air temperature and photosynthetically active radiation (correlation coefficients of FX2 with air temperature, soil temperature reached 0.75–0.82), while KL2, C. japonica var. sinensis , and C. acuminata were more regulated by precipitation and soil moisture. Based on these results, M. azedarach is recommended for sites with stable moisture conditions and strong soil water-holding capacity, whereas L. formosana is suitable for sunny slopes with adequate heat and radiation and good drainage. C. japonica var. sinensis and C. acuminata showed low growth but considerable intraspecific variation, and may possess survival advantages on degraded sites subject to frequent water stress. In terms of planting configuration, the approximately two-month offset in growth peaks between C. japonica var. sinensis and L. formosana suggests that mixed plantations of the two may form a complementary resource-use pattern. This study can provide a scientific basis for the selection and configuration of coexisting tree species."
     },
     {
       "id": "W7225703396",
@@ -156,7 +181,7 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -179,7 +204,7 @@
       "openAlexUrl": "https://openalex.org/W7225693290",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "causal",
         "yangtze"
@@ -206,7 +231,7 @@
       "openAlexUrl": "https://openalex.org/W7233613796",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "plateau"
       ],
@@ -229,7 +254,7 @@
       "openAlexUrl": "https://openalex.org/W7134033769",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 56,
+      "score": 55,
       "matchedKeywords": [
         "antarctic",
         "southern annular mode"

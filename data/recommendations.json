@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:44:34.973Z",
+  "generatedAt": "2026-11-20T07:36:47.643Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 77,
+      "score": 76,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -43,28 +43,6 @@
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、southern annular mode、southern ocean、climate，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
-    },
-    {
-      "id": "W7225624090",
-      "title": "Multi-horizon early warning of harmful algal blooms in cascade reservoirs using mechanistic data augmentation and machine learning",
-      "authors": [
-        "sungjin kim",
-        "Se‐Woong Chung"
-      ],
-      "journal": "Journal of Hydrology",
-      "publicationDate": "2026-11-09",
-      "doi": "https://doi.org/10.1016/j.jhydrol.2026.136777",
-      "openAlexUrl": "https://openalex.org/W7225624090",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 73,
-      "matchedKeywords": [
-        "machine learning",
-        "explainable",
-        "artificial intelligence"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、explainable、artificial intelligence、temperature、hydrolog，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Hydrologic regulation and variability influence cyanobacterial blooms in cascade reservoirs, yet sparse monitoring and infrequent bloom events constrain early warning. We developed a hybrid framework coupling CE-QUAL-W2 simulations with machine-learning classifiers to predict bloom alerts across multiple horizons in a Korean cascade reservoir system. Mechanistic augmentation increased training data resolution from weekly to daily while preserving physically plausible hydrodynamic, thermal, and water-quality dynamics. Recall reached 0.89 and 0.76 at 1-day and 2-day horizons, respectively, exceeding persistence baselines of 0.68 and 0.58. At 3 days, recall approached persistence, indicating limited additional predictive skill. Because predictions used observed meteorological inputs, performance represents a retrospective upper bound on operational forecasting skill. External validation using held-out observations from two independent bloom years with contrasting hydrologic regimes yielded caution-level recall of 0.60–0.71 at 1 day and 0.50–0.71 at 2 days. These estimates, reported with 95% confidence intervals, provide preliminary evidence of transferability given the small numbers of observed alert events (10 and 7). Explainable artificial intelligence identified water temperature, residence time, and discharge as dominant predictors, linking warning skill to thermal and hydrologic controls. Mechanistic augmentation outperformed non-mechanistic interpolation, whereas synthetic oversampling degraded performance, potentially through physically implausible samples. The findings demonstrate the value of process-informed data augmentation for bloom early warning under sparse monitoring. Using routinely monitored variables, the framework could support intensified monitoring and assessment of coordinated upstream flow regulation within a 1–2-day warning window, with transfer to other cascade reservoirs requiring site-specific recalibration and evaluation using forecast meteorological inputs."
     },
     {
       "id": "W7165789827",
@@ -85,7 +63,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 70,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -107,7 +85,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -131,7 +109,7 @@
       "openAlexUrl": "https://openalex.org/W7225815411",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "neural network",
         "monsoon",
@@ -158,7 +136,7 @@
       "openAlexUrl": "https://openalex.org/W7234397073",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -181,36 +159,13 @@
       "openAlexUrl": "https://openalex.org/W7225703396",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Abstract The Western Tibetan Vortex (WTV) and South Asian High (SAH) overlap in the Asian upper troposphere, but whether they represent distinct phenomena and how they interact remain unclear. Using ERA5 reanalysis (1979–2023) and 53 CMIP6 models, we demonstrate that the WTV is a year-round circulation-variability mode distinct from the summer SAH anticyclone. Their summer variability is selectively coupled through SAH position rather than intensity or extent, with SAH centre displacements explaining 52.8% of WTV variance. This relationship involves two complementary pathways: meridional displacement associated with subtropical westerly jet shifts and zonal displacement associated with circulation anomalies over the western Tibetan Plateau. We further show that WTV variability covaries with the continuous western ridge of the SAH, but not with intermittent splitting into separate centres. Most CMIP6 models reproduce the coupling structure but underestimate its strength. These findings clarify the dynamical relationship between two distinct atmospheric phenomena and resolve a longstanding ambiguity surrounding the SAH western centre."
-    },
-    {
-      "id": "W7225693290",
-      "title": "A Causal Effect Network Analysis of Summer Compound Heatwave and Drought Events Over the Yangtze River Basin",
-      "authors": [
-        "Keying Xue",
-        "Wei Li",
-        "Yang Chen",
-        "Cenxiao Sun"
-      ],
-      "journal": "Journal of Geophysical Research Atmospheres",
-      "publicationDate": "2026-11-09",
-      "doi": "https://doi.org/10.1029/2026jd048173",
-      "openAlexUrl": "https://openalex.org/W7225693290",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 55,
-      "matchedKeywords": [
-        "causal",
-        "yangtze"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、atmospher、temperature、circulation、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Under global warming, compound heatwave and drought events (CHDEs) have become increasingly frequent. Although large‐scale atmospheric circulation and land–atmosphere feedback are recognized as the primary drivers of CHDEs, the strengths of their causal relationships and long‐term evolution remain poorly quantified. Focusing on summer CHDEs over the Yangtze River Basin (YRB) during 1961–2022, this study uses the ERA5 reanalysis data set and the Peter and Clark Momentary Conditional Independence (PCMCI) causal discovery method to construct causal effect networks for both individual extreme events and CHDEs, and quantitatively investigates the strengths and long‐term evolution of the identified causal pathways. The results show that large‐scale circulation anomalies not only directly promote regional warming but also induce soil drying, providing a favorable large‐scale atmospheric background for CHDEs. Soil moisture (SM) maintains drought conditions through a pronounced memory effect and further enhances near‐surface warming via land–atmosphere feedback, resulting in stronger atmosphere–land coupling during compound events than during individual heat events. Accordingly, both circulation anomalies and SM deficits are stronger in CHDEs than in individual heat events. Long‐term analysis shows that large‐scale circulation has remained the dominant and relatively stable driver of regional heat extremes and CHDEs, whereas the influence of SM on temperature has strengthened significantly, with the enhancement during compound events being approximately twice that for individual extreme events. This strengthening is associated with declining SM, suppressed evapotranspiration, and an enhanced conversion of net radiation from latent to sensible heat flux over the YRB."
     },
     {
       "id": "W7233613796",
@@ -231,36 +186,12 @@
       "openAlexUrl": "https://openalex.org/W7233613796",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 55,
+      "score": 54,
       "matchedKeywords": [
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "ABSTRACT Vegetation net primary productivity (NPP) is a fundamental indicator of terrestrial vegetation productivity and carbon cycling. However, existing global NPP products may exhibit low biases over parts of the Qingzang Plateau and may not fully capture the pronounced spatial heterogeneity of alpine vegetation productivity, partly because of generalized model parameterization and limitations in representing vegetation thermal responses. To address these limitations, we developed an annual NPP dataset for the Qingzang Plateau at a spatial resolution of 500 m for the period 2001–2024. The dataset was generated using an improved Carnegie–Ames–Stanford Approach (CASA) model implemented on the Google Earth Engine platform. Key model improvements included the dynamic allocation of maximum light‐use efficiency based on annual MCD12Q1 IGBP land‐cover classes and the replacement of the traditional bell‐shaped temperature stress function with a regionally adapted logistic function as an empirical representation of temperature limitation in alpine vegetation. Comparisons with the NASA MOD17A3HGF product and the regional TPDC NPP dataset yielded coefficients of determination (R 2 ) of 0.785 and 0.708, respectively, indicating substantial spatial consistency with both benchmark datasets. The improved CASA model also produced higher NPP estimates in high‐biomass regions, particularly in the southeastern forests of the plateau. The dataset revealed a significant overall increase in NPP across the Qingzang Plateau during 2001–2024 ( p < 0.01), with mean NPP increasing at a rate of 1.94 g C m −2 year −1 . This dataset provides a transparent resource for characterizing the spatial and temporal dynamics of vegetation productivity and for supporting ecological and climate‐related assessments across the Third Pole region."
-    },
-    {
-      "id": "W7134033769",
-      "title": "Dynamical precursors to summer temperature extremes on the Antarctic Peninsula",
-      "authors": [
-        "William James Dow",
-        "Amanda C. Maycock",
-        "Andrew N Ross",
-        "Ryan Williams",
-        "Thomas J. Bracegirdle"
-      ],
-      "journal": "Weather and Climate Dynamics",
-      "publicationDate": "2026-11-09",
-      "doi": "https://doi.org/10.5194/wcd-7-2213-2026",
-      "openAlexUrl": "https://openalex.org/W7134033769",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 55,
-      "matchedKeywords": [
-        "antarctic",
-        "southern annular mode"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、southern annular mode、temperature、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Extreme warm summer near-surface temperatures over the Antarctic Peninsula (AP) can lead to surface melting and the disintegration of ice shelves. While individual case studies have linked such events to anomalous large-scale circulation, a systematic assessment of the dynamical pathways leading to AP-wide extreme austral summer warm events remains limited. This study uses ERA5 reanalysis data to investigate the large-scale dynamical precursors associated with extreme warm days over the Antarctic Peninsula. We apply k -means clustering to mean sea level pressure anomalies during high temperature extremes and identify five distinct circulation patterns with different dominant zonal wavenumbers. We investigate the spatio-temporal evolution and persistence of near-surface wind, temperature and pressure for each cluster. Four clusters are associated with rapidly amplifying planetary-scale wave patterns, while a fifth resembles a negative Southern Annular Mode–like state with enhanced persistence prior to event onset. Despite these differing pathways, all regimes promote anomalous northerly flow toward the AP, driving strong meridional temperature advection and regional warming. We demonstrate that extreme Antarctic Peninsula warm events arise from distinct circulation pathways, reflecting diverse dynamical states likely influenced by hemispheric-scale teleconnections and planetary wave interactions."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:36:47.643Z",
+  "generatedAt": "2026-11-21T07:32:46.123Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7235838233",
+      "title": "A lag-aware and interpretable two-stage framework for identifying dominant precipitation-related predictors in the data-scarce Mekong River Basin",
+      "authors": [
+        "Xi Weng",
+        "Tianshan Zeng",
+        "Yiqun Sun",
+        "Dongdong Gao",
+        "Qiongfang Li",
+        "Xiaogang Tian",
+        "Nengmin Zhu",
+        "Hongle Shi"
+      ],
+      "journal": "Journal of Hydrology Regional Studies",
+      "publicationDate": "2026-11-18",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.104207",
+      "openAlexUrl": "https://openalex.org/W7235838233",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 81,
+      "matchedKeywords": [
+        "machine learning",
+        "shap",
+        "precipitation"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Study area The Mekong River Basin is a data-scarce transboundary basin where sparse, unevenly distributed, and temporally discontinuous gauge observations hinder reliable precipitation estimation, particularly under strong subregional hydroclimatic heterogeneity. Research focus This study developed a lag-aware and interpretable two-stage framework to identify dominant precipitation-related predictors across the basin. In the first stage, transfer entropy (TE) was used to preliminarily screen candidate predictors by assessing directional lagged dependence from each candidate variable to precipitation over 1–7-day lags. In the second stage, tree-based machine learning and SHapley Additive exPlanations (SHAP) were used to quantify predictor contributions within the fitted models and diagnose predictor structures across subregions and rainfall regimes. New hydrological insights The framework reduced a high-dimensional candidate predictor space to compact sets of 10–15 inputs. Under a common sample-based split, the compact models achieved a mean Nash–Sutcliffe efficiency of 0.232, compared with 0.275 for models using the complete preliminarily screened sets, and performed better overall than conventional feature-selection alternatives. Across subregions, cloud microphysical variables aloft and lower-atmospheric moisture variables were recurring contributors to modelled precipitation. Convective available potential energy (CAPE) and directional transport-related predictors also played important roles. In the heavy-precipitation subset (≥90 mm day−1), transport-, flux-, and energy-related predictors became more prominent in the fitted-model SHAP rankings. This rainfall-regime contrast provides a useful diagnostic of regional precipitation processes, although the heavy-precipitation results remain exploratory because of the limited number of gauge-day samples."
+    },
     {
       "id": "W7225817610",
       "title": "Antarctic sea ice variability and monsoonal precipitation: a review of reported teleconnections, associations and uncertainties",
@@ -30,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7225817610",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 76,
+      "score": 74,
       "matchedKeywords": [
         "east asia",
         "precipitation",
@@ -42,7 +70,33 @@
         "rossby"
       ],
       "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、southern annular mode、southern ocean、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
+      "abstractEn": "Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
+    },
+    {
+      "id": "W7236599381",
+      "title": "Convergent coupling of latent heat with canopy greenness and divergent sensible heat baselines across alpine grassland types on the Tibetan Plateau",
+      "authors": [
+        "Fawei Zhang",
+        "Zhu Jing-Bin",
+        "Hong-Qin Li",
+        "Jing Li",
+        "Lin Li",
+        "Yikang Li",
+        "Hua-Kun Zhou"
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publicationDate": "2026-11-19",
+      "doi": "https://doi.org/10.1093/jpe/rtag275",
+      "openAlexUrl": "https://openalex.org/W7236599381",
+      "topic": "tibetan-plateau",
+      "topicLabel": "青藏高原",
+      "score": 72,
+      "matchedKeywords": [
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Rapid warming on the Tibetan Plateau is altering vegetation greenness and grassland composition, yet how these changes jointly modulate surface energy partitioning remains poorly understood. By synthesizing 158 site-years of eddy-covariance measurements from six alpine grassland types, we show that latent heat flux (LE; evaporative cooling) is closely associated with canopy greenness (NDVI), with a consistent slope across grassland types. This association persists after accounting for major climatic drivers and operates at spatial and seasonal scales, but is negligible at the interannual scale. Conversely, sensible heat flux (H; atmospheric heating) is decoupled from NDVI; instead, its baseline value, predicted at the mean values of vapor pressure deficit, downwelling shortwave radiation, and air temperature, diverges markedly among types, with shrubland exhibiting the highest baseline. This H baseline divergence among grassland types is spatially driven at both monthly and annual scales. This dual-control framework, comprising a convergent association of greenness with LE and a divergent ecological constraint of grassland type on H, implies that while future greening predictably strengthens evaporative cooling, shrub encroachment, by elevating the baseline atmospheric heating, may partially counteract this cooling. These findings provide empirically grounded, scale-aware constraints for parameterizing the biophysical feedbacks of high-altitude grasslands in land-surface models."
     },
     {
       "id": "W7165789827",
@@ -63,7 +117,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 68,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -85,7 +139,7 @@
       "openAlexUrl": "https://openalex.org/W4412786656",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 68,
       "matchedKeywords": [
         "yangtze",
         "tibetan plateau",
@@ -95,28 +149,25 @@
       "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
     },
     {
-      "id": "W7225815411",
-      "title": "Discovering Equations for the Thermodynamics of South Asian Monsoon Precipitation",
+      "id": "W7236187763",
+      "title": "Predicting the impact of climate change on the climatic suitability for Ziziphus jujuba in China",
       "authors": [
-        "Savannah L. Ferretti",
-        "Jane Wilson Baldwin",
-        "Michael S. Pritchard",
-        "Tom Beucler"
+        "Zhimeng Zhao",
+        "Jin Zhang",
+        "Xu Wu"
       ],
-      "journal": "arXiv (Cornell University)",
-      "publicationDate": "2026-11-10",
-      "doi": "https://doi.org/10.48550/arxiv.2611.14401",
-      "openAlexUrl": "https://openalex.org/W7225815411",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 65,
+      "journal": "PLoS ONE",
+      "publicationDate": "2026-11-18",
+      "doi": "https://doi.org/10.1371/journal.pone.0361803",
+      "openAlexUrl": "https://openalex.org/W7236187763",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 60,
       "matchedKeywords": [
-        "neural network",
-        "monsoon",
         "precipitation"
       ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、ocean、monsoon、precipitation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "South Asian monsoon precipitation depends on the thermodynamic structure of the lower troposphere, but how its ingredients combine to shape precipitation remains unclear, partly because this dependence is nonlocal in the vertical. We use symbolic distillation, which combines neural networks and symbolic regression, to discover interpretable precipitation equations from 21 years of June-August reanalysis data. Neural networks first learn the vertical thermodynamic structure most relevant to precipitation, condensing each variable into a single interpretable feature not tied to a particular vertical grid. Then, symbolic regression derives closed-form equations from these features and the surface state. Our best equation explains 1.5 times as much precipitation variance as a widely used buoyancy-based diagnostic and recovers about 85% of neural network skill while using about a thousand times fewer parameters. Unlike the buoyancy diagnostic, which adds moisture and instability, the equations treat them as competing controls, with the heaviest precipitation occurring when the lower free troposphere is humid. Over ocean, sensible heating is associated with additional precipitation mainly when near-surface air is warm and moist, improving predicted precipitation and its diurnal cycle. Although the learned features were optimized only for precipitation prediction, the equations largely respond to each feature as expected from convective physics, consistent with the reanalysis. These responses reduce the dependence of monsoon precipitation on the entire vertical column to a few simple, testable constraints that could guide data-driven precipitation models to make them more physically consistent."
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Ziziphus jujuba Mill. is an economically valuable tree species in China, and its climatically suitable range is sensitive to future climate risks, with implications for biological resource conservation. Species occurrence records and bioclimatic variables were integrated, and a parameter-tuned MaxEnt model was employed to forecast the potential climatic suitability for Z. jujuba in China under three shared socioeconomic pathways (SSP1-2.6, SSP3-7.0, and SSP5-8.5). The adjusted model exhibited excellent predictive performance (AUC = 0.947). Annual mean temperature, precipitation seasonality, and temperature seasonality were identified as the dominant climatic drivers. Currently, highly suitable areas (8.84% of total suitable area) are concentrated in the Bohai Rim region. Under future scenarios, although the total climatically suitable area expands across all pathways, its spatial pattern undergoes significant reorganization: contraction in southeastern margins, expansion into northwestern inland regions, and relative stability in the core area. The centroid is projected to shift continuously northwestward, with a maximum cumulative migration of 504.67 km under SSP5-8.5. Future planning must prioritize the risk of declining suitability in traditional southeastern production areas and carefully assess the practical feasibility of potential expansion zones in the northwest. These findings provide a scientific basis for climate-adaptive management of Z. jujuba resources."
     },
     {
       "id": "W7234397073",
@@ -136,36 +187,12 @@
       "openAlexUrl": "https://openalex.org/W7234397073",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 58,
+      "score": 57,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "To elucidate radial growth variation and differences in climatic responses among coexisting tree species, this study, based on 2024 monitoring data of stem radial variation, compared the growing-season phenology, stem radial growth, and environmental factors response characteristics of four tree species ( Liquidambar formosana (FX), Melia azedarach (KL), Cryptomeria japonica var. sinensis (LS), and Camptotheca acuminata (XS)). The results showed that: (1) M. azedarach exhibited the longest growing season (168 ± 9.9 days), L. formosana was intermediate (131 ± 4.04 days), and C. japonica var. sinensis and C. acuminata were shorter (117–121 days). (2) In terms of annual increment, KL1 had the highest annual cumulative increment (3.21 mm), followed by FX1 (3.18 mm), whereas C. japonica var. sinensis and C. acuminata were lower (XS2 only 0.38 mm); (3) The growth of L. formosana was primarily driven by air temperature and photosynthetically active radiation (correlation coefficients of FX2 with air temperature, soil temperature reached 0.75–0.82), while KL2, C. japonica var. sinensis , and C. acuminata were more regulated by precipitation and soil moisture. Based on these results, M. azedarach is recommended for sites with stable moisture conditions and strong soil water-holding capacity, whereas L. formosana is suitable for sunny slopes with adequate heat and radiation and good drainage. C. japonica var. sinensis and C. acuminata showed low growth but considerable intraspecific variation, and may possess survival advantages on degraded sites subject to frequent water stress. In terms of planting configuration, the approximately two-month offset in growth peaks between C. japonica var. sinensis and L. formosana suggests that mixed plantations of the two may form a complementary resource-use pattern. This study can provide a scientific basis for the selection and configuration of coexisting tree species."
-    },
-    {
-      "id": "W7225703396",
-      "title": "Selective coupling of the Western Tibetan Vortex and the South Asian High",
-      "authors": [
-        "Xiaofeng Li",
-        "Hayley Jane Fowler",
-        "Yang Song",
-        "Binbo Lei",
-        "Yonglu Li"
-      ],
-      "journal": "Research Square",
-      "publicationDate": "2026-11-10",
-      "doi": "https://doi.org/10.21203/rs.3.rs-11482186/v1",
-      "openAlexUrl": "https://openalex.org/W7225703396",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "tibetan plateau",
-        "plateau"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Abstract The Western Tibetan Vortex (WTV) and South Asian High (SAH) overlap in the Asian upper troposphere, but whether they represent distinct phenomena and how they interact remain unclear. Using ERA5 reanalysis (1979–2023) and 53 CMIP6 models, we demonstrate that the WTV is a year-round circulation-variability mode distinct from the summer SAH anticyclone. Their summer variability is selectively coupled through SAH position rather than intensity or extent, with SAH centre displacements explaining 52.8% of WTV variance. This relationship involves two complementary pathways: meridional displacement associated with subtropical westerly jet shifts and zonal displacement associated with circulation anomalies over the western Tibetan Plateau. We further show that WTV variability covaries with the continuous western ridge of the SAH, but not with intermittent splitting into separate centres. Most CMIP6 models reproduce the coupling structure but underestimate its strength. These findings clarify the dynamical relationship between two distinct atmospheric phenomena and resolve a longstanding ambiguity surrounding the SAH western centre."
     },
     {
       "id": "W7233613796",
@@ -186,12 +213,12 @@
       "openAlexUrl": "https://openalex.org/W7233613796",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 54,
+      "score": 52,
       "matchedKeywords": [
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 plateau、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "ABSTRACT Vegetation net primary productivity (NPP) is a fundamental indicator of terrestrial vegetation productivity and carbon cycling. However, existing global NPP products may exhibit low biases over parts of the Qingzang Plateau and may not fully capture the pronounced spatial heterogeneity of alpine vegetation productivity, partly because of generalized model parameterization and limitations in representing vegetation thermal responses. To address these limitations, we developed an annual NPP dataset for the Qingzang Plateau at a spatial resolution of 500 m for the period 2001–2024. The dataset was generated using an improved Carnegie–Ames–Stanford Approach (CASA) model implemented on the Google Earth Engine platform. Key model improvements included the dynamic allocation of maximum light‐use efficiency based on annual MCD12Q1 IGBP land‐cover classes and the replacement of the traditional bell‐shaped temperature stress function with a regionally adapted logistic function as an empirical representation of temperature limitation in alpine vegetation. Comparisons with the NASA MOD17A3HGF product and the regional TPDC NPP dataset yielded coefficients of determination (R 2 ) of 0.785 and 0.708, respectively, indicating substantial spatial consistency with both benchmark datasets. The improved CASA model also produced higher NPP estimates in high‐biomass regions, particularly in the southeastern forests of the plateau. The dataset revealed a significant overall increase in NPP across the Qingzang Plateau during 2001–2024 ( p < 0.01), with mean NPP increasing at a rate of 1.94 g C m −2 year −1 . This dataset provides a transparent resource for characterizing the spatial and temporal dynamics of vegetation productivity and for supporting ecological and climate‐related assessments across the Third Pole region."
+      "abstractEn": "Vegetation net primary productivity (NPP) is a fundamental indicator of terrestrial vegetation productivity and carbon cycling. However, existing global NPP products may exhibit low biases over parts of the Qingzang Plateau and may not fully capture the pronounced spatial heterogeneity of alpine vegetation productivity, partly because of generalized model parameterization and limitations in representing vegetation thermal responses. To address these limitations, we developed an annual NPP dataset for the Qingzang Plateau at a spatial resolution of 500 m for the period 2001–2024. The dataset was generated using an improved Carnegie–Ames–Stanford Approach (CASA) model implemented on the Google Earth Engine platform. Key model improvements included the dynamic allocation of maximum light‐use efficiency based on annual MCD12Q1 IGBP land‐cover classes and the replacement of the traditional bell‐shaped temperature stress function with a regionally adapted logistic function as an empirical representation of temperature limitation in alpine vegetation. Comparisons with the NASA MOD17A3HGF product and the regional TPDC NPP dataset yielded coefficients of determination (R 2 ) of 0.785 and 0.708, respectively, indicating substantial spatial consistency with both benchmark datasets. The improved CASA model also produced higher NPP estimates in high‐biomass regions, particularly in the southeastern forests of the plateau. The dataset revealed a significant overall increase in NPP across the Qingzang Plateau during 2001–2024 ( p < 0.01), with mean NPP increasing at a rate of 1.94 g C m −2 year −1 . This dataset provides a transparent resource for characterizing the spatial and temporal dynamics of vegetation productivity and for supporting ecological and climate‐related assessments across the Third Pole region."
     }
   ]
 }

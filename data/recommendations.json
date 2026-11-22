@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:32:46.123Z",
+  "generatedAt": "2026-11-22T07:14:39.702Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7235838233",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 81,
+      "score": 80,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -40,37 +40,24 @@
       "abstractEn": "Study area The Mekong River Basin is a data-scarce transboundary basin where sparse, unevenly distributed, and temporally discontinuous gauge observations hinder reliable precipitation estimation, particularly under strong subregional hydroclimatic heterogeneity. Research focus This study developed a lag-aware and interpretable two-stage framework to identify dominant precipitation-related predictors across the basin. In the first stage, transfer entropy (TE) was used to preliminarily screen candidate predictors by assessing directional lagged dependence from each candidate variable to precipitation over 1–7-day lags. In the second stage, tree-based machine learning and SHapley Additive exPlanations (SHAP) were used to quantify predictor contributions within the fitted models and diagnose predictor structures across subregions and rainfall regimes. New hydrological insights The framework reduced a high-dimensional candidate predictor space to compact sets of 10–15 inputs. Under a common sample-based split, the compact models achieved a mean Nash–Sutcliffe efficiency of 0.232, compared with 0.275 for models using the complete preliminarily screened sets, and performed better overall than conventional feature-selection alternatives. Across subregions, cloud microphysical variables aloft and lower-atmospheric moisture variables were recurring contributors to modelled precipitation. Convective available potential energy (CAPE) and directional transport-related predictors also played important roles. In the heavy-precipitation subset (≥90 mm day−1), transport-, flux-, and energy-related predictors became more prominent in the fitted-model SHAP rankings. This rainfall-regime contrast provides a useful diagnostic of regional precipitation processes, although the heavy-precipitation results remain exploratory because of the limited number of gauge-day samples."
     },
     {
-      "id": "W7225817610",
-      "title": "Antarctic sea ice variability and monsoonal precipitation: a review of reported teleconnections, associations and uncertainties",
+      "id": "W7134054875",
+      "title": "The relative importance of drought-related and structural economic factors in explaining regional economic performance across Europe: an explainable machine-learning approach",
       "authors": [
-        "M. V. Ninu Krishnan",
-        "Muhaji Sahnita Putri",
-        "Yusri Yusup",
-        "Sheeba Nettukandy Chenoli",
-        "Mohd Nadzri Md Reba",
-        "Hua Lu",
-        "Xin Yang",
-        "Mohd Saiful Samsudin"
+        "Kevin Bulthuis"
       ],
-      "journal": "Progress in Earth and Planetary Science",
-      "publicationDate": "2026-11-11",
-      "doi": "https://doi.org/10.1186/s40645-026-00857-0",
-      "openAlexUrl": "https://openalex.org/W7225817610",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 74,
+      "journal": "Environmental Data Science",
+      "publicationDate": "2026-11-19",
+      "doi": "https://doi.org/10.1017/eds.2026.10070",
+      "openAlexUrl": "https://openalex.org/W7134054875",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 76,
       "matchedKeywords": [
-        "east asia",
-        "precipitation",
-        "antarctic",
-        "sea ice",
-        "southern annular mode",
-        "southern ocean",
-        "teleconnection",
-        "rossby"
+        "explainable",
+        "causal"
       ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、southern annular mode、southern ocean、climate，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Antarctic sea ice variability is increasingly recognized as a potentially important component of the coupled Southern Hemisphere climate system. Growing observational, reanalysis, and modeling evidence suggests that Antarctic sea ice anomalies are associated with large-scale atmospheric circulation changes that may contribute to climate variability in tropical and subtropical regions. However, the relative contribution of Antarctic sea ice variability compared with established climate drivers such as the El Niño–Southern Oscillation (ENSO) and the Southern Annular Mode (SAM) remains incompletely understood. At the sectoral scale, asymmetric sea ice variability associated with wind-driven Ekman transport, air–sea heat flux anomalies, and ocean–ice interactions has been linked to dipole-like patterns of atmospheric and oceanic variability that may alter jet streams, storm tracks, and large-scale circulation. Proposed teleconnection pathways involving Rossby wave propagation and circulation adjustments suggest that sea ice variability in the Indian Ocean, Pacific, and Atlantic sectors may be associated with changes in cross-equatorial moisture transport, subtropical jet position, and regional pressure systems, with potential implications for precipitation variability across South Asia, East Asia, and Africa. Collectively, the available evidence indicates that Antarctic sea ice variability may represent one component of a broader interconnected climate system influencing hydroclimatic variability across multiple regions, while also highlighting substantial uncertainties regarding the magnitude, mechanisms, and regional expression of these relationships. Improved understanding of Southern Ocean–ice–atmosphere interactions and their representation in climate models will be important for evaluating the potential role of Antarctic sea ice variability in seasonal-to-decadal climate variability and hydroclimatic predictability."
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、causal、climate、temperature、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The European Union (EU) exhibits spatial heterogeneity in economic structure and performance, reflecting historical development trajectories, sectoral composition, socio-economic conditions, and climatic variability. Among climatic stressors, drought challenges economic resilience, particularly in agriculture and manufacturing, which are sensitive to water availability, temperature extremes, and infrastructure constraints. In this study, we quantify the contributions of drought-related and socio-economic factors to regional gross value added (GVA) across NUTS3 regions in the EU. We integrate climatic indicators from the Copernicus European Drought Observatory with socio-economic data from Eurostat, and apply an eXtreme Gradient Boosting (XGBoost) model coupled with Shapley value–based interpretability methods to attribute sector-specific economic outcomes to individual features. Our analysis reveals spatial heterogeneity in the contributions of socio-economic and climatic factors to GVA. Variability in both agricultural and manufacturing GVA is predominantly explained by socio-economic factors. Agricultural GVA is influenced by the employment share in agriculture and regional area, reflecting the availability of labor and land resources, while manufacturing GVA is strongly associated with regional economic performance, as proxied by gross domestic product. Among climatic drivers, winter temperature—a factor for plant survival—explains the largest share of variability in agricultural GVA, with soil moisture and vegetation photosynthetic activity, used as proxies for productivity, also contributing. For manufacturing, median monthly maximum temperature emerges as the most influential climatic variable, with soil moisture and photosynthetic activity contributing as secondary predictors. However, these climatic associations likely reflect spatial covariation with regional characteristics rather than direct causal impacts of climate on production processes."
     },
     {
       "id": "W7236599381",
@@ -90,7 +77,7 @@
       "openAlexUrl": "https://openalex.org/W7236599381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -117,7 +104,7 @@
       "openAlexUrl": "https://openalex.org/W7165789827",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 68,
+      "score": 67,
       "matchedKeywords": [
         "machine learning",
         "shap"
@@ -126,27 +113,47 @@
       "abstractEn": "In this study, we examine the potential of continuous ground moisture monitoring over a mining site using a combination of in-situ soil moisture sensors and multi-sensor SAR images. We focus on assessing and improving methodologies for retrieval of surface soil moisture, i.e. ground moisture, from SAR measurements focusing on detailed in situ reference observations for several key geomaterials, i.e. sediments, typical in the study site. The mining site represents a limestone quarry located in the southeastern Finland. Our hypothesis is that sediment-specific well-calibrated models can be instrumental in improving soil moisture retrieval under different weather conditions to produce spatially explicit soil moisture estimates at high resolution compared to baseline approaches. Studied SAR data are represented by Copernicus Sentinel-1 C-band images, while auxiliary datasets include optical Sentinel-2 data. Reference data were collected using IoT enabled capacitance sensors. The reference data were calibrated based on laboratory analyses conducted on the different sediment types studied, including organic soil, clay, gravel, and flotation sand. The examined machine learning (ML) methods include XGBoost, LightGBM, random forest, support vector regression, linear regression and k-nearest neighbors. The performance of ML algorithms was evaluated using different cross-validation techniques including a five-fold approach as well as Leave-One-Sensor-Out (LOSO) to assess predictive accuracy and transferability to unseen sensors. The best performance under random five-fold cross-validation was achieved with the most comprehensive feature set which combines Sentinel-1 backscatter, time-series based soil moisture indices (SMI), Sentinel-2 optical, topographic, and temperature predictors. SHAP analysis revealed that SAR based features such as VH backscatter, traditional SMI derived from VV backscatter, and incidence angle were among the most important multi-source predictors. Adding sediment information improved Sentinel-1-only retrievals by more than 2 vol-%, but provided little additional benefit when richer multi-source feature sets were used. In the best sediment-area-level configurations, RMSE decreased to 0.037–0.050 m 3 m − 3 (3.7-5.0 vol. % points ), with R 2 values reaching 0.90. Accuracy varied by sediment texture, with the lowest errors for clay and organic soil and higher errors for flotation sand and gravel. However, LOSO validation demonstrated substantially weaker and site-dependent transferability: R 2 ranged from 0.45 to 0.67 for organic soil at a southern site and from 0.07 to 0.21 for organic soil at a northern site. Thus, high within-dataset predictive accuracy did not translate uniformly to unseen sensor locations, highlighting the need for broader spatially independent validation."
     },
     {
-      "id": "W4412786656",
-      "title": "Extreme glacier melt on the Central Tibetan Plateau during the summer of 2022: detection and mechanisms",
+      "id": "W7237330531",
+      "title": "Landscape Heterogeneity Changes and Their Implications for Agriculture in Europe",
       "authors": [
-        "Fei Zhu",
-        "Meilin Zhu",
-        "Lu An"
+        "Marco Ferro"
       ],
-      "journal": "Hydrology and earth system sciences",
-      "publicationDate": "2026-11-11",
-      "doi": "https://doi.org/10.5194/hess-30-6983-2026",
-      "openAlexUrl": "https://openalex.org/W4412786656",
+      "journal": "bonndoc (University of Bonn)",
+      "publicationDate": "2026-11-19",
+      "doi": null,
+      "openAlexUrl": "https://openalex.org/W7237330531",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 65,
+      "matchedKeywords": [
+        "causal"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、climate、heatwave、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "This dissertation examines the extent and implications of historical changes in landscape heterogeneity in Europe. Landscape heterogeneity is conceptualized as the combination of two complementary dimensions: landscape composition, referring to the relative abundance of different land use and land cover types, and landscape configuration, i.e. their spatial arrangement. Both dimensions can critically influence biophysical processes such as energy and water cycles, which underpin ecosystem functions and affect agricultural production. The dissertation is organized around three themes: (1) the extent and climate relevance of historical changes in landscape heterogeneity, (2) the underlying biophysical processes associated with these changes, and (3) their implications for agricultural systems. The first theme quantifies recent, widespread trajectories of change in landscape composition and configuration across Europe and assesses their potential influence on bioclimatic variables. The second theme focuses specifically on changes in landscape configuration and examines the biophysical processes through which forest fragmentation affects local temperatures. The third theme applies an agricultural economics perspective to a case study in Germany, investigating the causal effects of historical variations in landscape heterogeneity on grassland ecosystems during a severe compound drought and heatwave event. Overall, this dissertation contributes with novel evidence on the importance of accounting for both landscape composition and configuration in climate adaptation and mitigation strategies. It identifies deforestation trajectories as the primary compositional factor and forest fragmentation as the primary configurational factor affecting the ecosystem's climate-regulation functioning. Conversely, higher landscape heterogeneity in agricultural landscapes emerges as a potentially effective mitigation strategy against extreme hydrometeorological events."
+    },
+    {
+      "id": "W7236853890",
+      "title": "Evaluation of reanalysis datasets for studying high-elevation meteorological conditions in the Langtang Catchment, Nepal",
+      "authors": [
+        "Gunjan Silwal",
+        "Bethan J. Davies",
+        "Rachel Joanne Carr",
+        "Owen King",
+        "Sammie Buzzard"
+      ],
+      "journal": "Frontiers in Earth Science",
+      "publicationDate": "2026-11-19",
+      "doi": "https://doi.org/10.3389/feart.2026.1950767",
+      "openAlexUrl": "https://openalex.org/W7236853890",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 68,
+      "score": 64,
       "matchedKeywords": [
-        "yangtze",
-        "tibetan plateau",
-        "plateau"
+        "precipitation",
+        "high mountain asia"
       ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、climate、atmospher、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Extreme glacier melt events accelerate mass loss, increase glacier instability, and temporarily increase downstream runoff, potentially alleviating drought conditions. Yet the glacier energy–mass balance in the Geladandong region – a headwater region of the Yangtze River (China's longest river) and one of the source regions feeding Siling Co (Tibet's largest lake) – and its connection to the unprecedented 2022 summer melt remain insufficiently quantified. To address this gap, we integrated in-situ mass balance observations and glacio-meteorological data from a 5700 m monitoring site with an energy-mass balance model and applied a novel dual-threshold framework (based on mean and standard deviation) to identify extreme mass loss/melt events in short-term glacier mass balance records. Our novel methodology identified 2021/22 as a period of extreme mass loss and melt intensity, with melt during the 2022 summer heatwave reaching unprecedented extremes. These heatwaves caused an increase in melt amount of 317.8 mm w.e., amounting to 1.66 and 1.69 times the values recorded for the same period in 2019/20 and 2020/21, respectively. This extreme melt was driven by energy balance anomalies over the glacier surface. In terms of net contributions to the +28.2 W m −2 melt energy anomaly during the three identified heatwave windows, enhanced sensible heat flux was the largest term (+17.0 W m −2 ; 60.3 %), followed by increased net longwave radiation (+14.0 W m −2 ; 49.7 %) and increased net shortwave radiation (+5.1 W m −2 ; 18.1 %) associated with reduced albedo, with negative contributions from latent heat flux and subsurface heat flux. Such anomalies were driven by large-scale atmospheric circulation patterns, specifically the eastward extension and northward displacement of the South Asian High (SAH), together with near-neutral mid-latitude westerlies. This study advances the understanding of glacier mass balance responses to extreme weather and climate events on the central Tibetan Plateau."
+      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Climate reanalysis datasets are widely used in hydro-meteorological and cryospheric research across High Mountain Asia (HMA), where in situ observations are scarce. Here, we evaluate ERA5L, High Asian Refined Analysis (HARv2), Modern-Era Retrospective Analysis for Research and Applications (MERRA2), and Climatologies at High Resolution for the Earth’s Land Surface Areas (CHELSA) against near-surface meteorological observations between 3,865 and 5,350 m a.s.l., in the upper Langtang Catchment, Nepal, using statistical metrics and Taylor Skill Score ( TSS ). We further assess their suitability for glacier surface energy balance (SEB) and mass balance modelling. No reanalysis product consistently outperforms the others; rather, their performance varies by meteorological variable, site, surface conditions, and timescale, with generally better performance at glacier sites, likely because their relatively homogeneous surface conditions are more readily represented by reanalysis products. Near-surface air temperature ( T 2m ) and humidity (specific: q and relative: RH ) are well reproduced ( TSS > 0.77) across products, although cold temperature and both dry and moist humidity biases are pervasive across sites. Wind speed ( u ) is poorly represented across products, sites, and timescales, reflecting their limited ability to resolve boundary layer processes and local katabatic and anabatic flows. Precipitation also exhibits large discrepancies, with ERA5L and HARv2 overestimating precipitation totals by ∼89–232% and MERRA2 and CHELSA underestimating by 30%–60%. They also generate frequent wet days and early-afternoon convective rainfall, in contrast to observed late-afternoon and nocturnal-to-early morning maxima. Hourly and daily SEB simulations at the Yala-on-Glacier site driven by reanalysis forcings yield statistically significant surface melt relative to reference estimates driven by in situ datasets; however, substantial differences in magnitude exist among products. ERA5L and HARv2 exhibit relatively small errors, largely due to compensating errors between radiative and turbulent fluxes, whereas MERRA2 and CHELSA show larger melt discrepancies due to their large radiative flux errors and underestimated precipitation that affects the surface albedo. Overall, our results underscore both the usefulness and limitations of reanalysis products for cryospheric applications in complex mountainous catchments and emphasize the need for assimilation of high-elevation observations in reanalysis products, alongside improved downscaling approaches, to better resolve local-scale atmospheric processes."
     },
     {
       "id": "W7236187763",
@@ -162,7 +169,7 @@
       "openAlexUrl": "https://openalex.org/W7236187763",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -187,7 +194,7 @@
       "openAlexUrl": "https://openalex.org/W7234397073",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -213,7 +220,7 @@
       "openAlexUrl": "https://openalex.org/W7233613796",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 52,
+      "score": 51,
       "matchedKeywords": [
         "plateau"
       ],

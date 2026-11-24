@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:58:50.173Z",
+  "generatedAt": "2026-11-24T10:13:26.135Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7235838233",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 78,
+      "score": 77,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -51,7 +51,7 @@
       "openAlexUrl": "https://openalex.org/W7134054875",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 73,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -77,40 +77,13 @@
       "openAlexUrl": "https://openalex.org/W7236599381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Rapid warming on the Tibetan Plateau is altering vegetation greenness and grassland composition, yet how these changes jointly modulate surface energy partitioning remains poorly understood. By synthesizing 158 site-years of eddy-covariance measurements from six alpine grassland types, we show that latent heat flux (LE; evaporative cooling) is closely associated with canopy greenness (NDVI), with a consistent slope across grassland types. This association persists after accounting for major climatic drivers and operates at spatial and seasonal scales, but is negligible at the interannual scale. Conversely, sensible heat flux (H; atmospheric heating) is decoupled from NDVI; instead, its baseline value, predicted at the mean values of vapor pressure deficit, downwelling shortwave radiation, and air temperature, diverges markedly among types, with shrubland exhibiting the highest baseline. This H baseline divergence among grassland types is spatially driven at both monthly and annual scales. This dual-control framework, comprising a convergent association of greenness with LE and a divergent ecological constraint of grassland type on H, implies that while future greening predictably strengthens evaporative cooling, shrub encroachment, by elevating the baseline atmospheric heating, may partially counteract this cooling. These findings provide empirically grounded, scale-aware constraints for parameterizing the biophysical feedbacks of high-altitude grasslands in land-surface models."
-    },
-    {
-      "id": "W7165789827",
-      "title": "High resolution sediment-specific surface soil moisture retrieval using Sentinel-1 time series and auxiliary data",
-      "authors": [
-        "Alireza Hamedianfar",
-        "Oleg Antropov",
-        "Matthieu Molinier",
-        "Ulla Salmela",
-        "Hanna Kukkula",
-        "Lauri Seitsonen",
-        "Pauliina Liwata-Kenttälä",
-        "Maarit Middleton"
-      ],
-      "journal": "International Journal of Applied Earth Observation and Geoinformation",
-      "publicationDate": "2026-11-13",
-      "doi": "https://doi.org/10.1016/j.jag.2026.105665",
-      "openAlexUrl": "https://openalex.org/W7165789827",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 65,
-      "matchedKeywords": [
-        "machine learning",
-        "shap"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、temperature、weather，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "In this study, we examine the potential of continuous ground moisture monitoring over a mining site using a combination of in-situ soil moisture sensors and multi-sensor SAR images. We focus on assessing and improving methodologies for retrieval of surface soil moisture, i.e. ground moisture, from SAR measurements focusing on detailed in situ reference observations for several key geomaterials, i.e. sediments, typical in the study site. The mining site represents a limestone quarry located in the southeastern Finland. Our hypothesis is that sediment-specific well-calibrated models can be instrumental in improving soil moisture retrieval under different weather conditions to produce spatially explicit soil moisture estimates at high resolution compared to baseline approaches. Studied SAR data are represented by Copernicus Sentinel-1 C-band images, while auxiliary datasets include optical Sentinel-2 data. Reference data were collected using IoT enabled capacitance sensors. The reference data were calibrated based on laboratory analyses conducted on the different sediment types studied, including organic soil, clay, gravel, and flotation sand. The examined machine learning (ML) methods include XGBoost, LightGBM, random forest, support vector regression, linear regression and k-nearest neighbors. The performance of ML algorithms was evaluated using different cross-validation techniques including a five-fold approach as well as Leave-One-Sensor-Out (LOSO) to assess predictive accuracy and transferability to unseen sensors. The best performance under random five-fold cross-validation was achieved with the most comprehensive feature set which combines Sentinel-1 backscatter, time-series based soil moisture indices (SMI), Sentinel-2 optical, topographic, and temperature predictors. SHAP analysis revealed that SAR based features such as VH backscatter, traditional SMI derived from VV backscatter, and incidence angle were among the most important multi-source predictors. Adding sediment information improved Sentinel-1-only retrievals by more than 2 vol-%, but provided little additional benefit when richer multi-source feature sets were used. In the best sediment-area-level configurations, RMSE decreased to 0.037–0.050 m 3 m − 3 (3.7-5.0 vol. % points ), with R 2 values reaching 0.90. Accuracy varied by sediment texture, with the lowest errors for clay and organic soil and higher errors for flotation sand and gravel. However, LOSO validation demonstrated substantially weaker and site-dependent transferability: R 2 ranged from 0.45 to 0.67 for organic soil at a southern site and from 0.07 to 0.21 for organic soil at a northern site. Thus, high within-dataset predictive accuracy did not translate uniformly to unseen sensor locations, highlighting the need for broader spatially independent validation."
     },
     {
       "id": "W7237330531",
@@ -124,7 +97,7 @@
       "openAlexUrl": "https://openalex.org/W7237330531",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 64,
+      "score": 62,
       "matchedKeywords": [
         "causal"
       ],
@@ -147,7 +120,7 @@
       "openAlexUrl": "https://openalex.org/W7236853890",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "precipitation",
         "high mountain asia"
@@ -169,7 +142,7 @@
       "openAlexUrl": "https://openalex.org/W7236187763",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -194,7 +167,7 @@
       "openAlexUrl": "https://openalex.org/W7234397073",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -220,7 +193,7 @@
       "openAlexUrl": "https://openalex.org/W7233613796",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 49,
+      "score": 48,
       "matchedKeywords": [
         "plateau"
       ],

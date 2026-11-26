@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:57:36.213Z",
+  "generatedAt": "2026-11-26T08:43:51.770Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -30,7 +30,7 @@
       "openAlexUrl": "https://openalex.org/W7235838233",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 75,
+      "score": 74,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -38,6 +38,27 @@
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、shap、atmospher、precipitation、hydrolog，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Study area The Mekong River Basin is a data-scarce transboundary basin where sparse, unevenly distributed, and temporally discontinuous gauge observations hinder reliable precipitation estimation, particularly under strong subregional hydroclimatic heterogeneity. Research focus This study developed a lag-aware and interpretable two-stage framework to identify dominant precipitation-related predictors across the basin. In the first stage, transfer entropy (TE) was used to preliminarily screen candidate predictors by assessing directional lagged dependence from each candidate variable to precipitation over 1–7-day lags. In the second stage, tree-based machine learning and SHapley Additive exPlanations (SHAP) were used to quantify predictor contributions within the fitted models and diagnose predictor structures across subregions and rainfall regimes. New hydrological insights The framework reduced a high-dimensional candidate predictor space to compact sets of 10–15 inputs. Under a common sample-based split, the compact models achieved a mean Nash–Sutcliffe efficiency of 0.232, compared with 0.275 for models using the complete preliminarily screened sets, and performed better overall than conventional feature-selection alternatives. Across subregions, cloud microphysical variables aloft and lower-atmospheric moisture variables were recurring contributors to modelled precipitation. Convective available potential energy (CAPE) and directional transport-related predictors also played important roles. In the heavy-precipitation subset (≥90 mm day−1), transport-, flux-, and energy-related predictors became more prominent in the fitted-model SHAP rankings. This rainfall-regime contrast provides a useful diagnostic of regional precipitation processes, although the heavy-precipitation results remain exploratory because of the limited number of gauge-day samples."
+    },
+    {
+      "id": "W7238801023",
+      "title": "The emerging science of environmental drought",
+      "authors": [
+        "Aman Srivastava",
+        "Rajib Maity"
+      ],
+      "journal": "Discover Geoscience",
+      "publicationDate": "2026-11-23",
+      "doi": "https://doi.org/10.1007/s44288-026-00850-6",
+      "openAlexUrl": "https://openalex.org/W7238801023",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 72,
+      "matchedKeywords": [
+        "machine learning",
+        "deep learning"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Drought is increasingly recognized as a disruption of coupled water-ecosystem systems; still, conventional drought metrics remain principally oriented towards climatic, hydrological, or human water deficits and commonly provide limited representation of environmental water requirements and ecological responses. The rapid emergence of environmental-drought concepts and metrics has begun to address this gap, but the field remains fragmented across definitions, variables, mathematical formulations, ecological representation, validation, and transferability. Here, we synthesize evidence from a fixed corpus of 119 studies using an integrative evidence-synthesis framework that systematically codes and compares environmental-drought metrics, monitoring technologies, computational approaches, and governance pathways. We show that the field is moving from single-dimensional drought characterization towards a more explicit representation of environmental water demand, vegetation condition, water quality, and compound drought processes. Remote sensing has greatly expanded the spatial and temporal observability of environmental stress, while machine learning and deep learning are extending estimation, classification, and prediction across heterogeneous environmental datasets. However, these advances do not necessarily translate into stronger ecological inference: observation is not diagnosis, greater dimensionality does not guarantee ecological relevance, and predictive performance does not establish transferability. Governance remains the least developed link, with emerging frameworks connecting drought diagnosis to institutional responses, yet limited evidence of validated thresholds, routine early-warning systems, or widespread index-triggered management. We therefore identify a central operational challenge: connecting environmental-drought observation and diagnosis to ecological validation, uncertainty assessment, transferable thresholds, and accountable institutional action. In conclusion, environmental drought is increasingly measurable and potentially implementable, but remains neither standardized nor consistently transferable."
     },
     {
       "id": "W7134054875",
@@ -51,7 +72,7 @@
       "openAlexUrl": "https://openalex.org/W7134054875",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 70,
       "matchedKeywords": [
         "explainable",
         "causal"
@@ -77,13 +98,32 @@
       "openAlexUrl": "https://openalex.org/W7236599381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 66,
+      "score": 65,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Rapid warming on the Tibetan Plateau is altering vegetation greenness and grassland composition, yet how these changes jointly modulate surface energy partitioning remains poorly understood. By synthesizing 158 site-years of eddy-covariance measurements from six alpine grassland types, we show that latent heat flux (LE; evaporative cooling) is closely associated with canopy greenness (NDVI), with a consistent slope across grassland types. This association persists after accounting for major climatic drivers and operates at spatial and seasonal scales, but is negligible at the interannual scale. Conversely, sensible heat flux (H; atmospheric heating) is decoupled from NDVI; instead, its baseline value, predicted at the mean values of vapor pressure deficit, downwelling shortwave radiation, and air temperature, diverges markedly among types, with shrubland exhibiting the highest baseline. This H baseline divergence among grassland types is spatially driven at both monthly and annual scales. This dual-control framework, comprising a convergent association of greenness with LE and a divergent ecological constraint of grassland type on H, implies that while future greening predictably strengthens evaporative cooling, shrub encroachment, by elevating the baseline atmospheric heating, may partially counteract this cooling. These findings provide empirically grounded, scale-aware constraints for parameterizing the biophysical feedbacks of high-altitude grasslands in land-surface models."
+    },
+    {
+      "id": "W7238870174",
+      "title": "Determinants of freshwater breeding site selection by Anopheles mosquitoes: ecological drivers and implications for vector control",
+      "authors": [
+        "Bireshwar Bera"
+      ],
+      "journal": "Frontiers in Malaria",
+      "publicationDate": "2026-11-23",
+      "doi": "https://doi.org/10.3389/fmala.2026.1989677",
+      "openAlexUrl": "https://openalex.org/W7238870174",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 61,
+      "matchedKeywords": [
+        "machine learning"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Background Anopheles mosquitoes are the principal biological carriers of Plasmodium parasites, and malaria claimed an estimated 608,000 lives worldwide in 2022. When gravid females select freshwater sites for egg laying, they integrate a complex array of cues spanning physicochemical, biological, anthropogenic and climatic factors. Understanding these drivers is essential for evidence-based larval source management (LSM) and integrated vector management (IVM). However, no recent synthesis has integrated evidence across all four determinant domains and major malaria-endemic regions to guide context-specific LSM, leaving programme managers without a consolidated ecological framework for targeting interventions. Methods We conducted a systematic review with narrative synthesis of peer-reviewed literature published between January 2000 and August 2025, drawing on PubMed/MEDLINE, Scopus, Web of Science and World Health Organization (WHO) databases. Eligible studies comprised field surveys, controlled trials, remote sensing analyses and genomic investigations of Anopheles breeding site ecology in sub-Saharan Africa, South and Southeast Asia and Latin America. We extracted data on physicochemical parameters, biological community composition, landscape-level drivers, climatic influences and vector control outcomes. Results In total, 156 studies met the inclusion criteria. Water temperature (optimum 25–30 °C) and pH (6.5–8.5) were consistently associated with Anopheles breeding site selection, although preferences varied considerably among species, and associations with turbidity were inconsistent. Biological determinants, including aquatic vegetation structure, predator kairomones and microbial community composition, exerted strong top-down and bottom-up regulatory effects. Human modification of landscapes, particularly irrigated agriculture, urbanisation and water resource development, created novel breeding habitats while altering natural ones. Climatic drivers, including rainfall variability, temperature regimes and El Niño–Southern Oscillation (ENSO) events, governed breeding site formation and persistence at seasonal and interannual scales. Recent genomic evidence confirmed that chromosomal inversions (e.g., 2La in Anopheles gambiae) underpin local ecological adaptation. The invasive Anopheles stephensi has established urban breeding populations across the Horn of Africa, posing an emerging threat to malaria control. Conclusion Breeding site selection in Anopheles is governed by interacting multifactorial determinants that vary across species, geographies and seasons. Effective LSM requires ecologically informed, context-specific interventions targeting “few, fixed and findable” habitats, as defined in WHO larval source management guidance (WHO, 2013). The integration of remote sensing, machine learning and genomic surveillance offers unprecedented opportunities for precision vector control. As the global malaria community pursues elimination, mastering breeding ecology remains central to sustainable intervention design."
     },
     {
       "id": "W7237330531",
@@ -97,7 +137,7 @@
       "openAlexUrl": "https://openalex.org/W7237330531",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "causal"
       ],
@@ -120,13 +160,33 @@
       "openAlexUrl": "https://openalex.org/W7236853890",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 60,
+      "score": 59,
       "matchedKeywords": [
         "precipitation",
         "high mountain asia"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate reanalysis datasets are widely used in hydro-meteorological and cryospheric research across High Mountain Asia (HMA), where in situ observations are scarce. Here, we evaluate ERA5L, High Asian Refined Analysis (HARv2), Modern-Era Retrospective Analysis for Research and Applications (MERRA2), and Climatologies at High Resolution for the Earth’s Land Surface Areas (CHELSA) against near-surface meteorological observations between 3,865 and 5,350 m a.s.l., in the upper Langtang Catchment, Nepal, using statistical metrics and Taylor Skill Score ( TSS ). We further assess their suitability for glacier surface energy balance (SEB) and mass balance modelling. No reanalysis product consistently outperforms the others; rather, their performance varies by meteorological variable, site, surface conditions, and timescale, with generally better performance at glacier sites, likely because their relatively homogeneous surface conditions are more readily represented by reanalysis products. Near-surface air temperature ( T 2m ) and humidity (specific: q and relative: RH ) are well reproduced ( TSS > 0.77) across products, although cold temperature and both dry and moist humidity biases are pervasive across sites. Wind speed ( u ) is poorly represented across products, sites, and timescales, reflecting their limited ability to resolve boundary layer processes and local katabatic and anabatic flows. Precipitation also exhibits large discrepancies, with ERA5L and HARv2 overestimating precipitation totals by ∼89–232% and MERRA2 and CHELSA underestimating by 30%–60%. They also generate frequent wet days and early-afternoon convective rainfall, in contrast to observed late-afternoon and nocturnal-to-early morning maxima. Hourly and daily SEB simulations at the Yala-on-Glacier site driven by reanalysis forcings yield statistically significant surface melt relative to reference estimates driven by in situ datasets; however, substantial differences in magnitude exist among products. ERA5L and HARv2 exhibit relatively small errors, largely due to compensating errors between radiative and turbulent fluxes, whereas MERRA2 and CHELSA show larger melt discrepancies due to their large radiative flux errors and underestimated precipitation that affects the surface albedo. Overall, our results underscore both the usefulness and limitations of reanalysis products for cryospheric applications in complex mountainous catchments and emphasize the need for assimilation of high-elevation observations in reanalysis products, alongside improved downscaling approaches, to better resolve local-scale atmospheric processes."
+      "abstractEn": "Climate reanalysis datasets are widely used in hydro-meteorological and cryospheric research across High Mountain Asia (HMA), where in situ observations are scarce. Here, we evaluate ERA5L, High Asian Refined Analysis (HARv2), Modern-Era Retrospective Analysis for Research and Applications (MERRA2), and Climatologies at High Resolution for the Earth’s Land Surface Areas (CHELSA) against near-surface meteorological observations between 3,865 and 5,350 m a.s.l., in the upper Langtang Catchment, Nepal, using statistical metrics and Taylor Skill Score (TSS). We further assess their suitability for glacier surface energy balance (SEB) and mass balance modelling. No reanalysis product consistently outperforms the others; rather, their performance varies by meteorological variable, site, surface conditions, and timescale, with generally better performance at glacier sites, likely because their relatively homogeneous surface conditions are more readily represented by reanalysis products. Near-surface air temperature (T 2m) and humidity (specific: q and relative: RH) are well reproduced (TSS > 0.77) across products, although cold temperature and both dry and moist humidity biases are pervasive across sites. Wind speed (u) is poorly represented across products, sites, and timescales, reflecting their limited ability to resolve boundary layer processes and local katabatic and anabatic flows. Precipitation also exhibits large discrepancies, with ERA5L and HARv2 overestimating precipitation totals by ∼89–232% and MERRA2 and CHELSA underestimating by 30%–60%. They also generate frequent wet days and early-afternoon convective rainfall, in contrast to observed late-afternoon and nocturnal-to-early morning maxima. Hourly and daily SEB simulations at the Yala-on-Glacier site driven by reanalysis forcings yield statistically significant surface melt relative to reference estimates driven by in situ datasets; however, substantial differences in magnitude exist among products. ERA5L and HARv2 exhibit relatively small errors, largely due to compensating errors between radiative and turbulent fluxes, whereas MERRA2 and CHELSA show larger melt discrepancies due to their large radiative flux errors and underestimated precipitation that affects the surface albedo. Overall, our results underscore both the usefulness and limitations of reanalysis products for cryospheric applications in complex mountainous catchments and emphasize the need for assimilation of high-elevation observations in reanalysis products, alongside improved downscaling approaches, to better resolve local-scale atmospheric processes."
+    },
+    {
+      "id": "W7238757246",
+      "title": "Beyond a Single Southern Annular Mode Pattern: Identifying Southern Hemisphere Circulation Classes With a Convolutional Autoencoder",
+      "authors": [
+        "Maia Posternack",
+        "Kirstin Koepnick"
+      ],
+      "journal": "Journal of Geophysical Research Machine Learning and Computation",
+      "publicationDate": "2026-11-23",
+      "doi": "https://doi.org/10.1029/2026jh001492",
+      "openAlexUrl": "https://openalex.org/W7238757246",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 54,
+      "matchedKeywords": [
+        "southern annular mode"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The Southern Annular Mode (SAM), the dominant mode of extratropical atmospheric variability in the Southern Hemisphere (SH), is conventionally represented as a single empirical orthogonal function (EOF) whose polarity and amplitude vary over time. Although highly informative, this framework favors high‐variance patterns and therefore may obscure differences among circulation patterns with similar SAM polarity. Here, we combine a convolutional autoencoder with hierarchical clustering of ERA5 monthly mean sea level pressure anomalies to develop a class‐based representation of SH circulation that does not prioritize such high‐variance patterns. Across 10 random initializations, the framework consistently identifies coherent SAM+ and higher‐amplitude SAM− classes. In nine of the 10 initializations, it also identifies a more frequently occupied, lower‐amplitude SAM− like class. This class is strongly correlated with empirical orthogonal function in the SAM− direction and differs significantly from zero over much of the domain, but is substantially more regionally asymmetric than the higher‐amplitude, strongly annular SAM− class. Transitions between the two SAM− like classes tend to occur more often than expected from their overall frequencies, although this enrichment is not statistically significant, whereas direct transitions between higher‐amplitude SAM− and SAM+ occur less often than expected. Seasonal analyses further reveal lower‐amplitude, non‐annular structures whose frequency and form vary throughout the year. These results suggest that SAM− variability may comprise both higher‐amplitude annular events and lower‐amplitude, regionally asymmetric events. The autoencoder framework therefore complements the conventional SAM index by distinguishing differences in amplitude, spatial structure, and temporal organization that are compressed within a single EOF pattern."
     },
     {
       "id": "W7236187763",
@@ -142,7 +202,7 @@
       "openAlexUrl": "https://openalex.org/W7236187763",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "precipitation"
       ],
@@ -167,7 +227,7 @@
       "openAlexUrl": "https://openalex.org/W7234397073",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 51,
+      "score": 50,
       "matchedKeywords": [
         "precipitation"
       ],

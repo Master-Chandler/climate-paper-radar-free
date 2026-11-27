@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:43:51.770Z",
+  "generatedAt": "2026-11-27T08:54:41.108Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -11,6 +11,34 @@
     ]
   },
   "papers": [
+    {
+      "id": "W7239418435",
+      "title": "Marine Heatwaves in Polar Regions",
+      "authors": [
+        "Marylou Athanase",
+        "Neil C Malan",
+        "Thomas G. Schmaltz",
+        "Ruijian Gou",
+        "Benjamin Richaud",
+        "Eric C. J. Oliver",
+        "Alex Sen Gupta"
+      ],
+      "journal": "ESS Open Archive",
+      "publicationDate": "2026-11-24",
+      "doi": "https://doi.org/10.22541/essoar.15012717/v1",
+      "openAlexUrl": "https://openalex.org/W7239418435",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 84,
+      "matchedKeywords": [
+        "antarctic",
+        "sea ice",
+        "polar",
+        "arctic"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、sea ice、polar、arctic、ocean，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Marine heatwaves (MHWs) are increasingly reported in polar oceans, where sea ice, salinity-controlled stratification, and strong seasonality shape these extremes. This work synthesizes knowledge of Arctic and Antarctic MHWs, from existing literature and new analyses. Surface MHWs are more intense and regionally diverse in the Arctic than around Antarctica. Mooring records provide the first observational evidence that subsurface Arctic MHWs can be as intense as shallower events. Surface heat fluxes dominate MHW onset and decline at both poles, but their effect is modulated by sea ice, which insulates the ocean, constrains SST variability, and sustains events through a melt–stratification–SST feedback. With warm water in the subsurface, vertical processes also contribute more at both poles than at lower latitudes. Around Antarctica, vertical processes even rank second after surface heat flux, whereas in the Arctic, advection is the second-largest contribution. Arctic MHWs have intensified rapidly and are projected to increase more than anywhere else, whereas Antarctic trends remain weak. Ecosystem impacts are documented mainly in the Arctic, where MHWs also affect Indigenous communities. Finally, polar-specific challenges for MHW definitions, observations, and models are discussed."
+    },
     {
       "id": "W7235838233",
       "title": "A lag-aware and interpretable two-stage framework for identifying dominant precipitation-related predictors in the data-scarce Mekong River Basin",
@@ -30,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7235838233",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 74,
+      "score": 72,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -52,7 +80,7 @@
       "openAlexUrl": "https://openalex.org/W7238801023",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
@@ -72,13 +100,36 @@
       "openAlexUrl": "https://openalex.org/W7134054875",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 70,
+      "score": 69,
       "matchedKeywords": [
         "explainable",
         "causal"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、causal、climate、temperature、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The European Union (EU) exhibits spatial heterogeneity in economic structure and performance, reflecting historical development trajectories, sectoral composition, socio-economic conditions, and climatic variability. Among climatic stressors, drought challenges economic resilience, particularly in agriculture and manufacturing, which are sensitive to water availability, temperature extremes, and infrastructure constraints. In this study, we quantify the contributions of drought-related and socio-economic factors to regional gross value added (GVA) across NUTS3 regions in the EU. We integrate climatic indicators from the Copernicus European Drought Observatory with socio-economic data from Eurostat, and apply an eXtreme Gradient Boosting (XGBoost) model coupled with Shapley value–based interpretability methods to attribute sector-specific economic outcomes to individual features. Our analysis reveals spatial heterogeneity in the contributions of socio-economic and climatic factors to GVA. Variability in both agricultural and manufacturing GVA is predominantly explained by socio-economic factors. Agricultural GVA is influenced by the employment share in agriculture and regional area, reflecting the availability of labor and land resources, while manufacturing GVA is strongly associated with regional economic performance, as proxied by gross domestic product. Among climatic drivers, winter temperature—a factor for plant survival—explains the largest share of variability in agricultural GVA, with soil moisture and vegetation photosynthetic activity, used as proxies for productivity, also contributing. For manufacturing, median monthly maximum temperature emerges as the most influential climatic variable, with soil moisture and photosynthetic activity contributing as secondary predictors. However, these climatic associations likely reflect spatial covariation with regional characteristics rather than direct causal impacts of climate on production processes."
+    },
+    {
+      "id": "W4416843570",
+      "title": "ISEFlow: a flow-based neural network emulator for improved sea level projections and uncertainty quantification",
+      "authors": [
+        "Peter Van Katwyk",
+        "Baylor Fox‐Kemper",
+        "Sophie Nowicki",
+        "Helene L. Seroussi",
+        "Karianne J. Bergen"
+      ],
+      "journal": "The Cryosphere",
+      "publicationDate": "2026-11-25",
+      "doi": "https://doi.org/10.5194/tc-20-6937-2026",
+      "openAlexUrl": "https://openalex.org/W4416843570",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 63,
+      "matchedKeywords": [
+        "neural network"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、climate、ice sheet，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Ice sheets are the primary contributors to global sea level rise, yet projecting their future contributions remains challenging due to the complex, nonlinear processes governing their dynamics and uncertainties in future climate scenarios. This study introduces ISEFlow, a neural network-based emulator of the ISMIP6 ice sheet model ensemble designed to accurately and efficiently emulate sea level contributions from both ice sheets while quantifying the sources of projection uncertainty. By integrating a normalizing flow architecture to capture data coverage uncertainty and a deep ensemble of recurrent neural network models to assess emulator uncertainty, ISEFlow separates uncertainties arising from training data from those inherent to the emulator. Compared to existing emulators such as a Gaussian Process-based emulator modeled after emulandice and LARMIP, ISEFlow achieves substantially lower mean squared error and improved distribution approximation while maintaining faster prediction times. This study investigates the drivers of increased emulation accuracy and emission scenario distinction and finds that the inclusion of all available climate forcings, ice sheet model characteristics, and higher spatial resolution significantly enhances emulation accuracy and the ability to capture the effects of varying emissions scenarios compared to other emulators. We include a detailed analysis of the importance of input variables using Shapley Additive Explanations, and highlight which climate forcings and model characteristics have the largest impact on sea level projections. ISEFlow offers an additional tool for efficient, accurate exploration of future sea level projections."
     },
     {
       "id": "W7236599381",
@@ -98,7 +149,7 @@
       "openAlexUrl": "https://openalex.org/W7236599381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 65,
+      "score": 63,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
@@ -118,12 +169,37 @@
       "openAlexUrl": "https://openalex.org/W7238870174",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 61,
+      "score": 60,
       "matchedKeywords": [
         "machine learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、temperature、rainfall，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Background Anopheles mosquitoes are the principal biological carriers of Plasmodium parasites, and malaria claimed an estimated 608,000 lives worldwide in 2022. When gravid females select freshwater sites for egg laying, they integrate a complex array of cues spanning physicochemical, biological, anthropogenic and climatic factors. Understanding these drivers is essential for evidence-based larval source management (LSM) and integrated vector management (IVM). However, no recent synthesis has integrated evidence across all four determinant domains and major malaria-endemic regions to guide context-specific LSM, leaving programme managers without a consolidated ecological framework for targeting interventions. Methods We conducted a systematic review with narrative synthesis of peer-reviewed literature published between January 2000 and August 2025, drawing on PubMed/MEDLINE, Scopus, Web of Science and World Health Organization (WHO) databases. Eligible studies comprised field surveys, controlled trials, remote sensing analyses and genomic investigations of Anopheles breeding site ecology in sub-Saharan Africa, South and Southeast Asia and Latin America. We extracted data on physicochemical parameters, biological community composition, landscape-level drivers, climatic influences and vector control outcomes. Results In total, 156 studies met the inclusion criteria. Water temperature (optimum 25–30 °C) and pH (6.5–8.5) were consistently associated with Anopheles breeding site selection, although preferences varied considerably among species, and associations with turbidity were inconsistent. Biological determinants, including aquatic vegetation structure, predator kairomones and microbial community composition, exerted strong top-down and bottom-up regulatory effects. Human modification of landscapes, particularly irrigated agriculture, urbanisation and water resource development, created novel breeding habitats while altering natural ones. Climatic drivers, including rainfall variability, temperature regimes and El Niño–Southern Oscillation (ENSO) events, governed breeding site formation and persistence at seasonal and interannual scales. Recent genomic evidence confirmed that chromosomal inversions (e.g., 2La in Anopheles gambiae) underpin local ecological adaptation. The invasive Anopheles stephensi has established urban breeding populations across the Horn of Africa, posing an emerging threat to malaria control. Conclusion Breeding site selection in Anopheles is governed by interacting multifactorial determinants that vary across species, geographies and seasons. Effective LSM requires ecologically informed, context-specific interventions targeting “few, fixed and findable” habitats, as defined in WHO larval source management guidance (WHO, 2013). The integration of remote sensing, machine learning and genomic surveillance offers unprecedented opportunities for precision vector control. As the global malaria community pursues elimination, mastering breeding ecology remains central to sustainable intervention design."
+    },
+    {
+      "id": "W7239730393",
+      "title": "Source‐Sink Structures Shape Global Drought Propagation",
+      "authors": [
+        "Jiayuan Liu",
+        "Xianfeng Liu",
+        "David Makowski",
+        "Amir AghaKouchak",
+        "Shuangshuang Li",
+        "Jialan Hu"
+      ],
+      "journal": "Earth s Future",
+      "publicationDate": "2026-11-25",
+      "doi": "https://doi.org/10.1029/2026ef008514",
+      "openAlexUrl": "https://openalex.org/W7239730393",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 59,
+      "matchedKeywords": [
+        "yangtze",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 yangtze、drought，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "The spatial propagation of drought plays a critical role in shaping synchronized global drought occurrences. As hubs (sources and sinks) for drought propagation, the global role of sources and sinks has not been thoroughly assessed. Identifying key propagation hotspots and tracing their global pathways is essential for understanding how droughts evolve over time and space. Here, five paired drought source (location that droughts move from)‐sink (region where droughts are more likely to propagate to) systems at the continental scale are identified: western Congo Basin‐eastern Congo Basin, Sahel and savanna regions‐Sahara Desert, Labrador Peninsula‐Great Plains, Amazon Plain‐Brazilian Plateau, Tarim Basin and Tianshan Mountain‐Central Siberian Plateau, Stanovoy Range, Yangtze River Basin, Middle East. Analyzing water vapor budget between sources and sinks reveals a pattern of drought propagation from sources to sinks, contrasting with water vapor moving in the opposite path. This exacerbates drought severity in drought sinks, a trend likely to intensify under future scenarios with increased radiative forcing. This study identifies a drought source‐sink structure, providing a new perspective on large‐scale drought spatial propagation. These offer critical insights for drought early warning and mitigation strategies across regions."
     },
     {
       "id": "W7237330531",
@@ -137,7 +213,7 @@
       "openAlexUrl": "https://openalex.org/W7237330531",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "causal"
       ],
@@ -160,7 +236,7 @@
       "openAlexUrl": "https://openalex.org/W7236853890",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "precipitation",
         "high mountain asia"
@@ -181,7 +257,7 @@
       "openAlexUrl": "https://openalex.org/W7238757246",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 54,
+      "score": 53,
       "matchedKeywords": [
         "southern annular mode"
       ],
@@ -202,37 +278,12 @@
       "openAlexUrl": "https://openalex.org/W7236187763",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 53,
+      "score": 51,
       "matchedKeywords": [
         "precipitation"
       ],
       "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、temperature，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Ziziphus jujuba Mill. is an economically valuable tree species in China, and its climatically suitable range is sensitive to future climate risks, with implications for biological resource conservation. Species occurrence records and bioclimatic variables were integrated, and a parameter-tuned MaxEnt model was employed to forecast the potential climatic suitability for Z. jujuba in China under three shared socioeconomic pathways (SSP1-2.6, SSP3-7.0, and SSP5-8.5). The adjusted model exhibited excellent predictive performance (AUC = 0.947). Annual mean temperature, precipitation seasonality, and temperature seasonality were identified as the dominant climatic drivers. Currently, highly suitable areas (8.84% of total suitable area) are concentrated in the Bohai Rim region. Under future scenarios, although the total climatically suitable area expands across all pathways, its spatial pattern undergoes significant reorganization: contraction in southeastern margins, expansion into northwestern inland regions, and relative stability in the core area. The centroid is projected to shift continuously northwestward, with a maximum cumulative migration of 504.67 km under SSP5-8.5. Future planning must prioritize the risk of declining suitability in traditional southeastern production areas and carefully assess the practical feasibility of potential expansion zones in the northwest. These findings provide a scientific basis for climate-adaptive management of Z. jujuba resources."
-    },
-    {
-      "id": "W7234397073",
-      "title": "Radial growth and their responses to environmental factors of four major afforestation species after returning farmland to forest in Southwest China",
-      "authors": [
-        "Yongyan Yang",
-        "Na Liu",
-        "Zhirong Feng",
-        "Yuru Wen",
-        "Yi Dang",
-        "Hua Kun Zhou",
-        "Fangjun Ding"
-      ],
-      "journal": "New Forests",
-      "publicationDate": "2026-11-16",
-      "doi": "https://doi.org/10.1007/s11056-026-10237-7",
-      "openAlexUrl": "https://openalex.org/W7234397073",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 50,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "To elucidate radial growth variation and differences in climatic responses among coexisting tree species, this study, based on 2024 monitoring data of stem radial variation, compared the growing-season phenology, stem radial growth, and environmental factors response characteristics of four tree species ( Liquidambar formosana (FX), Melia azedarach (KL), Cryptomeria japonica var. sinensis (LS), and Camptotheca acuminata (XS)). The results showed that: (1) M. azedarach exhibited the longest growing season (168 ± 9.9 days), L. formosana was intermediate (131 ± 4.04 days), and C. japonica var. sinensis and C. acuminata were shorter (117–121 days). (2) In terms of annual increment, KL1 had the highest annual cumulative increment (3.21 mm), followed by FX1 (3.18 mm), whereas C. japonica var. sinensis and C. acuminata were lower (XS2 only 0.38 mm); (3) The growth of L. formosana was primarily driven by air temperature and photosynthetically active radiation (correlation coefficients of FX2 with air temperature, soil temperature reached 0.75–0.82), while KL2, C. japonica var. sinensis , and C. acuminata were more regulated by precipitation and soil moisture. Based on these results, M. azedarach is recommended for sites with stable moisture conditions and strong soil water-holding capacity, whereas L. formosana is suitable for sunny slopes with adequate heat and radiation and good drainage. C. japonica var. sinensis and C. acuminata showed low growth but considerable intraspecific variation, and may possess survival advantages on degraded sites subject to frequent water stress. In terms of planting configuration, the approximately two-month offset in growth peaks between C. japonica var. sinensis and L. formosana suggests that mixed plantations of the two may form a complementary resource-use pattern. This study can provide a scientific basis for the selection and configuration of coexisting tree species."
     }
   ]
 }

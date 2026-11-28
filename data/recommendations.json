@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:54:41.108Z",
+  "generatedAt": "2026-11-28T08:15:22.923Z",
   "source": "OpenAlex（免费 API Key）",
   "profile": {
     "name": "Yuheng Tang",
@@ -29,7 +29,7 @@
       "openAlexUrl": "https://openalex.org/W7239418435",
       "topic": "polar",
       "topicLabel": "极地气候",
-      "score": 84,
+      "score": 82,
       "matchedKeywords": [
         "antarctic",
         "sea ice",
@@ -58,7 +58,7 @@
       "openAlexUrl": "https://openalex.org/W7235838233",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 72,
+      "score": 71,
       "matchedKeywords": [
         "machine learning",
         "shap",
@@ -80,13 +80,85 @@
       "openAlexUrl": "https://openalex.org/W7238801023",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 71,
+      "score": 69,
       "matchedKeywords": [
         "machine learning",
         "deep learning"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、deep learning、hydrolog、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Drought is increasingly recognized as a disruption of coupled water-ecosystem systems; still, conventional drought metrics remain principally oriented towards climatic, hydrological, or human water deficits and commonly provide limited representation of environmental water requirements and ecological responses. The rapid emergence of environmental-drought concepts and metrics has begun to address this gap, but the field remains fragmented across definitions, variables, mathematical formulations, ecological representation, validation, and transferability. Here, we synthesize evidence from a fixed corpus of 119 studies using an integrative evidence-synthesis framework that systematically codes and compares environmental-drought metrics, monitoring technologies, computational approaches, and governance pathways. We show that the field is moving from single-dimensional drought characterization towards a more explicit representation of environmental water demand, vegetation condition, water quality, and compound drought processes. Remote sensing has greatly expanded the spatial and temporal observability of environmental stress, while machine learning and deep learning are extending estimation, classification, and prediction across heterogeneous environmental datasets. However, these advances do not necessarily translate into stronger ecological inference: observation is not diagnosis, greater dimensionality does not guarantee ecological relevance, and predictive performance does not establish transferability. Governance remains the least developed link, with emerging frameworks connecting drought diagnosis to institutional responses, yet limited evidence of validated thresholds, routine early-warning systems, or widespread index-triggered management. We therefore identify a central operational challenge: connecting environmental-drought observation and diagnosis to ecological validation, uncertainty assessment, transferable thresholds, and accountable institutional action. In conclusion, environmental drought is increasingly measurable and potentially implementable, but remains neither standardized nor consistently transferable."
+    },
+    {
+      "id": "W7240062285",
+      "title": "Progress in Tree-Ring Stable Isotope Research in China",
+      "authors": [
+        "Yunlong Jiu",
+        "Yiming Chen"
+      ],
+      "journal": "Academic Journal of Applied Sciences",
+      "publicationDate": "2026-11-25",
+      "doi": "https://doi.org/10.54097/xd2wq580",
+      "openAlexUrl": "https://openalex.org/W7240062285",
+      "topic": "east-asia",
+      "topicLabel": "东亚气候",
+      "score": 69,
+      "matchedKeywords": [
+        "monsoon",
+        "tibetan plateau",
+        "plateau"
+      ],
+      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 monsoon、climate、atmospher、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Tree-ring stable isotopes (δ13C, δ18O and δD) have relatively well-understood fractionation mechanisms, require only small numbers of replicates, and can preserve low-frequency climate signals, making them important proxies for research on past climate change and forest ecology in China. Taking indicator succession and regional expansion as the thread, this paper reviews the development of tree-ring stable isotope research in China since the late 1980s. Early work focused on δ13C and reconstructed temperature, relative humidity and atmospheric CO2 concentration at sites such as Mt. Tianmu, Mt. Helan, the Qinling Mountains and western Sichuan; after 2000, δ18O rapidly became the dominant indicator, and annually resolved series and regional networks were established on the Tibetan Plateau, in the arid Northwest and in the eastern monsoon region, with reconstruction intervals extending from centennial scales to millennia and even to the late Holocene; meanwhile, δD measurement, joint interpretation of carbon and oxygen isotopes, intra-annual high-resolution analysis, and studies of water-use efficiency and isotope process models were gradually developed. This paper summarizes the main findings at three levels—fractionation mechanisms and chronology construction, regional progress by indicator, and applications to ecological processes—identifies constraints such as insufficient mechanistic understanding, uneven spatial coverage, non-stationary signals and inadequate data sharing, and proposes directions including stronger multi-isotope coupling and high-resolution measurement, the development of isotope process models, and the establishment of a unified data platform."
+    },
+    {
+      "id": "W4408673467",
+      "title": "ISEFlow: a flow-based neural network emulator for improved sea level projections and uncertainty quantification",
+      "authors": [
+        "Peter Van Katwyk",
+        "Baylor Fox‐Kemper",
+        "Sophie Nowicki",
+        "Helene L. Seroussi",
+        "Karianne J. Bergen"
+      ],
+      "journal": "The Cryosphere",
+      "publicationDate": "2026-11-25",
+      "doi": "https://doi.org/10.5194/tc-20-6937-2026",
+      "openAlexUrl": "https://openalex.org/W4408673467",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 68,
+      "matchedKeywords": [
+        "neural network"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、climate、ice sheet，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Ice sheets are the primary contributors to global sea level rise, yet projecting their future contributions remains challenging due to the complex, nonlinear processes governing their dynamics and uncertainties in future climate scenarios. This study introduces ISEFlow, a neural network-based emulator of the ISMIP6 ice sheet model ensemble designed to accurately and efficiently emulate sea level contributions from both ice sheets while quantifying the sources of projection uncertainty. By integrating a normalizing flow architecture to capture data coverage uncertainty and a deep ensemble of recurrent neural network models to assess emulator uncertainty, ISEFlow separates uncertainties arising from training data from those inherent to the emulator. Compared to existing emulators such as a Gaussian Process-based emulator modeled after emulandice and LARMIP, ISEFlow achieves substantially lower mean squared error and improved distribution approximation while maintaining faster prediction times. This study investigates the drivers of increased emulation accuracy and emission scenario distinction and finds that the inclusion of all available climate forcings, ice sheet model characteristics, and higher spatial resolution significantly enhances emulation accuracy and the ability to capture the effects of varying emissions scenarios compared to other emulators. We include a detailed analysis of the importance of input variables using Shapley Additive Explanations, and highlight which climate forcings and model characteristics have the largest impact on sea level projections. ISEFlow offers an additional tool for efficient, accurate exploration of future sea level projections."
+    },
+    {
+      "id": "W4413079136",
+      "title": "Climate-related signals in the GV7-C ice core from East Antarctica for 1782–2013 CE: potential relevance to climate and teleconnections between the tropics and Antarctica",
+      "authors": [
+        "Yalalt Nyamgerel",
+        "Yeongcheol Han",
+        "Soon Do Hur",
+        "Hyemi Kim",
+        "Songyi Kim",
+        "Jangil Moon",
+        "Barbara Stenni",
+        "Jeonghoon Lee"
+      ],
+      "journal": "Earth System Dynamics",
+      "publicationDate": "2026-11-26",
+      "doi": "https://doi.org/10.5194/esd-17-1799-2026",
+      "openAlexUrl": "https://openalex.org/W4413079136",
+      "topic": "polar",
+      "topicLabel": "极地气候",
+      "score": 68,
+      "matchedKeywords": [
+        "antarctic",
+        "polar"
+      ],
+      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 antarctic、polar、climate、ocean、temperature，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Polar ice cores provide valuable archives of past climate variability, but interpreting these records in coastal East Antarctica remains challenging because multiple meteorological processes can influence the signals preserved in ice cores. Here we investigate climate-related signals in the GV7-C ice core from East Antarctica (1782–2013 CE) using annual records of water isotopes (δ 18 O and d-excess) and snow accumulation by comparing them with large-scale climate indices and reanalysis-based climate data. Snow accumulation shows strong interannual variability, suggesting multiple and potentially competing controls, and is weakly linked to sea-surface temperature variability over the Indian Ocean sector (1957–2013 CE). δ 18 O exhibits weak but detectable relationships with Pacific-sector variability for 1957–2013 CE, whereas d-excess shows clearer relationships with sea-surface temperature variability in the Indian Ocean sector. Over the longer period (1872–2013 CE), δ 18 O correlations generally weaken, implying time-varying controls, while d-excess retains persistent relationships, highlighting its utility for tracking moisture-source conditions. Overall, the GV7-C record suggests potential teleconnections between Antarctic coastal climate and tropical ocean variability."
     },
     {
       "id": "W7134054875",
@@ -100,36 +172,13 @@
       "openAlexUrl": "https://openalex.org/W7134054875",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 69,
+      "score": 67,
       "matchedKeywords": [
         "explainable",
         "causal"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 explainable、causal、climate、temperature、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "The European Union (EU) exhibits spatial heterogeneity in economic structure and performance, reflecting historical development trajectories, sectoral composition, socio-economic conditions, and climatic variability. Among climatic stressors, drought challenges economic resilience, particularly in agriculture and manufacturing, which are sensitive to water availability, temperature extremes, and infrastructure constraints. In this study, we quantify the contributions of drought-related and socio-economic factors to regional gross value added (GVA) across NUTS3 regions in the EU. We integrate climatic indicators from the Copernicus European Drought Observatory with socio-economic data from Eurostat, and apply an eXtreme Gradient Boosting (XGBoost) model coupled with Shapley value–based interpretability methods to attribute sector-specific economic outcomes to individual features. Our analysis reveals spatial heterogeneity in the contributions of socio-economic and climatic factors to GVA. Variability in both agricultural and manufacturing GVA is predominantly explained by socio-economic factors. Agricultural GVA is influenced by the employment share in agriculture and regional area, reflecting the availability of labor and land resources, while manufacturing GVA is strongly associated with regional economic performance, as proxied by gross domestic product. Among climatic drivers, winter temperature—a factor for plant survival—explains the largest share of variability in agricultural GVA, with soil moisture and vegetation photosynthetic activity, used as proxies for productivity, also contributing. For manufacturing, median monthly maximum temperature emerges as the most influential climatic variable, with soil moisture and photosynthetic activity contributing as secondary predictors. However, these climatic associations likely reflect spatial covariation with regional characteristics rather than direct causal impacts of climate on production processes."
-    },
-    {
-      "id": "W4416843570",
-      "title": "ISEFlow: a flow-based neural network emulator for improved sea level projections and uncertainty quantification",
-      "authors": [
-        "Peter Van Katwyk",
-        "Baylor Fox‐Kemper",
-        "Sophie Nowicki",
-        "Helene L. Seroussi",
-        "Karianne J. Bergen"
-      ],
-      "journal": "The Cryosphere",
-      "publicationDate": "2026-11-25",
-      "doi": "https://doi.org/10.5194/tc-20-6937-2026",
-      "openAlexUrl": "https://openalex.org/W4416843570",
-      "topic": "ai-climate",
-      "topicLabel": "AI × 气候",
-      "score": 63,
-      "matchedKeywords": [
-        "neural network"
-      ],
-      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 neural network、climate、ice sheet，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Ice sheets are the primary contributors to global sea level rise, yet projecting their future contributions remains challenging due to the complex, nonlinear processes governing their dynamics and uncertainties in future climate scenarios. This study introduces ISEFlow, a neural network-based emulator of the ISMIP6 ice sheet model ensemble designed to accurately and efficiently emulate sea level contributions from both ice sheets while quantifying the sources of projection uncertainty. By integrating a normalizing flow architecture to capture data coverage uncertainty and a deep ensemble of recurrent neural network models to assess emulator uncertainty, ISEFlow separates uncertainties arising from training data from those inherent to the emulator. Compared to existing emulators such as a Gaussian Process-based emulator modeled after emulandice and LARMIP, ISEFlow achieves substantially lower mean squared error and improved distribution approximation while maintaining faster prediction times. This study investigates the drivers of increased emulation accuracy and emission scenario distinction and finds that the inclusion of all available climate forcings, ice sheet model characteristics, and higher spatial resolution significantly enhances emulation accuracy and the ability to capture the effects of varying emissions scenarios compared to other emulators. We include a detailed analysis of the importance of input variables using Shapley Additive Explanations, and highlight which climate forcings and model characteristics have the largest impact on sea level projections. ISEFlow offers an additional tool for efficient, accurate exploration of future sea level projections."
     },
     {
       "id": "W7236599381",
@@ -149,13 +198,32 @@
       "openAlexUrl": "https://openalex.org/W7236599381",
       "topic": "tibetan-plateau",
       "topicLabel": "青藏高原",
-      "score": 63,
+      "score": 62,
       "matchedKeywords": [
         "tibetan plateau",
         "plateau"
       ],
       "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 tibetan plateau、plateau、atmospher、temperature、radiation，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "Rapid warming on the Tibetan Plateau is altering vegetation greenness and grassland composition, yet how these changes jointly modulate surface energy partitioning remains poorly understood. By synthesizing 158 site-years of eddy-covariance measurements from six alpine grassland types, we show that latent heat flux (LE; evaporative cooling) is closely associated with canopy greenness (NDVI), with a consistent slope across grassland types. This association persists after accounting for major climatic drivers and operates at spatial and seasonal scales, but is negligible at the interannual scale. Conversely, sensible heat flux (H; atmospheric heating) is decoupled from NDVI; instead, its baseline value, predicted at the mean values of vapor pressure deficit, downwelling shortwave radiation, and air temperature, diverges markedly among types, with shrubland exhibiting the highest baseline. This H baseline divergence among grassland types is spatially driven at both monthly and annual scales. This dual-control framework, comprising a convergent association of greenness with LE and a divergent ecological constraint of grassland type on H, implies that while future greening predictably strengthens evaporative cooling, shrub encroachment, by elevating the baseline atmospheric heating, may partially counteract this cooling. These findings provide empirically grounded, scale-aware constraints for parameterizing the biophysical feedbacks of high-altitude grasslands in land-surface models."
+    },
+    {
+      "id": "W7240030727",
+      "title": "A physically-constrained machine learning framework for surface wind imputation using pressure-derived features",
+      "authors": [
+        "Fabrício Polifke da Silva"
+      ],
+      "journal": "Stochastic Environmental Research and Risk Assessment",
+      "publicationDate": "2026-11-26",
+      "doi": "https://doi.org/10.1007/s00477-026-03397-7",
+      "openAlexUrl": "https://openalex.org/W7240030727",
+      "topic": "ai-climate",
+      "topicLabel": "AI × 气候",
+      "score": 59,
+      "matchedKeywords": [
+        "machine learning"
+      ],
+      "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 machine learning、atmospher，并通过气候领域与主题关键词双重筛选。",
+      "abstractEn": "Missing data in surface meteorological records remain a persistent challenge in atmospheric sciences, limiting the reliability of long-term analyses, model validation, and downstream applications. Wind speed is particularly affected because of its high temporal variability and the heterogeneous structure of observational networks. This study presents a physically constrained machine-learning framework for gap-filling hourly surface wind speed and direction records from 961 INMET stations across Brazil (1980–2024). Four imputation methods are compared: a leakage-safe local temporal baseline (TEMP), inverse-distance-weighted spatial interpolation (IDW), a machine-learning model without explicit PDI predictors (ML-NF), and a physically guided machine-learning model that adds the Pressure Difference Index (PDI) to the same modelling structure (ML-PHYS). The PDI is constructed from final reference-pressure differences between target and neighbouring stations after pressure quality control, altimetric correction, and temporal-spatial pressure reconstruction, and is interpreted as an operational proxy for horizontal pressure-gradient variability. Paired station-level validation shows that ML-PHYS improves on ML-NF in MAE, RMSE, and correlation at about 81% of stations, with Wilcoxon signed-rank p-values below 10⁻¹¹⁰ and bootstrap confidence intervals entirely above zero. The gains are spatially widespread but quantitatively modest, with a mean paired MAE gain of 0.0078 m s⁻¹. The PDI contribution is strongest where more filtered pressure neighbours are available (Spearman rho = 0.54, p < 10⁻⁷⁰). However, holdout-based climatological diagnostics show systematic underestimation of monthly wind-speed climatology and the upper tail. ML-PHYS is therefore best interpreted as a statistically robust and physically interpretable refinement for sensor-level wind gaps for which pressure information remains available, rather than as a complete solution for climatological or extreme-wind reconstruction."
     },
     {
       "id": "W7238870174",
@@ -169,7 +237,7 @@
       "openAlexUrl": "https://openalex.org/W7238870174",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 60,
+      "score": 58,
       "matchedKeywords": [
         "machine learning"
       ],
@@ -193,7 +261,7 @@
       "openAlexUrl": "https://openalex.org/W7239730393",
       "topic": "east-asia",
       "topicLabel": "东亚气候",
-      "score": 59,
+      "score": 57,
       "matchedKeywords": [
         "yangtze",
         "plateau"
@@ -213,77 +281,12 @@
       "openAlexUrl": "https://openalex.org/W7237330531",
       "topic": "ai-climate",
       "topicLabel": "AI × 气候",
-      "score": 57,
+      "score": 56,
       "matchedKeywords": [
         "causal"
       ],
       "whyRelevantZh": "归入“AI × 气候”：标题或摘要命中 causal、climate、heatwave、drought，并通过气候领域与主题关键词双重筛选。",
       "abstractEn": "This dissertation examines the extent and implications of historical changes in landscape heterogeneity in Europe. Landscape heterogeneity is conceptualized as the combination of two complementary dimensions: landscape composition, referring to the relative abundance of different land use and land cover types, and landscape configuration, i.e. their spatial arrangement. Both dimensions can critically influence biophysical processes such as energy and water cycles, which underpin ecosystem functions and affect agricultural production. The dissertation is organized around three themes: (1) the extent and climate relevance of historical changes in landscape heterogeneity, (2) the underlying biophysical processes associated with these changes, and (3) their implications for agricultural systems. The first theme quantifies recent, widespread trajectories of change in landscape composition and configuration across Europe and assesses their potential influence on bioclimatic variables. The second theme focuses specifically on changes in landscape configuration and examines the biophysical processes through which forest fragmentation affects local temperatures. The third theme applies an agricultural economics perspective to a case study in Germany, investigating the causal effects of historical variations in landscape heterogeneity on grassland ecosystems during a severe compound drought and heatwave event. Overall, this dissertation contributes with novel evidence on the importance of accounting for both landscape composition and configuration in climate adaptation and mitigation strategies. It identifies deforestation trajectories as the primary compositional factor and forest fragmentation as the primary configurational factor affecting the ecosystem's climate-regulation functioning. Conversely, higher landscape heterogeneity in agricultural landscapes emerges as a potentially effective mitigation strategy against extreme hydrometeorological events."
-    },
-    {
-      "id": "W7236853890",
-      "title": "Evaluation of reanalysis datasets for studying high-elevation meteorological conditions in the Langtang Catchment, Nepal",
-      "authors": [
-        "Gunjan Silwal",
-        "Bethan J. Davies",
-        "Rachel Joanne Carr",
-        "Owen King",
-        "Sammie Buzzard"
-      ],
-      "journal": "Frontiers in Earth Science",
-      "publicationDate": "2026-11-19",
-      "doi": "https://doi.org/10.3389/feart.2026.1950767",
-      "openAlexUrl": "https://openalex.org/W7236853890",
-      "topic": "tibetan-plateau",
-      "topicLabel": "青藏高原",
-      "score": 57,
-      "matchedKeywords": [
-        "precipitation",
-        "high mountain asia"
-      ],
-      "whyRelevantZh": "归入“青藏高原”：标题或摘要命中 high mountain asia、climate、atmospher、precipitation、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Climate reanalysis datasets are widely used in hydro-meteorological and cryospheric research across High Mountain Asia (HMA), where in situ observations are scarce. Here, we evaluate ERA5L, High Asian Refined Analysis (HARv2), Modern-Era Retrospective Analysis for Research and Applications (MERRA2), and Climatologies at High Resolution for the Earth’s Land Surface Areas (CHELSA) against near-surface meteorological observations between 3,865 and 5,350 m a.s.l., in the upper Langtang Catchment, Nepal, using statistical metrics and Taylor Skill Score (TSS). We further assess their suitability for glacier surface energy balance (SEB) and mass balance modelling. No reanalysis product consistently outperforms the others; rather, their performance varies by meteorological variable, site, surface conditions, and timescale, with generally better performance at glacier sites, likely because their relatively homogeneous surface conditions are more readily represented by reanalysis products. Near-surface air temperature (T 2m) and humidity (specific: q and relative: RH) are well reproduced (TSS > 0.77) across products, although cold temperature and both dry and moist humidity biases are pervasive across sites. Wind speed (u) is poorly represented across products, sites, and timescales, reflecting their limited ability to resolve boundary layer processes and local katabatic and anabatic flows. Precipitation also exhibits large discrepancies, with ERA5L and HARv2 overestimating precipitation totals by ∼89–232% and MERRA2 and CHELSA underestimating by 30%–60%. They also generate frequent wet days and early-afternoon convective rainfall, in contrast to observed late-afternoon and nocturnal-to-early morning maxima. Hourly and daily SEB simulations at the Yala-on-Glacier site driven by reanalysis forcings yield statistically significant surface melt relative to reference estimates driven by in situ datasets; however, substantial differences in magnitude exist among products. ERA5L and HARv2 exhibit relatively small errors, largely due to compensating errors between radiative and turbulent fluxes, whereas MERRA2 and CHELSA show larger melt discrepancies due to their large radiative flux errors and underestimated precipitation that affects the surface albedo. Overall, our results underscore both the usefulness and limitations of reanalysis products for cryospheric applications in complex mountainous catchments and emphasize the need for assimilation of high-elevation observations in reanalysis products, alongside improved downscaling approaches, to better resolve local-scale atmospheric processes."
-    },
-    {
-      "id": "W7238757246",
-      "title": "Beyond a Single Southern Annular Mode Pattern: Identifying Southern Hemisphere Circulation Classes With a Convolutional Autoencoder",
-      "authors": [
-        "Maia Posternack",
-        "Kirstin Koepnick"
-      ],
-      "journal": "Journal of Geophysical Research Machine Learning and Computation",
-      "publicationDate": "2026-11-23",
-      "doi": "https://doi.org/10.1029/2026jh001492",
-      "openAlexUrl": "https://openalex.org/W7238757246",
-      "topic": "polar",
-      "topicLabel": "极地气候",
-      "score": 53,
-      "matchedKeywords": [
-        "southern annular mode"
-      ],
-      "whyRelevantZh": "归入“极地气候”：标题或摘要命中 southern annular mode、atmospher、circulation，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "The Southern Annular Mode (SAM), the dominant mode of extratropical atmospheric variability in the Southern Hemisphere (SH), is conventionally represented as a single empirical orthogonal function (EOF) whose polarity and amplitude vary over time. Although highly informative, this framework favors high‐variance patterns and therefore may obscure differences among circulation patterns with similar SAM polarity. Here, we combine a convolutional autoencoder with hierarchical clustering of ERA5 monthly mean sea level pressure anomalies to develop a class‐based representation of SH circulation that does not prioritize such high‐variance patterns. Across 10 random initializations, the framework consistently identifies coherent SAM+ and higher‐amplitude SAM− classes. In nine of the 10 initializations, it also identifies a more frequently occupied, lower‐amplitude SAM− like class. This class is strongly correlated with empirical orthogonal function in the SAM− direction and differs significantly from zero over much of the domain, but is substantially more regionally asymmetric than the higher‐amplitude, strongly annular SAM− class. Transitions between the two SAM− like classes tend to occur more often than expected from their overall frequencies, although this enrichment is not statistically significant, whereas direct transitions between higher‐amplitude SAM− and SAM+ occur less often than expected. Seasonal analyses further reveal lower‐amplitude, non‐annular structures whose frequency and form vary throughout the year. These results suggest that SAM− variability may comprise both higher‐amplitude annular events and lower‐amplitude, regionally asymmetric events. The autoencoder framework therefore complements the conventional SAM index by distinguishing differences in amplitude, spatial structure, and temporal organization that are compressed within a single EOF pattern."
-    },
-    {
-      "id": "W7236187763",
-      "title": "Predicting the impact of climate change on the climatic suitability for Ziziphus jujuba in China",
-      "authors": [
-        "Zhimeng Zhao",
-        "Jin Zhang",
-        "Xu Wu"
-      ],
-      "journal": "PLoS ONE",
-      "publicationDate": "2026-11-18",
-      "doi": "https://doi.org/10.1371/journal.pone.0361803",
-      "openAlexUrl": "https://openalex.org/W7236187763",
-      "topic": "east-asia",
-      "topicLabel": "东亚气候",
-      "score": 51,
-      "matchedKeywords": [
-        "precipitation"
-      ],
-      "whyRelevantZh": "归入“东亚气候”：标题或摘要命中 precipitation、climate、temperature，并通过气候领域与主题关键词双重筛选。",
-      "abstractEn": "Ziziphus jujuba Mill. is an economically valuable tree species in China, and its climatically suitable range is sensitive to future climate risks, with implications for biological resource conservation. Species occurrence records and bioclimatic variables were integrated, and a parameter-tuned MaxEnt model was employed to forecast the potential climatic suitability for Z. jujuba in China under three shared socioeconomic pathways (SSP1-2.6, SSP3-7.0, and SSP5-8.5). The adjusted model exhibited excellent predictive performance (AUC = 0.947). Annual mean temperature, precipitation seasonality, and temperature seasonality were identified as the dominant climatic drivers. Currently, highly suitable areas (8.84% of total suitable area) are concentrated in the Bohai Rim region. Under future scenarios, although the total climatically suitable area expands across all pathways, its spatial pattern undergoes significant reorganization: contraction in southeastern margins, expansion into northwestern inland regions, and relative stability in the core area. The centroid is projected to shift continuously northwestward, with a maximum cumulative migration of 504.67 km under SSP5-8.5. Future planning must prioritize the risk of declining suitability in traditional southeastern production areas and carefully assess the practical feasibility of potential expansion zones in the northwest. These findings provide a scientific basis for climate-adaptive management of Z. jujuba resources."
     }
   ]
 }
